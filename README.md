@@ -1,7 +1,7 @@
 # Locale String Converter (LSC) - M2 Tool (M2LSC)
 Converts locale_string.txt from client to server.
 
-# Supported Languages
+## Supported Languages
 | LOCALE NAME | COUNTRY NAME |
 | ------------- | ------------- |
 ae | United Arab Emirates
