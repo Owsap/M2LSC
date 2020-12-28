@@ -1,0 +1,4934 @@
+"Àá½ÃÈÄ ¸ğµÎ ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
+"1";
+
+"[Guild] This action is not possible during a war.";
+"10";
+
+"You need a Reincarnation item to revive instantly.";
+"100";
+
+"TEST : È²±İµÎ²¨ºñ¸¦ ±¹°í·Î È¯¿øÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1000";
+
+"<±æµå> ·¡´õ Á¡¼ö°¡ %d Á¡ÀÌ µÇ¾ú½À´Ï´Ù";
+"1001";
+
+"ÀÌ ¾ÆÀÌÅÛÀº °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1002";
+
+"¹«·á °³·® ±âÈ¸´Â 20 ÀÌÇÏÀÇ ¹«±â¸¸ °¡´ÉÇÕ´Ï´Ù";
+"1003";
+
+"±ºÁ÷ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1004";
+
+"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1005";
+
+"»ç¿ë¹ı: transfer <name>";
+"1006";
+
+"±ºÁÖ¸¸ÀÌ »ç¿ë °¡´ÉÇÑ ±â´ÉÀÔ´Ï´Ù";
+"1007";
+
+"´Ù¸¥ Á¦±¹ À¯Àú´Â ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1008";
+
+"%s ´ÔÀº %d Ã¤³Î¿¡ Á¢¼Ó Áß ÀÔ´Ï´Ù. (ÇöÀç Ã¤³Î: %d)";
+"1009";
+
+"The Combat Zone is now open.";
+"101";
+
+"%s ´ÔÀ» ¼ÒÈ¯ÇÏ¿´½À´Ï´Ù.";
+"1010";
+
+"ÀÔ·ÂÇÏ½Å ÀÌ¸§À» °¡Áø »ç¿ëÀÚ°¡ ¾ø½À´Ï´Ù.";
+"1011";
+
+"ÀÚ½ÅÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1012";
+
+"°³·®µÈ ÈÄ ¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
+"1013";
+
+"Ã¢°í,°Å·¡Ã¢µîÀÌ ¿­¸° »óÅÂ¿¡¼­´Â °³·®À» ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
+"1014";
+
+"%sÀÇ ±ºÁÖ°¡ %s ´ÔÀ¸·Î ±³Ã¼µÇ¾ú½À´Ï´Ù.";
+"1015";
+
+"%s¿¡¼­ ºÀÈ­¸¦ µÑ·¯½Î°í ÀüÅõ°¡ ÁøÇàÁßÀÔ´Ï´Ù.";
+"1016";
+
+"%sÀÌ ¼ö¼º¿¡ ¼º°øÇß½À´Ï´Ù.";
+"1017";
+
+"Áö±İºÎÅÍ %sÀº 30ºĞ°£ ºÀÈ­¸¦ ÆÄ±«ÇÏ¿© º¸»óÀ» È¹µæ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"1018";
+
+"The Combat Zone is now closed.";
+"102";
+
+"%s¿¡ ÀüÀïÀÇ ½ÃÀÛÀ» ¾Ë¸®´Â ºÀÈ­°¡ ³ªÅ¸³µ½À´Ï´Ù.";
+"1020";
+
+"%sÀÌ ºÀÈ­¸¦ ÆÄ±«Çß½À´Ï´Ù.";
+"1021";
+
+"%sÀÌ ¼ö¼º¿¡ ½ÇÆĞÇÏ¿© ÀüÀï¿¡ ÆĞ¹èÇÏ¿´½À´Ï´Ù..";
+"1022";
+
+"%sÀÌ ¸ğµç ºÀÈ­¸¦ ÆÄ±«ÇÏ¿´½À´Ï´Ù.";
+"1023";
+
+"°³·®À» ÇÏ±â À§ÇÑ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"1024";
+
+"°©¿ÊÀ» ¹ş¾î¾ß °³ÀÎ »óÁ¡À» ¿­ ¼ö ÀÖ½À´Ï´Ù.";
+"1025";
+
+"¸»À» Åº »óÅÂ¿¡¼­ ¿¹º¹À» ÀÔÀ» ¼ö ¾ø½À´Ï´Ù.";
+"1026";
+
+"%sÀÌ ÇÊ¿äÇÕ´Ï´Ù.";
+"1027";
+
+"%d ½Ã°£ %d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"1028";
+
+"%d ½Ã°£ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"1029";
+
+"The Combat Zone will open in %d minute(s).";
+"103";
+
+"%d ºĞ %d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"1030";
+
+"µ· ´ë¹ÚÀÌ ³ª¿Ã È®·ü";
+"1031";
+
+"»©³¾ ¿µ¼®ÀÌ ¾ø½À´Ï´Ù";
+"1032";
+
+"¾ÆÁ÷ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1033";
+
+"Å×½ºÆ® ¼­¹ö ½Ã°£Á¦ÇÑ Åë°ú";
+"1034";
+
+"°³·®À» ÇÏ±â À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
+"1035";
+
+"¼±¾ÇÄ¡¸¦ ´õ ÀÌ»ó ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.";
+"1036";
+
+"ÀüÁ¦±¹";
+"1037";
+
+"¾ÆÀÌÅÛÀÌ ³ª¿Ã È®·ü";
+"1038";
+
+"µ·ÀÌ ³ª¿Ã È®·ü";
+"1039";
+
+"The Combat Zone will close in %d minute(s).";
+"104";
+
+"°æÇèÄ¡ ¹èÀ²";
+"1040";
+
+"º¯½ÅÁß¿¡´Â Ã¥À» ÀĞÀ»¼ö ¾ø½À´Ï´Ù.";
+"1041";
+
+"%d ÃÊ µ¿¾È Ã¤ÆÃ±İÁö »óÅÂÀÔ´Ï´Ù";
+"1042";
+
+"¸»À» Åº »óÅÂ¿¡¼­ °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1043";
+
+"¸»À» Åº »ó´ë¿Í °¨Á¤Ç¥ÇöÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1044";
+
+"ÀÌ °³·®¼­·Î ´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1045";
+
+"%s´ÔÀÌ ÁÖ»çÀ§¸¦ ±¼·Á %d°¡ ³ª¿Ô½À´Ï´Ù. (%d-%d)";
+"1046";
+
+"´ç½ÅÀÌ ÁÖ»çÀ§¸¦ ±¼·Á %d°¡ ³ª¿Ô½À´Ï´Ù. (%d-%d)";
+"1047";
+
+"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµåÀåÀÌ Á¢¼ÓÁßÀÌ ¾Æ´Õ´Ï´Ù.";
+"1048";
+
+"¾²·¯Áø »óÅÂ¿¡¼­´Â ¸»¿¡ Å» ¼ö ¾ø½À´Ï´Ù.";
+"1049";
+
+"An event is running and you will receive double points.";
+"105";
+
+"<±æµå> ÇöÀç ±æµå°¡ ÀüÀï Áß ÀÔ´Ï´Ù.";
+"1050";
+
+"³¬½Ã¸¦ ÇÒ ¼ö ÀÖ´Â °÷ÀÌ ¾Æ´Õ´Ï´Ù";
+"1051";
+
+"<±æµå> ±æµå°¡ ÀÌ¹Ì ÃÖ°í ·¹º§ÀÔ´Ï´Ù.";
+"1052";
+
+"µĞ°©ÇÒ ¼ö ¾ø´Â »óÅÂÀÔ´Ï´Ù.";
+"1053";
+
+"ÀÌ¹Ì Å»°ÍÀ» ÀÌ¿ëÁßÀÔ´Ï´Ù.";
+"1054";
+
+"»ó´ë¹æÀÌ Ä£±¸ Ãß°¡¸¦ ¹ŞÀ» ¼ö ¾ø´Â »óÅÂÀÔ´Ï´Ù.";
+"1055";
+
+"ÀÌ °³·®¼­·Î °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1056";
+
+"¶³¾îÁø ¾ÆÀÌÅÛÀº %dºĞ ÈÄ »ç¶óÁı´Ï´Ù.";
+"1057";
+
+"<±æµå> »ó´ë¹æÀÌ ÃÊ´ë ½ÅÃ»À» ¹ŞÀ» ¼ö ¾ø´Â »óÅÂÀÔ´Ï´Ù.";
+"1058";
+
+"Âø¿ë ÁßÀÎ ¾ÆÀÌÅÛÀº ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1059";
+
+"The event in the Combat Zone has finished.";
+"106";
+
+"ÀåºñÁßÀÎ ¾ÆÀÌÅÛÀº °³ÀÎ»óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1060";
+
+"<Ã¢°í> Ã¢°í·Î ¿Å±æ ¼ö ¾ø´Â ¾ÆÀÌÅÛ ÀÔ´Ï´Ù.";
+"1061";
+
+"¾ÆÁ÷ °ñµå¸¦ ¹ö¸± ¼ö ¾ø½À´Ï´Ù.";
+"1062";
+
+"ÀÎº¥Åä¸®°¡ ²Ë Â÷¼­ ³»¸± ¼ö ¾ø½À´Ï´Ù.";
+"1063";
+
+"Àû¿ë ·¹º§º¸´Ù ³ô¾Æ »ç¿ëÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.";
+"1064";
+
+"¹«±â¿Í °©¿Ê¿¡¸¸ »ç¿ë °¡´ÉÇÕ´Ï´Ù.";
+"1065";
+
+"ÃæÀüÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1066";
+
+"»ç±Í Å¸¿ö ¿Ï·á º¸»óÀº ÇÑ¹ø±îÁö »ç¿ë°¡´ÉÇÕ´Ï´Ù.";
+"1067";
+
+"¿ëÈ¥¼® ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"1068";
+
+"°­È­Ã¢À» ¿¬ »óÅÂ¿¡¼­´Â ¾ÆÀÌÅÛÀ» ¿Å±æ ¼ö ¾ø½À´Ï´Ù.";
+"1069";
+
+"You have announced your withdrawal from the Combat Zone and can leave in %d minutes.";
+"107";
+
+"Á¦Á¶¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"1070";
+
+"°¨Áö±â¸¦ ÀÛ¿ëÇÏ¿´À¸³ª °¨ÁöµÇ´Â ¿µ¼®ÀÌ ¾ø½À´Ï´Ù.";
+"1071";
+
+"¿ë½É ÃßÃâ¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"1072";
+
+"¿ë½É ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"1073";
+
+"¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿© %s¸¦ ¾ò¾ú½À´Ï´Ù.";
+"1074";
+
+"¿ëÈ¥¼® ÃßÃâ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"1075";
+
+"µî±Ş °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
+"1076";
+
+"ÀÌ ¾ÆÀÌÅÛÀº ÀÌ ¹æ½ÄÀ¸·Î´Â °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1077";
+
+"´Ü°è °³·®¿¡ ¼º°øÇß½À´Ï´Ù.";
+"1078";
+
+"µî±Ş °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
+"1079";
+
+"A player has announced their withdrawal. Kill them to earn more points!";
+"108";
+
+"´Ü°è °³·®¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
+"1080";
+
+"´Ü°è °³·®ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
+"1081";
+
+"µî±Ş °³·®¿¡ ¼º°øÇß½À´Ï´Ù.";
+"1082";
+
+"´Ü°è °³·®¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
+"1083";
+
+"°­È­¿¡ ÇÊ¿äÇÑ Àç·á°¡ ¾Æ´Õ´Ï´Ù.";
+"1084";
+
+"°­È­ÇÒ ¼ö ¾ø´Â ¿ëÈ¥¼®ÀÔ´Ï´Ù.";
+"1085";
+
+"°°Àº °³·®¼­¸¦ ÇÕÄ¥ ¼ö´Â ¾ø½À´Ï´Ù.";
+"1086";
+
+"°­È­¿¡ ¼º°øÇß½À´Ï´Ù.";
+"1087";
+
+"°­È­¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
+"1088";
+
+"¿ëÈ¥¼® »óÀÚ°¡ È°¼ºÈ­µÇÁö ¾Ê¾Ò½À´Ï´Ù.";
+"1089";
+
+"Your withdrawal announcement was cancelled.";
+"109";
+
+"ÀÌ¹Ì °°Àº Á¾·ùÀÇ ¿ëÈ¥¼®À» Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.";
+"1090";
+
+"Âø¿ë ÁßÀÎ ¿ëÈ¥¼®Àº ÃßÃâÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1091";
+
+"ÀÌ¹Ì Àåºñ¸¦ Âø¿ëÇÏ°í ÀÖ½À´Ï´Ù.";
+"1092";
+
+"%dÃÊ ¸¸Å­ ÃæÀüµÇ¾ú½À´Ï´Ù.";
+"1093";
+
+"¸ÕÀú ¿ëÈ¥¼® Äù½ºÆ®¸¦ ¿Ï·áÇÏ¼Å¾ß ÇÕ´Ï´Ù.";
+"1094";
+
+"You can only discard the belt when there are no longer any items in its inventory.";
+"1095";
+
+"Ãàº¹ÀÇ ¼­¿Í ÇöÃ¶À» ÇÕÄ¥ ¼ö ÀÖ½À´Ï´Ù.";
+"1096";
+
+"ÀÌ ¾ÆÀÌÅÛÀº º§Æ® ÀÎº¥Åä¸®·Î ¿Å±æ ¼ö ¾ø½À´Ï´Ù.";
+"1097";
+
+"You cannot ride in this dungeon.";
+"1098";
+
+"You can use a maximum of 200 ingredients at once.";
+"1099";
+
+"[Guild] Cannot be upgraded as the guild bank is full.";
+"11";
+
+"»óÇ°À» ¹ŞÀ» ÀÎº¥Åä¸®°¡ ºÎÁ·ÇÕ´Ï´Ù. ÀÎº¥Åä¸®¸¦ ºñ¿öÁÖ¼¼¿ä!";
+"110";
+
+"You cannot sell soulbound items in a private shop.";
+"1100";
+
+"You cannot change the attributes of a soulbound item.";
+"1101";
+
+"You cannot use a soulbound item.";
+"1102";
+
+"You cannot drop a soulbound item.";
+"1103";
+
+"You cannot give away a soulbound item.";
+"1104";
+
+"You cannot soulbind items on this server.";
+"1105";
+
+"You cannot bind this item to your soul.";
+"1106";
+
+"%d ³ÉÀ» ÅõÀÚÇÏ¼Ì½À´Ï´Ù.";
+"1107";
+
+"»©³¾ ¼ö ÀÖ´Â ¸ŞÆ¾¼®ÀÌ ¾ø½À´Ï´Ù.";
+"1108";
+
+"This item is already soulbound.";
+"1109";
+
+"ÀÌ ¾ÆÀÌÅÛÀº PC¹æ¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"111";
+
+"The soulbind on this item is already in the process of being removed.";
+"1110";
+
+"This item is not soulbound.";
+"1111";
+
+"You cannot improve a soulbound item.";
+"1112";
+
+"You cannot sell a soulbound item.";
+"1113";
+
+"You cannot open this chest because you do not have enough space in your inventory.";
+"1114";
+
+"You cannot open a private shop while you are trading with others.";
+"1115";
+
+"You cannot use this item while you are trading.";
+"1116";
+
+"You cannot use a Scroll of the Location while the window for the Shoulder Sash is open.";
+"1117";
+
+"You cannot trade while another window is open.";
+"1118";
+
+"±â¾ïÇØ µÑ ¼ö ¾ø´Â À§Ä¡ ÀÔ´Ï´Ù.";
+"1119";
+
+"Your withdrawal announcement is active.";
+"112";
+
+"You can only use Shoulder Sashes as well as weapons and armour pieces.";
+"1120";
+
+"Drag the items into the window.";
+"1121";
+
+"This has already been customised.";
+"1122";
+
+"The sash cannot take on any further bonuses.";
+"1123";
+
+"You can only use Shoulder Sashes.";
+"1124";
+
+"These sashes cannot be combined.";
+"1125";
+
+"Failed!";
+"1126";
+
+"Success!";
+"1127";
+
+"You do not have enough money for the combination.";
+"1128";
+
+"You cannot use this item while the windows for absorption and combination are open.";
+"1129";
+
+"You cannot enter the Combat Zone at the moment.";
+"113";
+
+"¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
+"1130";
+
+"%s was successful! A %d%% absorption rate on their new %s. Congratulations!";
+"1131";
+
+"You cannot use any soulbound items.";
+"1132";
+
+"You cannot sell items you are currently using in a private shop.";
+"1133";
+
+"You cannot use this bundle whilst riding.";
+"1134";
+
+"Time's up. First round over.";
+"1135";
+
+"Time's up. Second round over.";
+"1136";
+
+"Time remaining to finish first round: %d minutes.";
+"1137";
+
+"Time remaining to finish second round: %d minutes.";
+"1138";
+
+"Safe zone has now been deactivated.";
+"1139";
+
+"Well done! For reaching rank %d in the Combat Zone rankings, you will be rewarded a special accolade.";
+"114";
+
+"Time remaining until safe zone is deactivated: %d minutes.";
+"1140";
+
+"±â¾ïµÈ À§Ä¡°¡ Å¸Á¦±¹¿¡ ¼ÓÇØ ÀÖ¾î¼­ ±ÍÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1141";
+
+"The answer will appear in 20 seconds.";
+"1142";
+
+"In 15 sec. everyone who gave an incorrect answer will be removed.";
+"1143";
+
+"Your level is too low to summon the pet.";
+"1144";
+
+"You have summoned %s.";
+"1146";
+
+"You have dismissed %s.";
+"1147";
+
+"%s has reached level %d!";
+"1148";
+
+"%s is currently fast asleep.";
+"1149";
+
+"You currently have %d point(s). Your total score is %d.";
+"115";
+
+"%s has hatched!";
+"1150";
+
+"Your pet enthusiastically tucks into the Protein Snack.";
+"1151";
+
+"³²Àº »ı¸í·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1152";
+
+"%s wakes up and dives into the tasty meal.";
+"1153";
+
+"%s is now in a Transport Box.";
+"1154";
+
+"%s emerges from the Transport Box.";
+"1155";
+
+"%s has evolved to %s! Excellent!";
+"1156";
+
+"%s refuses to eat anything!";
+"1157";
+
+"The event has ended as none of the kingdoms entered.";
+"1158";
+
+"You have transferred the bonuses successfully.";
+"1159";
+
+"You cannot use this item during your withdrawal from the Combat Zone.";
+"116";
+
+"You don't have enough Yang to trade books with me.";
+"1160";
+
+"Please enter another name.";
+"1161";
+
+"³²Àº Á¤½Å·Â ¾çÀÌ ¸ğÀÚ¶ó »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"1162";
+
+"You cannot trade whilst your partner's Incubator is open.";
+"1163";
+
+"You cannot use the Incubator whilst trading or whilst you have your storeroom or private shop open.";
+"1164";
+
+"You cannot open a private shop whilst summoning your pet.";
+"1165";
+
+"You cannot trade whilst summoning your pet.";
+"1166";
+
+"You cannot trade whilst your partner is summoning their pet.";
+"1167";
+
+"Your pet has gathered enough experience. It now requires Item EXP to reach the next stage of evolution.";
+"1168";
+
+"Your pet is ready to evolve. Use Pet Books to achieve this.";
+"1169";
+
+"You cannot declare wars in the Combat Zone.";
+"117";
+
+"Your pet has already reached the highest stage of evolution.";
+"1170";
+
+"The name entered is too short.";
+"1171";
+
+"%d ÃÊÈÄ ¸ñÀûÁö·Î ÀÌµ¿µË´Ï´Ù.";
+"1172";
+
+"You do not have enough Yang.";
+"1173";
+
+"You've taught your pet well! It's quickly learning its new skills!";
+"1174";
+
+"Experience has increased to %d points.";
+"1175";
+
+"Your pet has already learnt this skill and refuses to practice it again.";
+"1176";
+
+"%s skill activated. HP restored by %d.";
+"1177";
+
+"Acquire the Valiant Pet Book for your pet's hero training.";
+"1178";
+
+"Your pet must be level %d to train and promote it to the next stage of evolution.";
+"1179";
+
+"This action is not possible on this map.";
+"118";
+
+"Your pet must be %d days old to train and promote it to the next stage of evolution.";
+"1180";
+
+"Your pet must have 100% experience to train and promote it to the next stage of evolution.";
+"1181";
+
+"%s effect activated.";
+"1182";
+
+"¾ÆÀÌÅÛÀÇ ·¹º§ Á¦ÇÑº¸´Ù ·¹º§ÀÌ ³·½À´Ï´Ù.";
+"1183";
+
+"%s effect not activated.";
+"1184";
+
+"%s skill activated. You will now receive no damage.";
+"1185";
+
+"%s skill activated. Slow, poison and bleeding effects were removed.";
+"1186";
+
+"You receive your bonuses.";
+"1187";
+
+"The window is already open.";
+"1188";
+
+"Magic penetration of %d%%.";
+"1189";
+
+"Remaining number: %d";
+"119";
+
+"%s recovers from the exhaustion.";
+"1190";
+
+"You cannot use the item here.";
+"1191";
+
+"You cannot summon your pet whilst trading.";
+"1192";
+
+"You cannot open a private shop.";
+"1193";
+
+"¿ùº´,Á¾ÀÚ »ç¿ëÈÄ 5ÃÊµ¿¾È »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
+"1194";
+
+"%s is insufficient. You need %d for the next stage of evolution.";
+"1195";
+
+"The pet's level cannot be higher than the player's.";
+"1196";
+
+"the level Young";
+"1197";
+
+"the level Wild";
+"1198";
+
+"the level Valiant";
+"1199";
+
+"[Guild] You cannot use the Guild Warehouse whilst a vote is in progress.";
+"12";
+
+"[Guild] The guild's treasury has reached the maximum.";
+"120";
+
+"the level Heroic";
+"1200";
+
+"@*** Rolling for the following item: %s ***";
+"1201";
+
+"@*** ->%*s - Dice score: %4d ***";
+"1202";
+
+"$*** Winner of the item %s is: %s ***";
+"1203";
+
+"New absorption rate: %d";
+"1204";
+
+"´ë·Ã Áß¿¡´Â ÀÌ¿ëÇÒ ¼ö ¾ø´Â ¹°Ç°ÀÔ´Ï´Ù.";
+"1205";
+
+"Maximum absorption rate reached.";
+"1206";
+
+"You have already learned this skill.";
+"1207";
+
+"There are no items matching your search.";
+"1208";
+
+"Enough Pumpkin Lanterns have been collected.";
+"1209";
+
+"[Guild] You cannot withdraw any Yang as you have more than 2 billion Yang.";
+"121";
+
+"Ask Sam Pumpkin if you've earned a reward.";
+"1210";
+
+"The Halloween Event has begun!";
+"1211";
+
+"Go and talk to Sam Pumpkin!";
+"1212";
+
+"The Halloween Event has finished. Don't forget to collect your rewards!";
+"1213";
+
+"Delivered Pumpkin Lanterns: %d";
+"1214";
+
+"Total Pumpkin Lanterns: %d";
+"1215";
+
+"%d ³ÉÀ» È¹µæÇÏ¼Ì½À´Ï´Ù.";
+"1216";
+
+"¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø´Â ÁöÁ¡ÀÔ´Ï´Ù.";
+"1217";
+
+"This player is already trading with someone else.";
+"1218";
+
+"You need to equip a weapon first.";
+"1219";
+
+"»ç¿ë Á¦ÇÑ·®À» ÃÊ°úÇÏ¿´½À´Ï´Ù.";
+"122";
+
+"You cannot use this costume for this weapon.";
+"1220";
+
+"If you want to change weapons, you must remove the weapon skin first.";
+"1221";
+
+"You don't have enough Yang to start a game of okey.";
+"1222";
+
+"You don't have an %s to start a game of okey.";
+"1223";
+
+"Your game of okey has started!";
+"1224";
+
+"You cannot draw any more cards.";
+"1225";
+
+"You cannot discard cards when you have already selected some.";
+"1226";
+
+"You cannot draw any more cards when you have already selected some.";
+"1227";
+
+"¹° ¼Ó¿¡ ¸ğ´ÚºÒÀ» ÇÇ¿ï ¼ö ¾ø½À´Ï´Ù.";
+"1228";
+
+"Your inventory is full.";
+"1229";
+
+"[Guild] You cannot withdraw Yang while another window is open.";
+"123";
+
+"You can only receive your prize once you have made space in your inventory.";
+"1230";
+
+"%s earned %d points in a game of okey.";
+"1231";
+
+"You cannot start a game of okey while trading.";
+"1232";
+
+"The Okey Event has started!";
+"1233";
+
+"The Okey Event is over!";
+"1234";
+
+"[Okey Event] If you make it into the top rankings, you have 7 days to collect your prize.";
+"1235";
+
+"You cannot do this whilst playing okey.";
+"1236";
+
+"¿­¼è·Î Àá°Ü ÀÖ¾î¼­ ¿­¸®Áö ¾Ê´Â°Í °°´Ù. ¿­¼è¸¦ ±¸ÇØº¸ÀÚ.";
+"1237";
+
+"The Ritual Stone only works with items above level 80.";
+"1238";
+
+"You cannot trade, because the maximum number of %d Won was exceeded.";
+"1239";
+
+"The guild war declaration expires in 3 minutes.";
+"124";
+
+"You don't have enough Yang.";
+"1240";
+
+"You don't have enough Won.";
+"1241";
+
+"You cannot exchange as this would exceed the maximum amount of Won.";
+"1242";
+
+"You cannot exchange as this would exceed the maximum amount of Yang.";
+"1243";
+
+"You cannot open a private shop, as this would exceed the maximum amount of %d Won.";
+"1244";
+
+"You cannot expand your inventory while trading.";
+"1245";
+
+"The Okey Event has started!";
+"1246";
+
+"The Okey Event is over!";
+"1247";
+
+"¿­¼è·Î ¿©´Â ¹°°ÇÀÌ ¾Æ´Ñ°Í °°´Ù.";
+"1248";
+
+"Monsters have appeared in the Valley of Seungryong, Mount Sohan, Doyyumhwan and in the Yongbi Desert!";
+"1249";
+
+"Entering the Combat Zone in %d seconds.";
+"125";
+
+"Comb through the areas and eliminate them. Gather hit points and exchange them for chests.";
+"1250";
+
+"The Boss Reaper Event ends in %d minute(s).";
+"1251";
+
+"Mr B and the boss monsters disappear in %d minute(s).";
+"1252";
+
+"You have earned your daily target – collect your reward.";
+"1253";
+
+"You cannot make use of weapon skins while you are wearing a Wedding Dress or a Tuxedo.";
+"1254";
+
+"The other person is currently busy so you cannot trade right now.";
+"1255";
+
+"You cannot wear a Wedding Dress or a Tuxedo when you are already wearing a weapon skin.";
+"1256";
+
+"Round %d is starting";
+"1257";
+
+"¿­¼è´Â ¸ÂÀ¸³ª ¾ÆÀÌÅÛ ÁÖ´Â ºÎºĞ ±¸ÇöÀÌ ¾ÈµÇ¾ú½À´Ï´Ù.";
+"1258";
+
+"[Guild] You have already donated the maximum amount of EXP.";
+"1259";
+
+"Leaving the Combat Zone in %d seconds.";
+"126";
+
+"[Guild] Guild advertisement launched.";
+"1260";
+
+"[Guild] Guild advertisement extended.";
+"1261";
+
+"[Guild] The list is being updated. Please try again later.";
+"1262";
+
+"[Guild] No guild found.";
+"1263";
+
+"[Guild] You have already applied to this guild.";
+"1264";
+
+"[Guild] Your application has been registered.";
+"1265";
+
+"[Guild] Player %s has applied to join you.";
+"1266";
+
+"[Guild] The list is being updated. Please try again later.";
+"1267";
+
+"[Guild] No guild advertisements available.";
+"1268";
+
+"µ· %d ³ÉÀ» È¹µæÇß½À´Ï´Ù.";
+"1269";
+
+"You have lost %d points. Remaining points: %d";
+"127";
+
+"[Guild] No applications available.";
+"1270";
+
+"[Guild] The guild advertisement will run for %s.";
+"1271";
+
+"[Guild] Your guild advertisement will expire soon.";
+"1272";
+
+"[Guild] %d Yang received.";
+"1273";
+
+"[Guild] After deduction of %d%% taxes you receive %d Yang.";
+"1274";
+
+"[Guild] You cannot start a war whilst a vote is in progress.";
+"1275";
+
+"[Guild] You cannot disband the guild whilst a vote is in progress.";
+"1276";
+
+"[Guild] You cannot invite someone to the guild whilst a vote is in progress.";
+"1277";
+
+"[Guild] You can only construct one Guild Warehouse.";
+"1278";
+
+"»óÀÚ¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
+"1279";
+
+"Unfortunately you don't have enough space in your inventory.";
+"128";
+
+"[Guild] Please try again in 10 seconds.";
+"1280";
+
+"[Guild] Another guild member is currently using this.";
+"1281";
+
+"[Guild] There are still items in the Guild Warehouse.";
+"1282";
+
+"[Guild] You have voted against.";
+"1283";
+
+"[Guild] You have voted for.";
+"1284";
+
+"[Guild] The member is currently offline.";
+"1285";
+
+"[Guild] There are no votes in progress.";
+"1286";
+
+"[Guild] Starting 'Guild Leader Transfer' vote.";
+"1287";
+
+"[Guild] Starting 'Remove Member' vote.";
+"1288";
+
+"[Guild] Starting 'Guild Territory Sale' vote.";
+"1289";
+
+"You don't receive any points for this player.";
+"129";
+
+"%dÀÇ °æÇèÄ¡¸¦ È¹µæÇß½À´Ï´Ù.";
+"1290";
+
+"[Guild] Starting 'Guild Territory Abandonment' vote.";
+"1291";
+
+"[Guild] 'Guild Leader Transfer' vote in progress.";
+"1292";
+
+"[Guild] 'Remove Member' vote in progress.";
+"1293";
+
+"[Guild] 'Guild Territory Sale' vote in progress.";
+"1294";
+
+"[Guild] 'Guild Territory Abandonment' vote in progress.";
+"1295";
+
+"[Guild] The Guild Warehouse is currently in use.";
+"1296";
+
+"[Guild] You must wait 10 seconds before reopening the Guild Warehouse.";
+"1297";
+
+"[Guild] Your guild doesn't have a warehouse.";
+"1298";
+
+"»óÀÚ¿¡¼­ ¸ó½ºÅÍ°¡ ³ªÅ¸³µ½À´Ï´Ù!";
+"1299";
+
+"»óÀÚ¿¡¼­ ³ª¿Â ³ì»ö ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ µ¶ÀÌ ¿Â¸öÀ¸·Î ÆÛÁı´Ï´Ù!";
+"13";
+
+"You have announced your withdrawal from the Combat Zone and can leave in %d seconds.";
+"130";
+
+"[Guild] The vote relating to this player failed. Please try again in %d months, %d days, %d hours and %d minutes.";
+"1300";
+
+"[Guild] The guild member has been removed from the guild for inactivity.";
+"1301";
+
+"[Guild] You have taken part in the current vote.";
+"1302";
+
+"[Guild] You cannot start a vote for your own character.";
+"1303";
+
+"[Guild] You cannot start a vote during a war.";
+"1304";
+
+"[Guild] You cannot sell the guild territory to yourself.";
+"1305";
+
+"[Guild] This guild does not exist.";
+"1306";
+
+"[Guild] You cannot start a vote during a war.";
+"1307";
+
+"[Guild] The guild level is too low.";
+"1308";
+
+"[Guild] Your members rejected the last vote. Please try again in %d months, %d days, %d hours and %d minutes.";
+"1309";
+
+"The event has started!";
+"131";
+
+"»óÀÚ¿¡¼­ ³ª¿Â »¡°£ ¿¬±â¸¦ µéÀÌ¸¶½ÃÀÚ ¿òÁ÷ÀÌ´Â ¼Óµµ°¡ ´À·ÁÁ³½À´Ï´Ù!";
+"1310";
+
+"[Guild] You cannot start a vote during a war.";
+"1311";
+
+"[Guild] Your members rejected the last vote. Please try again in %d months, %d days, %d hours and %d minutes.";
+"1312";
+
+"[Guild] You must conduct a vote before selling your guild territory.";
+"1313";
+
+"[Guild] This guild is not the one entered in the guild territory sale vote.";
+"1314";
+
+"[Guild] Your members rejected the last vote to sell. Try again.";
+"1315";
+
+"[Guild] You cannot sell the guild territory to yourself.";
+"1316";
+
+"[Guild] The guild leader is offline or on another map.";
+"1317";
+
+"[Guild] The guild already owns guild territory.";
+"1318";
+
+"[Guild] No guild territory found.";
+"1319";
+
+"¿ùº´ ¶Ç´Â Á¾ÀÚ ¸¦ »ç¿ëÇÏ¿´½À´Ï´Ù";
+"132";
+
+"[Guild] The guild territory sale is complete.";
+"1320";
+
+"You can only use this item during the current event.";
+"1321";
+
+"An error has occurred. The bonuses could not be changed.";
+"1322";
+
+"You cannot summon your mount/pet right now.";
+"1323";
+
+"Remove %s from your friends list to continue.";
+"133";
+
+"You cannot use a sash with a bonus for the target.";
+"1330";
+
+"You cannot use a sash without a bonus as the source.";
+"1331";
+
+"You cannot transfer the bonus as the sashes have different absorption rates.";
+"1332";
+
+"You cannot transfer the bonus as the sashes have different grades.";
+"1333";
+
+"Failure! The absorption rate was reduced by 1%.";
+"1334";
+
+"Partial success! The absorption rate was reduced by 1%.";
+"1335";
+
+"Success! The bonus was transferred successfully.";
+"1336";
+
+"You cannot drop items during the bonus transfer.";
+"1337";
+
+"You cannot move items during the bonus transfer.";
+"1338";
+
+"You cannot sell items during the bonus transfer.";
+"1339";
+
+"%s is now blocked.";
+"134";
+
+"Not possible while transferring bonuses.";
+"1340";
+
+"This is not possible while the other player is transferring bonuses.";
+"1341";
+
+"To determine a pet's destiny you need a Pet Destiny Orb.";
+"1342";
+
+"Activate your pet first.";
+"1343";
+
+"While modifying your pet's stats, you cannot trade, sell items, use the storeroom etc.";
+"1344";
+
+"You cannot use items while modifying your pet's stats.";
+"1345";
+
+"You cannot drop items while modifying your pet's stats.";
+"1346";
+
+"You cannot move items while modifying your pet's stats.";
+"1347";
+
+"You cannot trade while your trading partner is modifying their pet's stats.";
+"1348";
+
+"You cannot speak with an NPC while modifying your pet's stats.";
+"1349";
+
+"%s is no longer blocked.";
+"135";
+
+"Your pet's stats have been modified.";
+"1350";
+
+"You can open it 3 seconds after closing the menu for modifying pet stats.";
+"1351";
+
+"All slots are occupied.";
+"1352";
+
+"%s is already being blocked.";
+"136";
+
+"You cannot block your spouse.";
+"137";
+
+"Unblock %s to continue.";
+"138";
+
+"%s has blocked you.";
+"139";
+
+"The player cannot accept your invitation at this time.";
+"1399";
+
+"[Guild] You cannot carry out this action whilst the Guild Warehouse is open.";
+"14";
+
+"The monster from the current event has appeared.";
+"140";
+
+"After using the Tincture of Kingdoms, you cannot accept invitations in this kingdom any more.";
+"1400";
+
+"%s's pet skill has been activated. %s uses Feather Walk.";
+"1401";
+
+"A name has already been registered.";
+"1403";
+
+"Please remove the equipped Dragon Stone before using this item.";
+"1404";
+
+"You cannot declare a guild war here.";
+"1405";
+
+"Reward";
+"1406";
+
+"Reward for rank %d";
+"1407";
+
+"The boss has been defeated! You will be teleported back to the Zodiac Temple shortly.";
+"1408";
+
+"Sadly you were unable to stop the Apocalypse. You will be teleported back to the Zodiac Temple shortly.";
+"1409";
+
+"You don't have enough Anniversary Flags.";
+"141";
+
+"You have entered the dungeon %s with difficulty %d. The battle starts in %d seconds.";
+"1410";
+
+"You cannot talk to NPCs while the Fortune Chest is open.";
+"1411";
+
+"You cannot use items while the Fortune Chest is open.";
+"1412";
+
+"You cannot drop items while the Fortune Chest is open.";
+"1413";
+
+"You cannot move items while the Fortune Chest is open.";
+"1414";
+
+"You cannot trade while the Fortune Chest is open.";
+"1415";
+
+"You cannot trade while your partner's Fortune Chest is open.";
+"1416";
+
+"You have entered the dungeon %s. The battle starts in %d seconds.";
+"1417";
+
+"The Zodiac Apocalypse is not currently active.";
+"1418";
+
+"The Zodiac Apocalypse has already started.";
+"1419";
+
+"The Anniversary Event has started!";
+"142";
+
+"Your Dragon Stone's bonus has been changed.";
+"1420";
+
+"[Catch the King] Defeat monsters to collect King Cards. You need 25 cards for a King Deck.";
+"1421";
+
+"[Catch the King] Loads of great prizes await!";
+"1422";
+
+"[Catch the King] If you make it into the top rankings, you'll receive your prize from the game table.";
+"1423";
+
+"You have received a storage bonus of %d%% EXP.";
+"1426";
+
+"You have received a storage bonus of %d defence.";
+"1427";
+
+"You have received a storage bonus of %d%% HP.";
+"1428";
+
+"You have received a storage bonus of %d%% strength against monsters.";
+"1429";
+
+"°áÈ¥ »óÅÂ°¡ ¾Æ´Ï¸é °áÈ¥¹İÁö¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"143";
+
+"Make sure you have enough space in your inventory before you go fishing.";
+"1430";
+
+"You cannot move items while the bonus change window is open.";
+"1431";
+
+"Unlucky, there was no treasure in the fish's belly.";
+"1432";
+
+"You cannot fish when your pet is hatched.";
+"1433";
+
+"You cannot fish while your pet is summoned.";
+"1434";
+
+"You cannot fish while the pet bonus change window is open.";
+"1435";
+
+"You cannot carry out this action while the window for combining or absorbing Shoulder Sashes is open.";
+"1436";
+
+"You cannot carry out this action while the Shoulder Sash bonus transfer window is open.";
+"1437";
+
+"You cannot carry out this action while the bonus transfer window is open.";
+"1438";
+
+"You cannot fish while other windows are open.";
+"1439";
+
+"The Anniversary Event ends in %d minute(s).";
+"144";
+
+"You cannot carry out this action while fishing.";
+"1440";
+
+"Remaining time: %.2f | Fish difficulty: %lu | Difficulty reduction: %d";
+"1441";
+
+"All Combat Zone rankings have been reset.";
+"1442";
+
+"Deliver equipped weapon skin.";
+"1443";
+
+"Your inventory is full.";
+"1444";
+
+"You cannot use this item while wearing another costume.";
+"145";
+
+"%s improvement failed.";
+"1450";
+
+"%s improvement successful.";
+"1451";
+
+"The Altar of Blood has appeared.";
+"1452";
+
+"You have captured a soul.";
+"1453";
+
+"[Ritual of Blood] You don't have enough space in your inventory.";
+"1454";
+
+"[Ritual of Blood] You don't have enough souls.";
+"1455";
+
+"[Ritual of Blood] You don't have enough Yang.";
+"1456";
+
+"The Ritual of Blood has started. Buy special items to get better rewards.";
+"1457";
+
+"The Ritual of Blood is over. Try again another time.";
+"1458";
+
+"Upgrade change failed.";
+"1459";
+
+"You cannot equip this item while wearing a Wedding Dress or a Tuxedo.";
+"146";
+
+"This item is only available in Meley’s Lair.";
+"1460";
+
+"The Compass was used, but the Guard wasn’t found.";
+"1461";
+
+"You cannot do this whilst carrying out another action.";
+"1462";
+
+"You cannot do this whilst carrying out another action.";
+"1463";
+
+"You cannot improve your weapon while your pet is summoned.";
+"1464";
+
+"You need %d perpendicular slots in your inventory to open the Chest.";
+"1465";
+
+"You don't have enough space in your inventory.";
+"1466";
+
+"[Storeroom] An item that is currently being used cannot be stored.";
+"1467";
+
+"[Aura] Does not work with soulbound items.";
+"1468";
+
+"[Aura] Does not work with an Aura Outfit onto which an item has already been transmitted.";
+"1469";
+
+"You cannot do this while the item is equipped.";
+"147";
+
+"[Aura] Your Aura Outfit has reached the maximum level.";
+"1470";
+
+"[Aura] You cannot evolve your Aura Outfit until you have improved it.";
+"1471";
+
+"[Aura] Only Aura Outfit can be inserted.";
+"1472";
+
+"[Aura] Only Aura Outfit, Shield, Necklace, Earring or Armband can be inserted.";
+"1473";
+
+"[Aura] Cannot be improved.";
+"1474";
+
+"[Aura] Can only be done once an Aura Outfit has been inserted.";
+"1475";
+
+"[Aura] The amount of inserted materials has been adjusted to match the required amount.";
+"1476";
+
+"[Aura] Cannot be evolved.";
+"1477";
+
+"[Aura] You cannot evolve your Aura Outfit until you have improved it.";
+"1478";
+
+"[Aura] You have to insert items.";
+"1479";
+
+"[Guild] You cannot deposit or withdraw Yang from the guild account while another window is open.";
+"148";
+
+"[Aura] Improvement successful. Evolution is now possible.";
+"1480";
+
+"[Aura] Improvement successful!";
+"1481";
+
+"[Aura] You don’t have enough money to evolve your Aura Outfit.";
+"1482";
+
+"[Aura] Evolution successful!";
+"1483";
+
+"[Aura] Successful!";
+"1484";
+
+"[Guild] %d EXP has been donated.";
+"1485";
+
+"You cannot feed your pet while the refinement window is open.";
+"1486";
+
+"The Battle of the Five Shrines has begun! It will last %d days.";
+"1487";
+
+"The Battle of the Five Shrines is over. The next battle starts in %d hour(s).";
+"1488";
+
+"The interface cannot be opened while you are mounted.";
+"1489";
+
+"[Guild] You cannot carry out this action while depositing or withdrawing Yang from the guild account.";
+"149";
+
+"The event is not currently active.";
+"1490";
+
+"You cannot neither trade or move, nor sell, drop or store items while summoning a mount.";
+"1491";
+
+"The battle has been terminated as a result of an unexpected issue.";
+"1492";
+
+"The Battle of the Five Shrines ends in %d minute(s).";
+"1493";
+
+"You require %s x %d more.";
+"1494";
+
+"A level-%d Dragon Portal has opened. Take the dungeon by storm!";
+"1495";
+
+"A level-%d Dragon Portal can now be entered.";
+"1496";
+
+"We've slain the boss!";
+"1497";
+
+"%d guild EXP received!";
+"1498";
+
+"The time to enter the Dragon Portal has expired.";
+"1499";
+
+"[Guild] You cannot change guild leader whilst at war.";
+"15";
+
+"[Guild] The Deposit Yang or Withdraw Yang window is already open.";
+"150";
+
+"The dungeon will be closed if you do not start the battle within %d minute(s).";
+"1500";
+
+"Battle not started. Dungeon closed.";
+"1501";
+
+"%s has occupied %s!";
+"1502";
+
+"You cannot donate while your pet is summoned.";
+"1503";
+
+"This character isn't available to duel.";
+"1504";
+
+"Total %d: You can still unpack %d.";
+"1505";
+
+"Unpack the next gift in %d minutes.";
+"1506";
+
+"%s is attacking %s!";
+"1507";
+
+"%s has reached the personal score of %d!";
+"1508";
+
+"Reward for Ritual of Blood";
+"1509";
+
+"[Guild] You cannot deposit or withdraw Yang from the guild account while your pet is summoned.";
+"151";
+
+"Insufficient space in your inventory. The reward will be sent to your mailbox.";
+"1510";
+
+"The group members are too far away to receive the item.";
+"1511";
+
+"Maximum guild level reached. No more donations possible.";
+"1512";
+
+"[Duel of the Seers] The Duel of the Seers has begun!";
+"1513";
+
+"[Duel of the Seers] You receive a quest for the minigame.";
+"1514";
+
+"[Duel of the Seers] Rich treasures await!";
+"1515";
+
+"[Duel of the Seers] The Duel of the Seers is over.";
+"1516";
+
+"[Duel of the Seers] Check your rank and claim your reward.";
+"1517";
+
+"[Duel of the Seers] You don't have enough Seer Coins.";
+"1518";
+
+"[DS] Your rank reward";
+"1519";
+
+"%s will appear here: %s";
+"152";
+
+"[Duel of the Seers] You have increased your donations count by 1.";
+"1520";
+
+"You cannot use this item on soulbound items.";
+"1521";
+
+"You cannot take part in the Battle Royale.";
+"1522";
+
+"You have to leave your group first.";
+"1524";
+
+"You cannot enter, because the countdown has already begun.";
+"1525";
+
+"This is the winner of the Battle Royale: %s";
+"1527";
+
+"%s killed %s.";
+"1528";
+
+"The countdown has begun. The Battle Royale starts in %d seconds.";
+"1529";
+
+"Valley of Seungryong";
+"153";
+
+"The Battle Royale cannot begin, because there are too few participants.";
+"1530";
+
+"The Battle Royale has begun. The first area will be shown in %d seconds.";
+"1531";
+
+"The Combat Zone has been updated. It will be closed off in %d seconds.";
+"1532";
+
+"The Combat Zone will be closed off in %d seconds.";
+"1533";
+
+"The electrical field has stopped. The next Combat Zone will be shown in %d seconds.";
+"1534";
+
+"The Battle Royale ends in %d seconds.";
+"1535";
+
+"You cannot do that during a Battle Royale.";
+"1536";
+
+"You cannot register for that on this map.";
+"1537";
+
+"You cannot register for that on the Battle Royale server.";
+"1538";
+
+"ÀÌ °÷¿¡¼± ÀÌº¥Æ®¿ë °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
+"154";
+
+"You cannot cancel this on the Battle Royale server.";
+"1540";
+
+"The Battle Royale has begun!!";
+"1541";
+
+"The Battle Royale has ended!!";
+"1542";
+
+"There are no more Combat Zones. The whole area will be closed off in %d seconds.";
+"1543";
+
+"You have no debuff at the moment.";
+"1544";
+
+"You need a Battle Royale Ticket to participate.";
+"1545";
+
+"A special supply pack has been dropped somewhere.";
+"1546";
+
+"[Relic Bonus] You are already wearing a Soul Relic.";
+"1547";
+
+"You cannot use that here.";
+"1548";
+
+"Teleportation to the Plateau of Primal Forces has failed.";
+"1549";
+
+"Mount Sohan";
+"155";
+
+"You cannot use that any more.";
+"1550";
+
+"You don't have enough Gaya.";
+"1551";
+
+"Battle Royale participants status: (%u/%u)";
+"1552";
+
+"Registration for the Battle Royale has been closed.";
+"1553";
+
+"Please try again later.";
+"1554";
+
+"You cannot do this whilst performing another action.";
+"1555";
+
+"PvP Tournament";
+"1556";
+
+"Reward for winning a round";
+"1557";
+
+"Reward for winning a tournament";
+"1558";
+
+"Duel of the Seers Prizes";
+"1559";
+
+"Yongbi Desert";
+"156";
+
+"Your inventory is full. Your reward will be delivered by post.";
+"1560";
+
+"The reward from the Duel of the Seers will be delivered by post since your inventory was full.";
+"1561";
+
+"You have received %lu EXP for your Champion Level.";
+"1562";
+
+"Doyyumhwan";
+"157";
+
+"Please try again later.";
+"1574";
+
+"Battle Royale";
+"1575";
+
+"Battle Royale Season Reward. Season rank: %d";
+"1576";
+
+"Battle Royale General Reward.";
+"1577";
+
+"Battle Royale Game Reward. Rank: %d";
+"1578";
+
+"Battle Royale Combat Reward. Killed %d opponents or more";
+"1579";
+
+"The Ramadan Event has started!";
+"158";
+
+"You cannot claim an achievement right now.";
+"1580";
+
+"You cannot use any emotions right now.";
+"1581";
+
+"Yongan";
+"1582";
+
+"The %s guild has purchased the territory in the %s area at %d,%d for %d Won.";
+"1583";
+
+"Your guild leader has registered for the auction of the territory in the %s area at %d,%d.";
+"1584";
+
+"You have already submitted your bid.";
+"1585";
+
+"You can take back the Won you bid.";
+"1586";
+
+"There's nothing to collect.";
+"1587";
+
+"You already have the maximum amount of Won.";
+"1588";
+
+"You took back the %d Won you bid.";
+"1589";
+
+"The Ramadan Event is over.";
+"159";
+
+"Only the guild leader or a member with bank access can pay the lease.";
+"1590";
+
+"No lease needs to be paid.";
+"1591";
+
+"The guild does not have enough Yang.";
+"1592";
+
+"[Guild Territory] Go to the guard and pay the lease of %d Yang for your guild territory.";
+"1593";
+
+"You have paid the %lu-Yang lease for the guild territory.";
+"1594";
+
+"You cannot do that while the territory auction is ongoing.";
+"1595";
+
+"You have not registered for any territory auctions.";
+"1596";
+
+"You are not a member of any guild.";
+"1597";
+
+"You have already registered for the territory auction.";
+"1598";
+
+"Only the guild leader can register for the territory auction.";
+"1599";
+
+"[Guild] %s has used %s.";
+"16";
+
+"You cannot change channel.";
+"160";
+
+"Only guilds of level %d or higher can register.";
+"1600";
+
+"Your guild already has a guild territory.";
+"1601";
+
+"There are no territory auctions right now.";
+"1602";
+
+"The maximum bid is %d Won.";
+"1603";
+
+"You don't have enough Won.";
+"1604";
+
+"Your guild isn't registered for the territory auction.";
+"1605";
+
+"You can only bid if you have been a member of the guild for more than 24 hours.";
+"1606";
+
+"The lease for the guild territory wasn't paid. The guild territory has been abandoned.";
+"1607";
+
+"No guilds have registered for the territory auction.";
+"1608";
+
+"You have bid %d Won.";
+"1609";
+
+"Please wait a moment. Changing channel...";
+"161";
+
+"This guild does not exist.";
+"1610";
+
+"Dong Gwang Plain";
+"1611";
+
+"You can get back the Won you bid from the guard in the village.";
+"1612";
+
+"Perfect! You have attached the Spirit Stone successfully and you even receive a double stat bonus.";
+"1613";
+
+"Joan";
+"1614";
+
+"Pyungmoo";
+"1615";
+
+"Jungrang";
+"1616";
+
+"Waryong";
+"1617";
+
+"Imha";
+"1618";
+
+"Miryang";
+"1619";
+
+"This item cannot be absorbed.";
+"162";
+
+"Songpa";
+"1620";
+
+"Daeyami";
+"1621";
+
+"[World boss] Event started";
+"1622";
+
+"[World boss] Event completed";
+"1623";
+
+"[World boss] In Channel %d, %s has appeared and is terrorising the area of %s. Let's go hunting!";
+"1624";
+
+"[World boss] The world boss in Channel %d has been attacked. Join the hunt now!";
+"1625";
+
+"[World boss] Well done: %s has been defeated and peace has been restored... for now.";
+"1626";
+
+"[World boss] The World boss has escaped! Good luck next time.";
+"1627";
+
+"[World boss] You can't receive a reward now.";
+"1628";
+
+"[World boss] Well done! Here is your reward. Join in next time as well!";
+"1629";
+
+"This item cannot be transmuted.";
+"163";
+
+"[World boss] You can't receive a reward now, because you do not have enough space in your inventory.";
+"1630";
+
+"[World boss] Reward for Loot Level I in the rankings: %d";
+"1631";
+
+"[World boss] Rewards for Loot Level II in the rankings: %d";
+"1632";
+
+"[World boss] Rewards for Loot Level III in the rankings: %d";
+"1633";
+
+"[World boss] Rewards for Loot Level IV in the rankings: %d";
+"1634";
+
+"[Flower Power] You don't have enough shoots.";
+"1635";
+
+"[Flower Power] There isn't enough space in your inventory.";
+"1636";
+
+"[Flower Power] You received Flower Seeds.";
+"1637";
+
+"[Flower Power] You don't have enough Flower Seeds.";
+"1638";
+
+"[Flower Power] You have received a Chrysanthemum Shoot.";
+"1639";
+
+"Enchant Item cannot be used on this item.";
+"164";
+
+"[Flower Power] You have received a May Bell Shoot.";
+"1640";
+
+"[Flower Power] You have received a Daffodil Shoot.";
+"1641";
+
+"[Flower Power] You have received a Lily Shoot.";
+"1642";
+
+"[Flower Power] You have received a Sunflower Shoot.";
+"1643";
+
+"[World boss] Caution: the world boss will appear soon!";
+"1644";
+
+"[Flower Power] This item can no longer be used.";
+"1645";
+
+"You cannot transform at the moment.";
+"1646";
+
+"Kill all the monsters within the time limit!";
+"1647";
+
+"The portal to the next room is open.";
+"1648";
+
+"Dodge every attack!";
+"1649";
+
+"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
+"165";
+
+"The portal to the next level is open.";
+"1650";
+
+"%s has completed level %u in Sung Mahi Tower!";
+"1651";
+
+"The loot from Sung Mahi Tower has been sent to your mailbox.";
+"1652";
+
+"Sung Mahi Tower Level %d";
+"1653";
+
+"Loot for completing Sung Mahi Tower";
+"1654";
+
+"The battle starts in %d seconds.";
+"1655";
+
+"You are facing level %d.";
+"1656";
+
+"Kill a pair of monsters that don't belong together!";
+"1657";
+
+"You attacked the wrong monster. Kill all the monsters!";
+"1658";
+
+"Kill all the monsters within the time limit!";
+"1659";
+
+"Reinforce Item cannot be used on this item.";
+"166";
+
+"You destroyed the wrong Metin stone. Defeat all the monsters!";
+"1660";
+
+"Destroy the right Metin stone!";
+"1661";
+
+"Find the right key to escape!";
+"1662";
+
+"Find a Sealstone to break the seal!";
+"1663";
+
+"[Sung Mahi Tower] Kill all the monsters within the time limit!";
+"1664";
+
+"[Sung Mahi Tower] The current ranking cycle has ended.";
+"1665";
+
+"[Sung Mahi Tower] A new ranking cycle has begun.";
+"1666";
+
+"Seasonal reward for 1st place on level %d in Sung Mahi Tower.";
+"1667";
+
+"Seasonal Sung Mahi Tower Reward";
+"1668";
+
+"You are not cursed.";
+"1669";
+
+"Items can only be traded on the same map.";
+"167";
+
+"All curses have been lifted.";
+"1670";
+
+"Time's up. You're being taken outside.";
+"1671";
+
+"[Sung Mahi Tower] Destroy the Demon Stone!";
+"1672";
+
+"[Sung Mahi Tower] The key does not fit. Find another one and try again!";
+"1673";
+
+"[Sung Mahi Tower] Break the seal with Sung Mahi's Sealstone!";
+"1674";
+
+"[Sung Mahi Tower] You have to break another seal first!";
+"1675";
+
+"You can now wear gloves.";
+"1676";
+
+"You cannot wear gloves yet.";
+"1677";
+
+"This function is unavailable as hacking software has been detected.";
+"1678";
+
+"[Sung Mahi Tower] You completed this level in %d seconds.";
+"1679";
+
+"Cannot connect to the channel at this time. Please try again later.";
+"168";
+
+"You cannot participate in the territory auction on the day the guild is founded.";
+"1680";
+
+"Climb the steps of Sung Mahi Tower and enter the next level.";
+"1686";
+
+"[Personal Premium Shop] You cannot use that. Go to the village's Trade Administrator.";
+"1687";
+
+"You have entered an area which is under Sung Mahi's sway and are suffering from his curse.";
+"1688";
+
+"%s still has %d outposts. (%d/%d)";
+"1689";
+
+"[Group] You cannot do this while the group search is active.";
+"169";
+
+"%s has erected all the outposts and Sung Mahi's control will start in %d minutes.";
+"1690";
+
+"Sung Mahi's outposts are being erected.";
+"1691";
+
+"Sung Mahi's outposts have been destroyed.";
+"1692";
+
+"All of the outposts in %s have been destroyed and the area is no longer under Sung Mahi's control.";
+"1693";
+
+"Seo Gwang Wastelands";
+"1694";
+
+"Nam Gwang Chasm";
+"1695";
+
+"Thanks to the immunity blessing, you are not influenced by Sung Mahi's Presence.";
+"1698";
+
+"Your immunity has expired and you are again influenced by Sung Mahi's Presence and Curse.";
+"1699";
+
+"[Guild] You do not have permission to use guild skills.";
+"17";
+
+"[Gaya] You don't have enough Glimmerstones.";
+"170";
+
+"You cannot do this with a user of hacking software.";
+"1700";
+
+"You have insufficient materials for the upgrade. (Soulbound items cannot be used.)";
+"1701";
+
+"Your guild's territory will be automatically relinquished in %d hours. Any items in the guild warehouse will be deleted.";
+"1702";
+
+"[Guild] You cannot kick the guild leader.";
+"1703";
+
+"[Guild] You cannot kick yourself.";
+"1704";
+
+"[Guild] You cannot make yourself guild leader.";
+"1705";
+
+"[Guild] Only available to the guild leader (if a guild territory is being relinquished).";
+"1706";
+
+"[Guild] You cannot relinquish guild territory during a guild battle.";
+"1707";
+
+"You cannot swap this.";
+"1708";
+
+"The Tower Action has been activated.";
+"1709";
+
+"[Gaya] You don't have enough Yang to cut Glimmerstones.";
+"171";
+
+"You can learn this after reaching the Champion Level.";
+"1710";
+
+"[Personal Premium Shop] You can't open this, because you still have money to collect.";
+"1711";
+
+"[Personal Premium Shop] You can't open this, because you still have items to collect.";
+"1712";
+
+"[Personal Premium Shop] You have already opened your personal shop.";
+"1713";
+
+"[Personal Premium Shop] The shop is being prepared now.";
+"1714";
+
+"[Personal Premium Shop] You don't have enough space in your inventory.";
+"1715";
+
+"[Personal Premium Shop] You can collect items in your personal shop.";
+"1716";
+
+"[Personal Premium Shop] You can collect money in your personal shop.";
+"1717";
+
+"[Personal Premium Shop] %s has been sold. Please collect your money.";
+"1718";
+
+"[Personal Premium Shop] You cannot reopen your shop for %d seconds after closing it.";
+"1719";
+
+"[Gaya] You already have the maximum amount of Gaya.";
+"172";
+
+"[Gaya] Cutting successful.";
+"173";
+
+"[Gaya] Cutting failed.";
+"174";
+
+"[Gaya] The item list has been refreshed.";
+"175";
+
+"You must fill up at least 1 EXP Marble at level 120 to reach Champion Level.";
+"1752";
+
+"You must complete the 'Ship Defence' dungeon.";
+"1753";
+
+"You have already reached the Champion Level.";
+"1754";
+
+"[Personal Premium Shop] You cannot use items while opening your personal shop.";
+"1755";
+
+"[Personal Premium Shop] You cannot do that while managing items.";
+"1756";
+
+"[Personal Premium Shop] You cannot use the Personal Premium Shop while you have other windows open.";
+"1757";
+
+"[Personal Premium Shop] You cannot do that while managing items.";
+"1758";
+
+"ÀÌº¥Æ®¿ë °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
+"176";
+
+"[Relic Bonus] This is not possible while the Soul Relic window is open.";
+"1760";
+
+"[Personal Premium Shop] You cannot duel here.";
+"1763";
+
+"[Personal Premium Shop] Collectable money will not be updated while you manage items.";
+"1764";
+
+"[Personal Premium Shop] A shop has already been opened here. Please find another location to open your shop.";
+"1766";
+
+"[Gaya] You don't have enough Gaya.";
+"177";
+
+"[Gaya] You cannot purchase this item.";
+"178";
+
+"[Gaya] Your inventory is full.";
+"179";
+
+"[Guild] You are now in observer mode because you have reached the respawn limit.";
+"18";
+
+"[Gaya] You don't have a Refresh Gaya Market item.";
+"180";
+
+"[Gaya] You must open the Gaya Market first.";
+"181";
+
+"[Gaya] You cannot unlock any more slots on the Gaya Market.";
+"182";
+
+"[Gaya] You don't have enough %s. You need %d more to unlock an additional slot.";
+"183";
+
+"[Gaya] The Gaya Market is currently unavailable.";
+"184";
+
+"[Gaya] The Gaya Market is already open.";
+"185";
+
+"[Gaya] You can only open the Gaya Market once you have closed the other windows.";
+"186";
+
+"ÀÌ °÷¿¡¼­ ¿µ¼® °¨Áö±â°¡ µ¿ÀÛÇÏÁö ¾Ê´Â°Í °°½À´Ï´Ù.";
+"187";
+
+"[Group] The battle has begun.";
+"188";
+
+"[Group] You have 1 hour to complete the dungeon.";
+"189";
+
+"[Guild] Please check members and leaders.";
+"19";
+
+"[Group] You have completed your task with distinction!";
+"190";
+
+"[Group] Time until teleportation: %d min. %d sec.";
+"191";
+
+"[Group] You will be transported from the dungeon in 10 minutes.";
+"192";
+
+"[Group] You are now registered for Meley's Lair.";
+"193";
+
+"[Group] Please talk to the relevant NPC to enter.";
+"194";
+
+"[Group] You have conceded.";
+"195";
+
+"[Group] You will be teleported to the city in 1 minute.";
+"196";
+
+"Visit %s to collect your reward.";
+"197";
+
+"¿µ¼® °¨Áö±â°¡ ½Åºñ·Î¿î ºûÀ» ³»¸ç »ç¶óÁı´Ï´Ù.";
+"198";
+
+"[Group] The rankings for groups in Meley's Lair is being compiled.";
+"199";
+
+"Á¸ÀçÇÏÁö ¾Ê´Â ¾ÆÀÌÅÛ ÀÔ´Ï´Ù";
+"2";
+
+"[Guild] Please check enemy members and leaders.";
+"20";
+
+"[Group] You cannot leave the dungeon at the moment.";
+"200";
+
+"[Group] Your time in the dungeon is up.";
+"201";
+
+"[Group] You have left the dungeon.";
+"202";
+
+"[Group] The dungeon will close in %d min.";
+"203";
+
+"Receive: %s - %d";
+"204";
+
+"You cannot open a shop while you are turned to stone.";
+"205";
+
+"You cannot use items while you are turned to stone.";
+"206";
+
+"This command can only be used in the Zodiac Temple.";
+"207";
+
+"You don't have enough insignia.";
+"208";
+
+"¿µ¼® °¨Áö±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
+"209";
+
+"[Guild] Certain members are offline or on another map.";
+"21";
+
+"You have not yet completed all missions.";
+"210";
+
+"You need more Aventurine and Aureolin Treasures to receive your reward.";
+"211";
+
+"You have revived %s.";
+"212";
+
+"You have been revived by %s.";
+"213";
+
+"You don't have enough items to revive anyone.";
+"214";
+
+"You have been revived.";
+"215";
+
+"You cannot use that at this location.";
+"216";
+
+"You cannot use it at the moment.";
+"217";
+
+"%s has been revived.";
+"218";
+
+"First level cleared. Return to Monk Milbon.";
+"219";
+
+"[Guild] Certain members of the enemy guild are offline or on another map.";
+"22";
+
+"%s ¾ÆÀÌÅÛ À» È¹µæÇÏ¼Ì½À´Ï´Ù";
+"220";
+
+"Á¶°³¿¡¼­ µ¹Á¶°¢ÀÌ ³ª¿Ô½À´Ï´Ù.";
+"221";
+
+"All group members have been turned to stone. Mission failed.";
+"222";
+
+"All levels cleared. You will now be teleported to the bonus level.";
+"223";
+
+"Mission complete. As soon as the group leader hits the button, you will be teleported directly to level %d.";
+"224";
+
+"The mission was unsuccessful.";
+"225";
+
+"Wipe out! If no one is revived within one minute, your dungeon adventure will be over.";
+"226";
+
+"Time's up.";
+"227";
+
+"This temple's gates open on another day.";
+"228";
+
+"All group members must be located on the same map to enter.";
+"229";
+
+"[Guild] There are not enough participants online.";
+"23";
+
+"You are not the group leader.";
+"230";
+
+"There are %d Zodiac Temple(s) in the area. Enter the relevant command to teleport to one of them (1-%d).";
+"231";
+
+"Á¶°³°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
+"232";
+
+"There is no Zodiac Temple on this map.";
+"233";
+
+"Destroy Metin stones.";
+"234";
+
+"Bonus level: Destroy Metin stones.";
+"235";
+
+"Destroy Metin stones.";
+"236";
+
+"Destroy Metin stones.";
+"237";
+
+"Defeat 5 Zodiac bosses.";
+"238";
+
+"Bonus level: You have 5 minutes to trade with the merchant and stock up on supplies.";
+"239";
+
+"»óÀÚ¿¡¼­ %s °¡ %d °³ ³ª¿Ô½À´Ï´Ù.";
+"24";
+
+"Destroy Metin stones.";
+"240";
+
+"Destroy Metin stones.";
+"241";
+
+"Destroy all Metin stones.";
+"242";
+
+"Á¶°³¿¡¼­ ¹éÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
+"243";
+
+"Destroy all Metin stones and defeat the Zodiac boss.";
+"244";
+
+"Destroy all Metin stones.";
+"245";
+
+"Defeat all monsters.";
+"246";
+
+"Defeat all monsters.";
+"247";
+
+"Defeat monsters.";
+"248";
+
+"Defeat monsters.";
+"249";
+
+"[Guild] You cannot carry out this action during a war.";
+"25";
+
+"Defeat all monsters.";
+"250";
+
+"You just missed the bonus level.";
+"251";
+
+"Defeat all Zodiac bosses.";
+"252";
+
+"Á¶°³¿¡¼­ Ã»ÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
+"253";
+
+"Defeat the Zodiac boss.";
+"254";
+
+"Defeat the Zodiac boss.";
+"255";
+
+"Defeat the Zodiac boss without dying.";
+"256";
+
+"Defeat all monsters without dying.";
+"257";
+
+"Time's up. Better luck next time.";
+"258";
+
+"Defeat the Zodiac boss.";
+"259";
+
+"[Guild] You can use it in 10 seconds.";
+"26";
+
+"Defeat the Zodiac boss.";
+"260";
+
+"Bonus level: Destroy a Metin stone.";
+"261";
+
+"Destroy a Metin stone. If you are successful, you'll receive a bonus buff.";
+"262";
+
+"%d minutes remaining to register for the PvP tournament!";
+"263";
+
+"Á¶°³¿¡¼­ ÇÇÁøÁÖ°¡ ³ª¿Ô½À´Ï´Ù.";
+"264";
+
+"You cannot enter the PvP tournament combat arena.";
+"265";
+
+"You cannot transform during the PvP tournament.";
+"266";
+
+"%d more until the battle begins!";
+"267";
+
+"The battle has begun.";
+"268";
+
+"Winner: %s / Loser: %s";
+"269";
+
+"[Guild] The character must be at least level 40 to receive the guild leadership.";
+"27";
+
+"%s has left the arena. %s wins.";
+"270";
+
+"Registration for the PvP tournament complete.";
+"271";
+
+"The PvP tournament starts in %d min.";
+"272";
+
+"Final";
+"273";
+
+"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö ÀÌÇØÇÏ±â°¡ Èûµì´Ï´Ù.";
+"274";
+
+"Semifinal";
+"275";
+
+"Round %lu";
+"276";
+
+"No winner";
+"277";
+
+"The PvP tournament is over.";
+"278";
+
+"%s is the tournament victor!";
+"279";
+
+"[Guild] %s has won.";
+"28";
+
+"Participants: %s";
+"280";
+
+"Remaining participants: %lu";
+"281";
+
+"Current participants: %lu";
+"282";
+
+"You have registered for the PvP tournament.";
+"283";
+
+"ÀÌ Ã¥Àº ¾Æ¹«¸® ºÁµµ µµ¿òÀÌ µÉ °Í °°Áö ¾Ê½À´Ï´Ù.";
+"284";
+
+"You have not registered for the PvP tournament.";
+"285";
+
+"This command can only be used on the PvP tournament map.";
+"286";
+
+"Yut Nori has started!";
+"287";
+
+"Collect Birch Branches, craft Yut Nori Boards from them and play the exciting minigame.";
+"288";
+
+"Fantastic prizes await!";
+"289";
+
+"[Guild] Draw";
+"29";
+
+"Yut Nori has finished.";
+"290";
+
+"Go to the Yut Nori Table to collect your reward.";
+"291";
+
+"You don't have enough of the necessary items to play Yut Nori.";
+"292";
+
+"[Soul System] Use %s to receive the effect.";
+"293";
+
+"[Soul System] %s is already at the highest level.";
+"294";
+
+"·¹º§ 30ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
+"295";
+
+"[Soul System] The soul is active.";
+"296";
+
+"[Monster Bash Event] Map %s is reporting sightings of %s.";
+"298";
+
+"County Yayang";
+"299";
+
+"»óÀÚ°¡ °©ÀÚ±â Æø¹ßÇÏ¿´½À´Ï´Ù! »ı¸í·ÂÀÌ °¨¼ÒÇß½À´Ï´Ù.";
+"3";
+
+"[Guild] You cannot remove anyone from the guild whilst at war.";
+"30";
+
+"County Bokjung";
+"300";
+
+"County Bakra";
+"301";
+
+"Hwang Temple";
+"302";
+
+"Kuahlo Dong (Spiders Dungeon)";
+"303";
+
+"Spider Dungeon 2";
+"304";
+
+"·¹º§ 50ÀÌ µÇ±â Àü¿¡´Â ½ÀµæÇÒ ¼ö ÀÖÀ» °Í °°Áö ¾Ê½À´Ï´Ù.";
+"305";
+
+"Gautama Cliff";
+"306";
+
+"Nephrite Bay";
+"307";
+
+"Thunder Mountains";
+"308";
+
+"Enchanted Forest";
+"309";
+
+"[Guild] You cannot start a vote to remove the guild leader.";
+"31";
+
+"Grotto of Exile";
+"310";
+
+"Grotto of Exile 2";
+"311";
+
+"You cannot enter while you are mounted.";
+"312";
+
+"This cannot be used on equipped items.";
+"313";
+
+"Red Forest";
+"314";
+
+"Snakefield";
+"315";
+
+"¿¬°è±â´Â ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"316";
+
+"You still require %d %s(s).";
+"317";
+
+"The event is over. You cannot use this item any more.";
+"318";
+
+"The maximum level has already been reached.";
+"319";
+
+"[Guild] You cannot start a vote to remove yourself from the guild.";
+"32";
+
+"Success! The %s effect has been increased to level %d.";
+"320";
+
+"Failure! The attempt to upgrade the %s effect to level %d failed.";
+"321";
+
+"Success! The %s effect is now active.";
+"322";
+
+"Failure! The attempt to change to the %s effect failed.";
+"323";
+
+"Success! The %s effect is now active.";
+"324";
+
+"Failure! The %s effect was not activated.";
+"325";
+
+"The Flower Power Event has started.";
+"326";
+
+"%s ±æµå°¡ %s ±æµåÀÇ ±ê¹ßÀ» »©¾Ñ¾Ò½À´Ï´Ù!";
+"327";
+
+"ÀÌ¹Ì ¿Ïº®ÇÏ°Ô ¾Ë¾ÆµéÀ» ¼ö ÀÖ´Â ¾ğ¾îÀÌ´Ù.";
+"328";
+
+"The Flower Power Event has ended.";
+"329";
+
+"[Guild] You need the Ring of Successor to transfer the guild.";
+"33";
+
+"You must wait a while before opening your mailbox again.";
+"330";
+
+"Please close all other windows to open your mailbox.";
+"331";
+
+"Your mailbox is full.";
+"332";
+
+"Please empty your mailbox to be able to receive new messages.";
+"333";
+
+"You cannot use that at the moment.";
+"334";
+
+"[Guild] You cannot use guild skills in field guild wars.";
+"335";
+
+"[Guild] That can only be used in guild wars.";
+"336";
+
+"You have received %d Won.";
+"337";
+
+"[Guild] Deposited: %d Yang";
+"338";
+
+"´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"339";
+
+"[Guild] Not enough space in the guild bank.";
+"34";
+
+"[Guild] The purchase was cancelled as you already own guild territory.";
+"340";
+
+"[Guild] The purchase was cancelled as your guild already owns guild territory.";
+"341";
+
+"[Catch the King] Your score isn't good enough for a prize.";
+"342";
+
+"[Catch the King] Play a game of Catch the King now!";
+"343";
+
+"[Okey Event] Defeat monsters, collect cards and play a game of okey.";
+"344";
+
+"[Okey Event] Amazing prizes await!";
+"345";
+
+"[Catch the King] Catch the King has ended.";
+"346";
+
+"[Catch the King] You don't have a complete King Deck or you have insufficient Yang.";
+"348";
+
+"[Catch the King] %s earned %d points in Catch the King.";
+"349";
+
+"»óÀÚ¿¡¼­ %s °¡ ³ª¿Ô½À´Ï´Ù.";
+"35";
+
+"ÀÌ Ã¥À» ÀĞÀ¸·Á¸é ·¹º§À» ´õ ¿Ã·Á¾ß ÇÕ´Ï´Ù.";
+"350";
+
+"You have already used the Researcher's Elixir.";
+"351";
+
+"The 'Ship Defence' dungeon is ready. The fisherman will let you board now.";
+"352";
+
+"We're under attack from sea monsters! Get ready to fight!";
+"353";
+
+"They're attacking again! Ready your weapons!";
+"354";
+
+"Land sighted! You have successfully protected the mast and reached the new continent after a long and weary journey. Continue to the portal.";
+"355";
+
+"Your mast has been smashed. You fought valiantly, but the battle is lost.";
+"356";
+
+"You must abandon the ship in %d sec.";
+"357";
+
+"You must abandon the ship in %d min.";
+"358";
+
+"The sea battle starts in %d sec.";
+"359";
+
+"[Guild] You must wait at least 12 hours after using the Guild Warehouse before leaving the guild.";
+"36";
+
+"ÀÌ Ã¥Àº ³Ê¹« ¾î·Á¿ö¼­ ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"360";
+
+"Hurry! You have %d minutes to travel through the portal to reach the mainland.";
+"361";
+
+"You must leave the ship now as you have not started the sea battle.";
+"362";
+
+"If you don't start the sea battle within 1 minute, you will have to leave the ship.";
+"363";
+
+"%s's remaining HP: %d%%";
+"364";
+
+"SOS! The mast has been smashed and your ship is sinking. You will now be teleported to Cape Dragon Fire.";
+"365";
+
+"Wave %d: For %d sec. you must protect the %s with all your strength.";
+"366";
+
+"Wave %d: While protecting the %s, defeat %s.";
+"367";
+
+"You have successfully protected the mast. Keep it up! Get ready for the next wave.";
+"368";
+
+"The next wave begins in %d sec.";
+"369";
+
+"Guild [%s]! The final objective has appeared. Destroy all objectives to win this war!";
+"37";
+
+"%s";
+"370";
+
+"ÀÌ Ã¥À¸·Î´Â ´õ ÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"371";
+
+"You can only withdraw from the battle in %d sec.";
+"372";
+
+"You cannot carry out this action at the moment.";
+"373";
+
+"You have to wait %d sec. after opening the Mailbox before you can switch channels or teleport.";
+"374";
+
+"Taxes are set to %d%%.";
+"375";
+
+"¾ÆÁ÷ ½Â¸¶ ½ºÅ³À» ¼ö·ÃÇÒ ¼ö ÀÖ´Â ·¹º§ÀÌ ¾Æ´Õ´Ï´Ù.";
+"376";
+
+"ÁÖ¾È¼ú¼­¸¦ ÅëÇØ ÁÖÈ­ÀÔ¸¶¿¡¼­ ºüÁ®³ª¿Ô½À´Ï´Ù.";
+"377";
+
+"´õ ÀÌ»ó ½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
+"378";
+
+"½Â¸¶ ¼ö·Ã¼­¸¦ ÀĞ¾î ½Â¸¶ ½ºÅ³ Æ÷ÀÎÆ®¸¦ ¾ò¾ú½À´Ï´Ù.";
+"379";
+
+"[Guild] War ends in 5 minutes.";
+"38";
+
+"¾òÀº Æ÷ÀÎÆ®·Î´Â ½Â¸¶ ½ºÅ³ÀÇ ·¹º§À» ¿Ã¸± ¼ö ÀÖ½À´Ï´Ù.";
+"380";
+
+"%s ±æµåÀÇ ±ê¹ßÀ» %s ´ÔÀÌ È¹µæÇÏ¿´½À´Ï´Ù.";
+"381";
+
+"½Â¸¶ ¼ö·Ã¼­ ÀÌÇØ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"382";
+
+"¸¶À½ÀÌ ¸¼¾ÆÁö´Â±º. °¡½¿À» Áş´©¸£´ø ¹«¾ğ°¡°¡ Á» °¡º­¿öÁø ´À³¦ÀÌ¾ß.";
+"383";
+
+"¼±¾ÇÄ¡°¡ %d Áõ°¡ÇÏ¿´½À´Ï´Ù.";
+"384";
+
+"ÇöÀç Çì¾î½ºÅ¸ÀÏ¿¡¼­´Â ¿°»ö°ú Å»»öÀÌ ºÒ°¡´ÉÇÕ´Ï´Ù.";
+"385";
+
+"%d ·¹º§ÀÌ µÇ¾î¾ß ´Ù½Ã ¿°»öÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù.";
+"386";
+
+"¼ºº°ÀÌ ¸ÂÁö¾Ê¾Æ ÀÌ ¾ÆÀÌÅÛÀ» ¿­ ¼ö ¾ø½À´Ï´Ù.";
+"387";
+
+"ÇöÀç À§Ä¡¿¡¼­ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"388";
+
+"ÀÌµ¿ÇÒ ÁØºñ°¡ µÇ¾îÀÖÀ½À¸·Î ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù";
+"389";
+
+"[Guild] War ends in 1 minute.";
+"39";
+
+"¿ø·¡ À§Ä¡·Î º¹±Í";
+"390";
+
+"´øÀü ¾È¿¡¼­´Â %s%s »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"391";
+
+"<Äù½ºÆ®> ÀÌÀü¿¡ °°Àº º¸»óÀ» ¹ŞÀº ÀûÀÌ ÀÖ¾î ´Ù½Ã ¹ŞÁö ¾Ê½À´Ï´Ù.";
+"392";
+
+"À»";
+"393";
+
+"¸¦";
+"394";
+
+"Ã»¼ÒÇÒ ¼®ÀÌ ¹ÚÇôÀÖÁö ¾Ê½À´Ï´Ù.";
+"395";
+
+"¼Ó¼ºÀ» º¯°æÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
+"396";
+
+"º¯°æÇÒ ¼Ó¼ºÀÌ ¾ø½À´Ï´Ù.";
+"397";
+
+"¼Ó¼ºÀ» ¹Ù²ÛÁö %dºĞ ÀÌ³»¿¡´Â ´Ù½Ã º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.(%d ºĞ ³²À½)";
+"398";
+
+"¼Ó¼ºÀ» º¯°æÇÏ¿´½À´Ï´Ù.";
+"399";
+
+"[Guild] The guild territory sale has failed.";
+"4";
+
+"[Guild] No guild present with a guild advertisement.";
+"40";
+
+"¼Ó¼º Ãß°¡¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"400";
+
+"¼Ó¼º Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"401";
+
+"´õÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"402";
+
+"´ë·ÃÀå¿¡¼­ »ç¿ëÇÏ½Ç ¼ö ¾ø½À´Ï´Ù.";
+"403";
+
+"´õ ÀÌ»ó ÀÌ ¾ÆÀÌÅÛÀ» ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"404";
+
+"¸ÕÀú Àç°¡ºñ¼­¸¦ ÀÌ¿ëÇÏ¿© ¼Ó¼ºÀ» Ãß°¡½ÃÄÑ ÁÖ¼¼¿ä.";
+"405";
+
+"¼ÒÄÏÀÌ ¼º°øÀûÀ¸·Î Ãß°¡µÇ¾ú½À´Ï´Ù.";
+"406";
+
+"¼ÒÄÏ Ãß°¡¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"407";
+
+"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ¼ÒÄÏÀ» Ãß°¡ÇÒ °ø°£ÀÌ ¾ø½À´Ï´Ù.";
+"408";
+
+"ÀÌ ¾ÆÀÌÅÛÀ¸·Î ¼ÒÄÏÀ» Ãß°¡ÇÒ ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
+"409";
+
+"[Guild] No guild has defeated the dragon yet.";
+"41";
+
+"ÀåÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"410";
+
+"ÀåÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"411";
+
+"¸ÕÀú ´ÙÀÌ¾Æ¸óµå·Î ¾Ç¼¼¼­¸®¿¡ ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
+"412";
+
+"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó ÀåÂøÇÒ ¼ÒÄÏÀÌ ¾ø½À´Ï´Ù.";
+"413";
+
+"¿­Á¤ÀÇ °¡¸éÀ» Âø¿ë½Ã¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"414";
+
+"´ÙÀÌ¾Æ¸óµå·Î ¼ÒÄÏÀ» Ãß°¡ÇØ¾ßÇÕ´Ï´Ù.";
+"415";
+
+"ÀÌ ¾×¼¼¼­¸®¿¡´Â ´õÀÌ»ó º¸¼®À» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"416";
+
+"ÀÌ ¾ÆÀÌÅÛÀ» ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"417";
+
+"³¬½Ã Áß¿¡ ¹Ì³¢¸¦ °¥¾Æ³¢¿ï ¼ö ¾ø½À´Ï´Ù.";
+"418";
+
+"ÀÌ¹Ì ²ÈÇôÀÖ´ø ¹Ì³¢¸¦ »©°í %s¸¦ ³¢¿ó´Ï´Ù.";
+"419";
+
+"[Guild] Rankings update.";
+"42";
+
+"³¬½Ã´ë¿¡ %s¸¦ ¹Ì³¢·Î ³¢¿ó´Ï´Ù.";
+"420";
+
+"¹°¾à Á¶ÇÕÀ» À§ÇÑ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù.";
+"421";
+
+"Àç·á(%s)°¡ ºÎÁ·ÇÕ´Ï´Ù.";
+"422";
+
+"ºó º´ÀÌ ¸ğÀÚ¸¨´Ï´Ù.";
+"423";
+
+"¹°¾à Á¦Á¶¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
+"424";
+
+"¿©ÀÚ¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"425";
+
+"°°Àº Á¾·ùÀÇ ¸ŞÆ¾¼®Àº ¿©·¯°³ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"426";
+
+"ÀÌ ¸ŞÆ¾¼®Àº Àåºñ¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"427";
+
+"ÀÌ ¸ŞÆ¾¼®Àº ¹«±â¿¡ ºÎÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"428";
+
+"¸ŞÆ¾¼® ºÎÂø¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"429";
+
+"[Guild] The battle against Dragon Queen Meley is starting.";
+"43";
+
+"¸ŞÆ¾¼® ºÎÂø¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"430";
+
+"ºÎÂøÇÒ ¼ö ÀÖ´Â ½½·ÔÀÌ ¾ø½À´Ï´Ù.";
+"431";
+
+"»ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
+"432";
+
+"»ï°Å¸® ÀüÅõ Âü°¡Áß¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
+"433";
+
+"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"434";
+
+"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
+"435";
+
+"±×·± »ç¶÷ÀÌ ¾ø½À´Ï´Ù.";
+"436";
+
+"¾ÆÀÌÅÛ °³·®ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"437";
+
+"°³ÀÎ»óÁ¡ »ç¿ëÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"438";
+
+"ÀÌµ¿ µÇ¾îÁú À§Ä¡¿Í ³Ê¹« °¡±î¿ö ±ÍÈ¯ºÎ¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
+"439";
+
+"[Guild] The gates to Meley's Lair are open. The time limit in the dungeon is one hour.";
+"44";
+
+"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ±ÍÈ¯ºÎ,±ÍÈ¯±â¾ïºÎµîÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"440";
+
+"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â º¸µû¸®,ºñ´Üº¸µû¸®¸¦ »ç¿ëÇÒ¼ö ¾ø½À´Ï´Ù.";
+"441";
+
+"¹ö¸± ¼ö ¾ø´Â ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
+"442";
+
+"¶³¾îÁø ¾ÆÀÌÅÛÀº 3ºĞ ÈÄ »ç¶óÁı´Ï´Ù.";
+"443";
+
+"¾ÆÀÌÅÛ È¹µæ: %s";
+"444";
+
+"¼ÒÁöÇÏ°í ÀÖ´Â ¾ÆÀÌÅÛÀÌ ³Ê¹« ¸¹½À´Ï´Ù.";
+"445";
+
+"¾ÆÀÌÅÛ È¹µæ: %s ´ÔÀ¸·ÎºÎÅÍ %s";
+"446";
+
+"Àá½ÃÈÄ ÇØ´ç ¸¶À»Àº  ¸¶À»·Î ÀÌµ¿µË´Ï´Ù.";
+"447";
+
+"³Ê¹« °¡±îÀÌ ÀÖ½À´Ï´Ù.";
+"448";
+
+"¾ÆÀÌÅÛ Àü´Ş: %s ´Ô¿¡°Ô %s";
+"449";
+
+"[Guild] You have defeated Meley the Dragon Queen!";
+"45";
+
+"µĞ°© Áß¿¡´Â Âø¿ëÁßÀÎ Àåºñ¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"450";
+
+"°¡¸¸È÷ ÀÖÀ» ¶§¸¸ Âø¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"451";
+
+"Á×Áö ¾ÊÀº ¸»¿¡°Ô ¼±ÃÊ¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
+"452";
+
+"Á×Àº ¸»¿¡°Ô »ç·á¸¦ ¸ÔÀÏ ¼ö ¾ø½À´Ï´Ù.";
+"453";
+
+"¸»¿¡°Ô ¼±ÃÊ¸¦ ÁÖ¾ú½À´Ï´Ù.";
+"454";
+
+"¸»¿¡°Ô »ç·á¸¦ ÁÖ¾ú½À´Ï´Ù.";
+"455";
+
+"¾ÆÁ÷ ÀÌ ¸Ó¸®¸¦ »ç¿ëÇÒ ¼ö ¾ø´Â ·¹º§ÀÔ´Ï´Ù.";
+"456";
+
+"µ¿ÀÏÇÑ ¸Ó¸® ½ºÅ¸ÀÏ·Î´Â ±³Ã¼ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"457";
+
+"ÀÌ¹Ì µĞ°©ÁßÀÎ »óÅÂÀÔ´Ï´Ù.";
+"458";
+
+"³Ê¹« ¸Ö¸® ÀÖ½À´Ï´Ù";
+"459";
+
+"¿­¼è°¡ ¸ÂÁö ¾Ê´Â °Í °°´Ù.";
+"46";
+
+"Àß¸øµÈ µĞ°© ¾ÆÀÌÅÛÀÔ´Ï´Ù.";
+"460";
+
+"³ªº¸´Ù ³Ê¹« ³ôÀº ·¹º§ÀÇ ¸ó½ºÅÍ·Î´Â º¯½Å ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"461";
+
+"·¹º§ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"462";
+
+"±Ù·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"463";
+
+"Áö´ÉÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"464";
+
+"¹ÎÃ¸ÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"465";
+
+"Ã¼·ÂÀÌ ³·¾Æ Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"466";
+
+"°áÈ¥ÇÏÁö ¾ÊÀº »óÅÂ¿¡¼­ ¿¹¹°À» Âø¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"467";
+
+"°°Àº Á¾·ùÀÇ À¯´ÏÅ© ¾ÆÀÌÅÛ µÎ °³¸¦ µ¿½Ã¿¡ ÀåÂøÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"468";
+
+"%s¿¡¼­ ¼ÒÄÏ ºüÁú¶§±îÁö ³²Àº ½Ã°£ %d";
+"469";
+
+"[Guild] Required time: %d min. %d sec.";
+"47";
+
+"ÀÌ¼º°£¿¡¸¸ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"470";
+
+"%s¿¡ ¹ÚÇôÀÖ´ø º¸¼®ÀÌ »ç¶óÁı´Ï´Ù.";
+"471";
+
+"<±æµå> ±æµå ÀÌ¸§ÀÌ ÀûÇÕÇÏÁö ¾Ê½À´Ï´Ù.";
+"472";
+
+"<±æµå> ÀÌ¹Ì °°Àº ÀÌ¸§ÀÇ ±æµå°¡ ÀÖ½À´Ï´Ù.";
+"473";
+
+"<±æµå> ±æµå¸¦ »ı¼ºÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"474";
+
+"%s ±æµå°¡ %s ±æµå¿¡ ¼±ÀüÆ÷°í¸¦ ÇÏ¿´½À´Ï´Ù!";
+"475";
+
+"<±æµå> %s ±æµå°¡ ±æµåÀüÀ» °ÅºÎÇÏ¿´½À´Ï´Ù.";
+"476";
+
+"%s ±æµå¿Í %s ±æµå°¡ Àá½Ã ÈÄ ÀüÀïÀ» ½ÃÀÛÇÕ´Ï´Ù!";
+"477";
+
+"%s ±æµå¿Í %s ±æµå°¡ ÀüÀïÀ» ½ÃÀÛÇÏ¿´½À´Ï´Ù!";
+"478";
+
+"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ ¹«½ÂºÎ·Î ³¡³µ½À´Ï´Ù.";
+"479";
+
+"[Guild] For your own safety, you will be teleported away from the nest in 10 minutes.";
+"48";
+
+"%s ±æµå°¡ %s ±æµå¿ÍÀÇ ÀüÀï¿¡¼­ ½Â¸® Çß½À´Ï´Ù.";
+"480";
+
+"ÀÌ Çàµ¿Àº »óÈ£µ¿ÀÇ ÇÏ¿¡ °¡´É ÇÕ´Ï´Ù.";
+"481";
+
+"<±æµå> ±æµåÀüÀÌ Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
+"482";
+
+"%s ±æµå¿Í %s ±æµå »çÀÌÀÇ ÀüÀïÀÌ Ãë¼ÒµÇ¾ú½À´Ï´Ù.";
+"483";
+
+"´İ±â";
+"484";
+
+"ÀüÅõ°¡ ½ÃÀÛ µÇ¾î Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
+"485";
+
+"´Ù¸¥ ÄÄÇ»ÅÍ¿¡¼­ ·Î±×ÀÎ ÇÏ¿© Á¢¼ÓÀ» Á¾·á ÇÕ´Ï´Ù.";
+"486";
+
+"³ª¹«¿¡¼­ ºÎÅÍ ½ÅºñÇÑ ºûÀÌ ³ª¿É´Ï´Ù.";
+"487";
+
+"%dºĞÀÇ °áÁ¦½Ã°£ÀÌ Ãß°¡ µÇ¾ú½À´Ï´Ù. (°áÁ¦¹øÈ£ %d)";
+"488";
+
+"°üÀü ¸ğµå·Î ±æµåÀü¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
+"489";
+
+"[Guild] Time's up.";
+"49";
+
+"ÀÚ½ÅÀ» ¼±ÅÃÇÏ½Ã¸é ¹ÛÀ¸·Î ³ª°¥ ¼ö ÀÖ´Â <°ü¶÷ Á¾·á> ¹öÆ°ÀÌ ³ª¿É´Ï´Ù.";
+"490";
+
+"±æµåÀü¿¡ Âü°¡ÇÑ »ó´ë¹æ ±æµå¿øÀÌ ¾Æ¹«µµ ¾ø½À´Ï´Ù.";
+"491";
+
+"%s´Ô°úÀÇ ´ë°á ½ÃÀÛ!";
+"492";
+
+"1ºĞ ÀÌ³»¿¡ ¾Æ¹«µµ Á¢¼ÓÇÏÁö ¾ÊÀ¸¸é ±æµåÀüÀÌ ÀÚµ¿ Á¾·áµË´Ï´Ù.";
+"493";
+
+"±æµåÀüÀÌ ÀÏÂï Á¾·áµÇ¾î ¹«½ÂºÎ·Î ÆÇÁ¤ µÇ¾ú½À´Ï´Ù. (5ºĞÀÌ Áö³ªÁö ¾ÊÀ½)";
+"494";
+
+"±ºÁÖ°¡ ³»¸° Ãàº¹À¸·Î ¸ğµç ¿¡³ÊÁö°¡ °¡µæ Ã¤¿öÁı´Ï´Ù";
+"495";
+
+"%d ÃÊ ÈÄ¿¡ ±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù";
+"496";
+
+"±¹°í¿¡ ÀÚ±İÀÌ ¸ğÀÚ¶ø´Ï´Ù ±¹°í : %d";
+"497";
+
+"[TEST_ONLY]ÇöÀç ±¹°í : %d";
+"498";
+
+"µĞ°©¿¡ ½ÇÆĞ ÇÏ¿´½À´Ï´Ù";
+"499";
+
+"[Guild] The guild territory sale cannot be completed as there is insufficient Yang in the guild bank.";
+"5";
+
+"[Guild] The gates to the lair are closed once more.";
+"50";
+
+"µĞ°©¼­ ¼ö·ÃÀ» ¸¶Ãº½À´Ï´Ù. ½Å¼±¿¡°Ô Ã£¾Æ°¡¼¼¿ä.";
+"500";
+
+"¸»À» ¸ÕÀú ¼ÒÈ¯ÇØÁÖ¼¼¿ä.";
+"501";
+
+"¸»À» µ¹·Áº¸³Â½À´Ï´Ù.";
+"502";
+
+"%s´ÔÀÌ ´ë°á½ÅÃ»À» Çß½À´Ï´Ù. ½Â³«ÇÏ·Á¸é ´ë°áµ¿ÀÇ¸¦ ÇÏ¼¼¿ä.";
+"503";
+
+"¸»¿¡¼­ ¸ÕÀú ³»·Á¾ß ÇÕ´Ï´Ù.";
+"504";
+
+"¸»À» Åº »óÅÂ¿¡¼­´Â ¸ÔÀÌ¸¦ ÁÙ ¼ö ¾ø½À´Ï´Ù.";
+"505";
+
+"¸»¿¡°Ô %s%s ÁÖ¾ú½À´Ï´Ù.";
+"506";
+
+"%s ¾ÆÀÌÅÛÀÌ ÇÊ¿äÇÕ´Ï´Ù";
+"507";
+
+"¼Ë´Ù¿îÀÌ %dÃÊ ³²¾Ò½À´Ï´Ù.";
+"508";
+
+"%dÃÊ ÈÄ °ÔÀÓÀÌ ¼Ë´Ù¿î µË´Ï´Ù.";
+"509";
+
+"[Guild] For your own safety, you will be teleported away from the nest in 1 minute.";
+"51";
+
+"%dÃÊ ³²¾Ò½À´Ï´Ù.";
+"510";
+
+"Ãë¼Ò µÇ¾ú½À´Ï´Ù.";
+"511";
+
+"·Î±×ÀÎ È­¸éÀ¸·Î µ¹¾Æ °©´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
+"512";
+
+"°ÔÀÓÀ» Á¾·á ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
+"513";
+
+"%s¿¡°Ô ´ë°á½ÅÃ»À» Çß½À´Ï´Ù.";
+"514";
+
+"Ä³¸¯ÅÍ¸¦ ÀüÈ¯ ÇÕ´Ï´Ù. Àá½Ã¸¸ ±â´Ù¸®¼¼¿ä.";
+"515";
+
+"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½ )";
+"516";
+
+"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%dÃÊ ³²À½)";
+"517";
+
+"¾ÆÁ÷ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù.(%dÃÊ ³²À½)";
+"518";
+
+"¾ÆÁ÷ ¸¶À»¿¡¼­ Àç½ÃÀÛ ÇÒ ¼ö ¾ø½À´Ï´Ù. (%d ÃÊ ³²À½)";
+"519";
+
+"[Guild] The lair will close in %d min.";
+"52";
+
+"¼ºÁö¿¡¼­ ºÎÈ° ±âÈ¸¸¦ ¸ğµÎ ÀÒ¾ú½À´Ï´Ù! ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù!";
+"520";
+
+"µĞ°© Áß¿¡´Â ´É·ÂÀ» ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.";
+"521";
+
+"»ó´ë¹æÀÌ ´ë·ÃÁßÀÔ´Ï´Ù.";
+"522";
+
+"<±æµå> ±æµå¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
+"523";
+
+"<±æµå> ±æµå ½ºÅ³ ·¹º§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"524";
+
+"Àß¸øµÈ ¼±ÅÃÀ» Çß½À´Ï´Ù";
+"525";
+
+"<Ã¢°í> Àß¸øµÈ ¾ÏÈ£¸¦ ÀÔ·ÂÇÏ¼Ì½À´Ï´Ù.";
+"526";
+
+"<Ã¢°í> Ã¢°í°¡ ÀÌ¹Ì ¿­·ÁÀÖ½À´Ï´Ù.";
+"527";
+
+"<Ã¢°í> Ã¢°í¸¦ ´İÀºÁö 10ÃÊ ¾È¿¡´Â ¿­ ¼ö ¾ø½À´Ï´Ù.";
+"528";
+
+"<Ã¢°í> °Å¸®°¡ ¸Ö¾î¼­ Ã¢°í¸¦ ¿­ ¼ö ¾ø½À´Ï´Ù.";
+"529";
+
+"[Guild] You have cancelled the fight in Meley's Lair.";
+"53";
+
+"<ÆÄÆ¼> ¼­¹ö ¹®Á¦·Î ÆÄÆ¼ °ü·Ã Ã³¸®¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"530";
+
+"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
+"531";
+
+"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ ³ª°¡¼Ì½À´Ï´Ù.";
+"532";
+
+"<±æµå> ÀÌ¹Ì ´Ù¸¥ ÀüÀï¿¡ ÂüÀü Áß ÀÔ´Ï´Ù.";
+"533";
+
+"<±æµå> ±æµåÀü¿¡ ´ëÇÑ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"534";
+
+"<±æµå> ±×·± ±æµå°¡ ¾ø½À´Ï´Ù.";
+"535";
+
+"ÀÌ¹Ì ÀÔÈÄº¸µÇ¾îÀÖ½À´Ï´Ù";
+"536";
+
+"<±æµå> »ó´ë¹æ ±æµå°¡ ÀÌ¹Ì ÀüÀï Áß ÀÔ´Ï´Ù.";
+"537";
+
+"<±æµå> Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"538";
+
+"<±æµå> »ó´ë¹æ ±æµåÀÇ Àüºñ°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"539";
+
+"[Guild] You cannot declare a guild war whilst fighting in the dragon cave.";
+"54";
+
+"<±æµå> ÀÌ¹Ì ÀüÀïÀÌ ¿¹¾àµÈ ±æµå ÀÔ´Ï´Ù.";
+"540";
+
+"<±æµå> ÀÌ¹Ì ÀüÀï ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
+"541";
+
+"<±æµå> ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"542";
+
+"<±æµå> ±æµåÀüÀ» ÇÏ±â À§ÇØ¼± ÃÖ¼ÒÇÑ %d¸íÀÌ ÀÖ¾î¾ß ÇÕ´Ï´Ù.";
+"543";
+
+"<±æµå> »ó´ë¹æ ±æµåÀÇ ·¹´õ Á¡¼ö°¡ ¸ğÀÚ¶ó¼­ ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"544";
+
+"<±æµå> »ó´ë¹æ ±æµåÀÇ ±æµå¿ø ¼ö°¡ ºÎÁ·ÇÏ¿© ±æµåÀüÀ» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"545";
+
+"·¹º§ 20 ÀÌÇÏ´Â ÇÚµåÆù ¹øÈ£¸¦ µî·ÏÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"546";
+
+"±ºÁÖÀÇ ÀÚ°İÀ» °¡Áö°í ÀÖÁö ¾Ê½À´Ï´Ù";
+"547";
+
+"%s ´ÔÀ¸·Î ºÎÅÍ Ä£±¸ µî·ÏÀ» °ÅºÎ ´çÇß½À´Ï´Ù.";
+"548";
+
+"ÀÌ¹Ì ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖÀ¸¹Ç·Î °¡ÀÔ½ÅÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"549";
+
+"[Guild] The enemy guild is currently fighting in the dragon cave.";
+"55";
+
+"±ºÁÖ¸¸ÀÌ »ç¿ë°¡´É ÇÑ ±â´ÉÀÔ´Ï´Ù";
+"550";
+
+"%d ÃÊ°£ ÄğÅ¸ÀÓÀÌ Àû¿ëÁßÀÔ´Ï´Ù.";
+"551";
+
+"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù. ÇöÀç : %u ÇÊ¿ä±İ¾× : %u";
+"552";
+
+"»ç¿ë¹ı: warpto <character name>";
+"553";
+
+"Å¸Á¦±¹ À¯Àú¿¡°Ô´Â ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù";
+"554";
+
+"ÇØ´ç À¯Àú´Â %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
+"555";
+
+"%s ¿¡°Ô·Î ÀÌµ¿ÇÕ´Ï´Ù";
+"556";
+
+"Å¸Á¦±¹ À¯Àú´Â ¼ÒÈ¯ ÇÒ¼ö ¾ø½À´Ï´Ù";
+"557";
+
+"<±æµå> ±æµåÀüÁß¿¡´Â »ç³É¿¡ µû¸¥ ÀÌÀÍÀÌ ¾ø½À´Ï´Ù.";
+"558";
+
+"±ºÁÖÀÇ Ãàº¹À¸·Î ÀÌÁö¿ª %s À¯Àú´Â HP,SP°¡ ¸ğµÎ Ã¤¿öÁı´Ï´Ù.";
+"559";
+
+"¾Æ¹«°Íµµ ¾òÀ» ¼ö ¾ø¾ú½À´Ï´Ù.";
+"56";
+
+"³ªÀÇ ±ºÁÖ Á¤º¸";
+"560";
+
+"[%s±ºÁÖ] : %s  º¸À¯±İ¾× %lld";
+"561";
+
+"[%s±ºÁÖ] : %s";
+"562";
+
+"±ºÁÖ Á¤º¸";
+"563";
+
+"±ºÁÖ¸¸ÀÌ »ç¿ëÇÒ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù";
+"564";
+
+"1-50 »çÀÌÀÇ ¼öÄ¡¸¦ ¼±ÅÃÇØÁÖ¼¼¿ä";
+"565";
+
+"¼¼±İÀÌ %d %·Î ¼³Á¤µÇ¾ú½À´Ï´Ù";
+"566";
+
+"¼ÒÈ¯ÇÒ¼ö ¾ø´Â ¸ó½ºÅÍ ÀÔ´Ï´Ù. ¼ÒÈ¯°¡´ÉÇÑ ¸ó½ºÅÍ´Â È¨ÆäÀÌÁö¸¦ ÂüÁ¶ÇÏ¼¼¿ä";
+"567";
+
+"ÃÖ´ë »ı¸í·Â +%d";
+"568";
+
+"ÃÖ´ë Á¤½Å·Â +%d";
+"569";
+
+"[Guild] Successfully registered for Meley's Lair.";
+"57";
+
+"±ºÁÖÀÇ Ãàº¹À» »ç¿ëÇÏ¿´½À´Ï´Ù.";
+"570";
+
+"Ã¼·Â +%d";
+"571";
+
+"Áö´É +%d";
+"572";
+
+"±Ù·Â +%d";
+"573";
+
+"¹ÎÃ¸ +%d";
+"574";
+
+"°ø°İ¼Óµµ +%d";
+"575";
+
+"ÀÌµ¿¼Óµµ %d";
+"576";
+
+"ÄğÅ¸ÀÓ -%d";
+"577";
+
+"»ı¸í·Â È¸º¹ +%d";
+"578";
+
+"Á¤½Å·Â È¸º¹ +%d";
+"579";
+
+"[Guild] Visit the Dragon Watcher Dolnarr to enter the dragon cave.";
+"58";
+
+"µ¶°ø°İ %d";
+"580";
+
+"ÄğÅ¸ÀÓ Àû¿ëÁß  %d ÈÄ »ç¿ë°¡´É";
+"581";
+
+"½ºÅÏ +%d";
+"582";
+
+"½½·Î¿ì +%d";
+"583";
+
+"%d%% È®·ü·Î Ä¡¸íÅ¸ °ø°İ";
+"584";
+
+"%d%% È®·ü·Î °üÅë °ø°İ";
+"585";
+
+"ÀÎ°£·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
+"586";
+
+"µ¿¹°·ù ¸ó½ºÅÍ Å¸°İÄ¡ +%d%%";
+"587";
+
+"¿õ±ÍÁ· Å¸°İÄ¡ +%d%%";
+"588";
+
+"¹Ğ±³·ù Å¸°İÄ¡ +%d%%";
+"589";
+
+"The summer event has started. Visit Summer in town. She'll give you some tasty refreshments.";
+"59";
+
+"½ÃÃ¼·ù Å¸°İÄ¡ +%d%%";
+"590";
+
+"¾Ç¸¶·ù Å¸°İÄ¡ +%d%%";
+"591";
+
+"±ºÁÖÀÇ »çÀÚÈÄ ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ °ø°İ·ÂÀÌ  Áõ°¡µË´Ï´Ù";
+"592";
+
+"Å¸°İÄ¡ %d%% ¸¦ »ı¸í·ÂÀ¸·Î Èí¼ö";
+"593";
+
+"Å¸·ÂÄ¡ %d%% ¸¦ Á¤½Å·ÂÀ¸·Î Èí¼ö";
+"594";
+
+"%d%% È®·ü·Î Å¸°İ½Ã »ó´ë Àü½Å·Â ¼Ò¸ğ";
+"595";
+
+"%d%% È®·ü·Î ÇÇÇØ½Ã Á¤½Å·Â È¸º¹";
+"596";
+
+"¹°¸®Å¸°İ½Ã ºí·° È®·ü %d%%";
+"597";
+
+"È° °ø°İ È¸ÇÇ È®·ü %d%%";
+"598";
+
+"ÇÑ¼Õ°Ë ¹æ¾î %d%%";
+"599";
+
+"[Guild] You cannot leave the guild while a vote is in progress.";
+"6";
+
+"The summer event will end soon. Summer will keep the towns supplied with tasty refreshments for 7 more days.";
+"60";
+
+"¾ç¼Õ°Ë ¹æ¾î %d%%";
+"600";
+
+"µÎ¼Õ°Ë ¹æ¾î %d%%";
+"601";
+
+"¹æ¿ï ¹æ¾î %d%%";
+"602";
+
+"±ºÁÖÀÇ ±İ°­±Ç ¿µÇâÀ¸·Î ÀÌÁö¿ª %s À¯Àú´Â 3ºĞ°£ 10 %% ÀÇ ¹æ¾î·ÂÀÌ  Áõ°¡µË´Ï´Ù";
+"603";
+
+"ºÎÃ¤ ¹æ¾î %d%%";
+"604";
+
+"È°°ø°İ ÀúÇ× %d%%";
+"605";
+
+"È­¿° ÀúÇ× %d%%";
+"606";
+
+"Àü±â ÀúÇ× %d%%";
+"607";
+
+"¸¶¹ı ÀúÇ× %d%%";
+"608";
+
+"¹Ù¶÷ ÀúÇ× %d%%";
+"609";
+
+"This effect is already active.";
+"61";
+
+"Á÷Á¢ Å¸°İÄ¡ ¹İ»ç È®·ü : %d%%";
+"610";
+
+"ÀúÁÖ µÇµ¹¸®±â È®·ü %d%%";
+"611";
+
+"µ¶ ÀúÇ× %d%%";
+"612";
+
+"%d%% È®·ü·Î ÀûÅğÄ¡½Ã Á¤½Å·Â È¸º¹";
+"613";
+
+"OX ÀÌº¥Æ®°¡ ÀÌ¹Ì ÁøÇàÁßÀÔ´Ï´Ù(flag: %d)";
+"614";
+
+"%d%% È®·ü·Î ÀûÅğÄ¡½Ã °æÇèÄ¡ Ãß°¡ »ó½Â";
+"615";
+
+"%d%% È®·ü·Î ÀûÅğÄ¡½Ã µ· 2¹è µå·Ó";
+"616";
+
+"%d%% È®·ü·Î ÀûÅğÄ¡½Ã ¾ÆÀÌÅÛ 2¹è µå·Ó";
+"617";
+
+"¹°¾à »ç¿ë½Ã %d%% ¼º´É Áõ°¡";
+"618";
+
+"%d%% È®·ü·Î ÀûÅğÄ¡½Ã »ı¸í·Â È¸º¹";
+"619";
+
+"[Guild] You can only make one transaction every 10 seconds.";
+"62";
+
+"±âÀıÇÏÁö ¾ÊÀ½ %d%%";
+"620";
+
+"´À·ÁÁöÁö ¾ÊÀ½ %d%%";
+"621";
+
+"³Ñ¾îÁöÁö ¾ÊÀ½ %d%%";
+"622";
+
+"°ø°İ·Â +%d";
+"623";
+
+"¹æ¾î·Â +%d";
+"624";
+
+"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ½ÇÆĞ";
+"625";
+
+"¸¶¹ı °ø°İ·Â +%d";
+"626";
+
+"¸¶¹ı ¹æ¾î·Â +%d";
+"627";
+
+"ÃÖ´ë Áö±¸·Â +%d";
+"628";
+
+"¹«»ç¿¡°Ô °­ÇÔ +%d%%";
+"629";
+
+"[Guild] Another member is currently using the guild bank.";
+"63";
+
+"ÀÚ°´¿¡°Ô °­ÇÔ +%d%%";
+"630";
+
+"¼ö¶ó¿¡°Ô °­ÇÔ +%d%%";
+"631";
+
+"¹«´ç¿¡°Ô °­ÇÔ +%d%%";
+"632";
+
+"¸ó½ºÅÍ¿¡°Ô °­ÇÔ +%d%%";
+"633";
+
+"°ø°İ·Â +%d%%";
+"634";
+
+"¹æ¾î·Â +%d%%";
+"635";
+
+"OX ¹®Á¦ ½ºÅ©¸³Æ® ·Îµù ¼º°ø";
+"636";
+
+"°æÇèÄ¡ %d%%";
+"637";
+
+"¾ÆÀÌÅÛ µå·ÓÀ² %.1f¹è";
+"638";
+
+"µ· µå·ÓÀ² %.1f¹è";
+"639";
+
+"[Guild] Guild [%s] has lost the war against [%s].";
+"64";
+
+"ÃÖ´ë »ı¸í·Â +%d%%";
+"640";
+
+"ÃÖ´ë Á¤½Å·Â +%d%%";
+"641";
+
+"½ºÅ³ µ¥¹ÌÁö %d%%";
+"642";
+
+"ÆòÅ¸ µ¥¹ÌÁö %d%%";
+"643";
+
+"½ºÅ³ µ¥¹ÌÁö ÀúÇ× %d%%";
+"644";
+
+"ÆòÅ¸ µ¥¹ÌÁö ÀúÇ× %d%%";
+"645";
+
+"¹«»ç°ø°İ¿¡ %d%% ÀúÇ×";
+"646";
+
+"¾È³çÇÏ¼¼¿ä. ¸ŞÆ¾2 ÀÔ´Ï´Ù.";
+"647";
+
+"ÀÚ°´°ø°İ¿¡ %d%% ÀúÇ×";
+"648";
+
+"¼ö¶ó°ø°İ¿¡ %d%% ÀúÇ×";
+"649";
+
+"Account limit reached. You cannot open this box.";
+"65";
+
+"¹«´ç°ø°İ¿¡ %d%% ÀúÇ×";
+"650";
+
+"(¸¸·áÀÏ : %d³â %d¿ù %dÀÏ)";
+"651";
+
+"Ã¤ÆÃ ±İÁö »óÅÂÀÔ´Ï´Ù.";
+"652";
+
+"¿ÜÄ¡±â´Â À¯·áÈ¸¿ø¸¸ »ç¿ëÇÒ¼ö ÀÖ½À´Ï´Ù";
+"653";
+
+"¿ÜÄ¡±â´Â ·¹º§ %d ÀÌ»ó¸¸ »ç¿ë °¡´É ÇÕ´Ï´Ù.";
+"654";
+
+"ÆÄÆ¼ ÁßÀÌ ¾Æ´Õ´Ï´Ù.";
+"655";
+
+"±æµå¿¡ °¡ÀÔÇÏÁö ¾Ê¾Ò½À´Ï´Ù.";
+"656";
+
+"»ó´ë¹æÀÌ ¸Ş½ÅÁ® Ãß°¡ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
+"657";
+
+"OX ÀÌº¥Æ®°¡ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
+"658";
+
+"<¸Ş½ÅÁ®> ¿î¿µÀÚ´Â ¸Ş½ÅÁ®¿¡ Ãß°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"659";
+
+"[Guild] Your guild does not have enough Yang in the account. Please deposit more Yang and try again.";
+"66";
+
+"%s ´ÔÀº Á¢¼ÓµÇ ÀÖÁö ¾Ê½À´Ï´Ù.";
+"660";
+
+"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡ Ã¢°í¸¦ ¿­¼ö ¾ø½À´Ï´Ù.";
+"661";
+
+"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
+"662";
+
+"¾×¼ö°¡ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
+"663";
+
+"´Ù¸¥ °Å·¡ÁßÀÏ°æ¿ì °³ÀÎ»óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
+"664";
+
+"»ó´ë¹æÀÇ ÃÑ±İ¾×ÀÌ 20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© °Å·¡¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù..";
+"665";
+
+"<Ã¢°í> ¿Å±æ ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
+"666";
+
+"<Ã¢°í> ÀÌ ¾ÆÀÌÅÛÀº ³ÖÀ» ¼ö ¾ø½À´Ï´Ù.";
+"667";
+
+"<ÆÄÆ¼> ÆÄÆ¼¿äÃ»À» ÇÑ Ä³¸¯ÅÍ¸¦ Ã£À»¼ö ¾ø½À´Ï´Ù.";
+"668";
+
+"ÀüÀï ¼­¹ö°¡ ¿­·ÁÀÖÁö ¾Ê¾Æ ±æµåÀüÀ» ½ÃÀÛÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"669";
+
+"¼ÒÁö±İÀÌ ºÎÁ·ÇÏ¿© ÀÌ ¾ÆÀÌÅÛÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"67";
+
+"À»µÎÁö¸¦ ÅëÇÏ¿© ÀÔÀå °¡´ÉÇÕ´Ï´Ù.";
+"670";
+
+"<ÆÄÆ¼> ¸®´õ¸¸ º¯°æÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"671";
+
+"<ÆÄÆ¼> »óÅÂ¸¦ º¯°æÇÏ·Á´Â »ç¶÷ÀÌ ÆÄÆ¼¿øÀÌ ¾Æ´Õ´Ï´Ù.";
+"672";
+
+"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼¿¡¼­ Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"673";
+
+"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¿øÀ» Ãß¹æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"674";
+
+"<ÆÄÆ¼> ÆÄÆ¼¿¡¼­ Ãß¹æ´çÇÏ¼Ì½À´Ï´Ù.";
+"675";
+
+"<ÆÄÆ¼> ´øÁ¯³»¿¡¼­´Â ÆÄÆ¼¸¦ ³ª°¥ ¼ö ¾ø½À´Ï´Ù.";
+"676";
+
+"<ÆÄÆ¼> ´Ù¸¥ ÆÄÆ¼¿øÀ» Å»Åğ½ÃÅ³ ¼ö ¾ø½À´Ï´Ù.";
+"677";
+
+"<±æµå> ÇØ»êÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
+"678";
+
+"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏ ÀÌ³»¿¡´Â ±æµå¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù.";
+"679";
+
+"[Guild] Object moved successfully.";
+"68";
+
+"ÀûÇÕÇÏÁö ¾ÊÀº ±æµå ÀÌ¸§ ÀÔ´Ï´Ù.";
+"680";
+
+"¸¹Àº Âü¿© ºÎÅ¹µå¸³´Ï´Ù.";
+"681";
+
+"<±æµå> [%s] ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù.";
+"682";
+
+"<±æµå> ±æµå »ı¼º¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"683";
+
+"<ÆÄÆ¼> ÆÄÆ¼ ±â¼úÀº ÆÄÆ¼Àå¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"684";
+
+"<ÆÄÆ¼> ¼ÒÈ¯ÇÏ·Á´Â ´ë»óÀ» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
+"685";
+
+"<±æµå> Àß¸øµÈ ±İ¾×ÀÔ´Ï´Ù.";
+"686";
+
+"<±æµå> °¡Áö°í ÀÖ´Â µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"687";
+
+"<±æµå> ±×·¯ÇÑ »ç¶÷À» Ã£À» ¼ö ¾ø½À´Ï´Ù.";
+"688";
+
+"<±æµå> »ó´ë¹æÀÌ °°Àº ±æµå°¡ ¾Æ´Õ´Ï´Ù.";
+"689";
+
+"[Guild] You cannot use this guild logo. Please try again.";
+"69";
+
+"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÅ³ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"690";
+
+"<±æµå> ±æµå¿ø %s ´ÔÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
+"691";
+
+"OXÀÌº¥Æ®°¡ ´İÈ÷Áö ¾Ê¾Ò°Å³ª, ÄûÁî ÃâÁ¦ÁßÀÔ´Ï´Ù.(flag: %d)";
+"692";
+
+"<±æµå> ±æµå¿øÀ» °­Á¦ Å»Åğ ½ÃÄ×½À´Ï´Ù.";
+"693";
+
+"<±æµå> Á÷À§ ÀÌ¸§À» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"694";
+
+"<±æµå> ±æµåÀåÀÇ Á÷À§ ÀÌ¸§Àº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"695";
+
+"<±æµå> ÀûÇÕÇÏÁö ¾ÊÀº Á÷À§ ÀÌ¸§ ÀÔ´Ï´Ù.";
+"696";
+
+"<±æµå> Á÷À§ ±ÇÇÑÀ» º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"697";
+
+"<±æµå> ±æµåÀåÀÇ ±ÇÇÑÀº º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"698";
+
+"<±æµå> %uÀÇ °æÇèÄ¡¸¦ ÅõÀÚÇÏ¿´½À´Ï´Ù.";
+"699";
+
+"[Guild] The player is offline or on another map.";
+"7";
+
+"[Transmutation] You cannot equip the transmuted item as it does not match your gender.";
+"70";
+
+"<±æµå> °æÇèÄ¡ ÅõÀÚ¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"700";
+
+"<±æµå> µ·ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"701";
+
+"<±æµå> ¿ë½Å·Â È¸º¹¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"702";
+
+"Àá½Ã ÈÄ OX ÀÌº¥Æ®¸¦ ´Ù½Ã ½ÃÀÛÇÏ°Ú½À´Ï´Ù.";
+"703";
+
+"<±æµå> °øÁö±ÛÀ» ÀÛ¼ºÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"704";
+
+"<±æµå> Á÷À§¸¦ º¯°æÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"705";
+
+"<±æµå> ±æµåÀåÀÇ Á÷À§´Â º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"706";
+
+"<±æµå> ±æµåÀåÀ¸·Î Á÷À§¸¦ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"707";
+
+"<±æµå> Àå±ºÀ» ÁöÁ¤ÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"708";
+
+"<±æµå> ´õÀÌ»ó Àå¼ö¸¦ ÁöÁ¤ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"709";
+
+"[Transmutation] You cannot equip the transmuted item as it does not match your class.";
+"71";
+
+"¾ÆÀÌÅÛÀ» °Ç³×ÁÙ ¼ö ¾ø½À´Ï´Ù.";
+"710";
+
+"ºÒ¹ı ÇÁ·Î±×·¥ÀÌ °¨Áö µÇ¾î °ÔÀÓÀÌ Á¾·á µË´Ï´Ù.";
+"711";
+
+"¼ÒÀ¯ µ·ÀÌ 20¾ï³ÉÀ» ³Ñ¾î °Å·¡¸¦ ÇÛ¼ö°¡ ¾ø½À´Ï´Ù.";
+"712";
+
+"±İ¾×ÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"713";
+
+"ÇöÀç ÀÌº¥Æ® Âü°¡ÀÚ ºĞµéÀº ¸¶À»·Î ÀÌµ¿ µÇ°Ú½À´Ï´Ù.";
+"714";
+
+"¾ÆÀÌÅÛ ·ê·¿ ½ÃÀÛ.";
+"715";
+
+"¸Ó´Ï  ·ê·¿ ½ÃÀÛ.";
+"716";
+
+"ÇöÀç ¿Â¶óÀÎ »óÅÂ ÀÔ´Ï´Ù. ±Ó¸»À» ÀÌ¿ëÇÏ¼¼¿ä.";
+"717";
+
+"ÇÚµåÆù ¹øÈ£°¡ µî·ÏµÇ¾î ÀÖÁö ¾Ê½À´Ï´Ù.";
+"718";
+
+"¹®ÀÚ ¸Ş¼¼Áö Àü¼ÛÀº ·¹º§ 20ºÎÅÍ ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"719";
+
+"[Monster Card] Mission level: %d. You've defeated the monster: %s.";
+"72";
+
+"¹®ÀÚ ¸Ş¼¼Áö Àü¼Û¿¡´Â 2000¿øÀÌ ÇÊ¿ä ÇÕ´Ï´Ù.";
+"720";
+
+"¹®ÀÚ ¸Ş¼¼Áö¸¦ Àü¼Û Çß½À´Ï´Ù.";
+"721";
+
+"%s ±æµåÀÇ %sÀÌ %d%% Áõ°¡Çß½À´Ï´Ù!";
+"722";
+
+"%s ±æµåÀÇ %sÀÌ Á¤»óÀ¸·Î µ¹¾Æ¿Ô½À´Ï´Ù.";
+"723";
+
+"%s:%s_WAS_SET_TO%d%%";
+"724";
+
+"OX ÀÌº¥Æ®¸¦ ¸¶Ä¡°Ù½À´Ï´Ù.";
+"725";
+
+"%s:_%s_IS_NORMAL_AGAIN";
+"726";
+
+"°î±ªÀÌ ¼ö·Ãµµ°¡ ÃÖ´ë(%d)°¡ µÇ¾ú½À´Ï´Ù.";
+"727";
+
+"°î±ªÀÌ°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
+"728";
+
+"³ª¹«²Û¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ °î±ªÀÌ·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"729";
+
+"[Monster Card] You've completed your monster mission. Collect your Monster Card now.";
+"73";
+
+"°î±ªÀÌÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
+"730";
+
+"°î±ªÀÌ¸¦ µé°í ÀÖÁö ¾Ê¾Æ¼­ Ä¶ ¼ö ¾ø½À´Ï´Ù.";
+"731";
+
+"´õÀÌ»ó Ä³³¾ ¼ö ¾ø½À´Ï´Ù.";
+"732";
+
+"Ã¤±¤¿¡ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"733";
+
+"Ã¤±¤¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"734";
+
+"<¸Ş½ÅÁ®> %s ´ÔÀ» Ä£±¸·Î Ãß°¡ÇÏ¿´½À´Ï´Ù.";
+"735";
+
+"Àá½Ã ÈÄ ¸¶À»·Î ÀÌµ¿µÇ°Ú½À´Ï´Ù.";
+"736";
+
+"<¸Ş½ÅÁ®> %s ´ÔÀ» ¸Ş½ÅÀú¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù.";
+"737";
+
+"¼­¹ö¿¡ Ä¡¸íÀûÀÎ ¿À·ù°¡ ¹ß»ıÇÏ¿© ÀÚµ¿À¸·Î ÀçºÎÆÃµË´Ï´Ù.";
+"738";
+
+"10ÃÊÈÄ ÀÚµ¿À¸·Î Á¢¼ÓÀÌ Á¾·áµÇ¸ç,";
+"739";
+
+"[Monster Card] You don't have enough space in your inventory.";
+"74";
+
+"5ºĞ ÈÄ¿¡ Á¤»óÀûÀ¸·Î Á¢¼ÓÇÏ½Ç¼ö ÀÖ½À´Ï´Ù.";
+"740";
+
+"(%s) ±æµå°¡ »ı¼ºµÇ¾ú½À´Ï´Ù. [ÀÓ½Ã]";
+"741";
+
+"ÇöÀç ÀüÀïÁßÀÎ ±æµå ÀÔ´Ï´Ù";
+"742";
+
+"%s: Á¸ÀçÇÏÁö ¾Ê´Â ±æµå ÀÔ´Ï´Ù.";
+"743";
+
+"±×·± ÀÌ¸§ ¶Ç´Â ¹øÈ£ÀÇ ±æµå°¡ ¾ø½À´Ï´Ù.";
+"744";
+
+"Á¸ÀçÇÏÁö ¾Ê´Â °Ç¹°ÀÔ´Ï´Ù.";
+"745";
+
+"°°ÀÌ ÁöÀ» ¼ö ¾ø´Â Á¾·ùÀÇ °Ç¹°ÀÌ Áö¾îÁ® ÀÖ½À´Ï´Ù.";
+"746";
+
+"OXÀÌº¥Æ® ¸ÊÀ» ¸ÕÀú ´İ¾Æ ÁÖ¼¼¿ä.(Flag: %d)";
+"747";
+
+"°Ç¼³¿¡ ÇÊ¿äÇÑ °Ç¹°ÀÌ Áö¾îÁ® ÀÖÁö ¾Ê½À´Ï´Ù.";
+"748";
+
+"°Ç¹° ºñ¿ë Á¤º¸ ÀÌ»óÀ¸·Î °Ç¼³ ÀÛ¾÷¿¡ ½ÇÆĞÇß½À´Ï´Ù.";
+"749";
+
+"[Monster Card] [%s] Level up complete.";
+"75";
+
+"°Ç¼³ ºñ¿ëÀÌ ºÎÁ·ÇÕ´Ï´Ù.";
+"750";
+
+"ÀÚÀç°¡ ºÎÁ·ÇÏ¿© °Ç¼³ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"751";
+
+"°Ç¹°À» ÁöÀ» ¼ö ¾ø´Â À§Ä¡ÀÔ´Ï´Ù.";
+"752";
+
+"Á¸ÀçÇÏÁö ¾Ê´Â Ä³¸¯ÅÍ ÀÔ´Ï´Ù.";
+"753";
+
+"´ë·Ã °­Á¦ Á¾·á ½ÇÆĞ";
+"754";
+
+"´ë·Ã °­Á¦ Á¾·á ¼º°ø";
+"755";
+
+"´ë·ÃÀÌ ¼º°øÀûÀ¸·Î ½ÃÀÛ µÇ¾ú½À´Ï´Ù.";
+"756";
+
+"´ë·Ã ½ÃÀÛ¿¡ ¹®Á¦°¡ ÀÖ½À´Ï´Ù.";
+"757";
+
+"¹®Á¦¸¦ ÃâÁ¦ÇÏÁö ¸øÇß½À´Ï´Ù.";
+"758";
+
+"´ë·ÃÀÚ°¡ ¾ø½À´Ï´Ù.";
+"759";
+
+"[Monster Card] You can now watch the monster's movement animation.";
+"76";
+
+"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ ¾ø½À´Ï´Ù.";
+"760";
+
+"³²Àº ½ºÅÈ Æ÷ÀÎÆ®°¡ Àû½À´Ï´Ù.";
+"761";
+
+"°ªÀ» Àß¸ø ÀÔ·ÂÇÏ¿´½À´Ï´Ù.";
+"762";
+
+"¸í·É¾îÀÇ ¼­ºê Ä¿¸Çµå°¡ Àß¸ø µÇ¾ú½À´Ï´Ù.";
+"763";
+
+"ÇÃ·¹ÀÌ¾î %d ¿Í ÇÃ·¹ÀÌ¾î  %d¸¦ ÆÄÈ¥½ÃÅµ´Ï´Ù..";
+"764";
+
+"·í·¿À» µ¹¸³´Ï´Ù. ±İ¾× %d";
+"765";
+
+"¾ÆÀÌÅÛ·Î±×°¡ syslog ¿¡ ³²¾Ò½À´Ï´Ù";
+"766";
+
+"°¢Á¦±¹ ÁøÇà Á¤º¸";
+"767";
+
+"¼±ÅÃ ¸Ê Á¤º¸ ¼ºÁö %d Åë·Î %d %d %d";
+"768";
+
+"¹®Á¦¸¦ ÃâÁ¦ÇÏ¿´½À´Ï´Ù.";
+"769";
+
+"[Monster Card] You can now transform into the monster.";
+"77";
+
+"%s killcount %d mobkillcount %d bosskillcount %d ¼ºÁö ÁøÀÔ¼ö %d";
+"770";
+
+"³ªÀÇ »ï°Å¸® ÁøÇàÁ¤º¸";
+"771";
+
+"Äù½ºÆ®¸¦ ·ÎµåÇÏ´Â ÁßÀÔ´Ï´Ù. Àá½Ã¸¸ ±â´Ù·Á ÁÖ½Ê½Ã¿À.";
+"772";
+
+"´Ù¸¥°Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â Ã¢°í¸¦ ¿­¼ö°¡ ¾ø½À´Ï´Ù.";
+"773";
+
+"<Ã¢°í> Ã¢°í ºñ¹Ğ¹øÈ£°¡ º¯°æµÇ¾ú½À´Ï´Ù.";
+"774";
+
+"<Ã¢°í> ±âÁ¸ ºñ¹Ğ¹øÈ£°¡ Æ²·È½À´Ï´Ù.";
+"775";
+
+"°áÀç±â°£ÀÌ %dºĞ ÈÄ ¸¸·á µË´Ï´Ù.";
+"776";
+
+"Á¤»óÀûÀ¸·Î ÅõÇ¥¸¦ÇÏ¿´½À´Ï´Ù.";
+"777";
+
+"ÀÌ¹ÌÅõÇ¥¸¦ ÇßÀ½";
+"778";
+
+"%s ´ÔÀº Á¤»óÀûÀ¸·Î Ãâ¸¶¸¦ ÇÏ¿´½À´Ï´Ù.";
+"779";
+
+"½ºÅ³ ·¹º§À» ³»¸®´Âµ¥ ¼º°øÇÏ¿´½À´Ï´Ù.";
+"78";
+
+"ÀÌ¹Ì ¼±ÀüÆ÷°í ÁßÀÎ ±æµåÀÔ´Ï´Ù.";
+"780";
+
+"OXÀÌº¥Æ®°¡ ¿­·Á ÀÖÁö ¾Ê°Å³ª ¹®Á¦ ÃâÁ¦ÁßÀÔ´Ï´Ù.(Flag: %d)";
+"781";
+
+"Ãâ¸¶¸¦ ÇÒ¼ö°¡ ¾ø½À´Ï´Ù";
+"782";
+
+"ÇöÀç %s ±¹°í¿¡´Â %u ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
+"783";
+
+"ÇöÀç %s ±¹°í¿¡´Â %d ÀÇ µ·ÀÌ ÀÖ½À´Ï´Ù";
+"784";
+
+"±¹°í¿¡ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª µ·À» °¡Á®¿Ã¼ö ¾ø´Â »óÈ²ÀÔ´Ï´Ù";
+"785";
+
+"%s ±ºÁÖ ÈÄº¸¿¡¼­ »èÁ¦ÇÏ¿´½À´Ï´Ù";
+"786";
+
+"%s ´Â ±ºÁÖ ÈÄº¸°¡ ¾Æ´Õ´Ï´Ù.";
+"787";
+
+"%s ±ºÁÖ·Î ÀÔ¸í Çß½À´Ï´Ù.";
+"788";
+
+"%s ´Â ±ºÁÖ·Î ÀÔ¸íÇÒ¼ö ¾ø½À´Ï´Ù .";
+"789";
+
+"[Monster Card] You can now teleport to the monster's location.";
+"79";
+
+"%s ±ºÁÖ¸£ Á¦°Å ÇÏ¿´½À´Ï´Ù..";
+"790";
+
+"%s ±ºÁÖ¸¦ Á¦°Å ÇÒ¼ö ¾ø½À´Ï´Ù.";
+"791";
+
+"´õ ÀÌ»ó OXÀÌº¥Æ® Âü°¡ÀÚ¸¦ ¹ŞÁö ¾Ê½À´Ï´Ù.";
+"792";
+
+"½Å¼ö±¹";
+"793";
+
+"ÃµÁ¶±¹";
+"794";
+
+"Áø³ë±¹";
+"795";
+
+"³¬½Ã´ëÀÇ ¼ö·Ãµµ°¡ Áõ°¡ÇÏ¿´½À´Ï´Ù! (%d/%d)";
+"796";
+
+"³¬½Ã´ë°¡ ÃÖ´ë ¼ö·Ãµµ¿¡ µµ´ŞÇÏ¿´½À´Ï´Ù.";
+"797";
+
+"¾îºÎ¸¦ ÅëÇØ ´ÙÀ½ ·¹º§ÀÇ ³¬½Ã´ë·Î ¾÷±×·¹ÀÌµå ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"798";
+
+"°í±â°¡ ¹Ì³¢¸¸ »©¸Ô°í Àì½Î°Ô µµ¸ÁÄ¨´Ï´Ù.";
+"799";
+
+"[Guild] You cannot select combatants whilst the guild is in a war.";
+"8";
+
+"[Guild] As a combatant you cannot spectate your own guild war.";
+"80";
+
+"°í±â°¡ ÀâÇû½À´Ï´Ù! (%s)";
+"800";
+
+"ÀÌ¹ø¿¡ ÀâÀº ¹°°í±âÀÇ ±æÀÌ´Â %.2fcm";
+"801";
+
+"³¬½ÃÀÌº¥Æ®¿ùÃ´ºØ¾î";
+"802";
+
+"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿øÀ» ±â·ÏÇÏ¿´½À´Ï´Ù.";
+"803";
+
+"³¬½ÃÀÌº¥Æ®À×¾î";
+"804";
+
+"%s : %d ¸¶¸®";
+"805";
+
+"%d Á¾·ù %d ¸¶¸® ³¬À½";
+"806";
+
+"°í±â°¡ ÈçÀûµµ ¾øÀÌ »ç¶óÁı´Ï´Ù.";
+"807";
+
+"¹è ¼Ó¿¡¼­ Á¶°³°¡ ³ª¿Ô½À´Ï´Ù.";
+"808";
+
+"¹è ¼Ó¿¡¼­ Áö··ÀÌ°¡ ³ª¿Ô½À´Ï´Ù.";
+"809";
+
+"[Guild] The guild has set a minimum level for applicants (min. level: %d).";
+"81";
+
+"%s¸¦ ±¸¿ü½À´Ï´Ù.";
+"810";
+
+"20¾ï ³ÉÀ» ÃÊ°úÇÏ¿© »óÁ¡À» ¿­¼ö°¡ ¾ø½À´Ï´Ù";
+"811";
+
+"ºñ¼Ó¾î³ª Àº¾î°¡ Æ÷ÇÔµÈ »óÁ¡ ÀÌ¸§À¸·Î »óÁ¡À» ¿­ ¼ö ¾ø½À´Ï´Ù.";
+"812";
+
+"À¯·áÈ­ ¾ÆÀÌÅÛÀº °³ÀÎ»óÁ¡¿¡¼­ ÆÇ¸ÅÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"813";
+
+"OXÀÌº¥Æ®ÀÇ ³ª¸ÓÁö ÀÎ¿ø ±â·ÏÀ» ½ÇÆĞÇß½À´Ï´Ù.";
+"814";
+
+"Ã¤±¤À» Áß´ÜÇÏ¿´½À´Ï´Ù.";
+"815";
+
+"°î±ªÀÌ¸¦ ÀåÂøÇÏ¼¼¿ä.";
+"816";
+
+"³¬½Ã´ë¸¦ ÀåÂø ÇÏ¼¼¿ä.";
+"817";
+
+"¹Ì³¢¸¦ ³¢°í ´øÁ® ÁÖ¼¼¿ä.";
+"818";
+
+"³¬½Ã´ë°¡ ¾Æ´Ñ ¹°°ÇÀ¸·Î ³¬½Ã¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù!";
+"819";
+
+"[Guild] You can only make one transaction every 10 seconds.";
+"82";
+
+"ÆÄÆ¼ÀåÀÌ Á¢¼Ó »óÅÂ°¡ ¾Æ´Ï¶ó¼­ ¿äÃ»À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"820";
+
+"<ÆÄÆ¼> ´Ù¸¥ Á¦±¹°ú ÆÄÆ¼¸¦ ÀÌ·ê ¼ö ¾ø½À´Ï´Ù.";
+"821";
+
+"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"822";
+
+"<ÆÄÆ¼> °üÀü ¸ğµå¿¡¼± ÆÄÆ¼ ÃÊ´ë¸¦ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"823";
+
+"<ÆÄÆ¼> -30 ~ +30 ·¹º§ ÀÌ³»ÀÇ »ó´ë¹æ¸¸ ÃÊ´ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"824";
+
+"ÇöÀç ³²Àº Âü°¡ÀÚ¼ö : %d";
+"825";
+
+"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖ°í ·¹º§ º¸´Ù 30·¹º§ÀÌ ³·¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"826";
+
+"<ÆÄÆ¼> ÆÄÆ¼³» ÃÖÀú ·¹º§ º¸´Ù 30·¹º§ÀÌ ³ô¾Æ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"827";
+
+"<ÆÄÆ¼> ´õ ÀÌ»ó ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"828";
+
+"%s ´Ô¿¡°Ô ÆÄÆ¼°¡ÀÔ ½ÅÃ»À» Çß½À´Ï´Ù.";
+"829";
+
+"[Guild] Guild %s has purchased territory.";
+"83";
+
+"»ó´ë¹æÀÌ ÆÄÆ¼¿¡ ¼ÓÇØÀÖÁö ¾Ê½À´Ï´Ù.";
+"830";
+
+"<ÆÄÆ¼> ÆÄÆ¼ÀÇ ÀÎ¿øÁ¦ÇÑÀÌ ÃÊ°úÇÏ¿© ÆÄÆ¼¿¡ Âü°¡ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"831";
+
+"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÃÊ´ëÇÒ ¼ö ÀÖ´Â ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"832";
+
+"<ÆÄÆ¼> %s ´ÔÀÌ ÆÄÆ¼ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
+"833";
+
+"<ÆÄÆ¼> ÀÌ¹Ì %s´ÔÀº ÆÄÆ¼¿¡ ¼ÓÇØ ÀÖ½À´Ï´Ù.";
+"834";
+
+"<ÆÄÆ¼> ´øÀü ¾È¿¡¼­´Â ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"835";
+
+"OXÀÌº¥Æ®¸¦ °­Á¦ Á¾·á ½ÃÅµ´Ï´Ù.";
+"836";
+
+"<ÆÄÆ¼> ÆÄÆ¼ ÃÊ´ë¿¡ ÀÀÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"837";
+
+"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼ ÃÊ´ë¸¦ °ÅÀıÇÏ¼Ì½À´Ï´Ù.";
+"838";
+
+"<ÆÄÆ¼> %s´ÔÀÌ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
+"839";
+
+"[Guild] A Dragon's Temple fight is running on another channel.";
+"84";
+
+"<ÆÄÆ¼> %s´ÔÀÇ ÆÄÆ¼¿¡ Âü°¡ÇÏ¼Ì½À´Ï´Ù.";
+"840";
+
+"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â °³ÀÎ»óÁ¡À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"841";
+
+"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡¸¦ ÇÏ°í ÀÖ´Â ÁßÀÔ´Ï´Ù.";
+"842";
+
+"¸ŞÆ¾2ÀÎÁõ¹øÈ£: %s";
+"843";
+
+"ÀÎÁõ¹øÈ£°¡ Æ²·È½À´Ï´Ù. ´Ù½Ã ½ÃµµÇÏ¼¼¿ä.";
+"844";
+
+"ÇÚµåÆù ¹øÈ£°¡ µî·Ï µÇ¾ú½À´Ï´Ù.";
+"845";
+
+"»ó´ë¹æÀÌ ÀÖ´Â °÷À¸·Î ¿öÇÁÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"846";
+
+"OX »óÇ°À» Áö±ŞÇÏ¿´½À´Ï´Ù. ID: %d ¼ö·®: %d";
+"847";
+
+"»ó´ë¹æÀÌ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
+"848";
+
+"»ó´ë¹æÀÌ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
+"849";
+
+"[Guild] The logo server is currently undergoing maintenance.";
+"85";
+
+"Ã¢°í¸¦ ¿¬ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿ÇÒ¼ö ¾ø½À´Ï´Ù.";
+"850";
+
+"°Å·¡Ã¢,Ã¢°í µîÀ» ¿¬ »óÅÂ¿¡¼­´Â ´Ù¸¥°÷À¸·Î ÀÌµ¿,Á¾·á ÇÒ¼ö ¾ø½À´Ï´Ù";
+"851";
+
+"°Å·¡ ÈÄ %dÃÊ ÀÌ³»¿¡´Â ´Ù¸¥Áö¿ªÀ¸·Î ÀÌµ¿ ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"852";
+
+"´ë·Ã »ó´ë°¡ »ç¶óÁ® ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
+"853";
+
+"¹°¾à Á¦ÇÑÀÌ ¾ø½À´Ï´Ù.";
+"854";
+
+"¹°¾àÀ» %d °³ ±îÁö »ç¿ë °¡´ÉÇÕ´Ï´Ù.";
+"855";
+
+"10ÃÊµÚ ´ë·ÃÀÌ ½ÃÀÛµË´Ï´Ù.";
+"856";
+
+"´ë·ÃÀÌ ½ÃÀÛµÇ¾ú½À´Ï´Ù.";
+"857";
+
+"Âü";
+"858";
+
+"´ë·ÃÀå ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
+"859";
+
+"[Guild] The logo server is currently undergoing maintenance.";
+"86";
+
+"´ë·Ã ½Ã°£ ÃÊ°ú·Î ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
+"860";
+
+"10ÃÊµÚ ¸¶À»·Î ÀÌµ¿ÇÕ´Ï´Ù.";
+"861";
+
+"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Áß´ÜÇÕ´Ï´Ù.";
+"862";
+
+"»ó´ë¹æ Ä³¸¯ÅÍÀÇ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
+"863";
+
+"´ë·ÃÀÚ ¹®Á¦·Î ÀÎÇÏ¿© ´ë·ÃÀ» Á¾·áÇÕ´Ï´Ù.";
+"864";
+
+"%s ´ÔÀÌ ´ë·Ã¿¡¼­ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
+"865";
+
+"%s ´ÔÀÌ ½Â¸®ÇÏ¿´½À´Ï´Ù.";
+"866";
+
+"10ÃÊµÚ ¸¶À»·Î µÇµ¹¾Æ°©´Ï´Ù.";
+"867";
+
+"10ÃÊµÚ ´ÙÀ½ ÆÇÀ» ½ÃÀÛÇÕ´Ï´Ù.";
+"868";
+
+"°ÅÁş";
+"869";
+
+"[Guild] This land belongs to another player.";
+"87";
+
+"»ó´ë¹æ Ä³¸¯ÅÍ°¡ Á¢¼ÓÀ» Á¾·áÇÏ¿© ´ë·ÃÀ» ÁßÁöÇÕ´Ï´Ù.";
+"870";
+
+"¾ÆÀÌÅÛ µå·Ó·ü  %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
+"871";
+
+"°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
+"872";
+
+"´ë¹Ú°ñµå µå·Ó·ü %d%% Ãß°¡ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
+"873";
+
+"°æÇèÄ¡ %d%% Ãß°¡ È¹µæ ÀÌº¥Æ® ÁßÀÔ´Ï´Ù.";
+"874";
+
+"Å¬¶óÀÌ¾ğÆ® ¹öÀüÀÌ Æ²·Á ·Î±×¾Æ¿ô µË´Ï´Ù. Á¤»óÀûÀ¸·Î ÆĞÄ¡ ÈÄ Á¢¼ÓÇÏ¼¼¿ä.";
+"875";
+
+"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­¸°»óÅÂ¿¡¼­´Â »óÁ¡°Å·¡¸¦ ÇÒ¼ö °¡ ¾ø½À´Ï´Ù.";
+"876";
+
+"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» »ì ¼ö ¾ø½À´Ï´Ù.";
+"877";
+
+"»óÁ¡°úÀÇ °Å¸®°¡ ³Ê¹« ¸Ö¾î ¹°°ÇÀ» ÆÈ ¼ö ¾ø½À´Ï´Ù.";
+"878";
+
+"20¾ï³ÉÀÌ ÃÊ°úÇÏ¿© ¹°Ç°À» ÆÈ¼ö ¾ø½À´Ï´Ù.";
+"879";
+
+"½ºÅ³ ·¹º§À» ³»¸± ¼ö ¾ø½À´Ï´Ù.";
+"88";
+
+"ÃÑ ÄûÁî ¼ö: %d";
+"880";
+
+"ÆÇ¸Å±İ¾×ÀÇ %d %% °¡ ¼¼±İÀ¸·Î ³ª°¡°ÔµË´Ï´Ù";
+"881";
+
+"º¯½Å »óÅÂ¿¡¼­´Â ¸»¿¡ Å» ¼ö ¾ø½À´Ï´Ù.";
+"882";
+
+"¿¹º¹À» ÀÔÀº »óÅÂ¿¡¼­ ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
+"883";
+
+"¸»À» ¼ÒÀ¯ÇÏ°í ÀÖÁö ¾Ê½À´Ï´Ù.";
+"884";
+
+"¸»ÀÌ Á×¾îÀÖ´Â »óÅÂ ÀÔ´Ï´Ù.";
+"885";
+
+"¸»ÀÇ ½ºÅ×¹Ì³Ê°¡ ºÎÁ·ÇÏ¿© ¸»À» Å» ¼ö ¾ø½À´Ï´Ù.";
+"886";
+
+"¸» ¼ÒÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"887";
+
+"´ÔÀÇ ¸»";
+"888";
+
+"°áÈ¥½ÄÀÌ Á¾·áµË´Ï´Ù.";
+"889";
+
+"You must be level %d to enter the Combat Zone.";
+"89";
+
+"ÀÚµ¿À¸·Î ³ª°¡°ÔµË´Ï´Ù.";
+"890";
+
+"ÀÌ¹Ì ÀüÀïÀÌ ³¡³µ½À´Ï´Ù.";
+"891";
+
+"10ÃÊµÚ ÆÇÁ¤ÇÏ°Ú½À´Ï´Ù.";
+"892";
+
+"°üÀü »óÅÂ¿¡¼­´Â ±³È¯À» ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"893";
+
+"´Ù¸¥ °Å·¡Ã¢ÀÌ ¿­·ÁÀÖÀ»°æ¿ì °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
+"894";
+
+"»ó´ë¹æÀÌ ´Ù¸¥ °Å·¡ÁßÀÌ¶ó °Å·¡¸¦ ÇÒ¼ö ¾ø½À´Ï´Ù.";
+"895";
+
+"»ó´ë¹æÀÌ ±³È¯ °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
+"896";
+
+"µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
+"897";
+
+"»ó´ë¹æÀÇ µ·ÀÌ ºÎÁ·ÇÏ°Å³ª ¾ÆÀÌÅÛÀÌ Á¦ÀÚ¸®¿¡ ¾ø½À´Ï´Ù.";
+"898";
+
+"»ó´ë¹æÀÇ ¼ÒÁöÇ°¿¡ ºó °ø°£ÀÌ ¾ø½À´Ï´Ù.";
+"899";
+
+"[Guild] You cannot start another vote whilst one is in progress.";
+"9";
+
+"You cannot enter the Combat Zone from this map.";
+"90";
+
+"%s ´Ô°úÀÇ ±³È¯ÀÌ ¼º»ç µÇ¾ú½À´Ï´Ù.";
+"900";
+
+"¿ë½ÅÀÇ °¡È£·Î °æÇèÄ¡°¡ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
+"901";
+
+"ÇöÀç ½ºÄÚ¾î ½Å¼ö±¹:%d ÃµÁ¶±¹:%d Áø³ë±¹:%d";
+"902";
+
+"Á¤´äÀº";
+"903";
+
+"Á×Àº Á¤º¸ %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"904";
+
+"¼ºÁöÀÇ ¸¶¿Õ: ³ÊÈñ";
+"905";
+
+"³à¼®µéÀº ÀÌ°÷ ¼ºÁö¿¡ ÀÖÀ» ÀÚ°İÀ» ÀÒ¾ú´Ù. ¸ğµÎ ¼ºÁö¿¡¼­ ¹°·¯³ª°Å¶ó~~[ENTER][ENTER] 10ÃÊ ÈÄ¿¡ ¸ğµÎ ¸¶À»·Î ÀÌµ¿ÇÏ°Ô µË´Ï´Ù.";
+"906";
+
+"»ï°Å¸® ÀüÅõ¿¡¼­ %s ±¹°¡°¡ °¡Àå¸ÕÀú Å»¶ôÀ» ÇÏ¿´½À´Ï´Ù";
+"907";
+
+"»ï°Å¸® ¸÷ ¸®Á¨";
+"908";
+
+". ³ÊÈñ°¡ ¼ºÁöÀÇ ¼öÈ£ÀÚ¸¦ Àâ°Ô µÈ´Ù¸é ³ÊÈñ´Â ¼ºÁöÀÇ ÁÖÀÎÀÌ µÈ´Ù.[ENTER][ENTER] ";
+"909";
+
+"You must close all windows before entering or leaving the Combat Zone.";
+"91";
+
+"¿ë½ÅÀÇ º¸È£·Î ¾ÆÀÌÅÛÀÌ ¶³¾îÁöÁö ¾Ê¾Ò½À´Ï´Ù.";
+"910";
+
+"°üÅë Ãß°¡ µ¥¹ÌÁö %d";
+"911";
+
+"%s ºí·°! (%d%%)";
+"912";
+
+"%s È¸ÇÇ! (%d%%)";
+"913";
+
+"O ÀÔ´Ï´Ù";
+"914";
+
+"%s[%d]°¡ °ø°İ À§Ä¡: %d %d";
+"915";
+
+"¸í·É¾î¸¦ ¸ğµÎ ÀÔ·ÂÇÏ¼¼¿ä.";
+"916";
+
+"Åº »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"917";
+
+"¾²·¯Áø »óÅÂ¿¡¼­´Â ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"918";
+
+"²Ş¼Ó¿¡¼­ ¾î¶»°Ô¿ä?";
+"919";
+
+"You cannot leave the Combat Zone when you are dead.";
+"92";
+
+"¸ÕÀú ÀÏ¾î ³ª¼¼¿ä.";
+"920";
+
+"±×·± ¸í·É¾î´Â ¾ø½À´Ï´Ù";
+"921";
+
+"<ÆÄÆ¼> ÆÄÆ¼°¡ ÇØ»ê µÇ¾ú½À´Ï´Ù.";
+"922";
+
+"<ÆÄÆ¼> ´ë»óÀ» ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"923";
+
+"<ÆÄÆ¼> ÆÄÆ¼¿øÀ» ÇöÀç À§Ä¡·Î ¼ÒÈ¯ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"924";
+
+"X ÀÔ´Ï´Ù";
+"925";
+
+"ÆÄÆ¼ÀÇ Çùµ¿·ÂÀÌ ³ô¾ÆÁ® Áö±İºÎÅÍ Ãß°¡ °æÇèÄ¡ º¸³Ê½º¸¦ ¹Ş½À´Ï´Ù.";
+"926";
+
+"±æµåÀå";
+"927";
+
+"±æµå¿ø";
+"928";
+
+"<±æµå> Á¦°øÇÏ°íÀÚ ÇÏ´Â °æÇèÄ¡°¡ ³²Àº °æÇèÄ¡º¸´Ù ¸¹½À´Ï´Ù.";
+"929";
+
+"You are entering the Combat Zone. Please wait.";
+"93";
+
+"<±æµå> »èÁ¦ÇÒ ¼ö ¾ø´Â ±ÛÀÔ´Ï´Ù.";
+"930";
+
+"<±æµå> ¿ë½Å·ÂÀÌ ºÎÁ·ÇÕ´Ï´Ù. (%d, %d)";
+"931";
+
+"<±æµå> ÄğÅ¸ÀÓÀÌ ³¡³ªÁö ¾Ê¾Æ ±æµå ½ºÅ³À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"932";
+
+"<±æµå> %d ½ºÅ³À» »ç¿ëÇÔ (%d, %d) to %u";
+"933";
+
+"<±æµå> »ó´ë°¡ %d Ã¤³Î¿¡ ÀÖ½À´Ï´Ù. (ÇöÀç Ã¤³Î %d)";
+"934";
+
+"<±æµå> »ó´ë°¡ ¿Â¶óÀÎ »óÅÂ°¡ ¾Æ´Õ´Ï´Ù.";
+"935";
+
+"5ÃÊ µÚ Æ²¸®½Å ºĞµéÀ» ¹Ù±ùÀ¸·Î ÀÌµ¿ ½ÃÅ°°Ú½À´Ï´Ù.";
+"936";
+
+"<±æµå> ±æµå ½ºÅ³Àº ±æµåÀü Áß¿¡¸¸ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"937";
+
+"<±æµå> %uÀÇ ¿ë½Å·ÂÀ» È¸º¹ÇÏ¿´½À´Ï´Ù.";
+"938";
+
+"<±æµå> ±æµå ±İ°í¿¡¼± ±æµåÀå¸¸ Ãâ±İÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"939";
+
+"You are leaving the Combat Zone. Please wait.";
+"94";
+
+"<±æµå> »ó´ë¹æÀÌ ±æµå ÃÊ´ë °ÅºÎ »óÅÂÀÔ´Ï´Ù.";
+"940";
+
+"<±æµå> ±æµå¿øÀ» ÃÊ´ëÇÒ ±ÇÇÑÀÌ ¾ø½À´Ï´Ù.";
+"941";
+
+"<±æµå> ´Ù¸¥ Á¦±¹ »ç¶÷À» ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"942";
+
+"<±æµå> Å»ÅğÇÑ ÈÄ %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"943";
+
+"<±æµå> ±æµå¸¦ ÇØ»êÇÑ Áö %dÀÏÀÌ Áö³ªÁö ¾ÊÀº »ç¶÷Àº ±æµå¿¡ ÃÊ´ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"944";
+
+"<±æµå> »ó´ë¹æÀÌ ÀÌ¹Ì ´Ù¸¥ ±æµå¿¡ ¼ÓÇØÀÖ½À´Ï´Ù.";
+"945";
+
+"<±æµå> ÃÖ´ë ±æµå¿ø ¼ö¸¦ ÃÊ°úÇß½À´Ï´Ù.";
+"946";
+
+"´ÙÀ½ ¹®Á¦ ÁØºñÇØÁÖ¼¼¿ä.";
+"947";
+
+"¼ö·ÃÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
+"948";
+
+"±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ ¼ö ¾ø´Â ½ºÅ³ÀÔ´Ï´Ù.";
+"949";
+
+"Next entry available in %d minute(s).";
+"95";
+
+"ÆÛÆåÆ® ¸¶½ºÅÍµÈ ½ºÅ³ÀÔ´Ï´Ù. ´õ ÀÌ»ó ¼ö·Ã ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"950";
+
+"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ ±×·£µå ¸¶½ºÅÍ ¼ö·ÃÀ» ÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
+"951";
+
+"Å©À¹, ±â°¡ ¿ª·ùÇÏ°í ÀÖ¾î! ÀÌ°Å ¼³¸¶ ÁÖÈ­ÀÔ¸¶ÀÎ°¡!? Á¨Àå!";
+"952";
+
+"¼ö·ÃÀÌ ½ÇÆĞ·Î ³¡³µ½À´Ï´Ù. ´Ù½Ã µµÀüÇØÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.";
+"953";
+
+"¸ö¿¡¼­ ¹º°¡ ÈûÀÌ ÅÍÁ® ³ª¿À´Â ±âºĞÀÌ¾ß!";
+"954";
+
+"¶ß°Å¿î ¹«¾ùÀÌ °è¼Ó ¿ë¼ÚÀ½Ä¡°í ÀÖ¾î! ÀÌ°Ç, ÀÌ°ÍÀº!";
+"955";
+
+"´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
+"956";
+
+"°æÇèÄ¡°¡ ºÎÁ·ÇÏ¿© Ã¥À» ÀĞÀ» ¼ö ¾ø½À´Ï´Ù.";
+"957";
+
+"¹®Á¦ ÀÔ´Ï´Ù.";
+"958";
+
+"ÀÌ ½ºÅ³Àº Ã¥À¸·Î ´õÀÌ»ó ¼ö·ÃÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"959";
+
+"Next entry available in %d second(s).";
+"96";
+
+"ÀÌ ½ºÅ³Àº ¾ÆÁ÷ Ã¥À¸·Î ¼ö·ÃÇÒ °æÁö¿¡ ÀÌ¸£Áö ¾Ê¾Ò½À´Ï´Ù.";
+"960";
+
+"¾î´ÀÁ¤µµ ÀÌ ±â¼ú¿¡ ´ëÇØ ÀÌÇØ°¡ µÇ¾úÁö¸¸ Á¶±İ ºÎÁ·ÇÑµí ÇÑµ¥..";
+"961";
+
+"µåµğ¾î ³¡ÀÌ º¸ÀÌ´Â °Ç°¡...  ÀÌ ±â¼úÀº ÀÌÇØÇÏ±â°¡ ³Ê¹« Èûµé¾î..";
+"962";
+
+"¿­½ÉÈ÷ ÇÏ´Â ¹è¿òÀ» °¡Áö´Â °Í¸¸ÀÌ ±â¼úÀ» ¹è¿ï¼ö ÀÖ´Â À¯ÀÏÇÑ ±æÀÌ´Ù..";
+"963";
+
+"Ã¥À¸·Î ´õ ³ôÀº °æÁöÀÇ ¼ö·ÃÀ» ¼º°øÀûÀ¸·Î ³¡³»¼Ì½À´Ï´Ù.";
+"964";
+
+"±ÍÈ¯¿¡ ½ÇÆĞÇÏ¿´½À´Ï´Ù.";
+"965";
+
+"¸»ÀÌ ¾ø½À´Ï´Ù. ¸¶±Â°£ °æºñº´À» Ã£¾Æ°¡¼¼¿ä.";
+"966";
+
+"¸» ¼ÒÈ¯ ¾ÆÀÌÅÛÀ» »ç¿ëÇÏ¼¼¿ä.";
+"967";
+
+"%s SP¼Ò¸ğ: %d";
+"968";
+
+"¸ÂÀ¸¸é O, Æ²¸®¸é X·Î ÀÌµ¿ÇØÁÖ¼¼¿ä";
+"969";
+
+"You cannot use this item here.";
+"97";
+
+"¸ö ¼ÓÀÌ ¶ß°Ì±º. ÇÏÁö¸¸ ¾ÆÁÖ Æí¾ÈÇØ. ÀÌ´ë·Î ±â¸¦ ¾ÈÁ¤½ÃÅ°ÀÚ.";
+"970";
+
+"±×·¡, ÃµÃµÈ÷. Á»´õ ÃµÃµÈ÷, ±×·¯³ª ¸·Èû ¾øÀÌ ºü¸£°Ô!";
+"971";
+
+"±×·¡, ÀÌ ´À³¦ÀÌ¾ß. Ã¼³»¿¡ ±â°¡ ¾ÆÁÖ Ãæ¸¸ÇØ.";
+"972";
+
+"´Ù ÀĞ¾ú´Ù! ÀÌÁ¦ ºñ±Ş¿¡ ÀûÇôÀÖ´Â ´ë·Î Àü½Å¿¡ ±â¸¦ µ¹¸®±â¸¸ ÇÏ¸é,";
+"973";
+
+"±×°ÍÀ¸·Î ¼ö·ÃÀº ³¡³­ °Å¾ß!";
+"974";
+
+"ÀÌÁ¦ Ã¥ÀÇ ¸¶Áö¸· ÀåÀÌ¾ß! ¼ö·ÃÀÇ ³¡ÀÌ ´«¿¡ º¸ÀÌ°í ÀÖ¾î!";
+"975";
+
+"¾ó¸¶ ¾È ³²¾Ò¾î! Á¶±İ¸¸ ´õ!";
+"976";
+
+"ÁÁ¾Ò¾î! Á¶±İ¸¸ ´õ ÀĞÀ¸¸é ³¡ÀÌ´Ù!";
+"977";
+
+"Ã¥Àåµµ ÀÌÁ¦ ¾ó¸¶ ³²Áö ¾Ê¾Ò±º.";
+"978";
+
+"¹º°¡ ¸ö ¾È¿¡ ÈûÀÌ »ı±â´Â ±âºĞÀÎ °É.";
+"979";
+
+"You cannot use this item here.";
+"98";
+
+"Á¤´äÀÔ´Ï´Ù!";
+"980";
+
+"ÀÌÁ¦ Á» ½½½½ °¡´ÚÀÌ ÀâÈ÷´Â °Í °°Àºµ¥.";
+"981";
+
+"ÁÁ¾Æ, ÀÌ ±â¼¼·Î °è¼Ó ³ª°£´Ù!";
+"982";
+
+"¾Æ´Ï ¾î¶»°Ô µÈ °Ô Á¾ÀÏ ÀĞ¾îµµ ¸Ó¸®¿¡ ¾È µé¾î¿À³Ä.";
+"983";
+
+"°øºÎÇÏ±â ½È¾îÁö³×.";
+"984";
+
+"»ı°¢¸¸Å­ ÀĞ±â°¡ ½±Áö°¡ ¾Ê±º. ÀÌÇØµµ ¾î·Æ°í ³»¿ëµµ ³­ÇØÇØ.";
+"985";
+
+"ÀÌ·¡¼­¾ß °øºÎ°¡ ¾ÈµÈ´Ù±¸.";
+"986";
+
+"¿î¿µÀÚ Á¦Á¦·Î Ã¤ÆÃÀÌ ±İÁö µÇ¾ú½À´Ï´Ù.";
+"987";
+
+"Ã¤ÆÃ ±İÁö°¡ Ç®·È½À´Ï´Ù.";
+"988";
+
+"ÀÌ¹Ì Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖ½À´Ï´Ù.";
+"989";
+
+"ÀÌ¹Ì È¿°ú°¡ °É·Á ÀÖ½À´Ï´Ù.";
+"99";
+
+"´Ù¸¥ °Å·¡Áß(Ã¢°í,±³È¯,»óÁ¡)¿¡´Â »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"990";
+
+"´õ ÀÌ»ó °³·®ÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"991";
+
+"Á¦Á¶Ã¢ÀÌ ¿­·ÁÀÖÁö ¾Ê½À´Ï´Ù";
+"992";
+
+"Á¦Á¶ Àç·á°¡ ºÎÁ·ÇÕ´Ï´Ù";
+"993";
+
+"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À";
+"994";
+
+"%d ±ÇÀ» ´õ ÀĞ¾î¾ß ¼ö·ÃÀ» ¿Ï·á ÇÒ ¼ö ÀÖ½À´Ï´Ù.";
+"995";
+
+"<±æµå> Àá½ÃÈÄ¿¡ ÀÌ¿ëÇØÁÖ½Ê½Ã¿À.";
+"996";
+
+"¼º¿¡¼­¸¸ »ç¿ëÇÒ ¼ö ÀÖ´Â ±â´ÉÀÔ´Ï´Ù.";
+"997";
+
+"TEST : È²±İµÎ²¨ºñ°¡ ±¹°í·Î È¯¿øµÇ¾ú½À´Ï´Ù.";
+"998";
+
+"TEST : ÇöÀç ±¹°í : %d";
+"999";
