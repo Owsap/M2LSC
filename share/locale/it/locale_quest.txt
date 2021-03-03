@@ -1,3 +1,6 @@
+13305	Ehi! Hai la chiave che serve per liberarmi?
+13306	Ti prego, liberami! Qualcuno mi può aiutare?
+13307	Ehi, tu! Ti prego, trova la chiave!
 2	Ti ho già spiegato quanta forza ci serve per[ENTER]combattere contro Sung Mahi.[ENTER][ENTER]Non perdere altro tempo e vai a cercare il[ENTER]comandante.[ENTER][ENTER]Torna indietro solo quando avrai tutte le stoffe[ENTER]necessarie.
 1	Una stoffa particolare
 3	Aumenta la tua forza
@@ -829,6 +832,26 @@
 12585	Ho trovato la Felce scura.[ENTER]Vado subito da Chaegirab!
 12591	Non mettermi fretta! Persino questa Felce scura[ENTER]appassita permette di raccogliere informazioni[ENTER]importanti per la scienza.[ENTER]Torna più tardi e portami una nuova pianta.[ENTER]Tempo ti attesa rimanente: %s
 12713	Mi dispiace.[ENTER]Non ho ancora finito di analizzare l'ultima Felce[ENTER]scura.[ENTER]Torna più tardi.[ENTER]Tempo ti attesa rimanente: %s
+13038	Sì
+13039	No
+13041	È disponibile solo per il capo.
+13042	Inizia la battaglia
+13043	Abbandona
+13044	Esci
+13045	Vuoi abbandonare il dungeon "Templum Serpens"?
+13046	Templum Serpens
+13047	Vuoi andartene? Finché il combattimento non[ENTER]inizia, puoi tornare di nuovo.
+13048	L'istanza Templum Serpens sta per essere chiusa.[ENTER]Vuoi smettere?
+13056	Tutti i giocatori del gruppo devono trovarsi[ENTER]nello stesso posto.
+13061	Vai al livello del boss.
+13062	Fabbro del Templum Serpens
+13063	Vuoi andare al livello del boss?
+13064	Fabbro Guanti potenti
+13065	Ehi, se ti va, posso migliorare un paio dei tuoi[ENTER]guanti. Non serve nessun altro materiale! Basta[ENTER]che mi dai i guanti che vuoi migliorare. I miei[ENTER]miglioramenti hanno lo stesso effetto di un[ENTER]Papiro consacrato.
+13613	Vuoi abbandonare il dungeon?
+13614	Attualmente non è possibile reimpostare il numero[ENTER]degli accessi.
+13615	Vuoi reimpostare il numero degli accessi al[ENTER]Templum Serpens?
+13616	Il numero degli accessi al Templum Serpens è[ENTER]stato reimpostato a 5.
 679	Sconfiggi le Jin-Hee
 678	Vendica mercante d'anelli
 680	La vecchietta ti ha chiesto di aiutarla: il suo[ENTER]amico, il mercante di anelli, è stato ucciso[ENTER]dalle Jin-Hee, l'Elité delle Eid Bianche.[ENTER]Vendicane la morte eliminando 30 Jin-Hee.
@@ -1358,6 +1381,30 @@
 989	Ecco un Cristallo di Energia. Tieni conto che[ENTER]solo il primo tentativo va sempre a buon fine.[ENTER]L'alchimia è una scienza imprevedibile: basta un[ENTER]piccolo errore per fallire! Esiste sempre una[ENTER]piccola possibilità che l'esperimento non riesca.
 990	Purtroppo il tentativo non è andato a buon fine.[ENTER]Non sono riuscito a creare un Cristallo di[ENTER]Energia. La mia tecnica è brillante, ma[ENTER]l'esecuzione nasconde molti rischi. Non sempre le[ENTER]cose vanno secondo i piani.[ENTER]La prossima volta avremo sicuramente successo!
 991	Lo sapevo! La mia tecnica è brillante![ENTER]Ecco un Cristallo di Energia.[ENTER]Eccone un esemplare! Riesci a percepire la sua[ENTER]forza?
+13540	Vuoi accedere al Templum Serpens?
+13014	Accedi al Templum Serpens
+13020	La preparazione è tutto
+13021	Per accedere al Templum Serpens devo prima[ENTER]trovare la Statua Serpens.
+13022	Per poter affrontare questo dungeon sotterraneo,[ENTER]ti serviranno diverse cose... un cappello, una[ENTER]frusta o un sacchettino di sabbia delle[ENTER]dimensioni di un tesoro ti saranno sicuramente[ENTER]utili. Se vuoi, posso fabbricarteli.
+13023	Se vuoi accedere al tempio, però, devi procurarmi[ENTER]%d Squame di serpente per l'equipaggiamento. E,[ENTER]dal momento che solo un eroe disposto a dare il[ENTER]massimo è degno della vittoria, ti costerà %d[ENTER]Yang. Riesci a procurare entrambi?
+13024	La Statua Serpens ha bisogno di %d Squame di[ENTER]serpente. I mostri nei dintorni ne hanno in[ENTER]abbondanza.
+13025	Per accedere al Templum Serpens devo prima[ENTER]procurare %d Squame di serpente per la Statua[ENTER]Serpens.[ENTER]Quantità rimanente: %d
+13026	Mi servono altre Squame di serpente...
+13027	Hai ottenuto le Squame di serpente. Oggetti raccolti: %d
+13028	Hai tutte le Squame di serpente che servono alla[ENTER]Statua Serpens. Torna dalla statua.
+13029	Ho trovato %d Squame di serpente! Devo tornare[ENTER]dalla Statua Serpens.
+13030	Hai trovato tutte le Squame di serpente? Ora mi[ENTER]servono solo %d Yang e il gioco è fatto: potrai[ENTER]accedere al tempio.
+13031	Consegna tutto
+13032	Annulla
+13033	Non hai abbastanza soldi...
+13034	Bene. Fatto! Queste sono le tue cose. Buona[ENTER]fortuna! Se dovesse servirti altro[ENTER]equipaggiamento per le tue spedizioni, torna pure[ENTER]da me.
+13035	Fabbrica
+13036	Entra
+13037	Vuoi accedere al Templum Serpens? Puoi accedere[ENTER]ancora %d volte.
+13040	Vuoi creare un'istanza Templum Serpens?
+13049	Per oggi, non puoi più accedere.
+13055	Per poter creare una nuova istanza devi prima[ENTER]ritirare tutte le ricompense.
+13182	Squame di serpente mancanti
 992	Guardiano di Spassolandia
 993	Vuoi uscire da Spassolandia?
 994	Vuoi accedere a Spassolandia?
@@ -1626,6 +1673,17 @@
 10167	Utilizza le Sfere anima per ridurre l'energia[ENTER]oscura che tormenta il Tempio dello Zodiaco prima[ENTER]che essa diventi troppo forte. Non appena entri[ENTER]nel tempio, consumi automaticamente Sfere anima.[ENTER]Attenzione: non è possibile assolvere la quest[ENTER]quando il Signum del guardiano è attivo.
 10168	Ce l'hai fatta. Torna dal Monaco Milbon per[ENTER]ritirare il tuo regalo.
 10169	Grazie, per il momento il tempio è al sicuro.[ENTER]Ecco il tuo regalo. Tuttavia, l'energia aumenterà[ENTER]di nuovo. Torna tra 24 ore per assorbirne[ENTER]dell'altra con le Sfere anima. Ovviamente,[ENTER]riceverai un'altra ricompensa.
+13586	Accedi al Dungeon Misterioso
+13587	Altare Misterioso
+13588	Ehi! Lo so, lo so, sono stato trasformato in una[ENTER]pietra. È tutta colpa della Maledizione di Sung[ENTER]Mahi! Ma io sono uno shamano... e potrei parlarti[ENTER]di un luogo davvero interessante...[ENTER]Se hai con te un Biglietto Mysterium, posso[ENTER]condurti nel Dungeon Misterioso.[ENTER]Vuoi provare?
+13589	Sì
+13590	No
+13591	Oh! Purtroppo se non hai il Biglietto Mysterium[ENTER]non posso farti entrare.
+13598	Attualmente non puoi entrare.
+13609	Uscita
+13610	Vuoi abbandonare il dungeon?
+13611	Sì
+13612	No
 1209	Rifiuta
 1208	Perchè stai piangendo?
 1210	Ti aiuto volentieri. L'incarico non è poi così[ENTER]difficile, inoltre capisco perfettamente il tuo[ENTER]desiderio di riavere il ricordo. A presto!
@@ -1976,7 +2034,7 @@
 12909	Hai distrutto tutti gli avamposti e ottenuto una[ENTER]benedizione che ti proteggerà dall'influsso di[ENTER]Sung Mahi.[ENTER][Volontà SungMa (RES) +%d]
 12910	Hai distrutto tutti gli avamposti e ottenuto una[ENTER]benedizione che ti proteggerà dall'influsso di[ENTER]Sung Mahi.[ENTER][Volontà SungMa (INT) +%d]
 12969	Trova l'Avamposto Myr 1 che Sung Mahi ha[ENTER]costruito nelle Lande Seogan e distruggilo.
-12970	Trova l'Avamposto Myr 2 che Sung Mahi ha[ENTER]costruito nelle Lande Seogan e distruggilo.
+12970	Trova l'Avamposto Myr 2 che Sung Mahi ha[ENTER]costruito nell'Abisso Namgan e distruggilo.
 10874	Ricevi %d gemme.
 10875	Accetta subito
 10876	Accetta più tardi
@@ -7628,6 +7686,15 @@
 12707	Hai ricevuto %d Elisir del Sole (P).
 12708	In occasione dei festeggiamenti, vai dal Mercante[ENTER]di armature.
 12709	Hai ricevuto %d Pietre rituali.
+12971	Una valle nascosta
+12972	Si dice che sia stata scoperta una nuova valle.[ENTER]Vai da Confucio.
+12973	È da un po' che non ci si vede. Cosa hai fatto[ENTER]tutto questo tempo? Ti ricordi quel luogo segreto[ENTER]che per te era diventato un rompicapo?
+12974	Ho sentito dire che la strada che conduce lì è[ENTER]davvero tortuosa e pericolosa. Potresti recarti[ENTER]lì e cercare di recuperare il maggior numero di[ENTER]informazioni possibili sulla valle nascosta? Una[ENTER]volta sul posto, troverai un Guardiano che ho[ENTER]inviato lì un po' di tempo fa.
+12975	È stata sbloccata una nuova zona. Vai dal[ENTER]Guardiano Serpens.
+12976	Ehi, cosa ci fai ancora qui? Se vai nella Piana[ENTER]Dongan, puoi accedere a una nuova zona!
+12977	Vai nella nuova zona e parla con il Guardiano[ENTER]Serpens.
+12978	E tu chi sei? Ah, ti manda Confucio? Non starai[ENTER]mica dicendo sul serio... Da quando in qua si[ENTER]mandano dei principianti come te in una terra[ENTER]così ostile come questa?
+12979	Confucio mi aveva detto di darti questo, non[ENTER]appena ci saremmo incontrati. Torna di nuovo, più[ENTER]tardi. Ci sono altri incarichi per te.
 6353	Una nuova vita
 6354	Ti svegli e non ti senti a posto.[ENTER]Cosa è successo? Che cosa sei?! Cerca Myonghorang[ENTER]il saggio. Te lo spiegherà lui.
 6355	Ti do il benvenuto, lican!
@@ -7965,11 +8032,11 @@
 6606	Punteggio totale
 6607	Punteggio manche migliore
 6608	I 10 giocatori con il punteggio migliore[ENTER]ottengono dei premi extra.
-6610	1° posto: %s volte %d
+6610	1° posto: %s %d x
 6609	Chiudi
-6611	2° posto: %s volte %d
-6612	3° posto: %s volte %d
-6613	4° - 10º posto: %s volte %d
+6611	2° posto: %s %d x
+6612	3° posto: %s %d x
+6613	4°-10° posto: %s %d x
 6614	1° posto: %s, %d
 6615	2° posto: %s, %d
 6616	3° posto: %s, %d
@@ -9808,6 +9875,12 @@
 12080	Annulla
 12081	I valori sono stati reimpostati.
 12082	Non hai valori da reimpostare.
+13057	Hai completato il Templum Serpens! Ora puoi ritirare le tue ricompense. Parla con la Statua Serpens.
+13058	Ricompense ricevute
+13059	Statua Serpens
+13060	Hai sconfitto tutti questi serpenti malvagi. Ti[ENTER]meriti uno scrigno.
+13606	Hai ricevuto %dx Tesoro Serpens.
+13607	Hai ricevuto %dx Polvere Serpens.
 8044	Il tuo livello è troppo basso!
 8045	Non puoi cavalcare mentre sei sotto effetto della[ENTER]trasformazione!
 8046	Stai già cavalcando! Se vuoi cambiare animale,[ENTER]devi prima smontare da quello che stai[ENTER]cavalcando.
@@ -9951,6 +10024,48 @@
 11499	No, io rimango qui.
 11500	Il Drago Blu (FT) è tornato!
 11679	Fra tre minuti tutti i guerrieri saranno[ENTER]teletrasportati fuori dalla Grotta dell'Esilio[ENTER](FT).
+12980	Cos'è il Templum Serpens?
+12981	Per trovare il tempio nascosto, devo parlare con[ENTER]il Guardiano Serpens.
+12982	Ehi, poppante! Non sono ancora riuscito a[ENTER]valutare la tua ingegnosità. Seguendo il sentiero[ENTER]nella valle qui dietro, si arriva a un tempio[ENTER]enorme. Hai mai sentito parlare del Templum[ENTER]Serpens?
+12983	Lungo il sentiero ti imbatterai in un mucchio di[ENTER]mostri pericolosi. Sono pronto a scommettere che[ENTER]te la darai a gambe nel giro di qualche secondo.[ENTER]Se il tuo coraggio avrà la meglio, però, troverai[ENTER]un sacco di tesori.
+12984	Come si entra?
+12985	Ahah! Non si entra! A meno che non sia io a[ENTER]decidere di farti entrare. Metterò alla prova il[ENTER]tuo coraggio.
+12986	I tuoi occhi brillano dalla voglia di fare! Penso[ENTER]proprio che potresti eliminare per me qualcuno[ENTER]dei mostri nei dintorni! Tenere sotto controllo[ENTER]tutta questa zona sta diventando davvero[ENTER]snervante.
+12987	Dai la caccia ai mostri nei dintorni per superare[ENTER]la prova del Guardiano Serpens.
+12988	Il Guardiano Serpens ti ha chiesto di eliminare[ENTER]%d mostri sul Passo Yilad.[ENTER]Mostri mancanti: %d
+12989	Ehi... Ti devi occupare anche di questi mostri! O[ENTER]hai deciso di mollare?
+12990	Ho ucciso tutti i mostri che il Guardiano Serpens[ENTER]mi aveva chiesto di eliminare. Devo tornare da[ENTER]lui.
+12991	Ho ucciso tutti i mostri che il Guardiano Serpens[ENTER]mi aveva chiesto di eliminare. Devo tornare da[ENTER]lui.
+12992	Oh! A quanto pare, hai molto più coraggio di[ENTER]quanto pensassi. Mentre ti guardavo combattere da[ENTER]lontano, mi sono ricordato di quando ero giovane.
+12993	Ma non è il momento di diventare nostalgici. Ecco[ENTER]qua: questa è la ricompensa che ti spetta per[ENTER]aver superato la prova.
+13180	Mostri mancanti
+13603	Mostri uccisi: %d. Quantità rimanente: %d
+12994	Templum Serpens?!
+12995	È stata scoperta una nuova zona. Devo andare dal[ENTER]Guardiano Serpens, che sorveglia il posto.
+12996	Ehi, poppante! Ho come l'impressione che tu[ENTER]voglia addentrarti nella valle...
+12997	Se vuoi accedere alla valle... devi prima farmi[ENTER]un favore! I mostri nei dintorni mi danno davvero[ENTER]un gran da fare. Penso proprio che mi potresti[ENTER]essere di enorme aiuto.
+12998	Te la sentiresti di eliminare i mostri e di[ENTER]portarmi dei Trucioli di ferro? Ho sentito dire[ENTER]che con i Trucioli di ferro si guadagna bene.
+12999	Sì.
+13000	No.
+13001	Beh, allora temo proprio che non accederai alla[ENTER]valle!
+13002	Procura %d Trucioli di ferro per il Guardiano[ENTER]Serpens. I mostri nei dintorni ne hanno in[ENTER]abbondanza.
+13003	Oh, ci hai messo così poco a trovare tutto? Ehi![ENTER]Credo che tu abbia sbagliato a contare. Avevo[ENTER]detto %d!
+13004	Il Guardiano Serpens mi permetterà di accedere[ENTER]alla valle solo se gli porto %d Trucioli di[ENTER]ferro. Per recuperarli, devo eliminare i mostri[ENTER]nei dintorni del Passo Yilad.[ENTER]Trucioli di ferro rimanenti: %d
+13005	Hai ottenuto Trucioli di ferro. Quantità recuperata: %d
+13006	Ho procurato i Trucioli di ferro per il Guardiano[ENTER]Serpens. Devo tornare da lui.
+13007	Ho procurato i Trucioli di ferro per il Guardiano[ENTER]Serpens. Devo tornare da lui.
+13008	Oh, lo sapevo che eri la persona giusta per[ENTER]questo incarico! È esattamente la quantità che mi[ENTER]serviva!
+13009	Bene! Ora ti aiuterò ad attraversare la valle.[ENTER]Non appena sarai dall'altra parte, vedrai un[ENTER]tempio enorme. Se mai volessi recarti lì, torna[ENTER]prima da me.
+13010	Per accedere al Templum Serpens ti serve il[ENTER]permesso del Guardiano Serpens.
+13011	Ah, eccoti qua! Vuoi entrare?
+13012	Allora dammi i Trucioli di ferro che hai raccolto[ENTER]per me l'ultima volta: in cambio di quelli, ti[ENTER]darò un biglietto. Questa volta ci servono %d[ENTER]Trucioli di ferro.
+13013	Templum Serpens?! (Ripetizione)
+13015	Vuoi accedere al Templum Serpens?
+13016	Conferma
+13017	Annulla
+13018	Per accedere al Templum Serpens devo prima[ENTER]parlare con il Guardiano Serpens.
+13019	Questa valle è davvero molto pericolosa. Quindi,[ENTER]non abbassare mai la guardia.
+13181	Trucioli di ferro rimanenti
 8167	Torre di Vedetta di Nemere
 8168	Entrate nella Torre di Vedetta di Nemere. Il[ENTER]tempo massimo di permanenza è pari a un'ora.[ENTER]Quando si conclude o si interrompe l'avventura,[ENTER]dovrete attendere quattro ore prima di poter[ENTER]effettuare un nuovo accesso.
 8169	Sconfiggete tutti i nemici!
@@ -11793,6 +11908,62 @@
 12884	Hai distrutto tutte le Metin del Jin. Dillo a[ENTER]Confucio nella Piana Dongan.
 12885	Torna da Confucio e spiegagli cosa sta succedendo.
 12886	Il suo influsso è stato indebolito ma non è[ENTER]ancora abbastanza. Tuttavia, niente è del tutto[ENTER]inutile. Ecco, ho un regalino per te. È un[ENTER]pensierino, giusto per ringraziarti.
+12914	Una terra sconosciuta
+12915	Quando mi sono trasferito qui per indagare su[ENTER]questa strana storia, mi sono imbattuto in una[ENTER]terra sconosciuta. Dovremmo dare un'occhiata in[ENTER]giro e cercare di capire se tra questo luogo e la[ENTER]storia ci sia un legame.
+12916	Laggiù sembra esserci qualcuno. Dobbiamo[ENTER]avvicinarci con cautela.
+12917	C'è seduta una persona lì nell'angolo... Sembra[ENTER]nervosa. Dovremmo parlarle.
+13541	È stata aggiunta una nuova missione.
+12918	Una persona strana
+12919	Vai dalla persona dal fare un po' strano e inizia[ENTER]a parlare con lei.
+12920	Perbacco!
+12921	Chi sei?! Come hai fatto ad arrivare fin qui?
+12922	Ehi! Chi sei? Io sono un cacciatore di taglie. Mi[ENTER]sono fatto tutta questa strada per cercare di[ENTER]ricostruire la storia che si racconta su questo[ENTER]villaggio. Anche tu? Bene. Devo fare delle[ENTER]indagini. Se mi aiuterai, ti racconterò cosa ho[ENTER]scoperto finora.
+12923	Rifiuta
+12924	Sì, ti aiuterò.
+12925	Che pusillanime...
+12926	Credo che stia bollendo qualcosa di davvero[ENTER]grosso in pentola. Penso che dovremmo iniziare[ENTER]perlustrando la zona... ed eliminando qualche[ENTER]Soldato corrotto. Dato che là è troppo[ENTER]pericoloso, quando avremo finito ci rincontreremo[ENTER]qui.
+12927	Elimina i Soldati corrotti.[ENTER]Avversari rimanenti: %d
+12928	Non perdere tempo! Se te ne stai qui con le mani[ENTER]in mano, non ti racconto un bel niente.
+12929	Ho eliminato tutti i Soldati corrotti e ora devo[ENTER]tornare dal Cacciatore di taglie.
+12930	Ben fatto. Ecco la tua ricompensa. Ora cercherò[ENTER]di capire come dobbiamo procedere. Torna più[ENTER]tardi.
+12931	Una strana storia
+12932	Devo chiedere al Cacciatore di taglie se sa[ENTER]qualcosa della storia sul Passo Yilad.
+12933	Ora è tutto decisamente più chiaro. La storia?! E[ENTER]tu come lo sai? Qui nei dintorni c'è un Altare. A[ENTER]prima vista, non si nota. Lì, si aggira un mostro[ENTER]furioso. Ma penso che tu conosca già questa[ENTER]storia. Ora, però, ti racconto un'altra cosa.
+12935	Se ne sono andati tutti?
+12936	Non proprio. Hanno costruito il Templum Serpens e[ENTER]stanno diventando sempre più forti. Il mio[ENTER]obiettivo è quello di eliminare la loro Guida e[ENTER]incassare la taglia che pende sulla sua testa. Ma[ENTER]non è facile avvicinarsi a lei... Nei pressi[ENTER]dell'Altare, infatti, c'è un Guardiano. Se vuoi[ENTER]puoi aiutarmi a dare la caccia a quei mostri. Ti[ENTER]andrebbe? È praticamente impossibile affrontarli[ENTER]da soli.
+12937	In questo momento, no.
+12938	Lo sapevo che avrei potuto contare su di te! Un[ENTER]po' di aiuto non fa mai male. E ora,[ENTER]incamminiamoci verso l'Altare.
+12939	Devo eliminare i Guerrieri corrotti per liberare[ENTER]la strada che conduce all'Altare.[ENTER]Mostri mancanti: %d
+12940	Allora, come procede? Stai facendo progressi? Non[ENTER]sembra proprio... Fai presto, non abbiamo molto[ENTER]tempo!
+12941	Ho eliminato tutti i Guerrieri corrotti e ho[ENTER]liberato la strada. Devo tornare dal Cacciatore[ENTER]di taglie.
+12942	Hai eliminato tutti i Guerrieri corrotti. Torna[ENTER]dal Cacciatore di taglie.
+12943	Ben fatto. Ora si intravede il sentiero. Forza,[ENTER]andiamo subito nella prossima zona. Sembra che ci[ENTER]stiamo avvicinando al loro nascondiglio.
+12966	Posso?
+12967	Va bene, torna pure indietro. Ma ricordati che,[ENTER]se dovessi cambiare idea, puoi tornare da me[ENTER]quando vuoi.
+12944	L'Altare nascosto
+12945	Mi pare di intravedere l'Altare. Devo tornare dal[ENTER]Cacciatore di taglie.
+12946	Esatto! Dopo aver combattuto contro tutti quei[ENTER]mostri, sono arrivato all'Altare. Ma il Guardiano[ENTER]non voleva farmi entrare. L'ho pregato più volte,[ENTER]ma non ha funzionato. Quindi, non ho potuto fare[ENTER]altro che andarmene. Ora, però, grazie a te ho[ENTER]una chance in più! Forza, andiamoci insieme!
+12947	Non posso più.
+12948	Va bene.
+12949	Cosa? Hai già intenzione di mollare? Sei molto[ENTER]più debole di quanto pensassi.
+12950	Se ci concentriamo, ce la possiamo fare. Forza,[ENTER]eliminiamo un po' dei mostri che ci ostacolano il[ENTER]cammino.
+12951	Elimina i Monaci corrotti per liberare l'ultimo[ENTER]pezzo di strada.[ENTER]Avversari rimanenti: %d
+12952	Vuoi mollare proprio ora che siamo a un passo[ENTER]dall'obiettivo? Posso offrirti una parte della[ENTER]taglia. Dai!
+12953	Hai eliminato tutti i Monaci corrotti. Torna dal[ENTER]Cacciatore di taglie.
+12954	Riesco a intravedere il Guardiano che sorveglia[ENTER]il Templum Serpens. Sono certo che grazie a te[ENTER]riusciremo a raggiungere l'ingresso dell'Altare.
+12955	Infiltrazione
+12956	Ho trovato l'Altare. Devo perlustrare la zona per[ENTER]vedere dove staziona il Guardiano.
+12957	Hai trovato l'Altare! Grazie per aver tenuto[ENTER]duro. Ora proviamo a entrare di soppiatto, senza[ENTER]che il guardiano se ne accorga. Stiamo per[ENTER]entrare nel luogo dove si nasconde la Guida, e[ENTER]dove capiremo cosa sta succedendo. Tuttavia, ho[ENTER]paura che ci scopriranno, se rimaniamo insieme.[ENTER]Quindi, propongo di separarci e di provare a[ENTER]raccogliere ancora qualche informazione utile.
+12958	Non ho più voglia.
+12959	Avanti!
+12960	Ce l'abbiamo quasi fatta! Pensaci un attimo.
+12961	Spero che quando ci rivedremo saremo ancora[ENTER]interi.
+12962	Entra nel Templum Serpens di soppiatto, senza[ENTER]farti vedere dal Guardiano del tempio. Una volta[ENTER]dentro, cerca di capire cosa sta succedendo. Dai[ENTER]la caccia a 30 Soldati kappa.[ENTER]Mostri mancanti: %d
+12963	Sei ancora qui? Va bene, parto io per primo.
+12964	Hai esplorato il Templum Serpens e hai dato la[ENTER]caccia a 30 Soldati kappa. Torna dal Cacciatore[ENTER]di taglie.
+12965	Lo sapevo che ce l'avresti fatta! Ho già dato[ENTER]un'occhiata, ma nono sono riuscito a trovare la[ENTER]Guida. Va beh, è andata così. Magari la prossima[ENTER]volta. Se sono arrivato fin qui, comunque, è[ENTER]tutto merito tuo. E vorrei sdebitarmi per il tuo[ENTER]aiuto. Ecco, prendi questa ricompensa.
+13054	Segui il punto luminoso sulla mini-mappa.
+13597	Non hai ancora trovato il Templum Serpens?[ENTER]Non sarà facile raggiungere quel posto. Quindi,[ENTER]ti consiglio di assicurarti che tu abbia tutte le[ENTER]carte in regola per affrontare il Templum[ENTER]Serpens.
 12679	Entrata dell'Inferna Sung Mahi
 12680	Vuoi accedere alla torre infernale Inferna Sung[ENTER]Mahi?
 12681	Sì
@@ -12081,3 +12252,4 @@
 12673	Sconfiggi l'Ultraboss!
 12674	Infliggi %d o più danni all'Ultraboss.
 12675	Hai completato la quest giornaliera: hai inflitto[ENTER]il danno minimo richiesto.
+12934	Sono venuto fin qui per guadagnarmi un bel[ENTER]gruzzoletto alla faccia di questo mostro.[ENTER]Originariamente, questo luogo pullulava di mostri[ENTER]della specie Serpens, e venne soprannominato[ENTER]Passo Yilad. Per caso hai notato qualcosa di[ENTER]strano? Tutti i mostri Serpens sono scomparsi.

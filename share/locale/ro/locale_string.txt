@@ -692,6 +692,8 @@
 1693	Toate avanposturile din %s au fost distruse, iar zona nu mai este sub controlul lui Sung Mahi.
 1694	Pustietatea Seo Gwang
 1695	Prãpastia Nam Gwang
+1696	Îmbunãtãþirea a avut succes!
+1697	Îmbunãtãþirea a eºuat.
 1698	Datoritã binecuvântãrii cu imunitate , nu eºti influenþat de prezenþa lui Sung Mahi.
 1699	Imunitatea ta a expirat ºi eºti influenþat din nou de prezenþa ºi blestemul lui Sung Mahi.
 17	[Breaslã] Nu ai permisiunea sã foloseºti abilitãþile breslei.
@@ -718,8 +720,38 @@
 1718	[Magazin Premium Personal] %s s-a vândut. Te rugãm sã colectezi banii.
 1719	[Magazin Premium Personal] Nu poþi redeschide magazinul timp de %d dupã ce l-ai închis.
 172	[Gaya] Ai deja cantitatea maximã de Gaya.
+1720	Nu poþi face acest lucru în timp ce temniþa este creatã.
+1721	Nu te mai poþi reînvia. Vei fi teleportat afarã din temniþã.
+1722	Þi-ai primit deja recompensa. Dacã doreºti sã încerci din nou, vino mai târziu. Timp rãmas: %d h %d m
+1723	Te poþi reînvia de încã %d ori.
+1724	Acum poþi intra în Templul ªarpelui. Foloseºte Statuia ªarpelui pentru a face asta.
+1725	Metinul distrus nu reacþioneazã. Toate Metinele au apãrut din nou.
+1726	Metinul distrus nu reacþioneazã. Toate Metinele au apãrut din nou.
+1727	Ai distrus %d Metine. Distruge încã %d Metine.
+1728	Timpul a expirat. Vei fi teleportat afarã din temniþã.
+1729	Aceasta este acum disponibilã pentru %d minute.
 173	[Gaya] Tãiere cu succes.
+1730	Nu poþi extinde mai mult cronometrul temniþei.
+1731	Cronometrul temniþei este prelungit cu 1 minut.
+1732	Ai ucis toþi monºtrii. Vei fi teleportat la nivelul %d. %d secunde rãmase pânã atunci.
+1733	Ai distrus toate Metinele. Vei fi teleportat la nivelul %d. %d secunde rãmase pânã atunci.
+1734	Piesa a fost adãugatã la Capul ªarpelui. Dar nu se întâmplã nimic.
+1735	Toþi Stâlpii ªarpe au fost deblocaþi. %d nivele în %d secunde.
+1736	A apãrut magnificul Fierar Templul ªarpelui!
+1737	A apãrut Fierar Templul ªarpelui!
+1738	Aþi ucis toþi monºtrii ºi acum poþi trece la nivelul ºefului.
+1739	Ai terminat Templul ªarpelui. Vei fi teleportat afarã din temniþã în %d secunde.
 174	[Gaya] Tãiere eºuatã.
+1740	Distruge Pietrele Metin în ordinea corectã.
+1741	Ucide toþi monºtrii.
+1742	Obþine cheia de la monºtri ºi deblocheazã celula.
+1743	Ai adãugat o piesã la Capul ªarpelui.
+1744	Omoarã-l pe ºef.
+1745	Deschis cu succes!
+1746	Mai întâi trebuie sã deblochezi celãlalt stâlp.
+1747	Închisoarea a fost deblocatã. Fierarul îþi zâmbeºte.
+1748	Aceastã cheie nu a deschis închisoarea ºi nu a salvat fierarul.
+1749	Aceastã piesã nu se potriveºte la Capul ªarpelui.
 175	[Gaya] Lista obiectelor a fost actualizatã.
 1752	Trebuie sã umpli cel puþin 1 Bilã EXP la nivel 120 pentru a ajunge la Nivel Campion.
 1753	Trebuie sã termini misiunea Apãrare Navã.
@@ -730,15 +762,21 @@
 1758	[Magazin Premium Personal] Nu poþi face asta în timp ce administrezi obiectele.
 176	Detectorul de evenimente a dispãrut.
 1760	[Bonus Relicvã] Nu este posibil în timp ce fereastra de Spirit Relicvã este deschisã.
+1761	%s membri ai grupului au pãrãsit bãtãlia.
+1762	Mai ai %d minute rãmase.
 1763	[Magazin Premium Personal] Nu te poþi duela aici.
 1764	[Magazin Premium Personal] Banii colectaþi nu se vor actualiza în timp ce administrezi obiectele.
+1765	A apãrut ºeful final din Templul ªarpelui.
 1766	[Magazin Premium Personal] Un magazin a fost deja deschis aici. Te rugãm sã gãseºti o altã locaþie pentru a deschide magazinul.
+1767	Nu poþi îmbunãtãþi acest obiect în timp ce un însoþitor evoluabil a fost chemat.
 177	[Gaya] Nu ai suficient Gaya.
 178	[Gaya] Nu poþi achiziþiona acest obiect.
 179	[Gaya] Nu mai existã loc în inventar.
 18	[Breaslã] Eºti în modul telespectator deoarece ai atins limita de reînviere.
 180	[Gaya] Nu ai suficiente obiecte Actualizeazã Piaþã Gaya.
+1802	Acest lucru va fi disponibil odatã ce lupta a început.
 181	[Gaya] Deschide Piaþã Gaya mai întâi.
+1812	Nu poþi face asta în timpul negoþului.
 182	[Gaya] Nu mai poþi debloca ºi alte locuri în Piaþã Gaya.
 183	[Gaya] Nu ai suficient %s. Mai ai nevoie de încã %d pentru a deschide un loc adiþional.
 184	[Gaya] Piaþã Gaya este momentan indisponibilã.

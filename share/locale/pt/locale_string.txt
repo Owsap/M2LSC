@@ -692,6 +692,8 @@
 1693	Todos os postos avançados em %s foram destruídos e a zona já não está sob o controlo de Sung Mahi.
 1694	Terras Baldias de Seo Gwang
 1695	Abismo de Nam Gwang
+1696	O melhoramento teve sucesso!
+1697	Infelizmente, o melhoramento falhou.
 1698	Graças à bênção da imunidade, a Presença de Sung Mahi não te afeta.
 1699	A tua imunidade terminou e sofres novamente a Presença e Maldição de Sung Mahi.
 17	[Guild] Não tens permissões para usar Habilidades de Guild.
@@ -718,8 +720,38 @@
 1718	[Loja Premium Pessoal] Vendeste %s. Recolhe o teu dinheiro.
 1719	[Loja Premium Pessoal] Não podes reabrir a tua loja durante %d segundos depois de a fechares.
 172	[Gaya] Já possuis a quantidade máxima de Gaya.
+1720	Não podes fazer isso enquanto a masmorra está a ser criada.
+1721	Já não te podes ressuscitar. Serás transportado para o exterior da masmorra.
+1722	Já recebeste a tua recompensa. Se quiseres tentar novamente, volta mais tarde. Tempo restante: %d h %d m
+1723	Podes voltar a ressuscitar-te mais %d vezes.
+1724	Podes agora entrar no Templo da Serpente. Usa a Estátua da Serpente para o fazeres.
+1725	A Metin destruída não reage. Todas as Metins reapareceram.
+1726	A Metin destruída não reage. Todas as Metins reapareceram.
+1727	Destruíste %d Metins. Destrói mais %d Metins.
+1728	Acabou o tempo. Serás transportado para o exterior da masmorra.
+1729	Isto está agora disponível durante %d minutos.
 173	[Gaya] Corte bem sucedido.
+1730	Não podes prolongar mais o temporizador da masmorra.
+1731	O temporizador da masmorra é prolongado em 1 minuto.
+1732	Mataste todos os monstros. Serás transportado para o nível %d. Faltam %d segundos até isso acontecer.
+1733	Destruíste todas as Metins. Serás transportado para o nível %d. Faltam %d segundos até isso acontecer.
+1734	A peça foi adicionada à Cabeça da Serpente. Mas nada aconteceu.
+1735	Todos os Pilares da Serpente foram desbloqueados. %d níveis em %d segundos.
+1736	O Ferreiro especial do Templo da Serpente apareceu!
+1737	O Ferreiro do Templo da Serpente apareceu!
+1738	Mataste todos os monstros e podes agora continuar para o nível do boss.
+1739	Concluíste o Templo da Serpente. Serás transportado para o exterior da masmorra dentro de %d segundos.
 174	[Gaya] O corte falhou.
+1740	Destrói as Pedras Metin na ordem correta.
+1741	Mata todos os monstros.
+1742	Rouba a chave aos monstros e desbloqueia a cela.
+1743	Adicionaste uma peça à Cabeça da Serpente.
+1744	Mata o boss.
+1745	Aberta com sucesso!
+1746	Tens de desbloquear o outro pilar primeiro.
+1747	A prisão foi desbloqueada. O Ferreiro sorri-te.
+1748	Esta chave não abriu a prisão e salvou o Ferreiro.
+1749	Esta peça não encaixa na Cabeça da Serpente.
 175	[Gaya] A lista de itens foi atualizada.
 1752	Precisas de preencher pelo menos 1 Esfera de EXP estando no nível 120 para atingires o Nível de Campeão.
 1753	Precisas de completar a masmorra "Defesa do Navio".
@@ -730,15 +762,21 @@
 1758	[Loja Premium Pessoal] Não podes fazer isso enquanto estás a gerir itens.
 176	O Detector de Eventos desapareceu!
 1760	[Bónus da Relíquia] Não é possível enquanto a janela da Relíquia da Alma estiver aberta.
+1761	%s membros do grupo abandonaram a batalha.
+1762	Restam-te %d minutos.
 1763	[Loja Premium Pessoal] Não podes fazer duelos aqui.
 1764	[Loja Premium Pessoal] O dinheiro que pode ser recolhido não será atualizado enquanto estás a gerir itens.
+1765	O boss final do Templo da Serpente apareceu.
 1766	[Loja Premium Pessoal] Já há uma loja aberta aqui. Procura outro local para abrires a tua loja.
+1767	Não podes melhorar isso enquanto tens um pet evoluível invocado.
 177	[Gaya] Não tens Gaya suficientes.
 178	[Gaya] Não podes comprar este item.
 179	[Gaya] O teu inventário está cheio.
 18	[Guild] Estás agora em modo de observador porque atingiste o limite de renascimentos.
 180	[Gaya] Não tens um item Actualiza Mercado Gaya.
+1802	Isto estará disponível assim que a batalha tiver começado.
 181	[Gaya] Tens de abrir o Mercado de Gaya primeiro.
+1812	Não podes fazer isso enquanto negoceias.
 182	[Gaya] Não podes desbloquear mais espaços no Mercado de Gaya.
 183	[Gaya] Não tens %s suficientes. Precisas de mais %d para desbloqueares um espaço adicional.
 184	[Gaya] O Mercado de Gaya não está disponível neste momento.

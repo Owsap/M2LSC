@@ -1,3 +1,6 @@
+13305	Hé ! Avez-vous la clé qui vous permet de vous libérer ?
+13306	Libérez-moi s'il vous plaît. Quelqu'un pourrait-il m'aider ?
+13307	Hey, vous ! Rapportez-moi la clé, s'il vous plaît !
 2	Je vous ai déjà tout dit sur les forces[ENTER]nécessaires pour vaincre Sung Mahi.[ENTER][ENTER]Empressez-vous d'aller voir le capitaine.[ENTER][ENTER]Revenez ici quand vous aurez les tissus dont vous[ENTER]avez besoin.
 1	Une étoffe spéciale
 3	Augmenter votre force
@@ -829,6 +832,26 @@
 12585	J'ai trouvé toutes les fougères noires.[ENTER]Je dois vite retourner voir Chaegirab !
 12591	Ne me bousculez pas ! Même une fougère noire[ENTER]fanée comme celle-ci peut faire avancer la[ENTER]recherche.[ENTER]Revenez plus tard et apportez-moi une autre[ENTER]plante.[ENTER]Temps de rechargement restant : %s
 12713	Oh, je suis désolé.[ENTER]Je n'ai pas encore analysé cette fougère noire.[ENTER]Revenez plus tard.[ENTER]Temps de rechargement restant : %s
+13038	Oui
+13039	Non
+13041	Ceci n'est disponible que pour le chef.
+13042	Lancer le combat
+13043	Abandonner
+13044	Quitter
+13045	Souhaitez-vous commencer le donjon « Temple du[ENTER]serpent » ?
+13046	Temple du serpent
+13047	Voulez-vous quitter ce lieu ? Vous pouvez y[ENTER]revenir jusqu'au commencement du combat.
+13048	L'instance du Temple du serpent va disparaître.[ENTER]Voulez-vous abandonner ?
+13056	Tous les membres du groupe doivent se trouver au[ENTER]même endroit.
+13061	Rendez-vous au niveau du boss.
+13062	Forgeron du Temple du serpent
+13063	Souhaitez-vous vous rendre au niveau du boss ?
+13064	Forgeron d'amélioration de gants
+13065	Hé, je peux vous améliorer une paire de gants si[ENTER]vous le souhaitez. Vous n'avez pas besoin[ENTER]d'autres matériaux ! Donnez-moi simplement les[ENTER]gants que je dois améliorer. Mon amélioration a[ENTER]le même effet qu'un parchemin de bénédiction.
+13613	Souhaitez-vous quitter le donjon ?
+13614	Vous ne pouvez pas réinitialiser vos entrées pour[ENTER]le moment.
+13615	Voulez-vous réinitialiser vos entrées pour le[ENTER]Temple du serpent ?
+13616	Vous avez à nouveau 5 entrées pour le Temple du[ENTER]serpent.
 679	Vaincre les Jin-Hees.
 678	La vengeance du marchand de bagues
 680	La vieille Dame vous a demandé de l'aide : Votre[ENTER]ami le vendeur de bagues a été assassiné par les[ENTER]Jin-Hees, l’élite du Serment blanc.[ENTER]Vengez-le en tuant 30 Jin-Hees.
@@ -1358,6 +1381,30 @@
 989	Voici votre cristal d'énergie. Cependant, seul le[ENTER]premier essai réussit à tous les coups.[ENTER]L'alchimie est une science aux résultats[ENTER]imprévisibles. Une variation minime peut tout[ENTER]faire échouer ! Il y a donc toujours un risque[ENTER]que l'expérience rate.
 990	Malheureusement, la tentative a échoué. Je n'ai[ENTER]pas réussi à fabriquer de cristal d'énergie. Ma[ENTER]technique est brillante, mais parfois risquée.[ENTER]Tout ne fonctionne pas toujours comme prévu.[ENTER]La prochaine fois, nous aurons certainement plus[ENTER]de chance !
 991	Je le savais ! Ma technique est exceptionnelle ![ENTER]Voici votre cristal d'énergie.[ENTER]Un exemplaire superbe ! Ressentez-vous sa[ENTER]puissance ?
+13540	Souhaitez-vous entrer dans le Temple du serpent ?
+13014	Entrer dans le Temple du serpent
+13020	Préparations importantes
+13021	Je dois trouver la statue de serpent pour entrer[ENTER]dans le Temple du serpent.
+13022	Vous aurez besoin de divers objets pour[ENTER]progresser dans ce donjon souterrain... un[ENTER]chapeau, un fouet ou un sac de sable de la taille[ENTER]d'un trésor vous seront certainement utiles. Je[ENTER]peux vous fabriquer ces objets.
+13023	Mais si vous souhaitez entrer dans le Temple,[ENTER]vous devez me procurer des %d écailles de serpent[ENTER]pour l'équipement. Cela vous coûtera %d Yangs.[ENTER]Vous pouvez m'apporter les deux ?
+13024	La statue de serpent nécessite %d écailles de[ENTER]serpent. Vous pouvez en trouver sur les monstres[ENTER]à proximité.
+13025	Je dois fournir %d écailles de serpent à la[ENTER]statue de serpent pour entrer dans le Temple du[ENTER]serpent.[ENTER]Quantité restante : %d
+13026	J'ai besoin d'encore plus d'écailles de serpent...
+13027	Vous avez obtenu des écailles de serpent. Objets collectés : %d
+13028	Voici toutes les écailles de serpent dont la[ENTER]statue de serpent a besoin. Retournez auprès[ENTER]d'elle
+13029	J'ai toutes les %d écailles de serpent ! Je[ENTER]souhaite retourner à la statue de serpent.
+13030	Avez-vous toutes les écailles de serpent ? Alors[ENTER]j'ai encore besoin de %d Yangs pour vous donner[ENTER]accès au temple.
+13031	Donner les deux
+13032	Annuler
+13033	Vous n'avez pas suffisamment d'argent...
+13034	Bien. C'est terminé ! Voici vos affaires, bonne[ENTER]chance. Revenez me voir si vous avez besoin d'un[ENTER]équipement supplémentaire pour une nouvelle[ENTER]expédition.
+13035	Fabriquer
+13036	Entrer
+13037	Souhaitez-vous entrer dans le Temple du serpent ?[ENTER]Il reste encore %d entrées.
+13040	Voulez-vous concevoir une instance de Temple du[ENTER]serpent ?
+13049	Vous ne pouvez pas entrer tant que vous êtes[ENTER]transformé.
+13055	Vous ne pouvez pas créer une nouvelle instance[ENTER]tant que vous n'avez pas collecté toutes les[ENTER]récompenses.
+13182	Écailles de serpent restantes
 992	Gardien de l'aire de jeux
 993	Désirez-vous quitter l'aire de jeux ?
 994	Voulez-vous aller à l'aire de jeux ?
@@ -1626,6 +1673,17 @@
 10167	Servez-vous des animasphères pour dissiper[ENTER]l'énergie dans le Temple du zodiaque avant[ENTER]qu'elle ne devienne trop puissante. Vous[ENTER]consommez automatiquement les animapshères dès[ENTER]que vous entrez dans le temple. Attention ! Vous[ENTER]ne pouvez pas mener cette quête si le Signum des[ENTER]gardiens est activé.
 10168	Mission accomplie. Retournez voir le moine Milbon[ENTER]qui vous remettra votre cadeau.
 10169	Merci, le temple est sûr, pour un temps. Voici[ENTER]votre cadeau. Toutefois, l'énergie continue de se[ENTER]dégager. Revenez dans 24 heures, pour la dissiper[ENTER]de nouveau à l'aide des animasphères. Vous[ENTER]recevrez une autre récompense pour la peine.
+13586	Entrer dans le donjon mystérieux
+13587	Autel mystérieux
+13588	Hé ! Je me suis transformé en pierre. C'est la[ENTER]faute de Sung Mahi ! Mais je suis un chamane et[ENTER]je peux vous raconter quelque chose d'intéressant[ENTER]sur ce lieu...[ENTER]Si vous possédez un ticket mystérieux, je peux[ENTER]vous mener au donjon mystérieux.[ENTER]Voulez-vous essayer ?
+13589	Oui
+13590	Non
+13591	Oh ! Je ne peux pas vous laisser entrer sans[ENTER]ticket mystérieux.
+13598	Vous ne pouvez pas entrer maintenant.
+13609	Sortie
+13610	Souhaitez-vous quitter le donjon ?
+13611	Oui
+13612	Non
 1209	Refuser
 1208	Pourquoi pleurez-vous ?
 1210	Bien entendu, je vais vous aider. La tâche ne[ENTER]semble pas trop ardue et je comprend que vous[ENTER]vouliez retrouver cet objet à valeur[ENTER]sentimentale. À bientôt.
@@ -7628,6 +7686,15 @@
 12707	Vous avez reçu %d élixirs du soleil (p).
 12708	Allez voir le marchand d'armures à l'occasion des[ENTER]célébrations.
 12709	Vous avez obtenu %d pierres rituelles.
+12971	Une vallée cachée
+12972	Il y a une rumeur comme quoi une nouvelle vallée[ENTER]a été découverte. Retournez voir Confucius.
+12973	Nous ne nous sommes pas vus depuis longtemps. Où[ENTER]étiez-vous ces jours-ci ? L'endroit secret si[ENTER]compliqué à repérer a été trouvé.
+12974	J'ai entendu que le chemin est tortueux et[ENTER]difficile à atteindre. J'aimerais que vous y[ENTER]alliez et que vous trouviez des informations sur[ENTER]la vallée cachée. Dès que vous y parvenez, vous[ENTER]rencontrerez un gardien que j'ai envoyé là-bas il[ENTER]y a longtemps.
+12975	Une nouvelle zone a été déverrouillée. Rejoignez[ENTER]le gardien serpent.
+12976	Hé, pourquoi êtes-vous ici ? En vous rendant au[ENTER]niveau de Dongan, vous pouvez rejoindre la[ENTER]nouvelle zone.
+12977	Rendez-vous dans la nouvelle zone pour rencontrer[ENTER]le gardien serpent.
+12978	Qui êtes-vous ? Hah, Confucius vous a envoyé ?[ENTER]Vous n'êtes pas sérieux... Pourquoi a-t-il envoyé[ENTER]un débutant comme vous dans une région aussi[ENTER]difficile ?
+12979	Confucius m'a dit de vous donner ceci quand vous[ENTER]arriverez ici. Revenez plus tard, vous avez du[ENTER]travail à faire.
 6353	Une nouvelle vie
 6354	À votre réveil, vous vous sentez étrangement[ENTER]velu. Que s'est-il passé ? Quelle créature[ENTER]êtes-vous ?![ENTER]Allez trouver Myonghorang le Sage. Il vous[ENTER]expliquera tout.
 6355	Bienvenue, Lycan !
@@ -7965,11 +8032,11 @@
 6606	Total des points
 6607	Meilleur score de partie
 6608	Les 10 joueurs avec le meilleur total de points[ENTER]obtiennent des prix supplémentaires.
-6610	1re place : %s fois %d
+6610	1re place : %s %d fois
 6609	Fermer
-6611	2e place : %s fois %d
-6612	3e place : %s fois %d
-6613	De la 4e à la 10e place : %s fois %d
+6611	2e place : %s %d fois
+6612	3e place : %s %d fois
+6613	De la 4e à la 10e place : %s %d fois
 6614	1re place : %s, %d
 6615	2e place : %s, %d
 6616	3e place : %s, %d
@@ -9808,6 +9875,12 @@
 12080	Annuler
 12081	Vos valeurs ont été réinitialisées.
 12082	Vous n'avez aucune valeur à réinitialiser.
+13057	Vous avez terminé le Temple du serpent avec succès et vous pouvez récupérer vos récompenses. Parlez avec la statue de serpent.
+13058	Recevoir les récompenses
+13059	Statue de serpent
+13060	Vous avez vaincu tous ces vils serpents. Vous[ENTER]méritez ce coffre !
+13606	Vous avez reçu %dx trésor de serpent.
+13607	Vous avez reçu %dx poussière de serpent.
 8044	Votre niveau est trop bas !
 8045	Vous ne pouvez monter à cheval lorsque vous êtes[ENTER]transformé en monstre !
 8046	Vous êtes déjà à cheval ! Si vous souhaitez[ENTER]changer de monture, descendez d'abord de cheval.
@@ -9951,6 +10024,48 @@
 11499	Non, je reste ici.
 11500	Le dragon bleu (ST) est de retour !
 11679	Dans trois minutes, tous les combattants seront[ENTER]téléportés hors de la Grotte de l'exil (ST).
+12980	Qu'est-ce que le Temple du serpent ?
+12981	Pour trouver le Temple caché, je devrais parler[ENTER]avec le gardien serpent.
+12982	Hé, débutant ! Je ne connais pas encore vos[ENTER]capacités. Si vous me suivez sur le sentier, vous[ENTER]arriverez à un temple gigantesque. Avez-vous déjà[ENTER]entendu parler du Temple du serpent ?
+12983	En route, vous rencontrerez tout un tas de[ENTER]monstres plus dangereux les uns que les autres.[ENTER]Je paris que vous allez déguerpir très[ENTER]rapidement. Mais si vous faites preuve de[ENTER]courage, vous y trouverez certains trésors.
+12984	Comment je fais pour y entrer ?
+12985	Hahaha ! Vous ne pouvez pas y entrer. Sauf si je[ENTER]vous laisse passer. Je vais devoir mesurer votre[ENTER]courage.
+12986	Vous avez l'air d'avoir soif d'action. Vous[ENTER]pouvez sûrement éliminer quelques monstres pour[ENTER]moi ! C'est très difficile de garder cette zone[ENTER]sous contrôle.
+12987	Chassez des monstres à proximité pour réussir[ENTER]l'épreuve du gardien serpent.
+12988	Le gardien serpent souhaite que vous chassiez %d[ENTER]monstres dans le Col de Yilad.[ENTER]Monstres restants : %d
+12989	Hé, vous n'avez pas encore éliminé ces[ENTER]monstres... Vous abandonnez ?
+12990	J'ai éliminé tous les monstres pour le gardien[ENTER]serpent. Je ferais bien de faire demi-tour.
+12991	J'ai éliminé tous les monstres pour le gardien[ENTER]serpent. Je ferais bien de faire demi-tour.
+12992	Oh. Vous avez l'air plus courageux que je le[ENTER]pensais. Quand je vous ai vu vous battre de loin,[ENTER]cela m'a fait penser à ma jeunesse.
+12993	Peu importe. Il s'agit de la récompense pour la[ENTER]réussite de l'épreuve.
+13180	Monstres restants
+13603	Vous avez éliminé %d monstres Quantité restante : %d
+12994	Temple du serpent ?!
+12995	Une nouvelle zone a été découverte. Je devrais me[ENTER]rendre auprès du gardien serpent qui garde ce[ENTER]lieu.
+12996	Hé, débutant ! On dirait que vous souhaitez[ENTER]entrer dans la vallée...
+12997	Si vous voulez entrer dans la vallée, je veux que[ENTER]vous me fassiez une faveur avant d'y aller ! Les[ENTER]monstres des alentours sont oppressants en ce[ENTER]moment. Je pourrais vraiment avoir besoin de[ENTER]votre aide.
+12998	Je veux que vous chassiez ces monstres et que[ENTER]vous me rapportiez de la limaille de fer. Vous[ENTER]feriez cela pour moi ? Selon ma connaissance, on[ENTER]peut faire de l'argent facile avec la limaille de[ENTER]fer.
+12999	Oui.
+13000	Non.
+13001	Alors, je crains que vous ne puissiez pas non[ENTER]plus entrer dans la vallée !
+13002	Fournissez %d limailles de fer que le gardien[ENTER]serpent souhaite obtenir par-dessus tout. Vous[ENTER]pouvez en trouver sur les monstres à proximité.
+13003	Oh... Vous les avez déjà trouvés ? Hé ! Je crois[ENTER]que vous ne savez pas compter. J'ai dit %d !
+13004	Le gardien serpent vous demande %d limailles de[ENTER]fer pour vous laisser entrer dans la vallée. Je[ENTER]peux chasser des monstres dans les environs du[ENTER]col de Yilad pour empocher des limailles de fer.[ENTER]Limailles de fer restantes : %d
+13005	Vous avez obtenu des limailles de fer. Quantité collectée : %d
+13006	Fournissez toutes les limailles de fer au gardien[ENTER]serpent. Je ferais bien de faire demi-tour.
+13007	Fournissez toutes les limailles de fer au gardien[ENTER]serpent. Je ferais bien de faire demi-tour.
+13008	Oh, je savais que vous étiez fait pour cette[ENTER]mission ! C'est la quantité adéquate !
+13009	Dans ce cas, je vais vous aider à traverser la[ENTER]vallée. Une fois que vous aurez atteint l'autre[ENTER]côté, vous verrez un grand temple. Si vous voulez[ENTER]y aller plus tard, revenez me voir.
+13010	Vous pouvez accéder au Temple du serpent en vous[ENTER]adressant au gardien serpent.
+13011	Ah, vous voilà à nouveau ! Souhaitez-vous entrer ?
+13012	Alors, apportez-moi les limailles de fer que vous[ENTER]avez collectées pour moi et je vous donne un[ENTER]ticket. Cette fois-ci, nous avons besoin de[ENTER]%d limailles de fer.
+13013	Temple du serpent ?! (Récupération)
+13015	Souhaitez-vous entrer dans le Temple du serpent ?
+13016	Confirmer
+13017	Annuler
+13018	Parlez au gardien serpent pour entrer dans le[ENTER]Temple du serpent.
+13019	Cette vallée est très dangereuse. Soyez prudent !
+13181	Limailles de fer restantes
 8167	Observatoire de Nemere
 8168	Entrez dans l'Observatoire de Nemere. Vous pouvez[ENTER]y rester une heure au maximum. Après achèvement[ENTER]ou interruption de votre aventure, il vous faut[ENTER]attendre quatre heures de plus avant de pouvoir à[ENTER]nouveau y accéder.
 8169	Vainquez tous les ennemis !
@@ -11793,6 +11908,62 @@
 12884	Vous avez détruit toutes les Metins du Jin.[ENTER]Expliquez cela à Confucius, dans le Niveau[ENTER]Dongan.
 12885	Retournez voir Confucius pour lui expliquer ce[ENTER]qui se passe.
 12886	Son influence s'affaiblit, mais ça ne suffit[ENTER]toujours pas. Mais chaque petit pas compte. Voici[ENTER]une petite récompense pour vous remercier.
+12914	Une région inconnue
+12915	Alors que j'errais pour en savoir plus sur cette[ENTER]étrange rumeur, je suis finalement arrivé dans un[ENTER]pays inconnu. Nous devrions examiner de plus près[ENTER]cet endroit pour savoir s'il est à l'origine des[ENTER]rumeurs.
+12916	Je vois quelqu'un arriver au loin. Nous devrions[ENTER]nous en approcher avec prudence.
+12917	Une personne assez nerveuse se trouve ici. Nous[ENTER]devrions aller lui parler.
+13541	Une nouvelle quête a été ajoutée.
+12918	Une personne étrange
+12919	Rejoignez la personne étrange et parlez avec elle.
+12920	Oh !?
+12921	Qui êtes-vous ? Comment avez-vous fait pour[ENTER]arriver jusqu'ici ?
+12922	Hé ! Qui êtes-vous ? Je suis un chasseur de[ENTER]primes et j'ai fait tout ce chemin pour suivre la[ENTER]rumeur qui partait de ce village. Vous aussi ?[ENTER]Maintenant je dois effectuer des recherches. Si[ENTER]vous le souhaitez, je vous raconte ce que j'ai[ENTER]découvert jusqu'à présent.
+12923	Refuser
+12924	Je vais vous aider.
+12925	Quel lâche !
+12926	Je crois que quelque chose d'exceptionnel se[ENTER]déroule ici. Nous devrions d'abord faire un tour[ENTER]et éliminer les soldats corrompus. Comme c'est[ENTER]trop dangereux là-bas, nous nous retrouverons ici[ENTER]par la suite.
+12927	Éliminez des soldats corrompus[ENTER]Ennemis restants : %d
+12928	Eh, ne perdez pas de temps ! Je ne te raconterai[ENTER]rien si vous restez simplement ici sans rien[ENTER]faire.
+12929	J'ai éliminé tous les soldats corrompus et je[ENTER]devrais retourner voir le chasseur de primes.
+12930	Bien joué. Voici votre récompense. Je vous tiens[ENTER]informé de la suite à donner aux évènements.[ENTER]N'hésitez pas à revenir.
+12931	Une rumeur étrange
+12932	Je devrais poser des questions sur la rumeur du[ENTER]Col de Yilad au chasseur de primes.
+12933	C'est déjà plus clair maintenant. Une rumeur ?![ENTER]Qui vous a parlé de cela ? Un autel caché se[ENTER]trouve à proximité et un monstre très puissant[ENTER]erre dans le coin. On dirait que vous avez déjà[ENTER]entendu parler de cette rumeur. Très bien,[ENTER]laissez-moi vous dire autre chose.
+12935	Ils sont déjà tous partis ?
+12936	Pas vraiment, ils ont conçu le Temple du serpent[ENTER]et ils y deviennent de plus en plus forts. Mon[ENTER]objectif est d'éliminer leur chef et d'empocher[ENTER]l'argent. Toutefois, il est difficile de[ENTER]s'approcher d'elle, car un gardien se trouve à[ENTER]proximité de l'autel. Si vous le souhaitez, vous[ENTER]pourriez m'aider à poursuivre ces monstres ? Tout[ENTER]seul, ce serait difficile de percer leurs rangs.
+12937	Pas maintenant.
+12938	Je savais que vous ne me laisseriez pas tomber.[ENTER]Un coup de main a toujours du bon. Allez, on se[ENTER]met en route pour l'autel.
+12939	Je dois éliminer des guerriers corrompus pour[ENTER]dégager la voie.[ENTER]Monstres restants : %d
+12940	Alors ? Ça avance ? On ne dirait pas...[ENTER]Dépêchez-vous s'il vous plaît, il ne nous reste[ENTER]que peu de temps !
+12941	J'ai chassé tous les guerriers corrompus et j'ai[ENTER]libéré la voie. Je ferais bien de retourner[ENTER]auprès du chasseur de primes.
+12942	Tous les guerriers corrompus ont été éliminés.[ENTER]Retournez auprès du chasseur de primes.
+12943	Bien joué. Je vois désormais notre chemin.[ENTER]Passons rapidement à la zone suivante. On dirait[ENTER]qu'on se rapproche de leur repaire.
+12966	Je peux ?
+12967	D'accord, alors faites demi-tour. Revenez si vous[ENTER]changez d'avis.
+12944	Un autel caché
+12945	Je crois que j'arrive déjà à reconnaitre un[ENTER]élément de l'autel caché. Retournons vite chez le[ENTER]chasseur de primes.
+12946	Oui, précisément. Après m'être frayé un chemin à[ENTER]travers tous ces monstres, j'ai atteint l'autel.[ENTER]Mais le gardien n'a pas voulu me laisser entrer.[ENTER]Je l'ai supplié plusieurs fois, mais ça n'a pas[ENTER]marché et je n'ai pas eu d'autre choix que de[ENTER]faire demi-tour. Mais grâce à vous, je peux[ENTER]retenter ma chance. Allons-y ensemble.
+12947	J'en peux plus.
+12948	Très bien.
+12949	Quoi ? Vous abandonnez déjà ? Vous êtes plus[ENTER]faible que je ne le pensais.
+12950	Nous pouvons y arriver si nous nous en donnons[ENTER]les moyens. Allez, éliminons quelques monstres à[ENTER]proximité.
+12951	Éliminez des moines corrompus pour libérer le[ENTER]dernier passage encombré.[ENTER]Ennemis restants : %d
+12952	Vous abandonnez si près du but ? Je peux vous[ENTER]proposer une partie de la prime. Je vais bientôt.
+12953	Tous les moines corrompus ont été éliminés.[ENTER]Retournez auprès du chasseur de primes.
+12954	Je peux déjà reconnaitre le gardien qui surveille[ENTER]le Temple du serpent. Je crois que nous[ENTER]parviendrons à atteindre l'entrée de l'autel.
+12955	Infiltration
+12956	J'ai trouvé l'autel. Je ferais bien d'examiner[ENTER]les environs pour trouver le gardien.
+12957	Vous avez enfin trouvé l'autel. Je vous remercie[ENTER]d'avoir tenu le coup à mes côtés jusqu'ici.[ENTER]Maintenant, nous pouvons nous faufiler devant le[ENTER]garde pour savoir où se cache le chef et[ENTER]découvrir ce qui se passe. Toutefois je crains[ENTER]qu'elle parvienne à nous voir si nous restons[ENTER]ensemble. Je suggère donc que nous partions[ENTER]séparément et que nous essayions de rassembler[ENTER]des informations utiles en cours de route.
+12958	Ça suffit.
+12959	Allons-y !
+12960	Nous avons réussi ! Réfléchissez-y encore une[ENTER]fois.
+12961	J'espère que nous serons encore en un seul[ENTER]morceau quand nous nous reverrons.
+12962	Faufilez-vous dans le Temple du serpent derrière[ENTER]le gardien de l'autel et trouvez ce qu'il s'y[ENTER]passe. Chassez 30 soldats kappas.[ENTER]Monstres restants : %d
+12963	Vous n'êtes pas encore parti ? Je crois que je[ENTER]vais y aller.
+12964	Le Temple du serpent a été repéré et 30 soldats[ENTER]kappas ont été pourchassés. Retournez auprès du[ENTER]chasseur de primes.
+12965	Je savais que vous y arriveriez ! J'ai regardé à[ENTER]l'intérieur, mais je n'ai pas trouvé la cheffe.[ENTER]Bon, c'est la vie. Peut-être la prochaine fois.[ENTER]Ce n'est que grâce à vous que j'ai réussi à venir[ENTER]jusqu'ici et je veux vous récompenser pour votre[ENTER]aide. Tenez, prenez cette récompense, je vous[ENTER]prie.
+13054	Suivez le point clignotant sur la minicarte.
+13597	Vous n'avez pas encore trouvé le Temple du[ENTER]serpent ?[ENTER]Cet endroit ne sera pas facile à trouver. Alors,[ENTER]assurez-vous que vous soyez prêt à vous lancer[ENTER]dans le Temple du serpent.
 12679	Hall d'entrée pour la Tour infernale de Sung Mahi
 12680	Voulez-vous accéder à la Tour infernale de Sung[ENTER]Mahi ?
 12681	Oui
@@ -12081,3 +12252,4 @@
 12673	Triomphez du boss mondial !
 12674	Infligez au boss mondial un minimum de dégâts de[ENTER]%d (ou plus).
 12675	Quête journalière terminée : vous avez infligé le[ENTER]montant de dégâts minimum requis au boss mondial.
+12934	Je suis venu ici pour empocher la prime de ce[ENTER]monstre. À l'origine, ce lieu était rempli de[ENTER]monstres serpents. On le nomma le col de Yilad.[ENTER]Avez-vous remarqué quelque chose de particulier ?[ENTER]Tous les monstres ont disparu.

@@ -1,3 +1,6 @@
+13305	Hele, máš klíè, abys mì osvobodil?
+13306	Prosím, osvoboïte mì. Pomùe mi nìkdo?
+13307	Hej ty tam! Prosím získej klíè!
 2	Ji jsem ti øekl vše o silách, které budeme[ENTER]potøebovat pøi konfrontaci Sung Mahi.[ENTER][ENTER]Honem se tedy vydej na cestu a najdi Velitele.[ENTER][ENTER]Vra se, a budeš mít potøebné plátno.
 1	Speciální plátno
 3	Zvıšení síly
@@ -829,6 +832,26 @@
 12585	Našel jsem všechny Stínové kapradiny.[ENTER]Nyní se rychle vra k Chaegirabovi.
 12591	Nechvátej na mì! Dokonce i tahle poškozená[ENTER]kapradina má pro vìdu vıznam.[ENTER]Pøijï pozdìji a pøines novou rostlinu.[ENTER]Zbıvá: %s
 12713	Ne, promiò[ENTER]Poøád jsem nedokonèil analızu té poslední Stínové[ENTER]kapradiny.[ENTER]Pøijï pozdìji znovu.[ENTER]Zbıvá: %s
+13038	Ano
+13039	Ne
+13041	Toto je dostupné pouze veliteli.
+13042	Zaèít bitvu
+13043	Vzdát to
+13044	Opustit
+13045	Pøeješ si spustit bludištì Hadí chrám?
+13046	Hadí chrám
+13047	Pøeješ si odejít z toho místa? Mùeš se vrátit,[ENTER]dokud nebude zahájena bitva.
+13048	Vytvoøená instance Hadího chrámu se uzavírá.[ENTER]Opravdu to chceš vzdát?
+13056	Všichni èlenové skupiny musí bıt ve stejné[ENTER]oblasti.
+13061	Jdi na úroveò s bossem.
+13062	Kováø Hadího chrámu
+13063	Chceš jít na úroveò s bossem?
+13064	Kováø vylepšující rukavice
+13065	Hele, mùu ti vylepšit pár rukavic. Nepotøebuješ[ENTER]ádné další suroviny! Jen mi dej rukavice, co[ENTER]chceš vylepšit. Mé vylepšení má stejnı efekt jako[ENTER]Poehnanı pergamen.
+13613	Pøeješ si opustit bludištì?
+13614	Své stupy nyní nemùeš zresetovat.
+13615	Chceš zresetovat své vstupy do Hadío chrámu?
+13616	Tvé vstupy do Hadího chrámu byly zresetovány na 5.
 679	Pora Jin-Hee
 678	Pomsta za obchodníka s prsteny
 680	Staøenka tì poádala o pomoc: její pøítel,[ENTER]obchodník s prsteny, byl zavradìn Jin-Hee, která[ENTER]je elitou Bílé pøísahy. Pomsti jeho smrt a zabij[ENTER]30 Jin-Hee.
@@ -1358,6 +1381,30 @@
 989	Tady, to je tvùj Energetickı krystal. Ale pouze[ENTER]první pokus je vdy úspìšnı. Alchymie je[ENTER]nevyzpytatelná vìda - malá chybièka vede k[ENTER]velkému selhání. Proto vdy existuje malá šance,[ENTER]e experiment sele.
 990	Bohuel se to nepovedlo, nemám ádnı Energetickı[ENTER]krystal. Má technologie je brilantní, ale bohuel[ENTER]proces je riskantní. Vìci se vdy nevyvíjí podle[ENTER]plánu. Jsem si ale jist, e pøíštì se mi to[ENTER]podaøí!
 991	Vìdìl jsem to! Moje technologie je brilantní. Na,[ENTER]tady máš svùj Energetickı krystal. No, je to[ENTER]opravdu pìknı kousek - cítíš jeho sílu?
+13540	Chceš vstoupit do hadího chrámu?
+13014	Vstoupit do Hadího chrámu
+13020	Dùleité pøípravy
+13021	Mìl bych najít Sochu hada, abych mohl vstoupit do[ENTER]Hadího chrámu.
+13022	Pro postup v tomto podzemním bludišti budeš[ENTER]potøebovat rùzné vìci... klobouk, biè nebo pytlík[ENTER]s pískem velikosti pokladu se urèitì hodí. Mohu[ENTER]pro tebe ty pøedmìty vyrobit.
+13023	Ovšem pokud chceš vstoupit do chrámu, musíš mi[ENTER]pøinést %d Hadích šupin na vıbavu. A protoe[ENTER]vítìzství je hoden jen hrdina, kterı je pøipraven[ENTER]obìtovat vše, bude tì to stát %d Yangù. Seeneš[ENTER]oboje?
+13024	Socha hada vyaduje %d Hadích šupin. Najdeš je u[ENTER]okolních pøíšer.
+13025	Pro vstup do Hadího chrámu potøebuji %d Hadích[ENTER]šupin na vırobu Hadí sochy.[ENTER]Zbıvá: %d
+13026	Potøebuji více Hadích šupin...
+13027	Obdrel jsi Hadí šupiny. Nasbíráno: %d
+13028	To jsou všechny Hadí šupiny, které Hadí socha[ENTER]vyaduje. Vra se.
+13029	Mám všech %d Hadích šupin! Mìl bych se vrátit k[ENTER]Hadí soše.
+13030	Máš všechny Hadí šupiny? Tak u jen potøebuji %d[ENTER]Yangù a budu ti schopen garantovat vstup do[ENTER]chrámu.
+13031	Dát obojí
+13032	Storno
+13033	Nemáš dost penìz...
+13034	Dobrá. Vše hotovo! Tady jsou tvé pøedmìty, hodnì[ENTER]štìstí. Kdykoliv budeš opìt potøebovat vıbavu na[ENTER]další expedici, staèí za mnou zajít.
+13035	Vytvoøit
+13036	Vstoupit
+13037	Chceš vstoupit do Hadího chrámu? Zbıvá ti %d[ENTER]vstupù.
+13040	Chceš vytvoøit instanci Hadího chrámu?
+13049	Dnes ji nemùeš znovu vstoupit.
+13055	Nemùeš vytvoøit další instanci, dokud neposbíráš[ENTER]všechny odmìny.
+13182	Zbıvá Hadích šupin
 992	Správce herní zóny
 993	Chceš opustit herní zónu?
 994	Chceš vstoupit do herní zóny?
@@ -1626,6 +1673,17 @@
 10167	Pouij Animasphery ke sníení temné energie,[ENTER]vyzaøující z Chrámu Zvìrokruhu, ne bude pøíliš[ENTER]silná. Jakmile vstoupíš do chrámu budou[ENTER]automaticky pouity Animasphery. Poznámka: úkol[ENTER]nelze dokonèit, pokud máš aktivní Známku Stráce.
 10168	Hotovo! Vra se k Mnichovi Milbonovi pro odmìnu.
 10169	Dìkuji. Chrám je nyní zase bezpeènı. Tady je tvùj[ENTER]dárek. Nicménì úroveò energie se zase zvıší. Vra[ENTER]se za 24 hodin a sni její úroveò pomocí[ENTER]Animaspher ještì jednou. Samozøejmì tì za to[ENTER]znovu odmìním.
+13586	Vstoupit do Tajemného bludištì
+13587	Tajemnı oltáø
+13588	Hej! Vím, e jsem byl promìnìn v kámen. Mùe za[ENTER]to kletba Sung Mahi! Ale jsem šaman a mohu ti[ENTER]povìdìt o velmi zajímavém místì...[ENTER]Pokud máš Tajemnou propustku, mohu tì vzít do[ENTER]Tajemného bludištì.[ENTER]Chceš to zkusit?
+13589	Ano
+13590	Ne
+13591	Ach! Obávám se, e tì nemohu nechat projít bez[ENTER]Tajemné propustky.
+13598	Nyní nemùeš vstoupit.
+13609	Konec
+13610	Pøeješ si opustit bludištì?
+13611	Ano
+13612	Ne
 1209	Odmítnout
 1208	Proè pláèeš?
 1210	Jistì, e ti pomohu. Úkol neni tak sloitı a[ENTER]chápu, e chceš mít památku zpìt. Brzy se[ENTER]uvidíme.
@@ -7628,6 +7686,15 @@
 12707	Obdrel jsi %d Elixírù Slunce (M).
 12708	Bì za Obchodníkem s vızbrojí a oslavuj.
 12709	Obdrel jsi %d Rituálních kamenù.
+12971	Skryté údolí
+12972	Nesou se zvìsti, e bylo nalezeno nové údolí. Jdi[ENTER]za Konfuciem.
+12973	U jsem tì chvíli nevidìl... Kde jsi celou tu[ENTER]dobu byl? Tajné místo, ze kterého tì pøed jeho[ENTER]nalezením bolela hlava.
+12974	Slyšel jsem, e cesta tam je zrádná a nebezpeèná.[ENTER]Rád bych tì poádal, abys tam zašel a zjistil o[ENTER]tom skrytém údolí více. Jakmile tam dorazíš,[ENTER]potkáš stráce, kterého jsem tam ji døíve[ENTER]poslal.
+12975	Byla odemèena nová oblast. Najdi Hadího stráce.
+12976	Hele, co tam tak postáváš? Pokud jdeš na Planiny[ENTER]Dong Gwang, mùeš se odtud dostat do nové[ENTER]oblasti.
+12977	Vydej se do nové oblasti a najdi Hadího stráce.
+12978	Kdo jsi? Aha, tebe posílá Konfucius? To nemyslíš[ENTER]vánì... Proè by posílal takového zelenáèe na[ENTER]místo, jako je tohle?
+12979	Konfucius mi øekl, abych ti dal po pøíchodu toto.[ENTER]Pøíjd' ke mnì zas pozdìji. Poøád máš úkoly, které[ENTER]musíš splnit.
 6353	Novı ivot
 6354	Probudil ses a cítíš se tak nìjak chlupatı. Co se[ENTER]stalo? A kde to jsi? Vyhledej Moudrého[ENTER]Myonghoranga. Moná ti to vysvìtlí.
 6355	Vítej, Lycane!
@@ -7965,11 +8032,11 @@
 6606	Celkové skóre
 6607	Nejvyšší herní skóre
 6608	10 hráèù s nejvyšším celkovım skórem obdrí ještì[ENTER]zvláštní ceny.
-6610	1. místo: %sx %d
+6610	1. místo: %s %d x
 6609	Zavøít
-6611	2. místo: %sx%d
-6612	3. místo: %sx%d
-6613	4. - 10. místo: %sx %d
+6611	2. místo: %s %d x
+6612	3. místo: %s %d x
+6613	4. - 10. místo: %s %d x
 6614	1. místo: %s, %d
 6615	2. místo: %s, %d
 6616	3. místo: %s, %d
@@ -9808,6 +9875,12 @@
 12080	Storno
 12081	Tvé hodnoty byly resetovány.
 12082	Nemáš nic, co by mohlo bıt resetováno.
+13057	Dokonèil jsi Hadí chrám a mùeš si posbírat odmìny. Promluv si se Sochou hada.
+13058	Odmìny sebrány
+13059	Socha hada
+13060	Zvítìzil jsi nad všemi zlımi hady. Zaslouil sis[ENTER]tuto truhlu.
+13606	Obdrel jsi %dx Hadí poklad.
+13607	Obdrel jsi %dx Hadí prach.
 8044	Nemáš dostateènou úroveò!
 8045	Nemùeš jezdit, kdy jsi v promìnì!
 8046	Ji jezdíte! Pokud chcete zmìnit zvíøe, musíte[ENTER]nejprve sesednout.
@@ -9951,6 +10024,48 @@
 11499	Ne, zùstanu tady.
 11500	Modrı drak (ÈT) se vrátil!
 11679	Do tøí minut budou všichni váleèníci[ENTER]teleportováni z Jeskynì vyhnanství (ÈT).
+12980	Co je Hadí chrám?
+12981	Mìl bych si promluvit s Hadím strácem, abych[ENTER]našel skrytı chrám.
+12982	Hele, zelenáè! Nevím, jak moc budeš uiteènı.[ENTER]Pokud pùjdeš údolím po cestì za mnou, narazíš na[ENTER]obrovskı chrám. U jsi nìkdy slyšel o Hadím[ENTER]chrámu?
+12983	Potkáš tam kopu nebezpeènıch pøíšer. Vsadím se,[ENTER]e tam nevydríš ani minutu. Ale pokud budeš mít[ENTER]dost odvahy, najdeš tam poklad.
+12984	Jak se dostanu dovnitø?
+12985	Cha, cha, cha! Nedostaneš - pokud tì nepustím.[ENTER]Otestuji si tvou odvahu.
+12986	Tvé oèi jiskøí, abys zail nìjakou akci! Jsem si[ENTER]jist, e se dokáeš postarat o ty pøíšery okolo[ENTER]mì! Udrovat v této oblasti poøádek zaèíná bıt[ENTER]otravné.
+12987	Lov pøíšery v okolí, abys sloil zkoušku Hadího[ENTER]stráce.
+12988	Hadí stráce chce, abys zabil %d pøíšer v[ENTER]Prùsmyku Yilad.[ENTER]Zbıvá pøíšer: %d
+12989	Hele, poøád ses ještì nepostaral o ty pøíšery...[ENTER]To u to vzdáváš?
+12990	Zabil jsem všechny pøíšery pro Hadího stráce.[ENTER]Mìl bych se k nìmu vrátit.
+12991	Zabil jsem všechny pøíšery pro Hadího stráce.[ENTER]Mìl bych se k nìmu vrátit.
+12992	Á! Zdá se, e jsi stateènìjší, ne jsem si[ENTER]myslel. Sledovat tì bojovat z povzdálí mi[ENTER]pøipomenulo mé mládí.
+12993	Ale co u... Toto je tvoje odmìna za sloení[ENTER]zkoušky.
+13180	Zbıvá pøíšer
+13603	Zabil jsi %d pøíšer. Zbıvající poèet: %d
+12994	Hadí chrám?!
+12995	Byla objevena nová oblast. Mìl bych najít Hadího[ENTER]stráce, kterı na tuto oblast dohlíí.
+12996	Hele, zelenáè! Zdá se, jako bys chtìl do údolí...
+12997	Pokud tam chceš jít, nejprve mi musíš prokázat[ENTER]slubu! Pøíšery v okolí momentálnì zpùsobují[ENTER]spoustu problémù. A mì by se s nimi opravdu[ENTER]hodila pomoc.
+12998	Chci, abys je pozabíjel a pøinesl mi elezné[ENTER]piliny. Mohl bys to pro mì udìlat? Pokud vím,[ENTER]elené piliny jsou také dobrım zpùsobem, jak si[ENTER]vydìlat peníze.
+12999	Ano.
+13000	Ne.
+13001	Hm, tak to se obávám, e tì do údolí nenechám[ENTER]vstoupit!
+13002	Získej %d elenıch pilin, které chce Hadí[ENTER]stráce. Najdeš je u okolních pøíšer.
+13003	Coe, to jsi je získal tak rychle? Hej! Myslím,[ENTER]e jsi se pøepoèítal. Øekl jsem %d!
+13004	Hadí stráce poaduje %d eleznıch pilin, aby tì[ENTER]nechal vstoupit do údolí. Mìl bych zabíjet[ENTER]pøíšery okolo Prùsmyku Yilad, abych získal[ENTER]elezné piliny.[ENTER]Zbıvá eleznıch pilin: %d
+13005	Získal jsi elezné piliny. Sebráno: %d
+13006	Mám všechny elezné piliny, které chtìl Hadí[ENTER]stráce. Mìl bych se k nìmu vrátit.
+13007	Mám všechny elezné piliny, které chtìl Hadí[ENTER]stráce. Mìl bych se k nìmu vrátit.
+13008	Aha! vìdìl jsem, e se na ten úkol hodíš! To je[ENTER]správné mnoství!
+13009	Ok, teï ti pomohu pøejít údolí. Jakmile se[ENTER]dostaneš na druhou stranu, uvidíš velikı chrám.[ENTER]Pokud tam budeš chtít jít pozdìji, vra se znovu[ENTER]ke mì.
+13010	Pøístup do Hadího chrámu získáš od Hadího stráce.
+13011	Á, to jsi zase ty. Chceš vstoupit?
+13012	Tak mi dones elené piliny, co jsi pro mì[ENTER]naposledy sbíral a já ti dám propustku. Tentokrát[ENTER]chci %d eleznıch pilin.
+13013	Hadí chrám?! (Opakování)
+13015	Chceš vstoupit do Hadího chrámu?
+13016	Potvrdit
+13017	Storno
+13018	Promluv si s Hadím strácem o vstupu do Hadího[ENTER]chrámu.
+13019	Toto údolí vypadá velmi nebezpeènì. Take dávej[ENTER]pozor!
+13181	Zbıvá eleznıch pilin
 8167	Nemerova strání vì
 8168	Vstup do Nemerovy strání vìe. Èasovı limit[ENTER]pobytu ve vìi je jedna hodina. Po dokonèení nebo[ENTER]pøerušení dobrodruství musíš èekat ètyøi hodiny[ENTER]ne budeš opìt moci vstoupit dovnitø.
 8169	Pora všechny nepøátele!
@@ -11793,6 +11908,62 @@
 12884	Znièil jsi všechny Metiny Jin. Seznam Konfucia s[ENTER]aktuální situací na Planinách Dong Gwang.
 12885	Vra se ke Konfuciovi a øekni mu, co jsi zail.
 12886	Pøítomnost byly oslabena, ale stále to nebude[ENTER]dost. Ale kadá trocha se poèítá. Tady je za to[ENTER]pro tebe malı dárek.
+12914	Neznámá zemì
+12915	Jak jsem se potuloval ve snaze zjistit o té[ENTER]podivné novinì více, dorazil jsem do neznámé[ENTER]zemì. Mìli bychom tohle místo lépe prozkoumat,[ENTER]abychom zjistili, kde je zdroj tìch zvìstí.
+12916	Nìkoho vidím v dáli. Mìli bychom se k nìmu[ENTER]pøiblíit opatrnì.
+12917	Na rohu posedává nervózní postava. Mìl bych si s[ENTER]ním promluvit.
+13541	Byl pøidán novı úkol.
+12918	Zvìdavá osoba
+12919	Jdi ke zvìdavé osobì a promluv si s ní.
+12920	Mùj boe!
+12921	Kdo jsi? Jak jsi vlastnì dokázal najít cestu a[ENTER]sem?
+12922	Hej! Kdo jsi? Jsem Lovec odmìn a ušel jsem tuhle[ENTER]cestu sledováním zvìstí a k této vesnici. Ty[ENTER]také? No, musím tu nìco prozkoumat... Pokud mi[ENTER]pomùeš, rád ti øeknu, co jsem zatím zjistil.
+12923	Odmítnout
+12924	Pomùu ti.
+12925	Zbabìlec jeden!
+12926	Myslím, e se tu dìje nìco velkého. Nejprve[ENTER]bychom se mìli trochu rozhlédnout a pozabíjet[ENTER]nìjaké Špinavé vojáky. Je to tu moc nebezpeèné,[ENTER]tak se potkáme pozdìji.
+12927	Zabij Špinavé vojáky[ENTER]Zbıvá: %d
+12928	Neplıtvej èasem! Nic ti neøeknu, pokud tu budeš[ENTER]jen postávat.
+12929	Zabil jsem všechny Špinavé vojáky a mìl bych se[ENTER]vrátit k Lovci odmìn.
+12930	Vıbornì. Tady je tvoje odmìna. Øeknu ti, jak[ENTER]budeme pokraèovat. Pøíjd' ke mnì zas pozdìji.
+12931	Divné zvìsti
+12932	Mìl bych se zeptat Lovce odmìn na zvìsti ohlednì[ENTER]Prùsmyku Yilad.
+12933	Vìci se nyní zdají trochu jasnìjší. Zvìsti? Jak o[ENTER]nich víš? Nedaleko odtud je skryt oltáø a velmi[ENTER]silná pøíšera tym dìlá zmatek. Zdá se, e jsi o[ENTER]tom u vìdìl. Tak fajn, øeknu ti o nìèem jiném...
+12935	Vše hotovo?
+12936	Ještì ne. Postavili Hadí chrám, aby byli ještì[ENTER]silnìjší. Chci zabít jejich velitelku a získat[ENTER]odmìnu. Ale je velmi obtíné se k ní dostat,[ENTER]protoe nedaleko oltáøe je stráce. Moná bys mi[ENTER]mohl pomoci zabíjet pøíšery? Je tìké se skrze nì[ENTER]probít sám.
+12937	Teï ne.
+12938	Vìdìl jsem, e mì v tom nenecháš. Pomocná ruka se[ENTER]vdy hodí. Tak si proklestìme cestu k oltáøi.
+12939	Pro vyèištìní cesty musím zabíjet Špinavé[ENTER]váleèníky.[ENTER]Zbıvá pøíšer: %d
+12940	Tak jak to jde? Povedlo se ti nìjak postoupit?[ENTER]No, nevypadá to tak... Prosím, pospìš si, nemáme[ENTER]moc èasu!
+12941	Pozabíjel jsem všechny Špinavé váleèníky a[ENTER]vyèistil cestu. Mìl bych s e vrátit k Lovci[ENTER]odmìn.
+12942	Všichni Špinaví váleèníci byli zabiti. Vra se k[ENTER]Lovci odmìn.
+12943	Vıbornì. Nyní u cestu vidím. Tak se pojïme[ENTER]rychle pøesunout do další oblasti. Zdá se, e se[ENTER]blííme k jejich uprchlíkùm.
+12966	Mohu?
+12967	V poøádku, vrátím se. Vra se, pokud zmìníš názor.
+12944	Skrytı oltáø
+12945	Myslím, e dokáu rozeznat skrytı oltáø. Vra se[ENTER]k Lovci odmìn.
+12946	Tak je to správnì! Po té, co jsem si proklestil[ENTER]cestu skrze všechny pøíšery, našel jsem oltáø.[ENTER]Ale stráce mì nechce nechat vstoupit. Zkoušel[ENTER]jsem to nìkolikrát, ale nefungovalo to a nemìl[ENTER]jsem jinou monost, ne se vrátit. Ale díky tobì[ENTER]mám nyní další šanci! Zatlaèíme na nìj spoleènì.
+12947	Nemohu pokraèovat.
+12948	V poøádku.
+12949	Vzdáváš to? Jsi slabší, ne jsem oèekával.
+12950	Pokud budeme spolupracovat, dokáeme to. Nejprve[ENTER]musíme ale vyèistit cestu od pøíšer.
+12951	Pro vyèištìní cesty musím zabíjet Špinavé mnichy.[ENTER]Zbıvá: %d
+12952	Vzdáváš to? Mohu se s tebou podìlit o mou odmìnu.[ENTER]No tak...
+12953	Všichni Špinaví mniši byli zabiti. Vra se k[ENTER]Lovci odmìn.
+12954	U vidím v dáli stráce, která hlídá Hadí chrám.[ENTER]Myslím, e to ke vchodu do oltáøe díky tobì[ENTER]zvládneme.
+12955	Infiltrace
+12956	Našel jsem oltáø. Mìl bych ho prozkoumat a[ENTER]zjistit, kde je stráce.
+12957	Koneènì jsi našel oltáø. Díky, e jsi se mnou tak[ENTER]dlouho. Nyní mùeme proklouznout kolem stráce k[ENTER]místu, kde se schovává velitelka a zjistit, o co[ENTER]jde. Ale obávám se, e pokud pùjdeme spolu, tak[ENTER]nás spatøí. Take navrhuji, abychom se rozdìlili[ENTER]a zkusili získat více informací.
+12958	Mám dost.
+12959	Tak jdeme!
+12960	Skoro jsme to dokázali. Prosím, zva to znovu.
+12961	Doufám, e se pøíštì potkáme ve zdraví.
+12962	Proklouzni kolem stráce do chrámu a zjisti, co[ENTER]se dìje uvnitø. Zabij 30 Vojákù Kappa[ENTER]Zbıvá pøíšer: %d
+12963	Ještì jsi neodešel? Myslím, e budu pokraèovat.
+12964	Hadí chrám byl prozkoumán a bylo zabito 30 Vojákù[ENTER]Kappa. Vra se k Lovci odmìn.
+12965	Vìdìl jsem, e to zvládneš! Také se mi povedlo[ENTER]nakouknout dovnitø, ale velitelku jsem nenašel.[ENTER]No co se dá dìlat... Moná pøíštì. Nicménì jsem[ENTER]to sem zvládl jen díky tobì, tak bych tì rád za[ENTER]pomoc odmìnil. Prosím, vezmi si toto...
+13054	Následuj blikající bod na minimapì.
+13597	Ještì jsi nenašel Hadí chrám?[ENTER]Na to místo nebude snadné se dostat. Tak se[ENTER]ujisti, e na Hadí chrám máš dostatek schopností.
 12679	Vstupní hala Vìe Sung Mahi
 12680	Pøeješ si vstoupit do Vìe Sung Mahi?
 12681	Ano
@@ -12081,3 +12252,4 @@
 12673	Poraz bosse Svìta!
 12674	Zpùsob minimálnì %d poškození svìtovému bossovi.
 12675	Denní úkol splnìn - zpùsobil jsi poadované[ENTER]poškození svìtovému bossovi.
+12934	Pøišel jsem sem pro odmìnu za tuto pøíšeru.[ENTER]Pùvodnì bylo toto místo plné hadích pøíšer a[ENTER]nazıvalo se Prùsmyk Yilad. Ale všiml sis nìèeho[ENTER]divného? Všechny ty hadí pøíšery zmizely.

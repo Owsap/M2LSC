@@ -692,6 +692,8 @@
 1693	Všechny základny v %s byly znièeny a oblast ji není pod kontrolou Sung Mahi.
 1694	Pustiny Seo Gwang
 1695	Propast Nam Gwang
+1696	Vylepšení bylo úspìšné!
+1697	Bohuel, vylepšení selhalo.
 1698	Díky poehnání imunity nejsi ovlivnìn pøítomností Sung Mahi.
 1699	Tvá imunita vypršela a opìt jsi ovlivnìn pøítomností a prokletím Sung Mahi.
 17	[Cech] Nemáš právo pouívat cechovní schopnosti.
@@ -718,8 +720,38 @@
 1718	[Osobní prémiovı obchod] Prodalo se: %s Prosím, seber si nyní své peníze.
 1719	[Osobní prémiovı obchod] Obchod nemùeš znovu otevøít %d vteøin po jeho zavøení.
 172	[Gaya] Ji náš maximální poèet Gaya.
+1720	Toto nemùeš udìlat bìhem vytváøení bludištì.
+1721	Ji se nemùeš oivit. Budeš teleportován z bludištì.
+1722	Ji jsi odmìnu obdrel. Pokud to chceš zkusit znovu, pøíjï pozdìji. Zbıvající èas: %d h %d m
+1723	Mùeš se oivit ještì %dx.
+1724	Nyní mùeš vstoupit do Hadího chrámu. Pouij na to Sochu hada.
+1725	Znièenı Metin nereaguje. Všechny Metiny se znovu objevily.
+1726	Znièenı Metin nereaguje. Všechny Metiny se znovu objevily.
+1727	Znièil jsi %d Metinù. Zniè %d dalších Metinù.
+1728	Èas vypršel. Budeš teleportován z bludištì.
+1729	Toto je dostupné za %d minut.
 173	[Gaya] Øezání bylo úspìšné.
+1730	Ji nemùeš prodlouit èas v bludišti.
+1731	Èas v bludišti je prodlouen o 1 minutu.
+1732	Zabil jsi všechny pøíšery. Budeš pøenesen na úroveò %d. Zbıvá k tomu %d vteøin.
+1733	Znièil jsi všechny Metiny. Budeš pøenesen na úroveò %d. Zbıvá k tomu %d vteøin.
+1734	Kus byl pøidán na hadí hlavu. Ale nic se nestalo.
+1735	Všechny Hadí kobky byly odemèeny. %d úrovní za %d vteøin.
+1736	Speciální Kováø Hadího chrámu se objevil!
+1737	Kováø Hadího chrámu se objevil!
+1738	Zabil jsi všechny pøíšery a mùeš postoupit na úroveò s bossem.
+1739	Dokonèil jsi Hadí chrám. Budeš teleportován z bludištì za %d vteøin.
 174	[Gaya] Øezání selhalo.
+1740	Zniè kameny Metin ve správném poøadí.
+1741	Zabij všechny pøíšery.
+1742	Vezmi klíè od pøíšer a odemkni celu.
+1743	Pøidal jsi kus na Hadí hlavu.
+1744	Zabij bosse.
+1745	Úspìšnì otevøeno!
+1746	Nejprve musíš odemknout jinı pilíø.
+1747	Vìzení bylo odemèeno. Kováø se na tebe usmívá.
+1748	Tento klíè vìzení neotevøel a nezachránil kováøe.
+1749	Tento kus na Hadí hlavu nepasuje.
 175	[Gaya] Seznam pøedmìtù byl obnoven.
 1752	Musíš naplnit alespoò 1 Mramor BZK na úrovni 120, abys dosáhl na úroveò Šampióna.
 1753	Nejprve musíš dokonèit bludištì 'Obrana lodi'.
@@ -730,15 +762,21 @@
 1758	[Osobní prémiovı obchod] Toto nemùeš bìhem správy pøedmìtù dìlat.
 176	Detektor událostí zmizel.
 1760	[Bonus relikvie] Tato akce není moná pokud je otevøené okno Relikvie duše.
+1761	%s èlenù skupiny opustilo bitvu.
+1762	Zbıvá ti %d minut.
 1763	[Osobní prémiovı obchod] Zde nemùeš bojovat.
 1764	[Osobní prémiovı obchod] Peníze, které lze sebrat, nebudou bìhem správy pøedmìtù aktualizovány.
+1765	Nejvyšší boss Hadího chrámu se objevil.
 1766	[Osobní prémiovı obchod] Zde ji byl obchod otevøen. Najdi si jiné místo, kde si obchod otevøeš.
+1767	Toto nemùeš vylepšit, kdy máš pøivolané vyvíjejícího se mazlíka.
 177	[Gaya] Nemáš dostatek Gaya.
 178	[Gaya] Tento pøedmìt nemùeš koupit.
 179	[Gaya] V inventáøi u není místo.
 18	[Cech] Nacházíš se v pozorovatelském módu, nebo jsi ji vyèerpal limit oivení.
 180	[Gaya] Nemáš dostatek pøedmìtù Obnovit Gaya trištì.
+1802	Toto bude dostupné a po zaèátku bitvy.
 181	[Gaya] Nejprve otevøi Gaya trištì.
+1812	Toto nemùeš udìlat bìhem obchodování.
 182	[Gaya] Ji nemùeš odemknout další místo na Gaya trišti.
 183	[Gaya] Nemáš dostatek %s. Potøebuješ ještì %d pro odemèení dalšího místa.
 184	[Gaya] Gaya trištì není nyní dostupné.

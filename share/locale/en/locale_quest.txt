@@ -1,3 +1,6 @@
+13305	Hey! Do you have the key to free me?
+13306	Please set me free. Can't anybody help me?
+13307	Hey, you! Please get the key!
 2	I've already told you all about the powers we'll[ENTER]need to confront Sung Mahi.[ENTER][ENTER]Hurry along and find the Captain.[ENTER][ENTER]Return when you have the necessary cloth.
 1	A special cloth
 3	Increase your power
@@ -829,6 +832,26 @@
 12585	I found all the Shadowferns.[ENTER]Now head back to Chaegirab quickly.
 12591	Don't hurry me! Even this wilted Shadowfern holds[ENTER]insights for science.[ENTER]Come back again later and bring me a new plant.[ENTER]Remaining cooldown: %s
 12713	Oh, I'm sorry.[ENTER]I still haven't finished analysing the final[ENTER]Shadowfern.[ENTER]Come back later.[ENTER]Remaining cooldown: %s
+13038	Yes
+13039	No
+13041	This is only available to the leader.
+13042	Start Battle
+13043	Give up
+13044	Leave
+13045	Do you want to start the Serpent Temple dungeon?
+13046	Serpent Temple
+13047	Do you want to leave this place? You can return[ENTER]until the battle has started.
+13048	The created Serpent Temple instance is closing.[ENTER]Do you want to give up?
+13056	All group members must be in the same area.
+13061	Go to the boss level.
+13062	Serpent Temple Smith
+13063	Do you want to go to the boss level?
+13064	Glove Upgrade Blacksmith
+13065	Hey, I can improve a pair of gloves for you. You[ENTER]don't need any other materials! Just give me the[ENTER]gloves you want me to improve. My improvement has[ENTER]the same effect as a Blessing Scroll.
+13613	Do you want to leave the dungeon?
+13614	You cannot reset your entries right now.
+13615	Would you like to reset your entries to the[ENTER]Serpent Temple?
+13616	Your entries to the Serpent Temple have been[ENTER]reset to 5.
 679	Defeat the Jin-Hee
 678	Revenge for the Ringtrader
 680	The Old Lady has asked for your support: her[ENTER]friend, the Ringtrader was murdered by the[ENTER]Jin-Hee, the elite of the White Oath. Avenge the[ENTER]death of the Ringtrader by killing 30 Jin-Hee.
@@ -1358,6 +1381,30 @@
 989	Here, your Energy Crystal. But it's only the[ENTER]first attempt that's always successful. Alchemy[ENTER]is an unpredictable science - minor mistakes lead[ENTER]to failure! There is always a small chance that[ENTER]the experiment might fail.
 990	Unfortunately, the attempt failed. I couldn't[ENTER]produce an Energy Crystal. My technology is[ENTER]brilliant - but the process is full of risks.[ENTER]Things don't always work according to plan. Next[ENTER]time I'm sure we'll be successful!
 991	I knew it! My technology is brilliant![ENTER]Here's your Energy Crystal. It's certainly a fine[ENTER]specimen! Can you feel its power?
+13540	Do you want to enter the Serpent Temple?
+13014	Enter the Serpent Temple
+13020	Important Preparations
+13021	I should find the Serpent Statue to enter the[ENTER]Serpent Temple.
+13022	You will need a variety of things to progress[ENTER]through this underground dungeon... a hat, a whip[ENTER]or a little sandbag about the size of some[ENTER]treasure would surely come in handy. I can craft[ENTER]these items for you.
+13023	But if you want to enter the temple, you'll have[ENTER]to bring me %d Serpent Scales for the equipment.[ENTER]And since only a hero who is willing to give it[ENTER]their all is worthy of victory, it will cost you[ENTER]%d Yang. Can you bring me both?
+13024	The Serpent Statue requires %d Serpent Scales.[ENTER]You can find them on nearby monsters.
+13025	To enter the Serpent Temple, I need to get the %d[ENTER]Serpent Scales the Serpent Statue requires.[ENTER]Number remaining: %d
+13026	I need more Serpent Scales...
+13027	You have received Serpent Scales. Collected items: %d
+13028	That's all the Serpent Scales the Serpent Statue[ENTER]needs. Return to it.
+13029	I have all %d Serpent Scales! I should return to[ENTER]the Serpent Statue.
+13030	Have you got all the Serpent Scales? Then I'll[ENTER]just need %d Yang and I'll be able to grant you[ENTER]access to the temple.
+13031	Hand Over Both
+13032	Cancel
+13033	You don't have enough money...
+13034	Good. All done! Here are your items, good luck.[ENTER]Whenever you need more equipment for another[ENTER]expedition, simply come back to me.
+13035	Create
+13036	Enter
+13037	Do you want to enter the Serpent Temple? You have[ENTER]%d entries remaining.
+13040	Would you like to create a Serpent Temple[ENTER]instance?
+13049	You cannot enter again today.
+13055	You cannot create another instance until you have[ENTER]collected all the rewards.
+13182	Serpent Scales Remaining
 992	Gameland Supervisor
 993	Would you like to leave the Gameland?
 994	Would you like to enter the Gameland?
@@ -1626,6 +1673,17 @@
 10167	Use Animaspheres to reduce the dark energy[ENTER]emanating from the Zodiac Temple before it[ENTER]becomes too powerful. You will automatically[ENTER]consume Animaspheres when you enter the temple.[ENTER]Note: The quest cannot be completed if you have[ENTER]activated the Mark of the Guardian.
 10168	Done it! Return to Monk Milbon and collect your[ENTER]gift.
 10169	Thank you. The temple is secure again for the[ENTER]time being. Here is your gift. The energy level[ENTER]will rise again, however. Come back in 24 hours[ENTER]and reduce the energy level with Animaspheres[ENTER]once more. I'll reward you again for doing so, of[ENTER]course.
+13586	Enter the Mysterious Dungeon
+13587	Mysterious Altar
+13588	Hey! I know I've been turned to stone. Sung[ENTER]Mahi's Curse is to blame for that! But I am a[ENTER]shaman and can tell you about a very interesting[ENTER]place...[ENTER]If you have a Mysterious Ticket, I can take you[ENTER]to the Mysterious Dungeon.[ENTER]Do you want to try?
+13589	Yes
+13590	No
+13591	Oh! I'm afraid I cannot let you in without a[ENTER]Mysterious Ticket.
+13598	You cannot enter now.
+13609	Exit
+13610	Do you want to leave the dungeon?
+13611	Yes
+13612	No
 1209	Decline
 1208	Why are you crying?
 1210	Of course I'll help you. The mission is not too[ENTER]difficult to accomplish and I can understand that[ENTER]you want to have the memento back. See you soon!
@@ -7628,6 +7686,15 @@
 12707	You have received %d Sun Elixirs (S).
 12708	Go to the Armour Shop Dealer to celebrate the day.
 12709	You have received %d Ritual Stones.
+12971	A Hidden Valley
+12972	There are rumours that a new valley has been[ENTER]found. Go to Confucius.
+12973	I haven't seen you for a while. Where have you[ENTER]been all this time? The secret place that gave[ENTER]you such a headache before has been found.
+12974	I've heard that the way there is winding and[ENTER]treacherous. I'd like to ask you to go there and[ENTER]find out more about this hidden valley. As soon[ENTER]as you arrive, you will meet a guardian who I[ENTER]sent there a while ago.
+12975	A new area has been unlocked. Head to the Serpent[ENTER]Guardian.
+12976	Hey, what are you doing standing around here? If[ENTER]you go to the Dong Gwang Plain, you can get to[ENTER]the new area from there.
+12977	Go to the new area and meet with the Serpent[ENTER]Guardian.
+12978	Who are you then? Hah, did Confucius send you?[ENTER]You cannot be serious... Why has he sent a newbie[ENTER]like you to a land as tough as this?
+12979	Confucius told me to give you this when you[ENTER]arrived. Come back again later. You still have[ENTER]tasks to do.
 6353	A Life Reborn
 6354	You awake and find yourself feeling unusually[ENTER]furry. What happened? Where are you?! Look for[ENTER]Myonghorang the Wise. He will be able to explain.
 6355	Welcome Lycan!
@@ -7965,11 +8032,11 @@
 6606	Total Score
 6607	Highest Game Score
 6608	The 10 players with the highest overall score[ENTER]will receive additional prizes.
-6610	1st Place: %dx %s
+6610	1st Place: %s %d x
 6609	Close
-6611	2nd Place: %dx %s
-6612	3rd Place: %dx %s
-6613	4th-10th Place: %dx %s
+6611	2nd Place: %s %d x
+6612	3rd Place: %s %d x
+6613	4th-10th Place: %s %d x
 6614	1st Place: %s, %d
 6615	2nd Place: %s, %d
 6616	3rd Place: %s, %d
@@ -9808,6 +9875,12 @@
 12080	Cancel
 12081	Your stats were reset.
 12082	You don't have any stats that can be reset.
+13057	You have completed the Serpent Temple and can collect your rewards. Speak to the Serpent Statue.
+13058	Rewards Claimed
+13059	Serpent Statue
+13060	You have defeated all those evil snakes. You've[ENTER]earnt this chest.
+13606	You have received %dx Serpent Treasure.
+13607	You have received %dx Serpent Dust.
 8044	Your level is too low!
 8045	You cannot ride while you are transformed!
 8046	You're already riding! If you want to change your[ENTER]mount, you have to get off first.
@@ -9951,6 +10024,48 @@
 11499	No, I'll stay here.
 11500	The Blue Dragon (TR) has returned!
 11679	All warriors will be teleported from the Grotto[ENTER]of Exile (TR) in three minutes.
+12980	What is the Serpent Temple?
+12981	I should talk to the Serpent Guardian to find the[ENTER]hidden temple.
+12982	Hey, newbie. I don't know how resourceful you are[ENTER]yet. If you follow the valley path behind me,[ENTER]you'll come to a huge temple. Ever heard of the[ENTER]Serpent Temple?
+12983	You'll come across a whole load of dangerous[ENTER]monsters. I bet it won't be a minute before you[ENTER]bolt. But if you are courageous enough, you'll[ENTER]find treasure there.
+12984	How do I get inside?
+12985	Hahaha! You can't - not unless I let you inside.[ENTER]I will test your courage.
+12986	Your eyes are positively sparkling with a thirst[ENTER]for action! I'm sure you'll be able to take care[ENTER]of a few monster around here for me! Keeping this[ENTER]area under control is starting to get a bit[ENTER]gruelling.
+12987	Hunt monsters in the area to pass the Serpent[ENTER]Guardian's test.
+12988	The Serpent Guardian wants you to hunt %d[ENTER]monsters on the Yilad Pass.[ENTER]Monsters remaining: %d
+12989	Hey, you still haven't taken care of those[ENTER]monsters... Are you giving up or something?
+12990	I've killed all the monsters for the Serpent[ENTER]Guardian. I should return to him.
+12991	I've killed all the monsters for the Serpent[ENTER]Guardian. I should return to him.
+12992	Oh. It seems you're braver than I first thought.[ENTER]Watching you fight from a distance reminded me of[ENTER]my youth.
+12993	Ah well, whatever. This is your reward for[ENTER]passing the test.
+13180	Monsters Remaining
+13603	You have killed %d monsters. Remaining number: %d
+12994	Serpent Temple?!
+12995	A new area has been discovered. I should head to[ENTER]the Serpent Guardian who watches over this area.
+12996	Hey, newbie. Looks like you wanted to enter the[ENTER]valley...
+12997	If you want to go into the valley, I want you to[ENTER]do a favour for me first! The monsters around[ENTER]here are causing a lot of trouble at the moment.[ENTER]And I could really do with your help.
+12998	I want you to do away with these monsters and[ENTER]bring me some Iron Filings. Could you do that for[ENTER]me? As far as I know, Iron Filings are also a[ENTER]good way to make money.
+12999	Yes.
+13000	No.
+13001	Well, I'm afraid you won't be allowed into the[ENTER]valley then!
+13002	Obtain %d Iron Filings that the Serpent Guardian[ENTER]is so keen to have. You can find them on nearby[ENTER]monsters.
+13003	What, you've got them all so quickly? Hey! I[ENTER]think you've miscounted. I said %d!
+13004	The Serpent Guardian is demanding %d Iron Filings[ENTER]to let you into the valley. I should hunt[ENTER]monsters near the Yilad Pass to obtain Iron[ENTER]Filings.[ENTER]Iron Filings Remaining: %d
+13005	You have received Iron Filings. Collected: %d
+13006	I have all Iron Filings the Serpent Guardian[ENTER]wanted. I should return to him.
+13007	I have all Iron Filings the Serpent Guardian[ENTER]wanted. I should return to him.
+13008	Oh, I knew you were the one for this task! That's[ENTER]the right number!
+13009	Okay, now I'll help you cross the valley. Once[ENTER]you reach the other side, you'll see a big[ENTER]temple. If you want to go in there later, come[ENTER]and see me again.
+13010	You can gain access to the Serpent Temple from[ENTER]the Serpent Guardian.
+13011	Ah, there you are again. Do you wish to enter?
+13012	Then bring me the Iron Filings you gathered for[ENTER]me last time and I'll give you a ticket. This[ENTER]time we need %d Iron Filings.
+13013	Serpent Temple?! (Repetition)
+13015	Do you want to enter the Serpent Temple?
+13016	Confirm
+13017	Cancel
+13018	Speak to the Serpent Guardian to enter the[ENTER]Serpent Temple.
+13019	This valley looks very dangerous. So be careful.
+13181	Iron Filings Remaining
 8167	Nemere's Watchtower
 8168	Enter Nemere's Watchtower. The time limit in the[ENTER]dungeon is one hour. After finishing or[ENTER]interrupting the adventure you must wait four[ENTER]hours before you can re-enter.
 8169	Defeat all enemies!
@@ -11793,6 +11908,62 @@
 12884	You destroyed all of the Metins of the Jin.[ENTER]Report to Confucius on the Dong Gwang Plain about[ENTER]it.
 12885	Return to Confucius and report to him on what's[ENTER]happening.
 12886	Its influence has been weakened, but it still[ENTER]won't be enough. But every little bit counts. I[ENTER]have a small present for you to say thank you.
+12914	An Unknown Land
+12915	As I was wandering around, trying to find out[ENTER]more about this strange rumour, I finally arrived[ENTER]in an unknown land. We should take a closer look[ENTER]at this place in order to find out whether it is[ENTER]the source of the rumour.
+12916	I can see someone there in the distance. We[ENTER]should approach them cautiously.
+12917	There's a nervous person sitting in the corner.[ENTER]We should talk to him.
+13541	A new quest has been added.
+12918	A Curious Person
+12919	Go to the curious person and speak to them.
+12920	My goodness!
+12921	Who are you?! How did you manage to find your way[ENTER]here?
+12922	Hey! Who are you? I'm a Bounty Hunter and came[ENTER]all this way to track the rumour to this village.[ENTER]You as well? Well, I have to investigate[ENTER]something here. If you help me, I'll gladly tell[ENTER]you what I've found out so far.
+12923	Decline
+12924	I'll help you.
+12925	What a coward...
+12926	I think there's something big going on here.[ENTER]First, we should take a look around and kill some[ENTER]Tainted Soldiers. It's too dangerous there, so[ENTER]let's meet up here again later.
+12927	Kill Tainted Soldiers.[ENTER]Remaining opponents: %d
+12928	Don't waste any time! I won't tell you anything[ENTER]if you just stand around here.
+12929	I've killed all the Tainted Soldiers and should[ENTER]return to the Bounty Hunter.
+12930	Well done. Here is your reward. I will tell you[ENTER]how we are going to proceed. So come back again[ENTER]later.
+12931	A Strange Rumour
+12932	I should ask the Bounty Hunter about the rumour[ENTER]about Yilad Pass.
+12933	Things are looking a bit clearer now. The[ENTER]rumour?! How do you know about that? There's a[ENTER]hidden altar near here and a very powerful[ENTER]monster is causing havoc there. It seems you[ENTER]already know about this rumour. Very well then,[ENTER]let me tell you something else then.
+12935	Are they all gone?
+12936	Not quite. They have built the Serpent Temple[ENTER]where they are getting stronger. My goal is to[ENTER]kill their leader and collect the bounty. But it[ENTER]is so difficult to get to her as at there is a[ENTER]guardian near the altar. You could help me hunt[ENTER]down those monsters, if you like? It's really[ENTER]difficult to break through their ranks alone.
+12937	Not right now.
+12938	I knew you wouldn't let me down. A helping hand[ENTER]is always good. Then let's make our way to the[ENTER]altar.
+12939	I should kill Tainted Warriors to clear the way.[ENTER]Monsters remaining: %d
+12940	So, how's it going? Made any progress yet?[ENTER]Doesn't seem like it... Please hurry, we don't[ENTER]have much time.
+12941	I've hunted down all the Tainted Warriors and[ENTER]cleared a path. I should return to the Bounty[ENTER]Hunter.
+12942	All the Tainted Warriors have been killed. Return[ENTER]to the Bounty Hunter.
+12943	Well done. Now I can see our path. Let's move on[ENTER]to the next area quickly. It seems we're[ENTER]approaching their refuge.
+12966	May I?
+12967	All right, I'll go back then. If you change your[ENTER]mind, you can come back whenever you like.
+12944	A Hidden Altar
+12945	I think I can already make out some of the hidden[ENTER]altar. Head back to the Bounty Hunter quickly.
+12946	Yes, that's right! After fighting my way through[ENTER]all the monsters, I reached the altar. But the[ENTER]guardian wouldn't let me in. I pleaded with him[ENTER]several times, but it didn't work and I had no[ENTER]choice but to turn back. But now, thanks to you,[ENTER]I have another chance! Let's push on together.
+12947	I can't keep going.
+12948	All right.
+12949	What, you're giving up so soon? You are much[ENTER]weaker than I thought.
+12950	If we buckle down, we can do it. Let's clear some[ENTER]monsters out of the way around here.
+12951	Kill Tainted Monks to clear the rest of the way.[ENTER]Remaining opponents: %d
+12952	You're giving up so close to our target? I can[ENTER]give you a share of my bounty. Come on.
+12953	All the Tainted Monks have been killed. Return to[ENTER]the Bounty Hunter.
+12954	I can already make out the guardian in the[ENTER]distance, watching over the Serpent Temple. I[ENTER]think we will make it to the entrance to the[ENTER]altar, thanks to you.
+12955	Infiltration
+12956	I've found the Altar. I should check it out and[ENTER]find out where the guardian is.
+12957	You have finally found the Altar. Thanks for[ENTER]sticking with me this far. Now we can sneak past[ENTER]the guardian to where the leader is hiding, and[ENTER]find out what's going on there. However, I fear[ENTER]they might spot us if we stick together. So, my[ENTER]suggestion is that we split up and try to gather[ENTER]more useful information as we go.
+12958	I've had enough.
+12959	Let's go!
+12960	We've almost made it. Please reconsider.
+12961	I hope we're both still in one piece the next[ENTER]time we see each other.
+12962	Sneak past the altar guardian, into the temple[ENTER]and find out what's going on inside. Hunt 30[ENTER]Kappa Soldiers[ENTER]Monsters remaining: %d
+12963	You still haven't left? I'll go on ahead then, I[ENTER]suppose.
+12964	The Serpent Temple has been scouted and 30 Kappa[ENTER]Soldiers have been hunted. Return to the Bounty[ENTER]Hunter.
+12965	I knew you'd do it! I've also had a quick look[ENTER]inside, but I'm afraid I couldn't find the[ENTER]leader. Ah well, it is what it is. Perhaps next[ENTER]time. Anyway, I only made it here thanks to you[ENTER]and I want to reward you for your help. Here,[ENTER]please take this..
+13054	Follow the flashing dot on your minimap.
+13597	You haven't found the Serpent Temple yet?[ENTER]That place won't be easy to reach. So make sure[ENTER]you're skilled enough to face the Serpent Temple.
 12679	Sung Mahi Tower Entrance Hall
 12680	Do you want to enter Sung Mahi Tower?
 12681	Yes
@@ -12081,3 +12252,4 @@
 12673	Defeat the World Boss!
 12674	Inflict the minimum amount of damage of %d to a[ENTER]world boss or more.
 12675	Daily quest completed - you have inflicted the[ENTER]minimum amount of damage to a world boss.
+12934	I came here to earn the bounty for this monster.[ENTER]Originally, this place was full of Serpent[ENTER]Monsters and was called Yilad Pass. But did you[ENTER]notice something strange? All those Serpent[ENTER]Monsters have disappeared.

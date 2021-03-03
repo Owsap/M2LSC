@@ -692,6 +692,8 @@
 1693	%s bölgesindeki tüm karakollar imha edildi ve bölge artýk Sung Mahi'nin kontrolü altýnda deðil.
 1694	Seogan Çoraðý
 1695	Namgan Yarýðý
+1696	Geliþtirme baþarýlý!
+1697	Geliþtirme maalesef baþarýsýz!
 1698	Baðýþýklýk kutsamasý sayesinde Sung Mahi'nin etkisinden kurtuldun.
 1699	Baðýþýklýk kutsamanýn süresi doldu ve tekrar Sung Mahi'nin etkisi ve laneti altýndasýn.
 17	[Lonca] Lonca becerilerini kullanma yetkin yok.
@@ -718,8 +720,38 @@
 1718	[Kiþisel premium dükkan] %s satýldý. Lütfen paraný al.
 1719	[Kiþisel premium dükkan] Dükkaný kapattýktan sonra %d saniye boyunca tekrar açamazsýn.
 172	[Gaya] Zaten maksimum sayýda Gayaya sahipsin.
+1720	Bir zindan oluþturulurken bunu yapamazsýn.
+1721	Kendini daha fazla canlandýramazsýn. Zindandan nakledileceksin.
+1722	Ödülünü zaten aldýn. Tekrar denemek istersen yine gel. Kalan süre: %d s %d d
+1723	%d kez daha dirilebilirsin.
+1724	Þimdi Yýlan Tapýnaðý'na girebilirsin. Bunun için yýlan heykelini kullan.
+1725	Ýmha edilen Metin tepki vermiyor. Tüm Metin'ler tekrar belirdi.
+1726	Ýmha edilen Metin tepki vermiyor. Tüm Metin'ler tekrar belirdi.
+1727	%d Metin imha ettin. %d Metin daha imha et.
+1728	Süre doldu. Zindandan nakledileceksin.
+1729	Bu, %d dakika daha mevcut.
 173	[Gaya] Bileme iþlemi baþarýlý oldu.
+1730	Zindan sayacýný uzatamazsýn.
+1731	Zindan sayacý 1 dakikalýðýna uzatýlacak.
+1732	Tüm canavarlarý devirdin. %d. kata nakledileceksin. Daha %d saniyen var.
+1733	Tüm Metinlerini imha ettin. %d. kata nakledileceksin. Daha %d saniyen var.
+1734	Parça, yýlan baþýna eklendi. Ama hiçbir þey olmadý.
+1735	Tüm yýlan sütunlarýnýn kilidi açýldý. %d. kata %d saniye var.
+1736	Özel Yýlan Tapýnaðý demircisi beliriyor!
+1737	Yýlan Tapýnaðý demircisi beliriyor!
+1738	Tüm canavarlarý devirdin ve artýk patron alanýna geçebilirsin.
+1739	Yýlan Tapýnaðý'ný baþarýyla tamamladýn. %d saniye sonra zindan nakledileceksin.
 174	[Gaya] Bileme iþlemi baþarýsýz oldu.
+1740	Metin taþlarýný doðru sýrada imha et.
+1741	Tüm canavarlarý öldür.
+1742	Canavarlardan anahtarý al ve hücreyi aç.
+1743	Yýlan baþýna bir parça ekledin.
+1744	Patronu öldür.
+1745	Baþarýyla açýldý!
+1746	Önce diðer sütunun kilidini açmalýsýn.
+1747	Cezaevi açýldý. Demirci sana gülümsüyor.
+1748	Bu anahtar cezaevini açamadý ve demirciyi kurtaramadý.
+1749	Bu parça yýlanýn baþýna uymuyor.
 175	[Gaya] Eþya listesi yenilendi.
 1752	Þampiyon seviyesine ulaþabilmek için seviye 120'de en az 1 EXP küresi doldurmalýsýn.
 1753	"Gemi savunmasý" zindanýný temizlemelisin.
@@ -730,15 +762,21 @@
 1758	[Kiþisel premium dükkan] Eþyalarý yönetirken bunu yapamazsýn.
 176	Etkinlik Dedektörü kayboldu.
 1760	[Kalýntý bonusu] Ruh kalýntýsý penceresi açýkken bu mümkün deðil.
+1761	%s grup üyesi savaþtaý terk etti.
+1762	%d dakikan kaldý.
 1763	[Kiþisel premium dükkan] Burada düello yapamazsýn.
 1764	[Kiþisel premium dükkan] Eþyalarý yönetirken, tahsil edilebilen para güncellenmez.
+1765	Yýlan Tapýnaðý'nýn bölüm sonu canavarý belirdi!
 1766	[Kiþisel premium dükkan] Burada zaten bir dükkan açýldý. Lütfen dükkanýný açmak için baþka bir yer bul.
+1767	Yükseltilebilir bir pet çaðýrýrken bunu geliþtiremezsin.
 177	[Gaya] Yeterli Gayaya sahip deðilsin.
 178	[Gaya] Bu nesneyi satýn alamazsýn.
 179	[Gaya] Envanterin dolu.
 18	[Lonca] Yeniden diriltme sýnýrýna eriþtiðin için þu anda seyirci modundasýn.
 180	[Gaya] 'Gaya maðazasýný sýfýrlaya' sahip deðilsin.
+1802	Bu, savaþ baþladýktan sonra mevcut olacak.
 181	[Gaya] Önce Gaya maðazasýný açman gerekiyor.
+1812	Bunu ticaret esnasýnda yapamazsýn.
 182	[Gaya] Gaya maðazasýnda baþka yer açamazsýn.
 183	[Gaya] Yeterli %s yok. Bir yer daha açabilmek için daha çok %d lazým.
 184	[Gaya] Gaya maðazasý þu anda kullanýlamýyor.
@@ -930,7 +968,7 @@
 352	"Gemi savunmasý" zindaný hazýr. Balýkçý sizi gemiye alacak.
 353	Deniz canavarlarý tarafýndan saldýrýya uðruyoruz! Savaþa hazýrlanýn!
 354	Yine saldýrýyorlar! Savaþmaya hazýr olun!
-355	Kara göründü! Gemi direðini baþarýyla savundunuz ve uzun bir yolculuktan sonra yeni kýtaya ulaþtýnýz. Portakala gidin.
+355	Kara göründü! Gemi direðini baþarýyla savundunuz ve uzun bir yolculuktan sonra yeni kýtaya ulaþtýnýz. Portala gidin.
 356	Direðiniz parçalandý. Cesurca savaþtýnýz, ama savaþý kaybettiniz.
 357	Gemiden %d sn. içinde vazgeçmelisiniz.
 358	Gemiden %d dk.

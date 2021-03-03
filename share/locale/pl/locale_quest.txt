@@ -1,3 +1,6 @@
+13305	Hej! Masz klucz, by mnie uwolniæ?
+13306	Proszê, wypuœæ mnie. Czy nikt mi nie pomo¿e?
+13307	Hej, ty tam! Proszê, za³atw klucz!
 2	Ju¿ ci wszystko opowiedzia³em o mocach, które s¹[ENTER]nam potrzebne, by pokonaæ Sunga Mahi.[ENTER][ENTER]Pospiesz siê i odszukaj Kapitana.[ENTER][ENTER]Wróæ do mnie, gdy ju¿ zdobêdziesz potrzebne sukna.
 1	Wyj¹tkowy Materia³
 3	Wzmocnij W³asn¹ Si³ê
@@ -451,80 +454,80 @@
 365	Przynieœ mi te ksiêgi! Postaraj siê, by by³y w[ENTER]dobrym stanie, niektóre z nich s¹ tak stare, ¿e[ENTER]nie mo¿na odczytaæ, co jest tam napisane.[ENTER]A takie nie przydadz¹ mi siê na nic.[ENTER]Do moich badañ potrzebujê ³¹cznie 15 ksi¹g kl¹tw.[ENTER]Przynoœ mi jednak zawsze po jednej ksiêdze, bym[ENTER]móg³ je dok³adnie przestudiowaæ.
 366	Staro¿ytne zaklêcia
 367	Biolog Chaegirab, uczeñ Uriela, interesuje siê ze[ENTER]wzglêdu na swoje badania staro¿ytnymi zaklêciami.[ENTER]W Dolinie Seungryong znajduje siê 15 ksi¹g kl¹tw.[ENTER]Dostarczaj Biologowi Chaegirabowi zawsze po[ENTER]jednej ksiêdze.[ENTER]Zdobêdziesz je u Ezoterycznych Drêczycieli oraz[ENTER]Wysokich Drêczycieli.
-369	Biolog Chaegirab, uczeñ Uriela bada kreatury z[ENTER]Wie¿y Demonów. Potrzebuje on do swoich badañ 15[ENTER]Pami¹tek Po Demonach. Dostarczaj mu je, ale po[ENTER]jednej, aby móg³ je w spokoju przebadaæ.[ENTER]Zdobêdziesz Pami¹tki u Demonów w Wie¿y.
+369	Biolog Chaegirab, uczeñ Uriela bada kreatury z[ENTER]Wie¿y Demonów. Potrzebuje on do swoich badañ 15[ENTER]pami¹tek po demonach.[ENTER]Dostarczaj mu je, ale po jednej, aby móg³ je w[ENTER]spokoju przebadaæ.[ENTER]Mo¿esz je zdobyæ od demonów w wie¿y.
 368	Proœba Biologa
-370	Do tej pory dostarczy³eœ %s Pami¹tek Po Demonie.
-371	Nie mo¿esz jeszcze u¿yæ Eliksiru Poszukiwacza.
-372	U¿y³eœ ju¿ Eliksiru!
-373	Eliksir mo¿e zostaæ u¿yty zaraz po tym jak[ENTER]znajdziesz jak¹œ Pami¹tkê Po Demonie.
-374	Pami¹tka Po Demonie
-375	Och, znalaz³eœ! Muszê j¹ sprawdziæ, to zajmie[ENTER]trochê czasu...
-376	Och! Pami¹tka jest naprawdê wysokiej jakoœci![ENTER]Natychmiast rozpoczynam badania. Niestety[ENTER]potrzebuje jeszcze %s sztuk. Proszê , spróbuj je[ENTER]dla mnie znaleŸæ![ENTER][ENTER]Pamiêtaj o tym, ¿e potrzebujê czasu. Kolejn¹[ENTER]Pami¹tkê Po Demonie bêdê móg³ zbadaæ dopiero[ENTER]jutro.
-377	Skompletowa³eœ wszystkie 15 Pami¹tek Po Demonie![ENTER]Wspaniale! Dziêkujê! Do odnalezienia pozosta³[ENTER]tylko Kamieñ Duchowy Sagyi, aby wydobyæ z[ENTER]Pami¹tek wszystkie ich tajemnice. Czy mo¿esz go[ENTER]dla mnie odszukaæ? Kamieñ znajdziesz u Demonów w[ENTER]Wie¿y.
-378	Hm, widzisz tê g³êbok¹ rysê? Przykro mi, ale ta[ENTER]Pami¹tka Po Demonie jest uszkodzona, z niej[ENTER]niczego siê ju¿ nie dowiem. Proszê przynieœ mi[ENTER]inn¹![ENTER][ENTER]Ale pamiêtaj o tym, ¿e potrzebujê czasu na[ENTER]analizê. Kolejn¹ Pami¹tkê Po Demonie bêdê móg³[ENTER]zbadaæ dopiero jutro.
-379	Proszê, wróæ do mnie gdy znajdziesz kolejn¹[ENTER]Pami¹tkê Po Demonie.
-381	Strasznie mi przykro, ale nie skoñczy³em jeszcze[ENTER]analizy Pami¹tki, któr¹ da³eœ mi ostatnio.[ENTER]Przepraszam. Czy mo¿esz przyjœæ troszkê póŸniej?
+370	Do tej pory uda³o ci siê dostarczyæ %s pami¹tek[ENTER]po demonie.
+371	Nie mo¿esz jeszcze u¿yæ eliksiru poszukiwacza.
+372	U¿y³eœ ju¿ eliksiru!
+373	Eliksir mo¿esz u¿yæ po dopiero po odnalezieniu[ENTER]pami¹tki po demonach.
+374	Pami¹tki po demonach
+375	Och, uda³o ci siê jedn¹ znaleŸæ.[ENTER]Muszê j¹ sprawdziæ, to zajmie moment.
+376	Och! Pami¹tka jest naprawdê wysokiej jakoœci![ENTER]Natychmiast rozpoczynam badania.[ENTER]Potrzebujê jednak jeszcze %s egzemplarzy. Proszê[ENTER], spróbuj je dla mnie znaleŸæ![ENTER][ENTER]Pamiêtaj o tym, ¿e potrzebujê czasu. Kolejn¹[ENTER]pami¹tkê po demonie bêdê móg³ zbadaæ dopiero[ENTER]jutro.
+377	Uda³o ci siê skompletowaæ wszystkie 15 pami¹tek[ENTER]po demonie! Dziêkujê ci![ENTER]Do odnalezienia pozosta³ tylko kamieñ duchowy[ENTER]Sagyi, aby wydobyæ z pami¹tek wszystkie ich[ENTER]tajemnice. Czy mo¿esz go dla mnie odszukaæ?[ENTER]Kamieñ znajdziesz w Wie¿y Demonów.
+378	Hm, widzisz tê g³êbok¹ rysê? Przykro mi, ale ta[ENTER]pami¹tka po demonie jest uszkodzona, z niej[ENTER]niczego siê ju¿ nie dowiem. Proszê przynieœ mi[ENTER]inn¹![ENTER][ENTER]Ale pamiêtaj o tym, ¿e potrzebujê czasu na[ENTER]analizê.[ENTER]Kolejn¹ pami¹tkê po demonie bêdê móg³ zbadaæ[ENTER]dopiero jutro.
+379	Proszê, wróæ do mnie gdy znajdziesz kolejn¹[ENTER]pami¹tkê po demonie.
+381	Strasznie mi przykro, ale nie skoñczy³em jeszcze[ENTER]analizy pami¹tki, któr¹ da³eœ mi ostatnio.[ENTER]Czy mo¿esz przyjœæ troszkê póŸniej?
 380	Badania Biologa
 382	Badania Biologa
-383	Kamieñ Duchowy Sagyi
-384	W koñcu znalaz³eœ Kamieñ Duchowy![ENTER]Dostarcz go Biologowi Chaegirab.[ENTER]On czeka ju¿ na Ciebie.
-385	Zgodnie z proœba Biologa Chaegirab, ucznia[ENTER]Uriela, skompletowa³eœ 15 Pami¹tek Po Demonie.[ENTER]Ostatnim brakuj¹cym elementem jest Kamieñ Duchowy[ENTER]Sagyi, aby Chaegirab móg³ zakoñczyæ badania.
-386	Otrzymasz go od Demonów w Wie¿y Demonów.
-387	Znalaz³eœ Kamieñ Duchowy Sagyi.
-388	Mam Kamieñ Duchowy Sagyi!
-389	Bardzo dziêkujê![ENTER]W nagrodê otrzymasz recepturê. Sk³adniki jej s¹[ENTER]skrzêtnie przechowywane i tylko nieliczni je[ENTER]znaj¹. Mikstura, któr¹ mo¿na zrobiæ na podstawie[ENTER]tego przepisu, wzmocni Twój instynkt obrony.[ENTER]Ruszaj w drogê i odszukaj Baek-Go. On przyrz¹dzi[ENTER]dla Ciebie ten napój.[ENTER]Nich Ci szczêœcie sprzyja, mój przyjacielu. Z[ENTER]Twoj¹ pomoc¹ dowiedzia³em siê wielu istotnych[ENTER]rzeczy o Demonach!
+383	Kamieñ duchowy Sagyi
+384	Wreszcie uda³o ci siê znaleŸæ kamieñ duchowy![ENTER]Zanieœ go do Biologa Chaegirab.[ENTER]On ju¿ na ciebie czeka.
+385	Zgodnie z proœba Biologa Chaegirab, ucznia[ENTER]Uriela, uda³o ci siê skompletowaæ 15 pami¹tek po[ENTER]demonie. Ostatnim brakuj¹cym elementem jest[ENTER]kamieñ duchowy Sagyi, aby Chaegirab móg³[ENTER]zakoñczyæ badania.
+386	Otrzymasz go od demonów w Wie¿y Demonów.
+387	Odnaleziono Kamieñ Duchowy Sagyi.
+388	Mam kamieñ duchowy Sagyi.
+389	Bardzo dziêkujê![ENTER]W nagrodê otrzymasz recepturê. Sk³adniki jej s¹[ENTER]skrzêtnie przechowywane i tylko nieliczni je[ENTER]znaj¹.[ENTER]Mikstura, któr¹ mo¿na zrobiæ na podstawie tego[ENTER]przepisu, wzmocni twój instynkt obrony.[ENTER]Ruszaj w drogê i odszukaj Baek-Go. Przyrz¹dzi dla[ENTER]ciebie tê miksturê.[ENTER]Nich ci szczêœcie sprzyja, mój przyjacielu. Z[ENTER]twoj¹ pomoc¹ dowiedzia³em siê wielu istotnych[ENTER]rzeczy o demonach!
 390	Nagroda Chaegiraba
-391	Proszê, wróæ gdy znajdziesz Kamieñ Duchowy Sagyi.
+391	Proszê, wróæ gdy znajdziesz kamieñ duchowy Sagyi.
 393	Nagroda Chaegiraba
-392	Biolog Chaegirab, uczeñ Uriela, szuka Ciê.[ENTER]Udaj siê natychmiast do niego i dowiedz siê w[ENTER]czym mo¿esz mu pomóc.
-394	W nagrodê za dostarczenie 15 Pami¹tek Po Demonie[ENTER]i za zdobycie Kamienia Duchowego Sagyi, Biolog[ENTER]Chaegira przekaza³ Ci sekretn¹ recepturê.[ENTER]Udaj siê do Baek-Go i daj mu j¹, on przyrz¹dzi[ENTER]dla Ciebie cudowny napój.
-395	Spójrz tylko, czy to nie Sekretna Receptura od[ENTER]Chaegirab, tego znanego biologa? Hm, zwiêkszy ona[ENTER]Twoj¹ obronê o 60 punktów. Oto Twój napój![ENTER]Ponadto mam Ci przekazaæ jeszcze t¹ Drewnian¹[ENTER]Skrzynkê. Starannie j¹ przechowuj.
-396	W nagrodê za spe³nienie proœby Biologa Chaegirab,[ENTER]zwiêkszy siê na sta³e Twoja Obrona o 60 punktów.
+392	Biolog Chaegirab, uczeñ Uriela, pilnie ciê szuka.[ENTER]Udaj siê do niego i dowiedz siê, w czym mo¿esz mu[ENTER]pomóc.
+394	W nagrodê za dostarczenie 15 pami¹tek po demonie[ENTER]i za zdobycie kamienia duchowego Sagyi, Biolog[ENTER]Chaegirab przekaza³ ci sekretn¹ recepturê.[ENTER]Udaj siê do Baek-Go i daj mu j¹, on przyrz¹dzi[ENTER]dla ciebie cudowny napój.
+395	Spójrz tylko, czy to nie sekretna receptura od[ENTER]Chaegirab, tego znanego biologa? Hm, zwiêkszy ona[ENTER]twoj¹ obronê o 60 punktów. Oto twój napój![ENTER]Oprócz tego mam ci przekazaæ te¿ tê drewnian¹[ENTER]szkatu³kê. Starannie j¹ przechowuj.
+396	W nagrodê za spe³nienie proœby Biologa Chaegirab,[ENTER]zwiêkszy siê na sta³e twoja obrona o 60 punktów.
 397	Pos³uchaj.
-398	Œwietnie, ¿e jesteœ. Zbieram informacje o[ENTER]mrocznych potworach w tym królestwie. W koñcu[ENTER]rozumiesz, ¿e ja, jako uczony, nie mam czasu[ENTER]wyruszyæ na polowanie na potwory, aby póŸniej je[ENTER]badaæ. Móg³byœ mi w tym pomóc?
-399	Tym razem chcia³bym siê dowiedzieæ czegoœ na[ENTER]temat Demonów z Wie¿y Demonów.[ENTER]Mo¿na wyczuæ z³¹ energiê na pierwszy rzut oka.[ENTER]Do moich badañ potrzebujê Pami¹tek Po Demonie,[ENTER]czy mo¿esz je dla mnie zdobyæ?
-400	By³bym bardzo wdziêczny, jeœli zdecydowa³byœ siê[ENTER]mi pomóc. Jest coœ, o czym musisz wiedzieæ: ró¿ne[ENTER]Pami¹tki s¹ ró¿nej jakoœci, proszê wiêc, nie[ENTER]przynoœ mi tych niskiej jakoœci. £¹cznie[ENTER]potrzebujê 15 Pami¹tek, pamiêtaj, aby zawsze[ENTER]przynosiæ mi je pojedynczo. Powodzenia!
+398	Œwietnie, ¿e jesteœ. Zbieram informacje o[ENTER]mrocznych potworach w tym królestwie. W koñcu[ENTER]rozumiesz, ¿e ja, jako uczony, nie mam czasu[ENTER]wyruszyæ na polowanie na potwory, aby póŸniej je[ENTER]badaæ. Czy pomo¿esz mi w tym?
+399	W ramach moich badañ chcia³bym siê dowiedzieæ[ENTER]czegoœ na temat demonów z Wie¿y Demonów. Nawet[ENTER]tutaj mo¿na wyczuæ z³¹ energiê dochodz¹ca z[ENTER]budynku i od istot. Do moich badañ potrzebujê[ENTER]pami¹tek po demonie, czy mo¿esz je dla mnie[ENTER]zdobyæ?
+400	By³bym bardzo wdziêczny. Jest coœ, o czym musisz[ENTER]wiedzieæ: ró¿ne pami¹tki po demonie s¹ ró¿nej[ENTER]jakoœci. Do moich badañ mogê u¿ywaæ tylko tych o[ENTER]najwy¿szej jakoœci.[ENTER]£¹cznie potrzebujê 15 egzemplarzy. Pamiêtaj, aby[ENTER]zawsze przynosiæ mi je pojedynczo, bo badania[ENTER]potrwaj¹ jakiœ czas.
 401	Badania Biologa
-402	Pami¹tka Po Demonie
-404	Matowy Lód z Góry Sohan.
+402	Pami¹tki po demonach
+404	Lodowe kulki z Góry Sohan.
 403	Proœba Biologa
-405	Biolog Chaegirab, uczeñ Uriela, bada Górê Sohan[ENTER]na zachodzie kontynentu. Do swoich badañ[ENTER]potrzebuje on 20 Matowych Lodów, pamiêtaj jednak,[ENTER]¿eby zawsze przynosiæ mu je pojedynczo, aby móg³[ENTER]je w spokoju przebadaæ. Znajdziesz je u Lodowego[ENTER]Golema.
-406	Do tej pory dostarczy³eœ ju¿ %s Matowych Lodów.
-407	Jeszcze nie mo¿esz jeszcze u¿yæ Eliksiru[ENTER]Poszukiwacza.
-408	U¿y³eœ ju¿ Eliksiru!
+405	Biolog Chaegirab, uczeñ Uriela, bada Górê Sohan[ENTER]na zachodzie kontynentu. Potrzebuje on do swoich[ENTER]badañ 20 lodowych kulek. Przynoœ mu po jednej, by[ENTER]móg³ j¹ w spokoju przebadaæ.[ENTER]Znajdziesz je u Lodowego Golema.
+406	Do tej pory dostarczy³eœ ju¿ %s lodowych kulek.
+407	Jeszcze nie mo¿esz u¿yæ eliksiru poszukiwacza.
+408	U¿y³eœ ju¿ eliksiru!
 409	Biolog Chaegirab:
-410	Eliksir mo¿e zostaæ u¿yty zaraz po tym jak[ENTER]znajdziesz jakiœ Matowy Lód.
-411	Matowy Lód
-412	Och! Znalaz³eœ Matowy Lód! Poczekaj chwileczkê,[ENTER]muszê go tylko sprawdziæ...
-413	Och! Ten Matowy Lód jest doskona³ej jakoœci![ENTER]Natychmiast rozpoczynam badania. Jednak[ENTER]potrzebujê jeszcze %s sztuk. Proszê, spróbuj je[ENTER]znaleŸæ![ENTER][ENTER]Ale pamiêtaj o tym, ¿e potrzebujê czasu na[ENTER]analizê. Kolejny Matowy Lód bêdê móg³ zbadaæ[ENTER]dopiero jutro.
-414	Skompletowa³eœ 20 Matowych Lodów! Dziêkujê Ci.[ENTER]Do rozwi¹zania zagadki Góry Lodowej potrzebujê[ENTER]jeszcze tylko Kamienia Duchowego Aurtumryu.[ENTER]Podejmiesz siê tego zadania? Znajdziesz go u[ENTER]lodowych stworów.
-416	Hm, niestety ten Matowy Lód jest nadtopiony i[ENTER]bezu¿yteczny dla mnie. Proszê przynieœ mi jakiœ[ENTER]inny![ENTER][ENTER]Ja postaram siê zbadaæ tak du¿o jak to mo¿liwe z[ENTER]tej stopionej brei. Nie bêdê móg³ przebadaæ[ENTER]kolejnego Matowego Lodu a¿ do jutra.
-417	Wróæ gdy znajdziesz kolejny Matowy Lód.
+410	Eliksir mo¿e zostaæ u¿yty zaraz po tym jak[ENTER]znajdziesz lodow¹ kulkê.
+411	Lodowe kulki
+412	Och! uda³o ci siê znaleŸæ lodow¹ kulkê![ENTER]Poczekaj chwileczkê, muszê j¹ tylko sprawdziæ...
+413	Och! Ta lodowa kulka jest doskona³ej jakoœci![ENTER]Natychmiast rozpoczynam badania.[ENTER]Potrzebujê jednak jeszcze %s szt. Proszê ,[ENTER]spróbuj je dla mnie znaleŸæ![ENTER][ENTER]Ale pamiêtaj o tym, ¿e potrzebujê czasu na[ENTER]analizê. Nastêpn¹ lodow¹ kulkê bêdê móg³ zbadaæ[ENTER]dopiero jutro.
+414	Uda³o ci siê skompletowaæ 20 lodowych kulek![ENTER]Dziêkujê ci.[ENTER]Do rozwi¹zania zagadki Góry Lodowej potrzebujê[ENTER]jeszcze tylko kamienia duchowego Aurtumryu.[ENTER]Podejmiesz siê równie¿ tego zadania?[ENTER]Znajdziesz go u lodowych stworów.
+416	Hm, niestety ta lodowa kulka jest nadtopiona i[ENTER]bezu¿yteczna dla mnie.[ENTER]Proszê przynieœ mi jak¹œ inn¹![ENTER][ENTER]A ja postaram siê dowidzieæ jak najwiêcej z tej[ENTER]stopionej brei. Nastêpn¹ lodow¹ kulkê bêdê móg³[ENTER]zbadaæ dopiero jutro.
+417	Wróæ, gdy znajdziesz nastêpn¹ lodow¹ kulkê.
 415	Badania Biologa
-418	Strasznie mi przykro, ale nie zakoñczy³em jeszcze[ENTER]analizy. Czy móg³byœ przyjœæ troszkê póŸniej?
+418	Strasznie mi przykro, ale nie skoñczy³em jeszcze[ENTER]analizy ostatniego egzemplarza, który da³eœ mi[ENTER]ostatnio.[ENTER]Czy mo¿esz przyjœæ troszkê póŸniej?
 419	Badania Biologa
-420	Kamieñ Duchowy Aurtumryu
-421	W koñcu znalaz³eœ Kamieñ Duchowy Aurtumryu![ENTER]Zanieœ go do Biologa Chaegirab.[ENTER]On czeka ju¿ na Ciebie.
-422	Kamieñ Duchowy Aurtumryu
-423	Zebra³eœ 20 Matowych Lodów do badañ dla biologa[ENTER]Chaegirab.[ENTER]Teraz, ¿eby zrozumieæ t¹ szczególn¹ krystaliczn¹[ENTER]strukturê, potrzebuje on ju¿ tylko Kamieñ Duchowy[ENTER]Aurtumryu.
-424	Mo¿esz go zdobyæ z lodowych potworów na Górze[ENTER]Sohan.
+420	Kamieñ duchowy Aurtumryu
+421	Wreszcie uda³o ci siê znaleŸæ kamieñ duchowy![ENTER]Zanieœ go do Biologa Chaegirab.[ENTER]On ju¿ na ciebie czeka.
+422	Kamieñ duchowy Aurtumryu
+423	Uda³o ci siê zebraæ 20 lodowych kulek dla biologa[ENTER]Chaegiraba do jego badañ.[ENTER]Teraz, ¿eby zrozumieæ ich szczególn¹ krystaliczn¹[ENTER]strukturê, potrzebuje on jeszcze kamienia[ENTER]duchowego Aurtumryu.
+424	Mo¿esz go zdobyæ od lodowych stworów na Górze[ENTER]Sohan.
 425	Znalaz³eœ Kamieñ Duchowy Aurtumryu.
-426	Mam Kamieñ Duchowy Aurtumryu.
-428	Bardzo dziêkujê![ENTER]W nagrodê otrzymasz recepturê. Sk³adniki jej s¹[ENTER]skrzêtnie przechowywane i tylko nieliczni je[ENTER]znaj¹. Mikstura, któr¹ mo¿na zrobiæ na podstawie[ENTER]tego przepisu, wzmocni Twoj¹ si³ê ataku. Ruszaj w[ENTER]drogê i odszukaj Baek-G. On przyrz¹dzi dla Ciebie[ENTER]ten napój. Niech Ci szczêœcie sprzyja, mój[ENTER]przyjacielu. Z Twoj¹ pomoc¹ dowiedzia³em siê[ENTER]wielu istotnych rzeczy o Lodowej Ziemi!
-429	Proszê, wróæ gdy znajdziesz Kamieñ Duchowy[ENTER]Aurtumryu.
-427	Biolog Chaegirab, uczeñ Uriela, szuka Ciê.[ENTER]Odszukaj go i dowiedz siê w czym mo¿esz mu pomóc.
+426	Mam kamieñ duchowy Aurtumryu.
+428	Bardzo dziêkujê![ENTER]W nagrodê otrzymasz recepturê. Sk³adniki jej s¹[ENTER]skrzêtnie przechowywane i tylko nieliczni je[ENTER]znaj¹.[ENTER]Mikstura, któr¹ mo¿na zrobiæ na podstawie tego[ENTER]przepisu, wzmocni twoj¹ si³ê ataku. Ruszaj w[ENTER]drogê i odszukaj Baek-G. On przyrz¹dzi dla ciebie[ENTER]tê miksturê.[ENTER]¯egnaj, mój przyjacielu. Z twoj¹ pomoc¹[ENTER]dowiedzia³em siê wielu istotnych rzeczy o Lodowej[ENTER]Ziemi.
+429	Proszê, wróæ gdy znajdziesz kamieñ duchowy[ENTER]Aurtumryu.
+427	Biolog Chaegirab, uczeñ Uriela, pilnie ciê szuka.[ENTER]Udaj siê do niego i dowiedz siê, w czym mo¿esz mu[ENTER]pomóc.
 430	Nagroda Chaegiraba
-431	W nagrodê za Matowe Lody i Kamieñ Duchowy[ENTER]Aurtumryu, biolog Chaegirab da³ Ci tajemn¹[ENTER]recepturê. IdŸ teraz do Baek-Go, on wykona dla[ENTER]Ciebie cudown¹ miksturê.
+431	W nagrodê za lodowe kulki i kamieñ duchowy,[ENTER]biolog Chaegirab da³ ci sekretn¹ recepturê.[ENTER]IdŸ teraz do Baek-Go, on wykona dla ciebie[ENTER]cudown¹ miksturê.
 432	Sekretna Receptura
-433	Spójrz tylko, czy to nie Sekretna Receptura od[ENTER]Chaegirab, tego znanego biologa? Hm, zwiêkszy ona[ENTER]Twoj¹ Si³ê Ataku o 50 punktów. Oto Twój napój![ENTER]Ponadto mam Ci przekazaæ jeszcze t¹ Drewnian¹[ENTER]Skrzynkê. Starannie j¹ przechowuj.
-434	Bardzo dziêkujê. Jaki kolor tym razem ma[ENTER]Szkatu³ka?
-435	Niech spojrzê...[ENTER]Ach, to Jasnozielona Szkatu³ka. Proszê bardzo!
-436	Jako nagrodê za spe³nienie proœby Chaegiraba[ENTER]zwiêkszy siê na sta³e Twoja Si³a Ataku o 50[ENTER]punktów.
+433	Spójrz tylko, czy to nie sekretna receptura od[ENTER]Chaegirab, tego znanego biologa? Hm, zwiêkszy ona[ENTER]twoj¹ si³ê ataku o 50 punktów. Oto twoja[ENTER]mikstura![ENTER]Oprócz tego mam ci przekazaæ te¿ tê drewnian¹[ENTER]szkatu³kê. Starannie j¹ przechowuj.
+434	Bardzo dziêkujê. Jaki kolor tym razem ma[ENTER]szkatu³ka?
+435	Niech spojrzê...[ENTER]Ach, to jasnozielona szkatu³ka. Proszê bardzo!
+436	Jako nagrodê za spe³nienie proœby Chaegiraba[ENTER]zwiêkszy siê na sta³e twoja si³a ataku o 50[ENTER]punktów.
 437	S³uchaj.
 438	Biolog Chaegirab:
-439	Och, to Ty! ChodŸ bli¿ej. W tej chwili zbieram[ENTER]informacje o Lodowej Ziemi na zachodzie i o[ENTER]potworach tam ¿yj¹cych. Niestety nie mogê[ENTER]wzbogaciæ badañ o moje w³asne obserwacje. Móg³byœ[ENTER]to zrobiæ dla mnie?
-440	Czy widzia³eœ kiedyœ krainê wiecznego lodu?[ENTER]Plotka g³osi, ¿e dawnych czasach by³a ona we[ENTER]w³adaniu niewyt³umaczalnej mocy. To dlatego[ENTER]magowie i badacze s¹ dzisiaj tak zainteresowani[ENTER]tym miejscem. Jednak ze wzglêdu na znaczn¹[ENTER]odleg³oœæ, tylko niewielka czêœæ l¹du zosta³a[ENTER]odkryta.
-441	Podobno matowe lody posiadaj¹ niezwyk³¹[ENTER]krystaliczn¹ strukturê.[ENTER]Dostarcz mi ich 20, ale przynoœ je pojedynczo,[ENTER]abym móg³ dok³adnie zbadaæ ka¿dy z nich.[ENTER]Upewnij siê, ¿e nie dostarczasz mi tych[ENTER]nadtopionych, poniewa¿ one nie wytrzymaj¹ moich[ENTER]d³ugich i szczegó³owych badañ.
+439	Och, to ty! ChodŸ bli¿ej.[ENTER]W tej chwili zbieram informacje o Lodowej Ziemi[ENTER]na zachodzie i o potworach tam ¿yj¹cych.[ENTER]Niestety nie mogê sam wyruszyæ i wzbogaciæ badañ[ENTER]o moje w³asne obserwacje.[ENTER]Czy zrobisz to dla mnie?
+440	Czy widzia³eœ kiedyœ krainê wiecznego lodu?[ENTER]Plotka g³osi, ¿e w dawnych czasach by³a ona we[ENTER]w³adaniu niewyt³umaczalnej energie. To dlatego[ENTER]magowie i badacze s¹ dzisiaj tak zainteresowani[ENTER]tym miejscem. Jednak ze wzglêdu na znaczn¹[ENTER]odleg³oœæ, tylko niewielka czêœæ l¹du zosta³a[ENTER]odkryta.
+441	Podobno lodowe kulki, z których powsta³a czêœæ[ENTER]góry, posiadaj¹ niezwyk³¹ krystaliczn¹ strukturê.[ENTER]Dostarcz mi 20 sztuk, ale przynoœ je pojedynczo,[ENTER]abym móg³ dok³adnie zbadaæ ka¿d¹ z nich.[ENTER]Upewnij siê, ¿e nie dostarczasz mi tych[ENTER]nadtopionych, poniewa¿ one nie wytrzymaj¹ moich[ENTER]d³ugich i szczegó³owych badañ.
 442	Badania Biologa
 444	Eliksir mo¿e zostaæ u¿yty zaraz po tym jak[ENTER]znajdziesz jakiœ Konar Zelkova.
 443	Badania Biologa
@@ -829,6 +832,26 @@
 12585	Uda³o mi siê znaleŸæ ca³¹ mroczn¹ paproæ.[ENTER]A teraz muszê szybko wróciæ do Chaegiraba.
 12591	Nie poganiaj mnie! Nawet ta zwiêd³a mroczna[ENTER]paproæ ma znaczenie dla nauki.[ENTER]PrzyjdŸ póŸniej i przynieœ mi now¹ roœlinê.[ENTER]Pozosta³y czas regeneracji: %s
 12713	Oj, przykro mi.[ENTER]Jeszcze nie przeanalizowa³em ca³kowicie ostatniej[ENTER]mrocznej paproci.[ENTER]Wróæ póŸniej.[ENTER]Pozosta³y czas regeneracji: %s
+13038	Tak
+13039	Nie
+13041	Dostêpne tylko dla przywódcy.
+13042	Rozpoczyna siê walka
+13043	Zrezygnuj
+13044	WyjdŸ
+13045	Czy chcesz rozpocz¹æ instancjê "Œwi¹tynia Wê¿y"?
+13046	Œwi¹tynia Wê¿y
+13047	Czy chcesz opuœciæ to miejsce? Mo¿esz jeszcze[ENTER]wróciæ do momentu rozpoczêcia walki.
+13048	Utworzona instancja "Œwi¹tynia Wê¿y" zostanie[ENTER]zamkniêta. Czy chcesz zrezygnowaæ?
+13056	Wszyscy cz³onkowie grupy musz¹ znajdowaæ siê w[ENTER]tym samym miejscu.
+13061	Udaj siê do poziomu bossa.
+13062	Kowal Œwi¹tyni Wê¿y
+13063	Czy chcesz udaæ siê do poziomu bossa?
+13064	Kowal Ulepszania Rêkawic
+13065	Ej, mogê ulepszyæ dla ciebie rêkawice. Nie[ENTER]potrzebujesz dodatkowego materia³u. Daj mi po[ENTER]prostu rêkawice, które chcesz ulepszyæ. Moje[ENTER]ulepszenie ma taki sam efekt jak dzia³anie zwoju[ENTER]b³ogos³awieñstwa.
+13613	Czy chcesz opuœciæ instancjê?
+13614	Nie mo¿esz zresetowaæ swoich wejœæ.
+13615	Czy chcesz zresetowaæ swoje wejœcia do Œwi¹tyni[ENTER]Wê¿y?
+13616	Twoje wejœcia do Œwi¹tyni Wê¿y zosta³y[ENTER]zresetowane do 5.
 679	Pokonaj Jin-Hee
 678	Zemsta Handlarza Pierœcionków
 680	Starsza Pani poprosi³a ciê o pomoc: jej[ENTER]przyjaciel, Handlarz Pierœcionków, zosta³[ENTER]zamordowany przez Jin-Hee, elitê Zakonu[ENTER]Zaprzysiê¿onych.[ENTER]Pomœcij go, zabijaj¹c 30 Jin-Hee.
@@ -1358,6 +1381,30 @@
 989	Proszê, oto twój kryszta³ energii. Ale tylko[ENTER]pierwsze podejœcie zawsze siê udajê. Alchemia to[ENTER]bardzo nieobliczalna dziedzina nauki. Zawsze[ENTER]zatem istnieje pewne prawdopodobieñstwo, ¿e[ENTER]eksperyment nie wypali.
 990	No niestety, nie uda³o siê mi siê stworzyæ[ENTER]kryszta³u energii. Moja technika jest genialna,[ENTER]ale niestety jeszcze niedopracowana. Tak to ju¿[ENTER]jest z alchemi¹.[ENTER]Nastêpnym razem na pewno siê uda!
 991	Wiedzia³em! Moja technika jest genialna![ENTER]Oto twój kryszta³ energii.[ENTER]Niez³e cacko, co? Czujesz tê pulsuj¹c¹ energiê?
+13540	Czy chcesz wejœæ do Œwi¹tyni Wê¿y?
+13014	WejdŸ do Œwi¹tyni Wê¿y
+13020	Wa¿ne przygotowania
+13021	Aby wejœæ do Œwi¹tyni Wê¿y, muszê znaleŸæ Statuê[ENTER]Wê¿y.
+13022	Aby zaliczyæ tê podziemn¹ instancjê, bêdziesz[ENTER]potrzebowa³ kilku rzeczy... przyda ci siê[ENTER]kapelusz, bicz lub sakiewka z piaskiem w[ENTER]wielkoœci skarbu. Mogê wyprodukowaæ te rzeczy dla[ENTER]ciebie.
+13023	Jeœli jednak chcesz wejœæ do œwi¹tyni, przynieœ[ENTER]mi %d szt. ³usek wê¿a do wyposa¿enia. A poniewa¿[ENTER]tylko bohater, który jest gotów daæ z siebie[ENTER]wszystko, godny jest zwyciêstwa, bêdzie ciê to[ENTER]kosztowaæ %d Yang. Mo¿esz mi to dostarczyæ?
+13024	Statua Wê¿y potrzebuje %d szt. ³usek wê¿a.[ENTER]Znajdziesz je u potworów w³ócz¹cych siê w[ENTER]pobli¿u.
+13025	Aby wejœæ do Œwi¹tyni Wê¿y, muszê znaleŸæ %d szt.[ENTER]³usek wê¿a, które potrzebuje Statua Wê¿y.[ENTER]Pozosta³a iloœæ: %d
+13026	Potrzebujê jeszcze wiêcej ³usek wê¿a...
+13027	Otrzymujesz ³uski wê¿a. Zebrana iloœæ: %d szt.
+13028	To wszystkie ³uski wê¿a, które potrzebuje Statua[ENTER]Wê¿y. Wróæ do niej.
+13029	Uda³o mi siê zdobyæ wszystkie %d szt. ³usek wê¿a![ENTER]A teraz muszê wróciæ do Statuy Wê¿y.
+13030	Uda³o ci siê zdobyæ wszystkie ³uski wê¿a?[ENTER]Wspania³e! To teraz jeszcze %d Yang i wejdziesz[ENTER]do œwi¹tyni.
+13031	Przeka¿ te dwie rzeczy.
+13032	Anuluj
+13033	Masz za ma³o pieniêdzy...
+13034	Dobrze. Wszystko za³atwione! Oto twoje rzeczy,[ENTER]powodzenia. Jeœli bêdziesz potrzebowa³ jeszcze[ENTER]wiêcej wyposa¿enie do swojej nowej ekspedycji, po[ENTER]prostu wróæ do mnie.
+13035	Utwórz
+13036	WejdŸ
+13037	Czy chcesz wejœæ do Œwi¹tyni Wê¿y? Pozosta³e[ENTER]wejœcia: %d
+13040	Czy chcesz utworzyæ instancjê "Œwi¹tynia Wê¿y"?
+13049	Dzisiaj nie mo¿esz ju¿ wejœæ.
+13055	Dopóki nie zbierzesz wszystkich nagród, nie[ENTER]mo¿esz utworzyæ nowej instancji.
+13182	Pozosta³e £uski Wê¿a
 992	Zarz¹dza Placu Zabaw
 993	Czy chcesz opuœciæ Plac Zabaw?
 994	Czy chcesz wejœæ na Plac Zabaw?
@@ -1626,6 +1673,17 @@
 10167	U¿yj animosfer, by obni¿yæ mroczn¹ energiê w[ENTER]Œwi¹tyni Zodiaku zanim bêdzie za póŸno. Wchodz¹c[ENTER]do œwi¹tyni, zu¿ywasz automatycznie animosfery.[ENTER]Uwaga: nie mo¿esz ukoñczyæ misji, jeœli masz[ENTER]aktywowany znak stra¿nika.
 10168	Gotowe! Wróæ do Mnicha Milbon, by odebraæ prezent.
 10169	Dziêkujê. Na razie œwi¹tynia jest bezpieczna. Oto[ENTER]twój prezent. Jednak energia znowu wzroœnie. Wróæ[ENTER]po 24 godzinach, by zmniejszyæ poziom energii za[ENTER]pomoc¹ animosfer. Oczywiœcie, ¿e otrzymasz za to[ENTER]kolejn¹ nagrodê.
+13586	WejdŸ do tajemniczej instancji
+13587	Tajemniczy O³tarz
+13588	Hej! Wiem, ¿e zamieni³em siê w kamieñ. To wina[ENTER]kl¹twy Sung Mahi! Ale jestem szamanem i mogê ci[ENTER]opowiedzieæ o bardzo interesuj¹cym miejscu...[ENTER]Jeœli jesteœ w posiadaniu tajemniczego biletu,[ENTER]mogê zaprowadziæ ciê do tajemniczej instancji.[ENTER]Czy chcesz spróbowaæ?
+13589	Tak
+13590	Nie
+13591	Och! Nie mogê ciê wpuœciæ bez tajemniczego biletu.
+13598	Nie mo¿esz teraz wejœæ.
+13609	Wyjœcie
+13610	Czy chcesz opuœciæ instancjê?
+13611	Tak
+13612	Nie
 1209	Odrzuæ
 1208	Dlaczego p³aczesz?
 1210	Oczywiœcie, ¿e ci pomogê. To zadanie nie jest[ENTER]zbytnio trudne, a zreszt¹ rozumiem, ¿e chcesz[ENTER]mieæ pami¹tkê. Do zobaczenia!
@@ -7628,6 +7686,15 @@
 12707	Otrzymujesz %d x Eliksir S³oñca (M).
 12708	Aby uczciæ dzisiejszy dzieñ, udaj siê do[ENTER]Handlarza Zbrojami.
 12709	Otrzymujesz %d x Kamieñ Rytualny.
+12971	Ukryta Dolina
+12972	Kr¹¿¹ pog³oski, ¿e odkryto now¹ dolinê. Udaj siê[ENTER]do Konfucjusza.
+12973	Ju¿ dawno siê nie widzieliœmy. Gdzie siê[ENTER]w³óczy³eœ przez ten czas? Odkryto ju¿ to[ENTER]tajemnicze miejsce, które ciê wczeœnie tak[ENTER]absorbowa³o.
+12974	S³ysza³em, ¿e droga do tego miejsca jest zawi³a i[ENTER]zdradliwa. Wyœwiadcz mi przys³ugê i udaj siê tam,[ENTER]by dowiedzieæ siê czegoœ wiêcej o tej ukrytej[ENTER]dolinie. Gdy tam ju¿ dotrzesz, pierwsz¹ osob¹,[ENTER]któr¹ spotkasz bêdzie stra¿nik, którego wys³a³em[ENTER]tam jakiœ czas temu.
+12975	Odblokowano nowy obszar. Udaj siê do Stra¿nika[ENTER]Wê¿y.
+12976	Hej, co stoisz jak cielê? Rusz siê i idŸ do[ENTER]Dongan. Stamt¹d mo¿esz przejœæ na nowy obszar.
+12977	Udaj siê do nowego obszaru, by spotkaæ siê ze[ENTER]Stra¿nikiem Wê¿y.
+12978	Kim jesteœ cz³owieku? Aaa, Konfucjusz ciê[ENTER]przys³a³? Coœ mu chyba odbi³o...? Przysy³a[ENTER]takiego ¿ó³todzioba do tak niebezpiecznego[ENTER]miejsca jak to.
+12979	Konfucjusz prosi³, bym ci to przekaza³, gdy tutaj[ENTER]przejdziesz. Wpadnij póŸniej, bo masz jeszcze[ENTER]misje do wykonania.
 6353	Nowe ¯ycie
 6354	Budzisz siê i czujesz, ¿e jesteœ ow³osiony?[ENTER]Co siê sta³o? Kim jesteœ?! Poszukaj Mêdrca[ENTER]Myonghoranga. On ci wszystko wyjaœni.
 6355	Witaj Likanie!
@@ -7965,11 +8032,11 @@
 6606	Suma pkt
 6607	Najwy¿sza punktacja rundy
 6608	10 graczy z najwy¿sz¹ punktacj¹ otrzyma dodatkowe[ENTER]nagrody.
-6610	1. miejsce: %s-razy %d
+6610	1. miejsce: %s %d razy
 6609	Zamknij
-6611	2. miejsce: %s-razy %d
-6612	3. miejsce: %s-razy %d
-6613	4. - 10. miejsce: %s-razy %d
+6611	2. miejsce: %s %d razy
+6612	3. miejsce: %s %d razy
+6613	4. - 10. miejsce: %s %d razy
 6614	1. Miejsce : %s, %d
 6615	2. Miejsce : %s, %d
 6616	3. Miejsce : %s, %d
@@ -8322,96 +8389,96 @@
 6956	WeŸ %s Yang.
 6957	Burrrrrczy
 6958	Octavio
-6959	Kiszki mi marsza graj¹. Mo¿e powinienem wst¹piæ[ENTER]do Octavio. Przyrz¹dza on jak nikt na œwiecie[ENTER]najlepsz¹ zupê rybn¹.
+6959	Kiszki mi marsza graj¹.[ENTER]Mo¿e powinienem wst¹piæ znowu do Octavio.[ENTER]Przyrz¹dza on jak nikt na œwiecie najlepsz¹ zupê[ENTER]rybn¹.
 6960	Octavio:
-6961	Chcia³byœ zupê rybn¹? T¹ z ca³ymi g³owami ryb?[ENTER]Och, przykro mi, ale ju¿ od kilku dni nie[ENTER]przyrz¹dza³em w mojej kuchni ryb. Zwykle Rybak[ENTER]dostarcza mi do mojej zupy dobrej jakoœci ryby.
-6962	Ale ju¿ od pewnego czasu nie widzia³em go. Czy[ENTER]poszed³byœ do niego i sprawdzi³, co siê z nim[ENTER]dzieje?
-6963	Octavio jest w %s.
-6964	Idê poszukaæ rybaka!
+6961	Chcesz zupê rybn¹? T¹ z ca³ymi g³owami ryb? Och,[ENTER]przykro mi, ale ju¿ od kilku dni nie[ENTER]przyrz¹dza³em w mojej kuchni ryb. Zwykle rybak[ENTER]dostarcza mi do mojej zupy dobrej jakoœci ryby.
+6962	Ale ju¿ od pewnego czasu nie widzia³em go. Udaj[ENTER]siê do niego i sprawdŸ, co siê z nim dzieje.
+6963	Octavio znajduje siê w %s.
+6964	Idê poszukaæ Rybaka!
 6965	Rybak
-6966	Minê³y ju¿ spokojne dni na morzu! Codziennie[ENTER]znikaj¹ rybacy bez œladu! Okropnoœæ! Od czasu[ENTER]kiedy to Kamienie Metin wpad³y do morza zmieni³y[ENTER]siê ³agodne wieloryby w krwio¿ercze potwory[ENTER]morza. £owienie ryb sta³o siê teraz bardzo[ENTER]niebezpieczne.
-6967	Nie mo¿emy ju¿ zraniæ wielorybów naszymi[ENTER]Harpunami Ich skóra sta³a siê twardsza ni¿ ogra!
+6966	Minê³y ju¿ spokojne dni na morzu![ENTER]Codziennie znikaj¹ rybacy bez œladu! Okropnoœæ![ENTER]Od czasu kiedy to kamienie Metin wpad³y do morza[ENTER]³agodne wieloryby zmieni³y siê w krwio¿ercze[ENTER]potwory morza. £owienie ryb sta³o siê teraz zbyt[ENTER]niebezpieczne.
+6967	Nie mo¿emy ju¿ zraniæ wielorybów naszymi[ENTER]harpunami. Ich skóra sta³a siê twardsza ni¿ skóra[ENTER]ogra!
 6968	Mo¿e Yonah bêdzie wiedzia³, co zrobiæ. Kiedyœ sam[ENTER]zwyk³ wyp³ywaæ na morze i polowaæ na wieloryby.
 6969	Rybak:
-6970	Octavio czeka na wyj¹tkow¹ rybê z g³êbin. Spytaj[ENTER]Rybaka dlaczego dostawa siê opóŸnia.
-6971	Rybak jest w %s.
-6972	Rozgniewane potwory morza
-6973	Rybak poprosi³ Ciê, abyœ spyta³ Yonah o radê, jak[ENTER]polowaæ na z³e Wieloryby.
+6970	Octavio czeka na wyj¹tkow¹ rybê z g³êbin. Spytaj[ENTER]Rybaka, dlaczego dostawa siê opóŸnia.
+6971	Rybak znajduje siê w %s.
+6972	Rozgniewane Potwory Morza
+6973	Rybak poprosi³ ciê, abyœ spyta³ Yonah o radê, jak[ENTER]polowaæ na z³oœliwe wieloryby.
 6974	Yonah znajduje siê w %s.
 6975	Yonah
-6976	S³ysza³em ju¿, co sta³o siê z wielorybami. Dla[ENTER]Rybaków to musi byæ straszne. Nawet, gdy odwa¿¹[ENTER]siê wyp³yn¹æ na morze, to i tak ich Harpuny s¹[ENTER]zbyt s³abe, aby przebiæ tward¹ skórê wielorybów.[ENTER]Kiedy jeszcze pracowa³em na kutrach rybackich,[ENTER]u¿ywaliœmy specjaln¹ broñ do ³owienia wielorybów,[ENTER]których skóra by³o ju¿ stara i pokryta bliznami.[ENTER]Ta broñ mog³a wszystko przebiæ...
-6977	Chodzi o Harpun na Wieloryby, który jest[ENTER]zahartowany za pomoc¹ specjalnej techniki i tylko[ENTER]Kowal mo¿e sporz¹dziæ taki Harpun.
+6976	S³ysza³em ju¿, co sta³o siê z wielorybami. Dla[ENTER]rybaków to musi byæ straszne. Nawet, gdy odwa¿¹[ENTER]siê wyp³yn¹æ na morze, to i tak ich harpuny s¹[ENTER]zbyt s³abe, aby przebiæ tward¹ skórê wielorybów.[ENTER]Kiedy jeszcze pracowa³em na kutrach rybackich,[ENTER]u¿ywaliœmy specjalnej broni do ³owienia[ENTER]wielorybów, których skóra by³a ju¿ stara i[ENTER]pokryta bliznami. Ta broñ mog³a wszystko[ENTER]przebiæ...
+6977	Chodzi o harpun na wieloryby, który jest[ENTER]zahartowany za pomoc¹ specjalnej techniki i tylko[ENTER]Kowal mo¿e sporz¹dziæ taki harpun.
 6978	IdŸ do Kowala.
 6979	Yonah:
-6980	Na po³ów wielorybów Yonah poleca szczególnie[ENTER]twardy i ostry Harpun. Udaj siê do Kowala i[ENTER]zapytaj siê go, czy umie zrobiæ taki.
+6980	Na po³ów wielorybów Yonah poleca szczególnie[ENTER]twardy i ostry harpun. Udaj siê do Kowala i[ENTER]zapytaj siê go, czy umie zrobiæ taki.
 6981	Kowal
-6982	Tak, ju¿ s³ysza³em o takich harpunach i umiem je[ENTER]zrobiæ, ale, aby osi¹gn¹æ tak¹ twardoœæ[ENTER]potrzebujê Diamentowego Kamienia.
+6982	Tak, ju¿ s³ysza³em o takich harpunach i umiem je[ENTER]zrobiæ, ale, aby osi¹gn¹æ tak¹ twardoœæ[ENTER]potrzebujê diamentowego kamienia.
 6983	Potrzebujê:
 6984	Obrób:
 6985	Kowal:
-6986	Diamentowy Kamieñ
-6987	Zobaczymy. Potrzebujê Kilofa, aby wydobyæ kamieñ.[ENTER]Mam jeszcze gdzieœ mój, czy muszê poprosiæ[ENTER]Deokbae o nowy?
-6988	Potrzebujesz jeszcze %s x Diamentowe Kamienie.
+6986	Diamentowy kamieñ
+6987	Zobaczymy. Potrzebujê kilofa, aby wydobyæ kamieñ.[ENTER]Mam jeszcze gdzieœ mój, czy muszê poprosiæ[ENTER]Deokbae o nowy?
+6988	Potrzebujesz jeszcze %s x diamentowy kamieñ.
 6989	Masz ju¿ wszystko czego potrzebujesz.[ENTER]A teraz szybko do Kowala.
-6990	Wspaniale, to wszystko co potrzebujê. PrzyjdŸ po[ENTER]odbiór Harpunów jutro o tej samej godzinie. Takie[ENTER]¿elazo musi byæ dobrze wykute!
-6991	Jeœli rozbijesz Kilofem ¯y³ê Diamentow¹ to[ENTER]znajdziesz Diamentowe Kamienie.
-6992	Kowal potrzebuje Diamentowych Kamieni, aby zrobiæ[ENTER]wyj¹tkowe Harpuny na Wieloryby. Odszukaj ¯y³ê[ENTER]Diamentu, aby wydobyæ z niej Diamentowe Kamienie.[ENTER]Jeœli nie posiadasz Kilofa, mo¿esz go nabyæ u[ENTER]Deokbae.
+6990	Wspaniale, to wszystko, czego potrzebujê. PrzyjdŸ[ENTER]po odbiór harpunów jutro o tej samej godzinie.[ENTER]Takie ¿elazo musi byæ dobrze wykute!
+6991	Jeœli rozbijesz kilofem ¿y³ê diamentow¹ to[ENTER]znajdziesz tam diamentowe kamienie.
+6992	Kowal potrzebuje diamentowych kamieni, aby zrobiæ[ENTER]wyj¹tkowe harpuny na wieloryby.[ENTER]Odszukaj ¿y³ê diamentu, aby wydobyæ z niej[ENTER]diamentowe kamienie.[ENTER]Jeœli nie posiadasz kilofa, mo¿esz go nabyæ u[ENTER]Deokbae.
 6993	Kowal znajduje siê w %s.
-6994	Zanim jeszcze przyst¹pimy do pracy nad Harpunem,[ENTER]musimy zdobyæ jeszcze %s x Diamentowe Kamienie.
+6994	Zanim przyst¹pimy do pracy nad harpunem, musimy[ENTER]zdobyæ jeszcze %s x diamentowe kamienie.
 6995	Harpuny
 6996	Czas oczekiwania
-6997	Kowal powinien ju¿ wykonaæ twoje zlecenie. Udaj[ENTER]siê do niego i odbierz specjalny Harpun na[ENTER]Wieloryby.
-6998	Niestety, Harpuny s¹ jeszcze nie gotowe. Trochê[ENTER]cierpliwoœci jeszcze.
-6999	Oto Harpuny. Zanieœ je Rybakowi.
-7000	Prosi³em ciê przecie¿, aby poczeka³ a¿ Harpuny[ENTER]bêd¹ gotowe. PrzyjdŸ póŸniej.
-7001	Otrzyma³eœ od Kowala Harpuny na Wieloryby.[ENTER]Dostarcz je Rybakowi.
-7002	Wspaniale! Harpuny s¹ na prawdê imponuj¹ce! W[ENTER]koñcu mo¿emy siê broniæ przed Wielorybami.[ENTER]Przeka¿ Octavio, ¿e wkrótce mo¿e liczyæ na œwie¿e[ENTER]ryby!
-7003	Otrzyma³eœ 500.000 Yang.
-7004	Jako dowód uznania otrzyma³eœ 3x:
-7005	Mamy za ma³o Harpunów, aby przepêdziæ Wieloryba.[ENTER]Tym mo¿emy go tylko po³askotaæ po brzuchu!
-7006	Proszê, udaj siê jeszcze raz do Kowala i poproœ[ENTER]go, aby sporz¹dzi³ wiêcej Harpunów.
-7007	Rybacy s¹ teraz dobrze wyposa¿eni i mogê udaæ siê[ENTER]na po³ów. Udaj siê do Octavio i uspokój go,[ENTER]powiedz mu, ¿e wkrótce otrzyma œwie¿¹ dostawê.
-7008	Co powiedzia³eœ? £agodne Wieloryby przeobrazi³y[ENTER]siê w krwio¿ercze potwory morskie? Straszne...[ENTER]Dziêkujê, ¿e pomog³eœ Rybakom. Wiêkszoœæ moich[ENTER]potraw zale¿y od ich dostaw.
+6997	Kowal powinien ju¿ wykonaæ twoje zlecenie. Udaj[ENTER]siê do niego i odbierz specjalny harpun na[ENTER]wieloryby.
+6998	Niestety, harpuny nie s¹ jeszcze gotowe.[ENTER]Musisz uzbroiæ siê jeszcze w cierpliwoœæ.
+6999	Oto harpuny. Zanieœ je Rybakowi.
+7000	Prosi³em ciê przecie¿, ¿ebyœ poczeka³ a¿ harpuny[ENTER]bêd¹ gotowe. PrzyjdŸ póŸniej.
+7001	Otrzyma³eœ od Kowala harpuny na wieloryby.[ENTER]Dostarcz je Rybakowi.
+7002	Wspaniale! Harpuny s¹ na prawdê imponuj¹ce! W[ENTER]koñcu mo¿emy siê broniæ przed atakami wielorybów.[ENTER]Przeka¿ Octavio, ¿e wkrótce mo¿e liczyæ na œwie¿e[ENTER]ryby!
+7003	Otrzymujesz 500 000 Yang.
+7004	Jako dowód uznania otrzymujesz 3x:
+7005	Mamy za ma³o harpunów, aby przepêdziæ wieloryba.[ENTER]Tym mo¿emy go tylko po³askotaæ po brzuchu!
+7006	Proszê, udaj siê jeszcze raz do Kowala i poproœ[ENTER]go, aby sporz¹dzi³ wiêcej harpunów.
+7007	Rybacy s¹ teraz dobrze wyposa¿eni i mog¹ wyp³yn¹æ[ENTER]na po³ów na pe³ne morze. Udaj siê do Octavio i[ENTER]uspokój go, powiedz mu, ¿e wkrótce otrzyma œwie¿¹[ENTER]dostawê.
+7008	Co powiedzia³eœ? £agodne wieloryby przeobrazi³y[ENTER]siê w krwio¿ercze potwory morskie? Straszne...[ENTER]Dziêkujê, ¿e pomog³eœ rybakom. Wiêkszoœæ moich[ENTER]potraw zale¿y od ich dostaw.
 7009	Wracaj¹c do twojego burcz¹cego brzucha, niestety[ENTER]nie mogê ci przyrz¹dziæ jeszcze zupy rybnej, ale[ENTER]co powiesz na sushi?
-7010	Otrzyma³eœ 750.000 Punktów Doœwiadczenia.[ENTER]Otrzyma³eœ 2 porcje Sushi.
+7010	Otrzymujesz 750 000 punktów doœwiadczenia.[ENTER]Otrzymujesz 2 porcje Sushi.
 7011	Wizyta u Wonda-Rima
 7012	Sierota
 7013	Wonda-Rim
-7014	Ju¿ od dawna nic nie s³ysza³eœ od Wonda-Rima.[ENTER]Mo¿e poprawi³y siê ju¿ stosunki miêdzy nim a jego[ENTER]wujkiem i zapomnia³ ju¿ zdarzenie z Futrami Mu[ENTER]Rang. OdwiedŸ go.
+7014	Ju¿ od dawna nic nie s³ysza³eœ od Wonda-Rima.[ENTER]Mo¿e poprawi³y siê ju¿ stosunki miêdzy nim, a[ENTER]jego wujkiem i zapomnia³ ju¿ zdarzenie z futrami[ENTER]Mu-Rang.[ENTER]OdwiedŸ go jeszcze raz.
 7015	Wonda-Rim znajduje siê w %s.
-7016	Cieszê siê, ¿e wpad³eœ do mnie.
+7016	Cieszê siê, ¿e znowu wpad³eœ do mnie.
 7017	Wonda-Rim:
-7018	Dorasta³em u mojego wujka Chaegiraba. W zasadzie[ENTER]mieliœmy zawsze dobre stosunki... ale jak pytam[ENTER]go o moich rodziców, to zaraz zmienia temat.[ENTER]Powiedzia³ mi tylko, ¿e zmarli.
-7019	Kiedyœ chcia³bym przecie¿ siê o¿eniæ i za³o¿yæ[ENTER]rodzinê. Powinienem wiêc wiedzieæ sk¹d pochodzê i[ENTER]kim byli moi rodzice. Móg³byœ porozmawiaæ z moim[ENTER]wujkiem i zapytaæ siê o moich rodziców? Ale[ENTER]proszê nie mów mu, ¿e to ja ciê przys³a³em.
+7018	Dorasta³em u mojego wujka Chaegiraba.[ENTER]W zasadzie mieliœmy zawsze dobre stosunki... ale[ENTER]jak pytam go o moich rodziców, to zaraz zmienia[ENTER]temat. Powiedzia³ mi tylko, ¿e zmarli.
+7019	Kiedyœ chcia³bym przecie¿ siê o¿eniæ i za³o¿yæ[ENTER]rodzinê. Powinienem wiêc wiedzieæ sk¹d pochodzê i[ENTER]kim byli moi rodzice. Mo¿esz porozmawiaæ z moim[ENTER]wujkiem i zapytaæ siê o moich rodziców? Ale[ENTER]proszê nie mów mu, ¿e to ja ciê przys³a³em.
 7020	Pogadam z nim!
-7021	Wonda-Rim nie jest rodzonym bratankiem Chaegirab,[ENTER]wychowywa³ siê tylko u niego. Nadszed³ czas, aby[ENTER]dowiedzia³ siê ca³ej prawd o swoi rodzicach.[ENTER]Zapytaj siê Chaegiraba o pochodzenie Wonda-Rima.
+7021	Wonda-Rim nie jest rodzonym bratankiem Chaegirab,[ENTER]wychowywa³ siê tylko u niego.[ENTER]Nadszed³ czas, aby dowiedzia³ siê ca³ej prawd o[ENTER]swoi rodzicach. Zapytaj siê Chaegiraba o[ENTER]pochodzenie Wonda-Rima.
 7022	Chaegirab znajduje siê w %s.
 7023	Chaegirab
 7024	Chaegirab:
-7025	Wonda-Rim... tak, nie jestem jego prawdziwym[ENTER]wujkiem. Nie wiem, kim byli jego rodzice. Do tej[ENTER]pory chcia³em mu oszczêdziæ cierpienia, bo nie[ENTER]by³ jeszcze gotów, dowiedzieæ siê ca³ej prawdy o[ENTER]swoim pochodzeniu. Mo¿e jednak teraz przysz³a[ENTER]pora...
-7026	Znalaz³em go w Dolinie Seungryong u zgrai Orek[ENTER]Wojowników. Jeœli chcesz siê czegoœ dowiedzieæ o[ENTER]pochodzeniu Wonda-Rima to najlepiej u Orków.
+7025	Wonda-Rim... tak, nie jestem jego prawdziwym[ENTER]wujkiem. Nie wiem, kim byli jego rodzice.[ENTER]Do tej pory chcia³em mu oszczêdziæ cierpienia, bo[ENTER]nie by³ jeszcze gotów, dowiedzieæ siê ca³ej[ENTER]prawdy o swoim pochodzeniu. Mo¿e jednak teraz[ENTER]przysz³a pora...
+7026	Znalaz³em go w Dolinie Seungryong u zgrai Orków[ENTER]Wojowników. Jeœli chcesz siê czegoœ dowiedzieæ o[ENTER]pochodzeniu Wonda-Rima to najlepiej u Orków.
 7027	Mo¿e i jestem surowy dla niego, ale na zawsze[ENTER]zostanê jego wujkiem. Nawet jeœli dalej bêdzie[ENTER]takim nierobem.
 7028	Udaj siê do Doliny Seungryong i poluj na Orki[ENTER]Wojowników, a¿ znajdziesz jak¹œ wskazówkê[ENTER]dotycz¹c¹ pochodzenia Wonda-Rima.
-7029	W zabrudzonej torbie jednego z zabitych Ork[ENTER]Wojowników znalaz³eœ stary List. Ledwo mo¿na go[ENTER]odczytaæ, ale rozpozna³eœ na nim imiê Wonda-Rima.[ENTER]W³aœnie znalaz³eœ poczebn¹ wskazówkê. Zanieœ[ENTER]natychmiast List Wonda-Rima.
-7030	Ruszaj! Najlepsz¹ mo¿liwoœci¹, aby dowiedzieæ siê[ENTER]coœ o pochodzeniu Wonda-Rima, jest zabicie Ork[ENTER]Wojowników. Mo¿e maj¹ przy sobie odpowiedni¹[ENTER]wskazówkê!
-7031	Wskazówki dotycz¹ce Wonda-Rim...
-7032	Wszystko co wiedzia³em, to ci ju¿ powiedzia³em.[ENTER]Jedyn¹ wskazówk¹, któr¹ mo¿e nam jeszcze pomóc,[ENTER]to Orki Wojownicy. Niestety z nimi nie mo¿na[ENTER]rozs¹dnie porozmawiaæ...
-7033	List? Poka¿... Litery s¹ trochê zamazane...[ENTER]Chodzi o napad... Orki spali³y farmê.. i oni[ENTER]uciekli, aby ratowaæ swoje ¿ycie... musieli[ENTER]pozostawiæ swoje dziecko... Tutaj jest moje imiê.
-7034	Dziêkujê, ¿e przynios³eœ mi. W koñcu wiem, co siê[ENTER]naprawdê wydarzy³o.
-7035	Powinienem porozmawiaæ z Chaegirabem. Narazi³ siê[ENTER]na niebezpieczeñstwo, aby mnie uratowaæ. Postaram[ENTER]siê poprawiæ. Do zobaczenia, przyjacielu!
+7029	W zabrudzonej torbie jednego z zabitych Orków[ENTER]Wojowników znalaz³eœ stary list.[ENTER]Ledwo mo¿na go odczytaæ, ale uda³o ci siê[ENTER]rozpoznaæ na nim imiê Wonda-Rima. To jest wa¿na[ENTER]wskazówka. Zanieœ go do Wonda-Rima.
+7030	Ruszaj! Najlepsz¹ mo¿liwoœci¹, aby dowiedzieæ siê[ENTER]coœ o pochodzeniu Wonda-Rima, jest zabicie Orków[ENTER]Wojowników. Mo¿e maj¹ przy sobie odpowiedni¹[ENTER]wskazówkê!
+7031	Wskazówka dotycz¹ca Wonda-Rima...
+7032	Wszystko, co wiedzia³em, ju¿ ci powiedzia³em.[ENTER]Orki Wojownicy to jedyna wskazówka, która mo¿e[ENTER]nam jeszcze pomóc. Niestety z nimi nie mo¿na[ENTER]rozs¹dnie porozmawiaæ...
+7033	List? To zobaczmy... Litery s¹ trochê zamazane...[ENTER]Chodzi o napad... Orki spali³y farmê... i teraz[ENTER]uciekaj¹, by ratowaæ swoje ¿ycie. Musieli[ENTER]pozostawiæ swoje dziecko...[ENTER]Tutaj jest moje imiê.
+7034	Dziêkujê, ¿e przynios³eœ mi go. W koñcu wiem, co[ENTER]siê naprawdê wydarzy³o.
+7035	Muszê porozmawiaæ z Chaegirabem. Narazi³ siê na[ENTER]niebezpieczeñstwo, aby mnie uratowaæ. Postaram[ENTER]siê, byæ dla niego lepszym bratankiem. Do[ENTER]zobaczenia, przyjacielu!
 7036	Informacja:
-7037	Otrzyma³eœ 32.000 Yang.
-7038	Otrzyma³eœ 1.250.000 Punktów Doœwiadczenia.
-7039	Rozmawia³eœ z moim wujkiem Chaegirab? Wskazówka?[ENTER]O co ci chodzi? Jeœli nie posiadasz ¿adnych[ENTER]dowodów, zachowaj swoje domy³y dla siebie![ENTER][ENTER]Proszê spytaj siê jeszcze raz mojego wuja.[ENTER]W koñcu za to ci p³acê.
+7037	Otrzymujesz 32 000 Yang.
+7038	Otrzymujesz 1 250 000 punktów doœwiadczenia.
+7039	Uda³o ci siê porozmawiaæ z moim wujkiem[ENTER]Chaegirabem? Wskazówka? O co ci chodzi? Jeœli nie[ENTER]posiadasz ¿adnych dowodów, zachowaj swoje domys³y[ENTER]dla siebie![ENTER][ENTER]Proszê spytaj siê jeszcze raz mojego wuja.[ENTER]W koñcu za to ci p³acê.
 7040	List od Kapitana
-7041	Wierny Ziomek
-7042	Wyœwiadczysz mi przys³ugê. Nie mogê spaæ, chocia¿[ENTER]biorê lekarstwo od Baek-Go, to i tak przewracam[ENTER]siê przez ca³¹ noc z boku na bok. Czy móg³byœ go[ENTER]odszukaæ i poprosiæ o mocniejsze Lekarstwo na[ENTER]Sen?
+7041	Wierny ziomek
+7042	Chcê ciê poprosiæ o przys³ugê. Nie mogê w nocy[ENTER]spaæ, chocia¿ biorê lekarstwo od Baek-Go, to i[ENTER]tak przewracam siê z boku na bok. Mo¿esz go[ENTER]odszukaæ i poprosiæ o mocniejsze lekarstwo na[ENTER]sen?
 7043	Baek-Go znajduje siê w %s.
 7044	Spokojna noc
 7045	Baek-Go
-7046	Kapitan nie mo¿e spaæ w nocy. Udaj siê do Baek-Go[ENTER]i poproœ go o mocniejsze Lekarstwo na Sen dla[ENTER]Kapitana.
-7047	Lekarstwo na Sen dla Kapitana? Przykro mi, ale[ENTER]nie mam nic mocniejszego. Tylko Yu-Hwan mo¿e[ENTER]przyrz¹dziæ z zió³ coœ mocniejszego.
-7048	Ach, otrzyma³eœ mój List. Naprawdê nie wiem, co[ENTER]mam pocz¹æ. Nie mogê spaæ w nocy. Proszê pomó¿[ENTER]mi. Zasiêgnij rady u Baek-Go.
+7046	Kapitan nie mo¿e spaæ w nocy. Udaj siê do Baek-Go[ENTER]i poproœ go o mocniejsze lekarstwo na sen dla[ENTER]Kapitana.
+7047	Lekarstwo na sen dla Kapitana? Przykro mi, ale[ENTER]nie mam nic mocniejszego. Tylko Yu-Hwan mo¿e[ENTER]przyrz¹dziæ z zió³ coœ mocniejszego.
+7048	Ach, otrzyma³eœ mój list. Naprawdê nie wiem, co[ENTER]mam pocz¹æ. Nie mogê spaæ w nocy. Proszê pomó¿ mi[ENTER]i poproœ Baek-Go o radê.
 7049	W takim razie udam siê lepiej do Yu-Hwan!
 7050	Baek-Go znajduje siê w %s.
 7051	Baek-Go:
@@ -8419,115 +8486,115 @@
 7053	W takim razie udaj siê do Kapitana i powiedz, ¿e[ENTER]nie mo¿esz mu pomóc.
 7054	Yu-Hwan:
 7055	Yu-Hwan
-7056	Baek-Go nie ma w swojej apteczce mocniejszego[ENTER]Lekarstwa na Sen, ale mo¿e pomóc Yu-Hwan, jeœli[ENTER]zna Zio³o, które pomaga w zasypianiu.
-7057	Znam bardzo dobrze Kapitana. Jak z pewnoœci¹[ENTER]wiesz, ju¿ od d³u¿szego czasu wype³niam dla niego[ENTER]tajemne misje. Dlatego mogê z pewnoœci¹[ENTER]powiedzieæ, ¿e Zio³a mu nie pomog¹.
-7058	Istnieje inny powód, dlaczego Kapitan ma k³opoty[ENTER]z zasypianiem. Uwierz mi, on bardzo dobrze wie[ENTER]dlaczego, ale to sprawa, któr¹ on sam musi[ENTER]wyjaœniæ, ja nie mogê tego zrobiæ. Udaj siê do[ENTER]niego i porozmawiaj z nim o tym.
+7056	Baek-Go nie ma w swojej apteczce mocniejszego[ENTER]lekarstwa na sen. Ale Yu-Hwan mo¿e pomóc, jeœli[ENTER]zna zio³o, które pomaga w zasypianiu.
+7057	Znam bardzo dobrze Kapitana. Jak z pewnoœci¹[ENTER]wiesz, ju¿ od d³u¿szego czasu wype³niam dla niego[ENTER]tajemne misje. Dlatego mogê z pewnoœci¹[ENTER]powiedzieæ, ¿e zio³a mu nie pomog¹.
+7058	Istnieje inny powód, dlaczego Kapitan ma k³opoty[ENTER]z zasypianiem. Uwierz mi, on bardzo dobrze wie[ENTER]dlaczego. Ale to sprawa, któr¹ on sam musi[ENTER]wyjaœniæ, ja nie mogê tego zrobiæ.[ENTER]Udaj siê do niego i porozmawiaj z nim o tym.
 7059	Kapitan:
-7060	Ach, otrzyma³eœ mój List. Ju¿ na prawdê nie wiem[ENTER]co mam robiæ. Proszê, idŸ do Baek-Go i poproœ go[ENTER]o radê, abym móg³ w koñcu przespaæ ca³¹ noc.
+7060	Ach, otrzyma³eœ mój list. Naprawdê nie wiem, co[ENTER]mam pocz¹æ. Proszê, idŸ do Baek-Go i poproœ go o[ENTER]radê, abym móg³ w koñcu przespaæ ca³¹ noc.
 7061	Tak jest!
-7062	Dziêkujê!
-7063	Ju¿ zrobi³em to, ale on nie ma mocniejszego[ENTER]Lekarstwa w swej apteczce. Obiecujê jednak, ¿e[ENTER]odszukam Yu-Hwan i zapytam siê go, czy mo¿e[ENTER]pomóc.
+7062	Dziêkujê ci!
+7063	Ju¿ zrobi³em to, ale on nie ma mocniejszego[ENTER]lekarstwa w swej apteczce. Obiecujê jednak, ¿e[ENTER]odszukam Yu-Hwan i zapytam siê go, czy mo¿e ci[ENTER]pomóc.
 7064	Kapitan
-7065	Yu-Hwan nie chce nic powiedzieæ, prawdopodobnie[ENTER]chodzi o coœ nieprzyjemnego. Ale nic nie pomo¿e,[ENTER]musisz porozmawiaæ o tym z Kapitanem. Musimy[ENTER]najpierw poznaæ przyczyny bezsennoœci, aby[ENTER]znaleŸæ jakieœ rozwi¹zania. A wiêc ruszaj do %s.
-7066	Nie ma skuteczniejszego Lekarstwa na Sen, ale[ENTER]mo¿e móg³bym pomóc, Kapitanie, jeœli poznam[ENTER]przyczynê bezsennoœci.
+7065	Yu-Hwan nie chce nic powiedzieæ, prawdopodobnie[ENTER]chodzi o coœ nieprzyjemnego.[ENTER]Ale nic nie pomo¿e, musisz porozmawiaæ o tym z[ENTER]Kapitanem. Musimy najpierw poznaæ przyczyny[ENTER]bezsennoœci, aby znaleŸæ jakieœ rozwi¹zania.[ENTER]A wiêc ruszaj do %s.
+7066	Nie ma skuteczniejszego lekarstwa na sen. Ale[ENTER]mo¿e móg³bym pomóc, Kapitanie, jeœli poznam[ENTER]przyczynê bezsennoœci.
 7067	To nie jest coœ, co chêtnie opowiedzia³bym[ENTER]m³odemu mê¿czyŸnie takiemu jak ty.
 7068	To nie jest coœ, co chêtnie opowiedzia³bym m³odej[ENTER]kobiecie takiej jak ty.
-7069	Ale jeœli wkrótce siê porz¹dnie nie wyœpiê to[ENTER]nied³ugo zwariuje. Wygl¹da na to, ¿e muszê...[ENTER]Ale pamiêtaj , to co ci teraz powiem przeznaczone[ENTER]jest tylko dla ciebie. Ka¿dej nocy odwiedzaj¹[ENTER]mnie duchy... to nie jest jeszcze takie[ENTER]straszne... Jestem odpowiedzialny za ich œmieræ.
-7070	To czterech ¿o³nierzy. Powiedzieli, ¿e byli[ENTER]torturowani przez Przyzywaczy oraz Drêczycieli w[ENTER]Dolinie Seungryonga, potem ich zabito. To ja[ENTER]by³em tym, który ich tam wezwa³ - na œmieræ!
-7071	Co ma zrobiæ, aby siê pozbyæ tych duchów?
+7069	Ale jeœli wkrótce siê porz¹dnie nie wyœpiê to[ENTER]nied³ugo zwariujê. Wygl¹da na to, ¿e muszê...[ENTER]Ale pamiêtaj , to co ci teraz powiem przeznaczone[ENTER]jest tylko dla ciebie. Ka¿dej nocy odwiedzaj¹[ENTER]mnie duchy. To nie jest jeszcze takie straszne...[ENTER]Jestem odpowiedzialny za ich œmieræ.
+7070	To czterech ¿o³nierzy. Powiedzieli, ¿e byli[ENTER]torturowani przez Przyzywaczy oraz Drêczycieli w[ENTER]Dolinie Seungryong, a potem ich zabito. To ja[ENTER]by³em tym, który ich tam wezwa³ - na œmieræ!
+7071	Co zrobiæ, aby siê pozbyæ tych duchów?
 7072	Chc¹ zemsty! Co ma zrobiæ? Jeœli wyruszê, aby[ENTER]pomœciæ, to wioska nie bêdzie mia³a przywódcy i[ENTER]zostanie spustoszona. Ale jeœli nie pójdê to[ENTER]wkrótce zwariujê.
 7073	Jeœli nie by³bym odpowiedzialny za bezpieczeñstwo[ENTER]wioski, to nie namyœla³bym siê d³ugo, tylko[ENTER]natychmiast wyruszy³. Widzê tylko jedno wyjœcie:
-7074	Ktoœ musi za mnie pójœæ i pomœciæ! Ale przecie¿[ENTER]nie mogê ponownie wys³aæ ludzi na pewn¹ zgubê!?[ENTER]Jak mogê coœ takiego za¿¹daæ i potem spokojnie[ENTER]spaæ w nocy?
+7074	Ktoœ musi za mnie pójœæ i pomœciæ![ENTER]Ale przecie¿ nie mogê ponownie wys³aæ ludzi na[ENTER]pewn¹ zgubê!? Jak mogê coœ takiego za¿¹daæ i[ENTER]potem spokojnie spaæ w nocy?
 7075	Tak¹ decyzjê nie jest ³atwo podj¹æ.
 7076	Dobro wioski...
 7077	Nie bêdzie ³atwo...
 7078	Tego nie mo¿na przecie¿ ¿¹daæ!
-7079	... jest wa¿niejsze ni¿ skrupu³y. Pomszczê[ENTER]¿o³nierzy! A jeœli nie powrócê, to zobaczymy siê[ENTER]dzisiaj w nocy...
-7080	... rozprawiæ siê z Przyzywaczami oraz[ENTER]Drêczycielami. Ale obiecujê Kapitanie, dzisiaj[ENTER]bêdziecie spokojnie spaæ!
-7081	To prawie samobójstwo wdawaæ siê w bójkê z[ENTER]Przywo³ywaczami oraz Drêczycielami. Kapitanie,[ENTER]spróbuj wyt³umaczyæ duchom, jak bardzo jest[ENTER]kapitan tutaj potrzebny.
+7079	... jest wa¿niejsze ni¿ skrupu³y. Pomszczê[ENTER]¿o³nierzy! A jeœli nie powrócê, to zobaczymy siê[ENTER]dzisiaj w nocy!
+7080	... rozprawiê siê z Przyzywaczami oraz[ENTER]Drêczycielami. Obiecujê Kapitanie, dzisiaj[ENTER]bêdziesz spokojnie spaæ!
+7081	To prawie samobójstwo wdawaæ siê w bójkê z[ENTER]Przyzywaczami oraz Drêczycielami. Kapitanie,[ENTER]spróbuj wyt³umaczyæ duchom, jak bardzo jesteœ[ENTER]tutaj potrzebny.
 7082	Masz racjê. Jednak mia³em nadziejê, ¿e sam[ENTER]dobrowolnie siê zg³osisz i wyœwiadczysz ogromn¹[ENTER]przys³ugê mnie oraz ca³ej wiosce.
 7083	No dobrze...
 7084	Nie dam rady!
-7085	... jeœli jestem ostatni¹ desk¹ ratunku, to[ENTER]rozprawie siê z Przyzywaczami oraz Drêczycielami!
-7086	Jeœli spróbujê, to bêdzie z pewnoœci¹ nawiedza³[ENTER]Kapitana jeszcze jeden duch.
+7085	... jeœli jestem wasz¹ ostatni¹ desk¹ ratunku, to[ENTER]rozprawie siê z Przyzywaczami oraz Drêczycielami!
+7086	Jeœli spróbujê, to bêdzie z pewnoœci¹ nawiedza³[ENTER]was jeszcze jeden duch.
 7087	No dobrze. Pozwól mi jednak podarowaæ ci trochê[ENTER]Yang za twój trud.
-7088	Otrzyma³eœ 20.000 Punktów Doœwiadczenia
-7089	Otrzyma³eœ 25.000 Yang.
+7088	Otrzymujesz 20 000 punktów doœwiadczenia.
+7089	Otrzymujesz 25 000 Yang.
 7090	Rozmowa zosta³a zakoñczona.
 7091	Mia³em nadziejê, ¿e powiesz coœ takiego. Niestety[ENTER]nie wiem dok³adnie, który z Przyzywaczy lub[ENTER]Drêczycieli ich zabi³. Mam nadziejê, ¿e poczujê,[ENTER]jak jeden z duchów zostanie uwolniony.
-7092	Przyœlê ci List. Duchy powiedzia³y mi, ¿e zemsta[ENTER]musi byæ dokonana w Trójk¹cie Boga Smoka. Tam[ENTER]znajduj¹ siê trzy kolumny, które tworz¹[ENTER]wierzcho³ki trójk¹ta.
-7093	Pomœcij 4 Poleg³ych
+7092	Przyœlê ci list.[ENTER]Duchy powiedzia³y mi, ¿e zemsta musi byæ dokonana[ENTER]w Trójk¹cie Boga Smoka. Tam znajduj¹ siê trzy[ENTER]kolumny, które tworz¹ wierzcho³ki trójk¹ta.
+7093	Pomœcij 4 poleg³ych
 7094	List od Kapitana
-7095	Pomœcij jeszcze 3 ¿o³nierzy !
-7096	Wygl¹da na to, ¿e odnios³eœ sukces. W³aœnie[ENTER]us³ysza³em g³os jednego z moich zabitych[ENTER]¿o³nierzy. Powiedzia³, ¿e mi przebacza i ¿e jego[ENTER]œmieræ zosta³a pomszczona. A to jest tylko twoja[ENTER]zas³uga!
-7097	Proszê, pomœcij równie¿ innych poleg³ych[ENTER]¿o³nierzy i zabij Ezoterycznych Drêczycieli,[ENTER]Ezoterycznych Przyzywaczy oraz Wysokich[ENTER]Drêczycieli. Pamiêtaj jednak o tym, ¿e mo¿esz je[ENTER]wybawiæ tylko w Trójk¹cie Trzech Kolumn Boga[ENTER]Smoka.
+7095	Pomœcij jeszcze 3 ¿o³nierzy!
+7096	Wygl¹da na to, ¿e uda³o ci siê odnieœæ sukces.[ENTER]W³aœnie us³ysza³em g³os jednego z moich zabitych[ENTER]¿o³nierzy. Powiedzia³, ¿e mi przebacza, poniewa¿[ENTER]jego œmieræ zosta³a pomszczona. A to jest tylko[ENTER]twoja zas³uga!
+7097	Proszê, pomœcij równie¿ innych poleg³ych[ENTER]¿o³nierzy i zabij Ezoterycznych Drêczycieli,[ENTER]Ezoterycznych Przyzywaczy oraz Wysokich[ENTER]Drêczycieli. Pamiêtaj jednak o tym, ¿e mo¿esz je[ENTER]wybawiæ tylko w Trójk¹cie Trzech Kolumn Boga[ENTER]Smoków.
 7098	Pomœcij jeszcze 2 ¿o³nierzy!
-7099	Wyeliminowa³eœ kolejnego mordercê moich[ENTER]¿o³nierzy! Wydawa³o mi siê, ¿e w pó³mroku[ENTER]zobaczy³em jednego z Poleg³ych, który zasalutowa³[ENTER]mi na po¿egnanie.
+7099	Uda³o ci siê wyeliminowaæ kolejnego mordercê[ENTER]moich ¿o³nierzy! Wydawa³o mi siê, ¿e w pó³mroku[ENTER]zobaczy³em jednego z poleg³ych, który zasalutowa³[ENTER]mi na po¿egnanie.
 7100	Pomœcij jeszcze 1 ¿o³nierza!
 7101	Jesteœ niesamowity! Niedawno jeszcze sta³ obok[ENTER]mnie duch jednego z poleg³ych ¿o³nierzy i ¿egna³[ENTER]siê ze mn¹. Przypuszczam, ¿e bêdzie ciê¿ko[ENTER]odnaleŸæ ostatniego z morderców.
 7102	Duchy, które nachodz¹ Kapitana, to duchy m³odych[ENTER]¿o³nierzy, którzy polegli podczas wype³niania[ENTER]swojej misji. Zostali zabici przez Ezoterycznych[ENTER]Drêczycieli, Ezoterycznych Przyzywaczy, Wysokich[ENTER]Drêczycieli oraz Wysokich Przywo³ywaczy.
-7103	Musisz wyeliminowaæ odpowiedzialnych Drêczycieli[ENTER]oraz Przyzywaczy w Trójk¹cie Trzech Kolumn Boga[ENTER]Smoka, aby pomœciæ ¿o³nierzy.
-7104	Trójk¹t Boga Smoka znajduje siê poœrodku Doliny[ENTER]Seungryong.
-7105	Pierwszy ¿o³nierz pomszczony
-7106	Drugi ¿o³nierz pomszczony
-7107	Trzeci ¿o³nierz pomszczony
-7108	Wszyscy ¿o³nierze pomszczeni
-7109	Pomœci³eœ wszystkich 4 ¿o³nierzy!
-7110	Odnalaz³eœ ostatniego z morderców! W³aœnie ukaza³[ENTER]mi siê ostatni duch z czterech poleg³ych[ENTER]¿o³nierzy i prosi³, abym ci podziêkowa³ za twoj¹[ENTER]odwagê. Zostawi³ coœ dla ciebie: %s
+7103	Musisz wyeliminowaæ odpowiedzialnych Drêczycieli[ENTER]oraz Przyzywaczy w Trójk¹cie Trzech Kolumn Boga[ENTER]Smoków, aby pomœciæ ¿o³nierzy.
+7104	Trójk¹t Boga Smoków znajduje siê poœrodku Doliny[ENTER]Seungryong.
+7105	Pierwszy ¯o³nierz Pomszczony
+7106	Drugi ¯o³nierz Pomszczony
+7107	Trzeci ¯o³nierz Pomszczony
+7108	Wszyscy ¯o³nierze Pomszczeni
+7109	Uda³o ci siê pomœciæ wszystkich 4 ¿o³nierzy!
+7110	Uda³o ci siê odnaleŸæ ostatniego z morderców![ENTER]W³aœnie ukaza³ mi siê ostatni duch z czterech[ENTER]poleg³ych ¿o³nierzy i prosi³, abym ci podziêkowa³[ENTER]za twoj¹ odwagê. Zostawi³ równie¿ coœ dla ciebie:[ENTER]%s
 7111	PrzyjdŸ do mnie, aby odebraæ nagrodê. Czekam na[ENTER]ciebie w %s.
 7112	Wyœwiadczy³eœ mi oraz mojej wiosce ogromn¹[ENTER]przys³ugê. Oto twoja nagroda, któr¹ pozostawi³[ENTER]dla ciebie duch: %s
 7113	Oto jeszcze trochê Yang ode mnie. A teraz idê siê[ENTER]przespaæ.
 7114	Jestem ci wielce zobowi¹zany, mój synu.
 7115	Jestem ci dozgonnie wdziêczny.
 7116	Informacja:
-7117	Otrzyma³eœ 3.300.000 Punktów Doœwiadczenia.[ENTER]Otrzyma³eœ 270.000 Yang.[ENTER]Otrzyma³eœ Ksiêgê Mistrza.
-7118	To mo¿e póŸniej? Udaj siê do Baek-Go, gdy[ENTER]bêdziesz gotów.
+7117	Otrzymujesz 3 300 000 punktów doœwiadczenia.[ENTER]Otrzymujesz 270 000 Yang.[ENTER]Otrzymujesz ksiêgê mistrza.
+7118	To mo¿e póŸniej? Udaj siê do Baek-Go, gdy[ENTER]bêdziesz gotów!
 7119	Kapitan
 7120	Dodatkowe zaopatrzenie
 7121	Trudno motywowaæ nasze oddzia³y, jeœli mamy[ENTER]k³opoty z dodatkowym zaopatrzeniem. Handlarka[ENTER]Ró¿noœci, która jest naszym wa¿nym dostawc¹, ju¿[ENTER]od paru tygodni dostarcza nam tylko znikom¹ iloœæ[ENTER]mikstur.
-7122	Proszê udaj siê do Handlarki Ró¿noœci i dowiedz[ENTER]siê co siê dzieje.
-7123	Za³atwiê wam te napoje!
+7122	Proszê udaj siê do Handlarki Ró¿noœci i dowiedz[ENTER]siê, co siê dzieje.
+7123	Za³atwiê wam te mikstury!
 7124	Handlarka Ró¿noœci:
 7125	Dodatkowe zaopatrzenie
 7126	Handlarka Ró¿noœci
-7127	Tak, ostatnio mam sporo k³opotów z dostaw¹[ENTER]dodatkowego zaopatrzenia. Szlaki handlowe sta³y[ENTER]siê niebezpieczne, coraz czêœciej na nich[ENTER]pojawiaj¹ siê rabusie oraz dzikie bestie.[ENTER]Podró¿uj¹cy handlarze nie maj¹ ¿adnych szans, gdy[ENTER]na drodze pojawi¹ siê groŸne Tygrysy.
+7127	Tak, ostatnio mam sporo k³opotów z dostaw¹[ENTER]dodatkowego zaopatrzenia. Szlaki handlowe sta³y[ENTER]siê niebezpieczne, coraz czêœciej na nich[ENTER]pojawiaj¹ siê rabusie oraz dzikie bestie.[ENTER]Domokr¹¿cy nie maj¹ ¿adnych szans, gdy na drodze[ENTER]pojawi¹ siê groŸne tygrysy.
 7128	Mo¿e pomóg³by Kapitan ze swoimi ¿o³nierzami.[ENTER]Proszê, udaj siê do niego i zapytaj siê, czy[ENTER]móg³by przys³aæ swoich ¿o³nierzy do ochrony[ENTER]handlarzy.
-7129	Udaj siê do Handlarki Ró¿noœci i dowiedz siê,[ENTER]dlaczego s¹ opóŸnienia w dostawie dodatkowego[ENTER]zaopatrzenia w mikstury.
+7129	Udaj siê do Handlarki Ró¿noœci i dowiedz siê,[ENTER]dlaczego s¹ opóŸnienia w dostawach mikstur.
 7130	Handlarka Ró¿noœci znajduje siê w %s.
 7131	Kapitan:
-7132	Zabezpieczyæ szlaki handlowe? Tak... w zasadzie[ENTER]chêtnie bym to zrobi³, tylko nie posiadam[ENTER]wystarczaj¹c¹ iloœæ ¿o³nierzy, aby ochroniæ[ENTER]podró¿uj¹cych handlarzy z innych królestw.
-7133	Poza tym ¿o³nierz nie mog¹ polowaæ na Tygrysy i[ENTER]tylko myœliwi z ³owieckiego bractwa posiadaj¹[ENTER]takie prawo. A naruszenie tego prawa nie[ENTER]sprzyja³oby w utrzymaniu pokoju w wiosce.
-7134	Dlatego te¿ musisz zwróciæ siê do Yang-Shin. Jest[ENTER]cz³onkiem bractwa ³owieckiego. Mo¿e on ci pomo¿e[ENTER]uporaæ siê z Tygrysami.
-7135	Udaj siê do Kapitana i spróbuj go przekonaæ, aby[ENTER]zabezpieczy³ szlaki handlowe przed Tygrysami.
+7132	Zabezpieczyæ szlaki handlowe? Tak... w zasadzie[ENTER]chêtnie bym to zrobi³. Tylko nie posiadam[ENTER]wystarczaj¹cej iloœci ¿o³nierzy, aby ochroniæ[ENTER]Domokr¹¿ców z innych królestw.
+7133	Poza tym ¿o³nierz nie mog¹ polowaæ na tygrysy. I[ENTER]tylko myœliwi z ³owieckiego bractwa posiadaj¹[ENTER]takie prawo. A naruszenie tego prawa nie[ENTER]sprzyja³oby w utrzymaniu pokoju w wiosce.
+7134	Dlatego te¿ musisz zwróciæ siê do Yang-Shin.[ENTER]Jest cz³onkiem bractwa ³owieckiego. Mo¿e on ci[ENTER]pomo¿e uporaæ siê z tygrysami.
+7135	Udaj siê do Kapitana i spróbuj go przekonaæ, aby[ENTER]zabezpieczy³ szlaki handlowe przed tygrysami.
 7136	Kapitan znajduje siê w %s.
 7137	Yang-Shin
-7138	Wielu moich myœliwych by³o powo³anych jako[ENTER]wojownicy do walki i zginêli. Sta³o siê[ENTER]niemo¿liwe zachowanie równowagi w populacje[ENTER]dzikich zwierz¹t. Szczególnie dzikie koty[ENTER]powiêkszaj¹ swój rewir i zagra¿aj¹ podró¿uj¹cym.
-7139	Jeœli pomo¿esz nam w tej sprawie, to otrzymasz[ENTER]drogocenn¹ Tarczê Tygrysa+3, która nale¿a³a do[ENTER]mojego poleg³ego towarzysza Mi-Songa. Za to[ENTER]musisz znacznie przerzedziæ populacjê Tygrysów.
+7138	Wielu moich myœliwych by³o powo³anych jako[ENTER]wojownicy do walki i zginêli. Sta³o siê prawie[ENTER]niemo¿liwe zachowanie równowagi w populacji[ENTER]dzikich zwierz¹t. Szczególnie drapie¿ne koty[ENTER]powiêkszaj¹ swój rewir i zagra¿aj¹ podró¿uj¹cym.
+7139	Jeœli pomo¿esz nam w tej sprawie, to otrzymasz[ENTER]drogocenn¹ tarczê tygrysa+3, która nale¿a³a do[ENTER]mojego poleg³ego towarzysza Mi-Songa.[ENTER]Za to musisz znacznie przerzedziæ populacjê[ENTER]tygrysów.
 7140	Szczególnie rozmno¿y³y siê Przeklête Bia³e[ENTER]Tygrysy.
 7141	Jako dowód, potrzebujê:
 7142	Poluj na:
-7143	Odszukaj Yang-Shin i spróbuj go przekonaæ, aby[ENTER]zabezpieczy³ szlaki handlowe przed Tygrysami.
+7143	Odszukaj Yang-Shin i spróbuj go przekonaæ, aby[ENTER]zabezpieczy³ szlaki handlowe przed tygrysami.
 7144	Yang-Shin:
 7145	Yang-Shin znajduje siê w %s.
-7146	Futro Tygrysa
-7147	Ah, doskona³y okaz. Jeszcze tylko %s sztuk!
+7146	Futro tygrysa
+7147	Ach, doskona³y okaz. Jeszcze tylko %s sztuk!
 7148	Gotowe! Teraz szybko wróæ do Yang-Shin.
-7149	To Futro Tygrysa jest bezu¿yteczne.
-7150	Potrzebujê jeszcze %s x Lœni¹ce Futra Tygrysa
-7151	Zdob¹dŸ Lœni¹ce Futra Tygrysa od Przeklêtych[ENTER]Bia³ych Tygrysów.
-7152	Mam Futro Tygrysa.
-7153	W jaki sposób ma ustaliæ, czy szalki s¹[ENTER]bezpieczne. Tych kilka Futer to nie jest ¿aden[ENTER]dowód.
-7154	W koñcu Futra przynios¹ mi du¿y zysk...eh![ENTER]Jeszcze jesteœ tutaj? Dziêki tobie szlaki s¹[ENTER]znowu bezpieczne! Jestem przekonany, ¿e Kapitan[ENTER]wynagrodzi ciê po królewsku.
-7155	A teraz znikaj st¹d! Muszê oczyœciæ Futra.
-7156	Ach, Kapitan nie da ci nagrody? To nie moja[ENTER]sprawa. A jeœli spróbujesz mnie zdradziæ, to[ENTER]mo¿esz zapomnieæ o Futrach. Nigdy nie dostaniesz[ENTER]je w swoje rêce!
-7157	Obieca³em ci Tarczê i oczywiœcie otrzymasz j¹.[ENTER]Ju¿ nie potrzebujê tego starego, dziwacznego,[ENTER]trójk¹tnego przedmiotu.
+7149	To futro tygrysa jest bezu¿yteczne.
+7150	Potrzebujê jeszcze %s x lœni¹ce futra tygrysa
+7151	Zdob¹dŸ lœni¹ce futra tygrysa od Przeklêtych[ENTER]Bia³ych Tygrysów.
+7152	Mam futro tygrysa.
+7153	Ale to mi nie wystarczy. W jaki sposób mam[ENTER]ustaliæ, czy szalki s¹ bezpieczne na podstawie[ENTER]tylko tych kilku futer.
+7154	W koñcu futra te przynios¹ mi du¿y zysk... eh![ENTER]Jeszcze jesteœ tutaj? Dziêki tobie szlaki s¹[ENTER]znowu bezpieczne! Jestem przekonany, ¿e Kapitan[ENTER]wynagrodzi ciê po królewsku.
+7155	A teraz znikaj st¹d. Muszê oczyœciæ futra.
+7156	Ach, Kapitan nie da ci nagrody?[ENTER]To nie moja sprawa. A jeœli spróbujesz mnie[ENTER]zdradziæ, to mo¿esz zapomnieæ o futrach. Nigdy[ENTER]nie dostaniesz je w swoje rêce!
+7157	Obieca³em ci tarczê. I oczywiœcie otrzymasz j¹.[ENTER]Ju¿ nie potrzebujê tego dziwacznego, trójk¹tnego[ENTER]przedmiotu.
 7158	Nagroda:
-7159	Otrzyma³eœ Tarczê Tygrysa+3.
-7160	Co, chcesz mnie przekupiæ tymi marnymi Futrami? W[ENTER]ten sposób mój d³ug... wydaje mi siê, ¿e drogi[ENTER]nie bêd¹ nigdy bezpieczne.
-7161	Poluj tak d³ugo, a¿ zdobêdziesz %s Futer!
+7159	Otrzymujesz tarczê tygrysa+3.
+7160	Co, chcesz mnie przekupiæ tymi marnymi futrami? W[ENTER]ten sposób mój d³ug... wydaje mi siê, ¿e drogi[ENTER]nie bêd¹ nigdy bezpieczne.
+7161	Poluj tak d³ugo, a¿ zdobêdziesz %s futer!
 7162	To wszystko, a teraz szybko do Yang-Shin.
-7163	Otrzyma³eœ 3.750.000 Punktów Doœwiadczenia
-7164	Otrzyma³eœ 125.000 Yang.
+7163	Otrzymujesz 3 750 000 punktów doœwiadczenia.
+7164	Otrzymujesz 125 000 Yang.
 7165	Octavio
 7166	Octavio:
 7167	Starsza Pani:
@@ -9808,6 +9875,12 @@
 12080	Anuluj
 12081	Twoje parametry zosta³y zresetowane.
 12082	Nie posiadasz ¿adnych parametrów, które mo¿na by[ENTER]zresetowaæ.
+13057	Uda³o ci siê ukoñczyæ Œwi¹tyniê Wê¿y i teraz mo¿esz odebraæ nagrody. Porozmawiaj ze Statu¹ Wê¿y.
+13058	Otrzymujesz nagrody
+13059	Statua Wê¿y
+13060	Uda³o ci siê pokonaæ wszystkie te pod³e wê¿e.[ENTER]Nale¿y ci siê ta skrzynia.
+13606	Otrzymujesz %d x skarb wê¿y.
+13607	Otrzymujesz %d x py³ wê¿y.
 8044	Masz za niski poziom!
 8045	Nie mo¿esz jeŸdziæ konno, je¿eli jesteœ[ENTER]przemieniony!
 8046	W³aœnie dosiad³eœ wierzchowca. Jeœli chcesz go[ENTER]zmieniæ, musisz najpierw zejœæ z tego, na którym[ENTER]siedzisz.
@@ -9951,6 +10024,48 @@
 11499	Nie, ja zostanê tutaj.
 11500	Powróci³ Niebieski Smok (SZC)!
 11679	Za 3 minuty wszyscy wojownicy zostan¹[ENTER]teleportowani z Groty Wygnañców (SZC).
+12980	Czym jest Œwi¹tynia Wê¿y?
+12981	Aby znaleŸæ œwi¹tyniê, muszê najpierw porozmawiaæ[ENTER]ze Stra¿nikiem Wê¿y.
+12982	Hej, ¿ó³todziobie! Jeszcze nie wiem, czy jesteœ[ENTER]pojêtny. Wiêc s³uchaj uwa¿nie, pod¹¿aj œcie¿k¹,[ENTER]któr¹ widzisz za moimi plecami, a dojdziesz do[ENTER]olbrzymiej œwi¹tyni. Obi³o ci siê o uszy coœ o[ENTER]Œwi¹tynie Wê¿y?
+12983	Na swojej drodze napotkasz mnóstwo groŸnych[ENTER]potworów. Za³o¿ê siê, ¿e ju¿ po minucie dasz[ENTER]drapaka. Ale jeœli wyka¿esz siê odwag¹, to[ENTER]znajdziesz tam skarby.
+12984	Jak mam tam dotrzeæ?
+12985	Hahaha! Nie dasz rady, jeœli ciê tam nie[ENTER]wpuszczê. Musisz najpierw wykazaæ siê odwag¹.
+12986	Twoje oczy a¿ iskrz¹ siê od werwy do czynu.[ENTER]Mo¿esz zlikwidowaæ dla mnie kilka potworów[ENTER]w³ócz¹cych siê po okolicy. Powoli mnie ju¿ mêczy[ENTER]utrzymywanie tego obszaru pod kontrol¹.
+12987	Aby zdaæ egzamin odwagi Stra¿nika Wê¿y, poluj na[ENTER]potwory w okolicy.
+12988	Stra¿nik Wê¿y wyznaczy³ ci zadanie pokonania %d[ENTER]potworów na Prze³êczy Yilad.[ENTER]Pozosta³a iloœæ potworów: %d
+12989	Hej, nie pokona³eœ jeszcze potworów... Poddajesz[ENTER]siê?
+12990	Uda³o mi siê zabiæ wszystkie potwory dla[ENTER]Stra¿nika Wê¿y. Muszê wróciæ do niego.
+12991	Uda³o mi siê zabiæ wszystkie potwory dla[ENTER]Stra¿nika Wê¿y. Muszê wróciæ do niego.
+12992	Och! Wygl¹da na to, ¿e jesteœ odwa¿niejszy ni¿[ENTER]myœla³em. Gdy ciê tak obserwowa³em podczas walki,[ENTER]przypomnia³y mi siê moje m³odzieñcze lata.
+12993	Ale to ju¿ przesz³oœæ. Oto nagroda za zdany[ENTER]egzamin.
+13180	Pozosta³e Potwory
+13603	Iloœæ zabitych przez ciebie potworów: %d Pozosta³o jeszcze: %d
+12994	Œwi¹tynia Wê¿y?!
+12995	Odkryto nowy obszar. Muszê udaæ siê do Stra¿nika[ENTER]Wê¿y, który strze¿e tego miejsca.
+12996	Hej, ¿ó³todziobie! Wygl¹da na to, ¿e chcesz siê[ENTER]wybraæ do doliny...
+12997	Jeœli chcesz wejœæ do doliny, musisz najpierw[ENTER]wyœwiadczyæ mi przys³ugê! Potwory grasuj¹ce po[ENTER]okolicy sprawiaj¹ nam teraz sporo k³opotów. I[ENTER]dlatego przyda³aby mi siê twoja pomoc.
+12998	Zabij potwory i przynieœ mi opi³ki ¿elaza. Czy[ENTER]zrobisz to dla mnie? Z tego co wiem, na opi³kach[ENTER]¿elaza te¿ mo¿na sporo zarobiæ.
+12999	Tak.
+13000	Nie.
+13001	No có¿, obawiam siê, ¿e nie wejdziesz do doliny!
+13002	Zbierz %d szt. opi³ek ¿elaza, których koniecznie[ENTER]potrzebuje Stra¿nik Wê¿y. Znajdziesz je u[ENTER]potworów w³ócz¹cych siê w pobli¿u.
+13003	Co, ju¿ uda³o ci siê wszystkie zebraæ? Hej![ENTER]Wydaje mi siê, ¿e siê pomyli³eœ. Mówi³em przecie¿[ENTER]%d szt.!
+13004	Stra¿nik Wê¿y wpuœci mnie do doliny, gdy[ENTER]przyniosê mu %d szt. opi³ków ¿elaza. Muszê zabiæ[ENTER]potwory w³ócz¹ce siê w pobli¿u Prze³êczy Yilad,[ENTER]by otrzymaæ opi³ki ¿elaza.[ENTER]Brakuj¹ce opi³ki ¿elaza: %d
+13005	Otrzymujesz opi³ki ¿elaza. Zebrana iloœæ: %d
+13006	Mam ju¿ wszystkie opi³ki ¿elaza dla Stra¿nika[ENTER]Wê¿y. Muszê wróciæ do niego.
+13007	Mam ju¿ wszystkie opi³ki ¿elaza dla Stra¿nika[ENTER]Wê¿y. Muszê wróciæ do niego.
+13008	Wiedzia³em, ¿e jesteœ stworzony do tego zadania![ENTER]Iloœæ siê zgadza!
+13009	To teraz pomogê ci przejœæ dolinê. Gdy tylko[ENTER]znajdziesz siê po drugiej stronie doliny, ujrzysz[ENTER]wielk¹ œwi¹tyniê. Jeœli chcesz póŸniej wejœæ, to[ENTER]wróæ do mnie.
+13010	Od Stra¿nika Wê¿y mo¿esz otrzymaæ dostêp do[ENTER]Œwi¹tyni Wê¿y.
+13011	Ach, wróci³eœ. Chcesz wejœæ?
+13012	Tak? To przynieœ mi opi³ki ¿elaza, które uda³o ci[ENTER]siê zebraæ, a w zamian otrzymasz ode mnie bilet.[ENTER]Tym razem potrzebujemy %d szt. opi³ków ¿elaza.
+13013	Œwi¹tynia Wê¿y?! (Powtórzenie)
+13015	Czy chcesz wejœæ do Œwi¹tyni Wê¿y?
+13016	PotwierdŸ
+13017	Anuluj
+13018	Aby wejœæ do Œwi¹tyni Wê¿y, porozmawiaj ze[ENTER]Stra¿nikiem Wê¿y.
+13019	Dolina ta jest bardzo niebezpiecznia. Zachowaj[ENTER]zatem czujnoœæ.
+13181	Brakuj¹ce Opi³ki ¯elaza
 8167	Stra¿nica Nemere
 8168	WejdŸcie teraz do Stra¿nicy Nemere. Maksymalny[ENTER]czas pobytu wynosi jedn¹ godzinê. Po zakoñczeniu[ENTER]lub przerwaniu przygody musicie poczekaæ cztery[ENTER]godziny, zanim bêdziecie mogli wejœæ ponownie.
 8169	Pokonajcie wszystkich wrogów!
@@ -10079,41 +10194,41 @@
 8239	M¹dra decyzja. Jest tu zbyt niebezpiecznie, aby[ENTER]zostaæ na d³u¿ej.[ENTER]IdŸ i opatrz swoje rany.[ENTER]Do zobaczenia!
 8240	OK, bêdzie jak chcesz...[ENTER]Proszê, uwa¿aj na siebie![ENTER]Jest tu naprawdê niebezpiecznie.
 8242	Nie powiesz mi chyba, ¿e zabrak³o ci odwagi do[ENTER]przeszukania Lochu Paj¹ków? Przecie¿ posiadasz[ENTER]mnóstwo doœwiadczenia w boju, tak ¿e kilka[ENTER]bezmózgich pajêczaków nie powinno stanowiæ dla[ENTER]ciebie wiêkszego problemu. Wiesz jednak, ¿e[ENTER]potrzebujesz przepustki, aby wejœæ do tej[ENTER]jaskini, prawda?
-8241	Wejœcie do kryjówki Baronówny
-8243	Nowe niebezpieczeñstwo
+8241	Wejœcie do Kryjówki Baronówny
+8243	Nowe Niebezpieczeñstwo
 8244	Uda³o ci siê wykonaæ dok³adn¹ kopiê inskrypcji.[ENTER]Poka¿ j¹ Kapitanowi.
-8245	Œwietnie, dobra robota! Niechaj zerknê... hmmm,[ENTER]nie kojarzê tych znaków, nic z tego nie rozumiem.[ENTER]Mo¿e trzeba by zapytaæ mêdrca Uriela?
+8245	Œwietnie, uda³o ci siê! Poka¿...[ENTER]Hm, nie kojarzê tych znaków, nic z tego nie[ENTER]rozumiem. Mo¿e musisz poprosiæ o radê mêdrca[ENTER]Uriela?
 8246	Udaj siê do mêdrca Uriela i poka¿ mu inskrypcjê.[ENTER]On na pewno bêdzie w stanie j¹ rozszyfrowaæ.
-8247	Kapitan chce, abym mu przet³umaczy³ tê tajemnicz¹[ENTER]inskrypcjê? Nie ma sprawy, uwielbiam takie[ENTER]wyzwania. Poka¿ no...[ENTER]To... to nies³ychane! Zaczekaj, zaraz spiszê ci[ENTER]t³umaczenie. Masz! Zanieœ to jak najszybciej[ENTER]Kapitanowi, po czym wróæ do mnie. Jeœli ta[ENTER]inskrypcja mówi prawdê, to wszyscy jesteœmy w[ENTER]strasznym niebezpieczeñstwie. Leæ ju¿, leæ!
-8248	Nie uda³o ci siê jeszcze dotrzeæ do Kapitana?[ENTER]Proszê, musisz siê poœpieszyæ, sprawa jest bardzo[ENTER]powa¿na! Kapitan musi koniecznie przeczytaæ ten[ENTER]list.
+8247	Kapitan chce, abym mu przet³umaczy³ tê tajemnicz¹[ENTER]inskrypcjê? Oczywiœcie. Uwielbiam takie wyzwania.[ENTER]Poka¿ no.[ENTER]To jest... To jest nies³ychane. Zaczekaj, zaraz[ENTER]spiszê ci t³umaczenie. Masz! Zanieœ to jak[ENTER]najszybciej Kapitanowi, po czym wróæ do mnie.[ENTER]Jeœli ta inskrypcja mówi prawdê, to wszyscy[ENTER]jesteœmy w strasznym niebezpieczeñstwie! Leæ ju¿,[ENTER]leæ!
+8248	Nie uda³o ci siê jeszcze dotrzeæ do Kapitana?[ENTER]Musisz siê poœpieszyæ. Nie mamy czasu do[ENTER]stracenia. Kapitan musi koniecznie przeczytaæ ten[ENTER]list!
 8249	Przeka¿ list Uriela
 8250	Ach, ten uparty stary gadu³a... przyda³oby siê[ENTER]przynajmniej jakieœ 'dziêkujê'. Ale niech mu[ENTER]bêdzie. Twierdzi, ¿e te informacje s¹ bardzo[ENTER]wa¿ne, wiêc lepiej dostarczê je czym prêdzej[ENTER]Kapitanowi.
 8251	List Uriela
-8253	A niech mnie szlag! Na trzecim poziomie Lochu[ENTER]Paj¹ków zagnieŸdzi³ siê potê¿ny pajêczy demon -[ENTER]Baronówna Paj¹ków! Wed³ug inskrypcji potrzebny[ENTER]jest jakiœ specjalny klucz, aby wkroczyæ do tej[ENTER]ukrytej jaskini. Udaj siê do Uriela i spytaj go o[ENTER]ten klucz. Potem zwerbuj ekipê doœwiadczonych[ENTER]wojowników i wspólnie zaatakujcie kryjówkê[ENTER]Baronówny Paj¹ków! Masz, mam dla ciebie kolejn¹[ENTER]przepustkê.
-8252	Wrota te mo¿na otworzyæ wy³¹cznie za pomoc¹[ENTER]Pajêczego Klucza.
+8253	A niech mnie szlag! Na trzecim poziomie Lochu[ENTER]Paj¹ków zagnieŸdzi³ siê potê¿ny pajêczy demon -[ENTER]Baronówna Paj¹ków! Wed³ug inskrypcji potrzebny[ENTER]jest jakiœ specjalny klucz, aby wkroczyæ do tej[ENTER]ukrytej jaskini.[ENTER]Udaj siê do Uriela i spytaj go o ten klucz. Potem[ENTER]zwerbuj ekipê doœwiadczonych wojowników i[ENTER]wspólnie zaatakujcie kryjówkê Baronówny Paj¹ków![ENTER]Masz, mam dla ciebie kolejn¹ przepustkê.
+8252	Wrota te mo¿na otworzyæ wy³¹cznie za pomoc¹[ENTER]pajêczego klucza.
 8254	Pajêczy Klucz
 8255	No nic, trzeba jak najszybciej udaæ siê do Uriela.
-8256	Ach, dobrze, ¿e jesteœ ju¿ z powrotem. A wiêc[ENTER]Kapitan wyda³ ci rozkaz zg³adzenia Baronówny[ENTER]Paj¹ków? Jednak wejœcie do jej kryjówki jest[ENTER]zablokowane, a otworzyæ je mo¿na wy³¹cznie za[ENTER]pomoc¹ Pajêczego Klucza. Wykonanie takiego klucza[ENTER]jest bardzo skomplikowane. Ale jeœli przyniesiesz[ENTER]mi Worek z Pajêcz¹ Trucizn¹, Worek z Pajêczymi[ENTER]Jajami, Pajêcz¹ Sieæ, Oczy Paj¹ka, Nogi Paj¹ka[ENTER]oraz Jad Królowej Paj¹ków, to powinienem byæ w[ENTER]stanie tego dokonaæ.
-8257	Chcesz, aby skonstruowa³ dla ciebie Pajêczy[ENTER]Klucz? Potrzebujê do tego Worek z Pajêcz¹[ENTER]Trucizn¹, Worek z Pajêczymi Jajami, Pajêcz¹ Sieæ,[ENTER]Oczy Paj¹ka, Nogi Paj¹ka oraz Jad Królowej[ENTER]Paj¹ków. Uda³o ci siê znaleŸæ wszystkie[ENTER]sk³adniki?
-8258	Œwietnie! Masz wszystkie sk³adniki! Poczekaj[ENTER]chwilê, nie potrwa to zbyt d³ugo...
-8259	No i proszê! Oto Pajêczy Klucz, który umo¿liwi ci[ENTER]wejœcie do kryjówki Baronówny Paj¹ków. A tobie[ENTER]oraz twoim kompanom ¿yczê powodzenia w walce z t¹[ENTER]d³ugonog¹ besti¹. Musicie siê jednak pospieszyæ,[ENTER]poniewa¿ klucz ten jest bardzo niestabilny i[ENTER]rozpadnie siê po up³ywie 24 godzin.
-8260	No i... ech, no niestety, proces wykuwania tego[ENTER]klucza jest bardzo skomplikowany i nie zawsze siê[ENTER]udaje. Wystarczy drobny b³¹d, aby spartaczyæ ca³¹[ENTER]robotê. Niestety wraz z kluczem przepad³y równie¿[ENTER]wszystkie sk³adniki, które od ciebie otrzyma³em.[ENTER]Wybacz, ¿e twoja ¿mudna zbieranina posz³a na[ENTER]marne. Nastêpnym razem na pewno wszystko wypali!
-8261	Nie, nie posiadasz jeszcze wszystkich sk³adników,[ENTER]dla przypomnienia: potrzebujemy Worek z Pajêcz¹[ENTER]Trucizn¹, Worek z Pajêczymi Jajami, Pajêcz¹ Sieæ,[ENTER]Oczy Paj¹ka, Nogi Paj¹ka oraz Jad Królowej[ENTER]Paj¹ków.
-8263	Przywódca twojej grupy wkroczy³ do lochu. Chcesz[ENTER]do niego do³¹czyæ?
-8262	Cofnij misjê SD3
-8264	
+8256	Ach, jesteœ wreszcie. A wiêc Kapitan rozkaza³ ci[ENTER]zabiæ Baronównê Paj¹ków? A wiêc Kapitan wyda³ ci[ENTER]rozkaz zg³adzenia Baronówny Paj¹ków? Jednak[ENTER]wejœcie do jej kryjówki jest zablokowane, a[ENTER]otworzyæ je mo¿na wy³¹cznie za pomoc¹ pajêczego[ENTER]klucza. Wykonanie takiego klucza jest bardzo[ENTER]skomplikowane. Ale jeœli przyniesiesz mi worek z[ENTER]pajêcz¹ trucizn¹, worek z pajêczymi jajami,[ENTER]pajêcz¹ sieæ, oczy paj¹ka, nogi paj¹ka oraz jad[ENTER]królowej paj¹ków, to wykonam go dla ciebie.
+8257	Chcesz, bym wykona³ dla ciebie pajêczy klucz?[ENTER]Potrzebujê do tego worek z pajêcz¹ trucizn¹,[ENTER]worek z pajêczymi jajami, pajêcz¹ sieæ, oczy[ENTER]paj¹ka, nogi paj¹ka oraz jad królowej paj¹ków.[ENTER]Uda³o ci siê znaleŸæ wszystkie sk³adniki?
+8258	Œwietnie! Masz wszystkie potrzebne rzeczy do[ENTER]wykonania pajêczego klucza. Zaczekaj chwilê. Jego[ENTER]wykonanie nie potrwa zbyt d³ugo...
+8259	No i proszê! Oto pajêczy klucz. On umo¿liwi ci[ENTER]wejœcie do kryjówki Baronówny Paj¹ków. A tobie[ENTER]oraz twoim kompanom ¿yczê powodzenia w walce z t¹[ENTER]d³ugonog¹ besti¹. Musicie siê jednak pospieszyæ,[ENTER]poniewa¿ klucz ten jest bardzo niestabilny i[ENTER]rozpadnie siê po up³ywie 24 godzin.
+8260	Och! No i... ech, no niestety, proces wykuwania[ENTER]tego klucza jest bardzo skomplikowany i nie[ENTER]zawsze siê udaje. Wystarczy drobny b³¹d, aby[ENTER]spartaczyæ ca³¹ robotê. Niestety wraz z kluczem[ENTER]przepad³y równie¿ wszystkie sk³adniki, które od[ENTER]ciebie otrzyma³em. Nastêpnym razem na pewno[ENTER]wszystko zadzia³a!
+8261	Nie, nie posiadasz jeszcze wszystkich sk³adników.[ENTER]Dla przypomnienia: potrzebujemy worek z pajêcz¹[ENTER]trucizn¹, worek z pajêczymi jajami, pajêcz¹ sieæ,[ENTER]oczy paj¹ka, nogi paj¹ka oraz jad królowej[ENTER]paj¹ków.
+8263	Lider grupy twojej grupy wkroczy³ do lochu.[ENTER]Chcesz do niego do³¹czyæ?
+8262	Zresetuj misjê SD3
+8264	Minê³o za du¿o czasu. Klucz ju¿ siê zepsu³.[ENTER]Musisz wykonaæ nowy, by móc wejœæ.
 8265	W kryjówce Baronówny znajduje siê ju¿ jakaœ grupa[ENTER]atakuj¹ca Baronównê Paj¹ków.
 8266	Wejœcie bêdzie mo¿liwe dopiero, gdy obecnie[ENTER]znajduj¹ca siê tam grupa ukoñczy swoje zadanie.[ENTER]Wróæ za %s min.
-8267	Czas do ponownej mo¿liwoœci otwarcia wrót do[ENTER]kryjówki Baronówny:
+8267	Czas oczekiwania otwarcia wrót do kryjówki[ENTER]Baronówny:
 8268	%s min.
-8269	Wojownik, który wszed³ do jaskini przed tob¹,[ENTER]zosta³ unieruchomiony na 10 sekund. Poczekaj[ENTER]chwilê.
+8269	Wojownik, który wszed³ do jaskini przed tob¹,[ENTER]zosta³ unieruchomiony na 10 sekund.[ENTER]Poczekaj chwilê.
 8270	Chcesz rozpocz¹æ podbój? Masz na to 20 minut.[ENTER]Przed up³ywem tego czasu nikt nie bêdzie móg³[ENTER]opuœciæ kryjówki Baronówny.[ENTER]Kolejny podbój mo¿na rozpocz¹æ po godzinie.
-8271	Aby otworzyæ wejœcie, potrzebujesz Pajêczy Klucz.
-8272	Pajêczy Klucz mo¿e zostaæ u¿yty wy³¹cznie przez[ENTER]przywódcê grupy.
-8274	Baronówna Paj¹ków zosta³a zg³adzona! Za trzy[ENTER]minuty wszyscy wojownicy zostan¹[ENTER]przeteleportowani z jaskini.
+8271	Aby otworzyæ wejœcie, potrzebujesz pajêczy klucz.
+8272	Pajêczy klucz mo¿e zostaæ u¿yty wy³¹cznie przez[ENTER]przywódcê grupy.
+8274	Baronówna Paj¹ków zosta³a zg³adzona! Za trzy[ENTER]minuty wszyscy wojownicy zostan¹ teleportowani z[ENTER]jaskini.
 8273	Przed wykonaniem klucza
 8275	Nie uda³o siê. Spróbuj ponownie!
-8276	Uwaga: Baronówna Paj¹ków popada w furiê! Jej[ENTER]ataki staj¹ siê silniejsze, lecz jej obrona[ENTER]s³abnie.
+8276	Uwaga: Baronówna Paj¹ków wœciek³a siê! Jej ataki[ENTER]staj¹ siê silniejsze, lecz jej obrona s³abnie.
 8277	Loch Paj¹ków 3
 8278	Ach, dobrze, ¿e jesteœ. Mam dla ciebie wa¿ne[ENTER]informacje. Nasi zwiadowcy odkryli trzeci poziom[ENTER]w Lochu Paj¹ków. Ta nowa jama jest mniejsza ni¿[ENTER]te, które znamy dotychczas, jednak zadomowi³y siê[ENTER]tam ponoæ wyj¹tkowo groŸne paj¹ki. Poza tym[ENTER]znaleziono tam stary nagrobek z wygrawerowan¹[ENTER]inskrypcj¹, której jednak nie uda³o siê[ENTER]rozszyfrowaæ. Udaj siê na poszukiwania tego[ENTER]nagrobku i przynieœ mi kopiê tej inskrypcji.[ENTER]Proszê, ta przepustka umo¿liwi ci wejœcie do[ENTER]Lochu Paj¹ków.
 8279	Inskrypcja
@@ -10775,27 +10890,27 @@
 8931	Czy móg³byœ odzyskaæ dla mnie te oszczepy? Z[ENTER]pewnoœci¹ znajdziesz je u dzikusów.
 8932	Ok, poszukam.
 8933	Nie mam czasu.
-8935	Dziêkujê ci, przyjacielu![ENTER]Mam nadziejê, ¿e odniesiesz sukces!
-8934	Balso?
+8935	Dziêkujê ci, przyjacielu![ENTER]Mam nadziejê, ¿e ci siê uda.
+8934	 Balso?
 8936	Lekarstwo dla Balso
 8937	IdŸ do Balso
-8938	Znalaz³eœ lekarstwo dla Balso który zarazi³ siê[ENTER]nieznan¹ chorob¹. Dostarcz to lekarstwo do Balso.
-8939	Zdob¹dŸ Lekarstwo
-8940	W jego d³ugiej ucieczce, Balso zarazi³ siê[ENTER]nieznan¹ chorob¹. Zdob¹dŸ Lekarstwo od Zara¿onego[ENTER]Cz³owieka na Górze Sohan.
-8941	Mam Lekarstwo!
-8942	Oh, bardzo Ci dziêkujê. Ciê¿ko jest ¿yæ ¿yciem[ENTER]uchodŸcy. Jesteœ nara¿ony na ró¿ne choroby.[ENTER]Dziêki tobie, teraz mogê zdrowieæ. Dziêki!
+8938	Uda³o ci siê zdobyæ lekarstwo dla Balso, który[ENTER]zarazi³ siê nieznan¹ chorob¹. Dostarcz to[ENTER]lekarstwo Balsowi.
+8939	Zdob¹dŸ lekarstwo
+8940	Podczas swojej d³ugiej ucieczki, Balso zarazi³[ENTER]siê nieznan¹ chorob¹.[ENTER]Zdob¹dŸ lekarstwo od zara¿onego cz³owieka na[ENTER]Górze Sohan.
+8941	Uda³o mi siê zdobyæ twoje lekarstwo!
+8942	Och, dziêkujê! ¯ycie uciekiniera nie jest ³atwe.[ENTER]Szczególnie wtedy, gdy jest siê chorym. Teraz[ENTER]jednak mogê w koñcu znowu odpocz¹æ. Dziêkujê ci.
 8943	Nagroda:
-8944	Otrzymujesz 1.900.000 Punktów Doœwiadczenia.[ENTER]Otrzymujesz 30.000 Yang.
-8946	Balso, ten zdrajca
+8944	Otrzymujesz 1 900 000 punktów doœwiadczenia.[ENTER]Otrzymujesz 30 000 Yang.
+8946	Balso Zdrajca
 8945	Tak strasznie swêdzi...
-8947	Balso, ten zdrajca
-8948	Szukaj zdrajcê Balso.
+8947	Balso Zdrajca
+8948	Odszukaj Balso, tego zdrajcê.
 8949	Zdrajca Balso:
-8950	Mogê prosiæ Ciê o przys³ugê? Jak wiesz jestem[ENTER]zdrajc¹, a jako zdrajca ciê¿ko teraz wy¿yæ.[ENTER]Kiedyœ ¿y³em bardzo dostatnie, ale teraz jest[ENTER]dok³adnie na odwrót... Od tamtej pory zawsze[ENTER]uciekam i nie mogê odpocz¹æ. A dodatkowo mam[ENTER]kontakt z du¿¹ iloœci¹ chorób.
-8951	Kilka dni temu by³em na terenach Góry Sohan i[ENTER]jakoœ wpad³em na Zara¿onego Cz³owieka.[ENTER]Na szczêœcie uda³o mi siê umkn¹æ. Jednak teraz[ENTER]widzê, ¿e kontakt z jego skór¹ zarazi³ mnie jak¹œ[ENTER]straszn¹ chorob¹. Czy mo¿esz mi pomóc i zdobyæ[ENTER]jakieœ Lekarstwo? Na pewno maj¹ je ze sob¹. Nie[ENTER]lubiê tego robiæ, ale proszê, mo¿esz pomóc mi?
-8952	Tak, pomogê Ci.
+8950	Mogê prosiæ ciê o przys³ugê? Jak ju¿ zapewne[ENTER]wiesz, jestem znany jako zdrajca. A jako zdrajcy,[ENTER]ciê¿ko teraz ¿yæ. Niegdyœ by³y dobre czasy i ¿y³o[ENTER]mi siê dobrze. Ale teraz prowadzê zupe³nie inne[ENTER]¿ycie. Ci¹gle zmuszony jestem uciekaæ. I podczas[ENTER]ucieczek stykam siê z mnóstwem chorób.
+8951	Kilka dni temu by³em na terenach Góry Sohan i[ENTER]jakoœ wpad³em na zara¿onego cz³owieka. Na[ENTER]szczêœcie uda³o mi siê umkn¹æ. Jednak wydaje mi[ENTER]siê, ¿e niechc¹cy go dotkn¹³em i zakazi³em siê[ENTER]jak¹œ chorob¹. Czy mo¿esz mi pomóc i zdobyæ[ENTER]jakieœ lekarstwo?[ENTER]Na pewno maj¹ je ze sob¹.[ENTER]Nie lubiê tego robiæ, ale proszê, mo¿esz pomóc mi?
+8952	Tak, pomogê ci.
 8953	Czy chcesz przerwaæ poszukiwania?
-8954	Zawsze mi siê to przydarza. Wszêdzie mnie nie[ENTER]lubi¹. Jak to przemyœlisz, odwiedŸ mnie jeszcze[ENTER]raz.
+8954	Oj, zawsze mi siê to przydarza. Wszêdzie mnie nie[ENTER]lubi¹.[ENTER]Jak to przemyœlisz, odwiedŸ mnie jeszcze raz.
 8955	Precz! I nigdy tutaj nie wracaj! Zawsze to samo...
 8957	Dziêkujê. Ufam ci! Szybko przynieœ mi topór.
 8956	Z³oty topór Deokbaea
@@ -10949,51 +11064,51 @@
 9105	IdŸ do Ariyoung
 9106	Do Ariyoung
 9107	Huahn-So kocha owdowia³¹ Ariyoung.[ENTER]Aby Huahn-So wyrazi³ Ariyoung swoje uczucia,[ENTER]musisz dowiedzieæ siê, co ona lubi.[ENTER]Tylko uwa¿aj, ¿eby za du¿o jej nie powiedzieæ.
-9109	Twoja strata.[ENTER]Tracisz ¿yciow¹ szansê.
+9109	Twoja strata. Tracisz ¿yciow¹ szansê.
 9108	IdŸ do Dozorcy.
 9110	Wspaniale! Wiedzia³em, ¿e siê tym zainteresujesz.[ENTER]Gdybyœ zdoby³ trochê, to wróæ do mnie i podziel[ENTER]siê ze mn¹!
 9111	IdŸ do Octavio
 9112	Ok-gu
 9113	IdŸ do Octavio
-9114	Dozorca da³ Ci przydatn¹ wskazówkê: Zupa z ¯abich[ENTER]Udek jest wspania³a na bezsilnoœæ i zmêczenie.[ENTER]Spytaj siê Octavio, przy móg³by przyrz¹dziæ tê[ENTER]zupê.
-9115	Zupa z ¯abich Udek?
-9116	Zupa z ¯abich Udek... Tak, robi³em tak¹ w[ENTER]przesz³oœci. Ale teraz ju¿ jej nie robiê... Dawno[ENTER]temu nie obawia³em siê dzikich zwierz¹t i[ENTER]potworów, wiêc mog³em bez problemu zdobyæ Tylne[ENTER]Nogi ¯aby.
-9117	Ale teraz... Jestem ju¿ stary i zmêczony.[ENTER]Dziêki tej zupie, móg³bym odzyskaæ energiê, ale[ENTER]¿aby nie s¹ ³atwym celem. Jeœli dostarczysz mi[ENTER]¯abie Udka, przygotujê Ci najlepsz¹ zupê na[ENTER]œwiecie.
-9118	Pewnie, zrobiê to.
-9120	Nie, nie mogê.
+9114	Dozorca da³ ci przydatn¹ wskazówkê: zupa z ¿abich[ENTER]udek jest wspania³a na bezsilnoœæ i zmêczenie.[ENTER]Spytaj siê Octavio, czy móg³by przyrz¹dziæ tê[ENTER]zupê.
+9115	Zupa z ¿abich udek?
+9116	Tak, przyrz¹dza³em tak¹ w przesz³oœci. Ale teraz[ENTER]ju¿ jej nie robiê... Dawno temu nie obawia³em siê[ENTER]dzikich zwierz¹t i potworów. I dziêki temu mog³em[ENTER]bez problemu zdobyæ ¿abie udka.
+9117	Ale teraz... teraz jestem do tego za stary i[ENTER]zmêczony. Dziêki tej zupie, móg³bym odzyskaæ[ENTER]energiê. Ale ¿aby nie s¹ ³atwym celem. Jeœli[ENTER]dostarczysz mi ¿abie udka na zupê, przygotujê ci[ENTER]najlepsz¹ zupê z ¿abich udek na œwiecie.
+9118	Pewnie, ¿e to zrobiê.
+9120	Nie, nie mogê tego zobiæ.
 9119	Jak siê masz?
-9121	Czy chcesz na zawsze zrezygnowaæ z zadania?
-9122	Jesteœ zajêty? Wróæ gdy zmienisz zdanie.
-9123	Moja zupa nie jest dobrze znana. Gdybyœ j¹ zna³,[ENTER]na pewno byœ mi pomóg³. Ech, ¿egnaj.
-9124	Wiêc œpiesz siê. Przygotujê wszystko na Zupê z[ENTER]Tylnych Nóg ¯ab.
-9125	Otrzyma³eœ ¯abie Udka
+9121	Czy na pewno chcesz zrezygnowaæ na zawsze z tej[ENTER]misji?
+9122	Nie masz czasu? Wróæ, gdy zmienisz zdanie.
+9123	Moja zupa nie jest zbyt znana.[ENTER]Ale gdybyœ wiedzia³ jak smakuje, na pewno byœ mi[ENTER]pomóg³. No dobrze, ¿egnaj.
+9124	Wiêc œpiesz siê. Przygotujê ju¿ wszystko na zupê.
+9125	¯abie Udka
 9126	Octavio
 9127	Zdob¹dŸ ¯abie Udka
-9128	Otrzyma³eœ ogromne ¯abie Udko.[ENTER]Wróæ do Octavio.
+9128	Uda³o ci siê zdobyæ ogromne ¿abie udko.[ENTER]Wróæ do Octavio.
 9129	Zabij Drzewnego ¯abiego Przywódce
-9131	Octavio potrzebuje ¯abie Udka, aby sporz¹dziæ[ENTER]zupê. Mo¿esz je zdobyæ poluj¹c na Drzewnego[ENTER]¯abiego Przywódce w Œwi¹tyni Hwang.
+9131	Octavio potrzebuje ¿abie udka, aby ugotowaæ zupê.[ENTER]Mo¿esz je zdobyæ poluj¹c na Drzewnego ¯abiego[ENTER]Przywódce w Œwi¹tyni Hwang.
 9130	Dozorca:
 9132	Nie mogê teraz tego zrobiæ.
-9133	o jest? Gdy by³em w twoim wieku dostarcza³em 10[ENTER]¯abich Udek dziennie.
+9133	Co z tob¹?[ENTER]Gdy by³em w twoim wieku dostarcza³em dziennie 10[ENTER]¿abich udek.
 9134	Spróbuj ponownie
-9135	Jesteœ zmêczony?[ENTER]Mo¿e zrobisz sobie przerwê i spróbujesz póŸniej?
-9136	Bardzo by mi siê przyda³a Zupa z ¯abich Udek. Nic[ENTER]z tego jednak najwidoczniej nie bêdzie. Szkoda.[ENTER]Na razie!
+9135	Jesteœ ju¿ zmêczony? Mo¿e zrobisz sobie przerwê i[ENTER]spróbujesz póŸniej?
+9136	Bardzo by mi siê przyda³a zupa z ¿abich udek. Nic[ENTER]z tego jednak najwidoczniej nie bêdzie. Szkoda.[ENTER]Do zobaczenia!
 9137	To nie stój tutaj jak ko³ek tylko ruszaj! Woda[ENTER]ju¿ siê gotuje i wszystko jest gotowe!
 9138	IdŸ do Octavio
-9139	No, to jest ¯abie Udko ¿e hej! Za moich czasów[ENTER]by³y one nieco mniejsze. Ale te tutaj te¿ zapewne[ENTER]smakuje. Poczekaj chwilê... To ju¿ nieŸle[ENTER]pachnie. Jeszcze szczypta soli... Ha! Oto Twoja[ENTER]porcja. Ha ha ha, teraz mam znowu wystarczaj¹co[ENTER]du¿o si³y na ca³y tydzieñ pracy!
-9140	Upewnij siê, ¿e nikt nie dowie o tej siê o[ENTER]istnieniu tej Zupy. Mam tu na myœli szczególnie[ENTER]Dozorcê... Bardzo rzadko robiê t¹ Zupê. Jeœli nie[ENTER]zachowasz tego w tajemnicy, to wszyscy bêd¹[ENTER]chcieli jej spróbowaæ.
-9142	Otrzymujesz 5.000.000 Punktów Doœwiadczenia.
-9141	Ostatnio nie czujê siê najlepiej. Moje cia³o nie[ENTER]jest ju¿ tym, czym kiedyœ by³o. Gdy by³em m³ody[ENTER]mog³em pracowaæ do póŸna w nocy i to codziennie.[ENTER]A przy tym jeszcze piæ alkohol. Ale teraz ledwo[ENTER]co potrafiê wstaæ rano z ³ó¿ka. Przyda³aby mi siê[ENTER]spora porcja Zupy z ¯abich Udek, aby znowu mieæ[ENTER]wystarczaj¹co energii.
-9143	Otrzymujesz 50.000 Yang.
-9144	Pomoc dla dozorcy
-9145	Pomoc dla dozorcy
+9139	No, to jest ¿abie udko ¿e hej! Za moich czasów[ENTER]by³y one nieco mniejsze. Ale to tutaj te¿ zapewne[ENTER]smakuje. Zaczekaj chwilê... To ju¿ nieŸle[ENTER]pachnie. Jeszcze szczypta soli... Gotowe! Oto[ENTER]twoja porcja. Hahaha, teraz mam znowu[ENTER]wystarczaj¹co du¿o si³y na ca³y tydzieñ pracy!
+9140	Proszê ciê, nie mów nikomu, ¿e ugotowa³em zupê.[ENTER]Mam tu na myœli szczególnie Dozorcê. On nie[ENTER]potrafi dotrzymaæ tajemnicy i jeœli inni dowiedz¹[ENTER]siê o niezwyk³ym dzia³aniu zupy, to nie bêdê mia³[ENTER]na nic czasu, bo ka¿dy bêdzie chcia³ spróbowaæ[ENTER]trochê zupy.
+9142	Otrzymujesz 5 000 000 punktów doœwiadczenia.
+9141	Ostatnio nie czujê siê najlepiej. Nie jestem ju¿[ENTER]taki silny, jak kiedyœ by³em. Za m³odu mog³em[ENTER]pracowaæ do póŸna w nocy i to codziennie. A przy[ENTER]tym jeszcze piæ alkohol. Ale teraz ledwo co[ENTER]potrafiê wstaæ rano z ³ó¿ka. Przyda³aby mi siê[ENTER]spora porcja zupy z ¿abich udek, aby znowu mieæ[ENTER]wystarczaj¹co energii.
+9143	Otrzymujesz 50 000 Yang.
+9144	Pomoc dla Dozorcy
+9145	Pomoc dla Dozorcy
 9146	Dozorca nie czuje siê najlepiej.
-9147	OdwiedŸ go, mo¿e potrafisz mu w jakiœ sposób[ENTER]pomóc.
-9148	Nie wiesz co to Zupa z ¯abich Udek? Gdy wypijesz[ENTER]jedn¹ miskê tej zupy, stajesz siê od razu bardzo[ENTER]rzeœki i rozpiera Ciê energia. Mo¿esz wtedy[ENTER]przepracowaæ ca³y tydzieñ nie odczuwaj¹c ¿adnego[ENTER]zmêczenia. Octavio zwyk³ przyrz¹dzaæ tê zupê. Ale[ENTER]z nieznanych mi powodów niedawno tego zaniecha³.
-9149	Pójdê porozmawiaæ z Octavio
+9147	OdwiedŸ go. Mo¿e potrafisz mu w jakiœ sposób[ENTER]pomóc?
+9148	Nie wiesz, jak smakuje zupa z ¿abich udek?[ENTER]Gdy wypijesz jedn¹ miskê tej zupy, stajesz siê od[ENTER]razu bardzo rzeœki i rozpiera ciê energia. Mo¿esz[ENTER]wtedy przepracowaæ ca³y tydzieñ nie odczuwaj¹c[ENTER]¿adnego zmêczenia! Octavio zwyk³ przyrz¹dzaæ tê[ENTER]zupê. Ale z nieznanych mi powodów niedawno tego[ENTER]zaniecha³.
+9149	Pójdê porozmawiaæ z Octavio.
 9150	Jestem zajêty.
-9151	Czy na zawsze chcesz zrezygnowaæ z zadania?
-9152	Ok, jeœli teraz jesteœ zajêty, wpadnij póŸniej[ENTER]jeœli chcesz.
+9151	Czy na pewno chcesz zrezygnowaæ na zawsze z tej[ENTER]misji?
+9152	Ok, jeœli teraz nie masz czasu, to wpadnij[ENTER]póŸniej, jeœli chcesz.
 9154	Powinien siê wstydziæ, ¿e jest takim kiepskim[ENTER]ojcem! Jeœli go znajdê, to po³amiê mu wszystkie[ENTER]koœci![ENTER]Wierz mi, wiem co mówiê. Popytaj siê innych[ENTER]mieszkañców wioski, na pewno potwierdz¹ moje[ENTER]s³owa.
 9153	Soon
 9155	Handlarka Ró¿noœci
@@ -11109,116 +11224,116 @@
 9265	Dlaczego siê wahasz? Wróæ, gdy bêdziesz gotów[ENTER]zaj¹æ siê górnictwem.
 9266	Nie wymagam przecie¿ za du¿o, tylko trochê rudy.[ENTER]Ale, jak uwa¿asz. Wynocha!
 9267	Pomo¿esz mi znowu? Jesteœ dobrym przyjacielem.[ENTER]I nie martw siê, pierwsza zbroja nale¿y do ciebie!
-9269	Dochodzenie
-9268	Wybierz Handlarza
+9269	Zapytanie Handlarza
+9268	Wybierz handlarza
 9270	IdŸ do Ah-Yu
-9271	IdŸ do Handlarki Ró¿noœci.
-9272	Materia³y dla Handlarza
-9273	Domokr¹¿ca potrzebuje kilka materia³ów na[ENTER]naszyjnik. Zdob¹dŸ dla niego 100 K³ów Elitarnych[ENTER]Orków Czarodziei, klejnot od Handlarki Ró¿noœci[ENTER]oraz Nici od Ariyoung.
-9274	Potrzebujê Nici.
-9275	Zrobienie Nici to dosyæ prosta sprawa. Jednak[ENTER]wtedy nie bêdê w stanie wykonywaæ swojej pracy.[ENTER]Dzisiaj ³ata³am porwane ubrania Ah-Yu i w³aœnie[ENTER]chcia³am je jej zanieœæ...
-9276	A co Ty na to: Ty zaniesiesz Ah-Yu jej ubrania, a[ENTER]ja w miêdzyczasie zrobiê dla Ciebie Nici. Zgoda?
-9277	Czy na pewno chcesz siê poddaæ?
-9278	To naprawdê niedaleko. Dlaczego nadal siê wahasz?[ENTER]PrzyjdŸ ponownie, jak bêdziesz gotów.
-9280	Och, mia³am tak¹ nadziejê, ¿e znajdziesz czas. W[ENTER]takim razie muszê sama to zrobiæ. Bywaj!
+9271	IdŸ do Handlarki Ró¿noœci
+9272	Materia³y dla handlarza
+9273	Domokr¹¿ca potrzebuje kilka materia³ów na[ENTER]naszyjnik. Dostarcz mu 100 k³ów elitarnych Orków[ENTER]Czarodziei, klejnot od Handlarki Ró¿noœci oraz[ENTER]nici od Ariyoung.
+9274	Potrzebujê nici.
+9275	Sporz¹dzenie nici to dosyæ prosta sprawa.[ENTER]Jednak wtedy nie bêdê w stanie wykonywaæ mojej[ENTER]innej pracy. Dzisiaj ³ata³am porwane ubrania[ENTER]Ah-Yu i w³aœnie chcia³am je jej zanieœæ...
+9276	A co ty na to? Ty zaniesiesz Ah-Yu jej ubrania, a[ENTER]ja w miêdzyczasie zrobiê dla ciebie nici. Zgoda?
+9277	Czy naprawdê chcesz zrezygnowaæ?
+9278	To naprawdê niedaleko. Dlaczego nadal siê wahasz?[ENTER]Wróæ, gdy bêdziesz gotów.
+9280	Och, mia³am nadziejê, ¿e znajdziesz czas. W takim[ENTER]razie muszê sama to zrobiæ. ¯egnaj!
 9279	Co siê tyczy naszyjników...
-9281	Wspaniale, bardzo Ci dziêkujê! Pozdrów ode mnie[ENTER]Ah-Yu i uwa¿aj, aby nie po drodze nie pognieœæ[ENTER]jej ubrañ! Czekam tutaj na Ciebie.
+9281	Wspaniale, bardzo ci dziêkujê! Pozdrów ode mnie[ENTER]Ah-Yu i uwa¿aj, aby po drodze nie pognieœæ jej[ENTER]ubrañ! Czekam tutaj na ciebie.
 9282	Ariyoung:
-9283	Gdy wrócisz z s¹siedniej wioski, twoje Nici bêd¹[ENTER]ju¿ gotowe. Pamiêta³eœ o dostarczeniu Ah-Yu jej[ENTER]ubrañ, prawda? Wziê³aby mi to za z³e...
-9284	Ah-Yu jest zadowolona ze swoich Ubrañ?[ENTER]W takim wypadku dobrze by³o ciê¿ko popracowaæ.[ENTER]Oto twoje Nici. S¹ to bardzo mocne Nici, mo¿na je[ENTER]wykorzystaæ do wielu rzeczy.
-9285	Przecie¿ da³am Ci ju¿ Nici. Czy¿byœ je zgubi³?
-9286	Ariyoung przysy³a Tobie te ubrania.
+9283	Gdy wrócisz z s¹siedniej wioski, twoje nici bêd¹[ENTER]ju¿ gotowe. Nie zapomina³eœ dostarczyæ Ah-Yu jej[ENTER]ubrañ, prawda?[ENTER]Mia³aby za to do mnie ¿al.
+9284	Czy Ah-Yu jest zadowolona ze swoich ubrañ? W[ENTER]takim razie warto by³o tak ciê¿ko pracowaæ. Oto[ENTER]twoje nici. To mocne nici i mo¿na je wykorzystaæ[ENTER]do wielu rzeczy. Na razie!
+9285	Przecie¿ da³am ci ju¿ nici. Czy¿byœ je zgubi³?
+9286	Ariyoung przysy³a tobie te ubrania.
 9287	Ah-Yu:
 9288	Ach, wspaniale. Posz³o to naprawdê szybko. O[ENTER]dobr¹ przyjaŸñ trzeba dbaæ, prawda? A my czêsto[ENTER]sobie nawzajem pomagamy...[ENTER]Dziêkujê, ¿e przynios³eœ mi ubrania.[ENTER]Przeka¿ Ariyoung ode mnie pozdrowienia.
-9289	Potrzebujê Ozdobnego Diamentu.
-9291	Szukasz Ozdobnego Diamentu? Mogê Ci go daæ, jeœli[ENTER]mi trochê pomo¿esz. W tym momencie pracuje nad[ENTER]lekiem na ból, ale brakuje mi jednego sk³adnika.[ENTER]Do leku potrzebujê W¹troby Tygrysów. S¹ one[ENTER]ciê¿kie do zdobycia a potrzebuje a¿ 100 sztuk.
-9290	Nam, Domokr¹¿com, nie jest ³atwo podczas wojny.[ENTER]Co prawda wszêdzie brakuje towarów, ale[ENTER]zapotrzebowanie zmienia siê tak szybko, ¿e nigdy[ENTER]nie wiem, w co siê mam zaopatrzyæ. Nie wspomnê[ENTER]nawet o d³ugich przeprawach przez puszczê, gdzie[ENTER]na ka¿dym kroku jakiœ potwór czyha na[ENTER]nieostro¿nych wêdrowców. A mo¿e Ty chcia³byœ[ENTER]zarobiæ parê Yang? Przyda³aby siê mi twoja pomoc.
-9292	Poza tym potrzebuje jeszcze specjalne zio³a z[ENTER]uzdrawiaj¹cymi w³aœciwoœciami. Je równie¿[ENTER]zdobêdziesz od Tygrysów, które lubi¹ siê w nich[ENTER]tarzaæ, poniewa¿ uwielbiaj¹ ich zapach. W zamian[ENTER]za te Zio³a Lecznicze i W¹troby Tygrysów[ENTER]dostaniesz Ozdobny Diament.
+9289	Potrzebujê klejnotu.
+9291	Szukasz bi¿uterii?[ENTER]Mogê ci daæ klejnot, jeœli mi trochê pomo¿esz.[ENTER]Aktualnie pracujê nad specjalnym lekiem na ból,[ENTER]ale brakuje mi jednego sk³adnika, a mianowicie[ENTER]w¹troby tygrysa. Ciê¿ko j¹ zdobyæ. Potrzebujê a¿[ENTER]100 sztuk.
+9290	My, Domokr¹¿cy, nie mamy ³atwego ¿ycia podczas[ENTER]wojny. Co prawda wszêdzie brakuje towarów, ale[ENTER]zapotrzebowanie zmienia siê tak szybko, ¿e nigdy[ENTER]nie wiem, w co siê mam zaopatrzyæ. Nie wspomnê[ENTER]nawet o d³ugich przeprawach przez puszczê, gdzie[ENTER]na ka¿dym kroku czyhaj¹ potwory na nieostro¿nych[ENTER]wêdrowców. A mo¿e ty chcia³byœ zarobiæ parê Yang?[ENTER]Przyda³aby siê mi twoja pomoc.
+9292	Poza tym potrzebujê jeszcze specjalnych zió³ o[ENTER]uzdrawiaj¹cych w³aœciwoœciach. Je mo¿na zdobyæ[ENTER]równie¿ od tygrysów. Ona lubi¹ siê w nich tarzaæ,[ENTER]poniewa¿ uwielbiaj¹ ich zapach. W zamian za te[ENTER]zio³a i w¹troby tygrysów otrzymasz ode mnie[ENTER]klejnot.
 9293	Poluj na Tygrysy lub Bia³e Tygrysy.
-9294	Co Ty na to? Ubijemy interes?
-9295	Czy moje zadanie jest dla Ciebie za trudne? Nie[ENTER]wierzê! PrzyjdŸ ponownie, jak zmienisz zdanie.
-9296	Przeby³eœ dla Handlarza taki kawa³ drogi a teraz[ENTER]siê poddajesz? Jak chcesz...[ENTER]Mi³ego dnia ¿yczê.
+9294	Co ty na to? Ubijemy interes?
+9295	Czy moje zadanie jest dla ciebie za trudne? Nie[ENTER]wierzê! PrzyjdŸ ponownie, jak zmienisz zdanie.
+9296	Przeby³eœ dla handlarza taki kawa³ drogi, a teraz[ENTER]rezygnujesz? Jak chcesz...[ENTER]Mi³ego dnia ¿yczê.
 9297	Wspaniale. Oboje na tym skorzystamy, prawda?[ENTER]Dziêkujê i powodzenia!
-9298	Otrzymam teraz Ozdobny Diament?
-9299	Niech no zerknê... 100 W¹trób Tygrysów i Zio³a[ENTER]Lecznicze, wszystko siê zgadza. Dziêkujê Ci[ENTER]bardzo! Proszê, zas³u¿y³eœ sobie na ten Ozdobny[ENTER]Diament. Na razie!
+9298	Otrzymam teraz klejnot?
+9299	Niech no zerknê... 100 w¹trób tygrysa i zio³a[ENTER]lecznicze... Wszystko siê zgadza. Dziêkujê ci[ENTER]bardzo![ENTER]Proszê weŸ, zas³u¿y³eœ sobie na ten klejnot. Na[ENTER]razie!
 9300	Wróæ do Domokr¹¿cy
-9302	Wróæ do Domokr¹¿cy.
-9301	Naszyjniki z K³ów Orka s¹ obecnie bardzo[ENTER]po¿¹danym towarem. K³y Orków s¹ du¿e i twarde i[ENTER]doskonale nadaj¹ siê na tworzenie najró¿niejszych[ENTER]ozdób. K³y Orków Czarodziei s¹ poza tym u¿ywane[ENTER]przez ¿o³nierzy jako talizmany. Móg³byœ je dla[ENTER]mnie zdobyæ? 100 powinno wystarczyæ, na pocz¹tek.
+9302	Wróæ do Domokr¹¿cy
+9301	Naszyjniki z k³ów orków s¹ obecnie bardzo[ENTER]po¿¹danym towarem. K³y orków s¹ du¿e i twarde i[ENTER]doskonale nadaj¹ siê na tworzenie najró¿niejszych[ENTER]ozdób. K³y Orków Czarodziei s¹ poza tym u¿ywane[ENTER]przez ¿o³nierzy jako talizmany. Móg³byœ je dla[ENTER]mnie zdobyæ? Na pocz¹tek powinno wystarczyæ 100[ENTER]szt.
 9303	Wróæ do Domokr¹¿cy
 9304	Nareszcie znalaz³eœ wszystkie materia³y na[ENTER]naszyjnik. Zanieœ je Domokr¹¿cy.
-9305	Mam wszystkie Materia³y
+9305	Mam wszystkie materia³y.
 9306	Domokr¹¿ca:
-9307	Uda³o Ci siê zdobyæ wszystkie materia³y? Poka¿[ENTER]no... Rzeczywiœcie, wszystko jest. Dziêki twojej[ENTER]pomocy mogê poszerzyæ swoj¹ ofertê, wspaniale![ENTER]Oto twoja dzia³ka. Niechaj Ci dobrze pos³u¿y![ENTER]Do mnie ludzie, do mnie! Dla ka¿dego coœ dobrego!
-9308	Otrzyma³eœ 1.100.000 Punktów Doœwiadczenia.
-9309	Otrzyma³eœ Z³ot¹ Bransoletê, Z³oty Naszyjnik i[ENTER]Z³ote Kolczyki.
+9307	Uda³o ci siê zdobyæ wszystkie materia³y? Poka¿[ENTER]no...[ENTER]Rzeczywiœcie, wszystko jest. Dziêki twojej pomocy[ENTER]mogê poszerzyæ swoj¹ ofertê, wspaniale![ENTER]Oto twoja dzia³ka. Niechaj ci dobrze pos³u¿y![ENTER]Do mnie ludzie, do mnie! Dla ka¿dego coœ dobrego!
+9308	Otrzymujesz 1 100 000 punktów doœwiadczenia.
+9309	Otrzymujesz z³ot¹ bransoletê, z³oty naszyjnik i[ENTER]z³ote kolczyki.
 9310	Hmm, przykro mi, ale nadal czegoœ brakuje.[ENTER]Niekompletnych dostaw nie przyjmujê. Bêdziesz[ENTER]nadal próbowa³?
-9311	Czy na zawsze chcesz zrezygnowaæ z zadania?
-9313	Dziêkujê, ¿e tak ³atwo siê nie poddajesz.[ENTER]Szczêœcie sprzyja tym, którzy siê staraj¹! Bêdê[ENTER]czeka³ na Ciebie tutaj.
-9312	Potrzebujê jeszcze Ozdobny Diament oraz Nici.[ENTER]Diament otrzymasz od Handlarki Ró¿noœciami, Nici[ENTER]od Ariyoung. Zdobycie tylu ró¿nych rzeczy nie[ENTER]jest proste, ale sprzeda¿ Naszyjników jest bardzo[ENTER]op³acalna, a na Ciebie czeka oczywiœcie hojna[ENTER]nagroda. Co Ty na to, zainteresowany?
-9314	Czy¿by te zadanie Ciê przerasta³o? No có¿,[ENTER]przynajmniej spróbowa³eœ. Gdybym w przysz³oœci[ENTER]mia³ dla Ciebie coœ prostszego, to dam Ci znaæ.[ENTER]Bywaj.
-9315	Spróbujesz ponownie? Dziêkujê.[ENTER]Bêdê na Ciebie czekaæ.
+9311	Czy na pewno chcesz zrezygnowaæ z tej misji?
+9313	Dziêkujê, ¿e tak ³atwo siê nie poddajesz.[ENTER]Szczêœcie sprzyja tym, którzy siê staraj¹! Czekam[ENTER]tutaj na ciebie.
+9312	Potrzebujê jeszcze klejnotu oraz nici. Klejnot[ENTER]otrzymasz od Handlarki Ró¿noœci, nici od[ENTER]Ariyoung.[ENTER]Zdobycie tylu ró¿nych rzeczy nie jest proste, ale[ENTER]sprzeda¿ naszyjników jest bardzo op³acalna, a na[ENTER]ciebie czeka oczywiœcie hojna nagroda. Co ty na[ENTER]to, jesteœ zainteresowany?
+9314	Czy¿by te zadanie ciê przerasta³o? No có¿,[ENTER]przynajmniej spróbowa³eœ. Gdybym w przysz³oœci[ENTER]mia³ dla ciebie coœ prostszego, to dam ci znaæ.[ENTER]¯egnaj.
+9315	Spróbujesz jeszcze raz? Dziêkujê.[ENTER]Bêdê na ciebie tutaj czekaæ.
 9316	Zresetuj
 9317	Misja zostanie zresetowana. Czy chcesz[ENTER]kontynuowaæ?
-9318	Zapytanie handlarza
-9319	Zapytanie handlarza
-9320	Domokr¹¿ca ma dla ciebie zadanie. Odszukaj go i[ENTER]dowiedz siê czego wiêcej na ten temat!
+9318	Zapytanie Handlarza
+9319	Zapytanie Handlarza
+9320	Domokr¹¿ca ma dla ciebie zadanie. Odszukaj go, by[ENTER]dowiedzieæ siê czegoœ wiêcej!
 9321	Otwórz sklep
-9322	Czy chcesz na zawsze zrezygnowaæ z zadania?
-9323	Jesteœ zajêty? Nie ma sprawy, rozumiem.[ENTER]Ale przyjdŸ proszê ponownie, jak tylko znajdziesz[ENTER]czas.
-9324	Ach jej, i jak ja mam teraz wykonaæ swoje[ENTER]zlecenia? Na razie!
-9325	Cudownie. Bêdê tu na Ciebie czekaæ.
-9327	ZnajdŸ Mapê Skarbów
-9326	IdŸ do Mola Ksi¹¿kowego.
-9328	Przepêdzi³eœ Bogów Zwierz¹t z miasta i odnalaz³eœ[ENTER]wszystkie 4 czêœci Mapy Skarbów. Zanieœ je do[ENTER]Soon.
-9329	Polowanie na Bogów Zwierz¹t
-9330	Zbierz dla Soon wszystkie 4 czêœci Mapy Skarbów.[ENTER]Mo¿esz tego dokonaæ poluj¹c na Bogów Zwierz¹t:[ENTER]Lykosa, Scrofy, Bery i Tigrisa.
-9331	(Znalezione czêœci Mapy: %s)
+9322	Czy na pewno chcesz zrezygnowaæ z tej misji?
+9323	Jesteœ zajêty? Nie ma sprawy, rozumiem.[ENTER]Ale wróæ, gdy tylko znajdziesz czas.
+9324	Ojej, ale jak mam wykonaæ moje zdania? Na razie!
+9325	Cudownie. Bêdê na ciebie tutaj czekaæ.
+9327	Znaleziono mapê skarbów
+9326	IdŸ do mola ksi¹¿kowego.
+9328	Uda³o ci siê przepêdziæ bóstwa zwierz¹t z miasta[ENTER]i odnaleŸæ wszystkie 4 czêœci mapy skarbów.[ENTER]Zanieœ je do Soona.
+9329	Polowanie na bóstwa zwierz¹t
+9330	Zbierz dla Soona wszystkie 4 czêœci mapy skarbów.[ENTER]Mo¿esz tego dokonaæ poluj¹c na bóstwa zwierz¹t:[ENTER]Lykosa, Scrofy, Bery i Tigrisa.
+9331	(Znalezione czêœci mapy: %s)
 9332	Mapa Skarbów
-9333	Znalaz³eœ wszystkie czêœci!
-9334	Wróæ do Soon i powiedz mu, ¿e odnalaz³eœ[ENTER]wszystkie czêœci Mapy Skarbów.
+9333	Uda³o ci siê znaleŸæ wszystkie czêœci
+9334	Wróæ do Soona i powiedz mu, ¿e uda³o ci siê[ENTER]odnaleŸæ wszystkie czêœci mapy skarbów.
 9335	Mam wszystkie czêœci mapy.
-9336	Och! Fantastycznie! Wreszcie mam wszystkie[ENTER]czêœci. Nawet o tym nie œni³em... Teraz po³¹czê[ENTER]czêœci w jedn¹ ca³oœæ...dobrze...
-9337	Hmm...dziwne. Mapa pokazuje, ¿e skarb jest ukryty[ENTER]przy ska³ach, w pobli¿u Staruszka. Jakoœ nie chce[ENTER]mi siê w to wierzyæ. Hmm, to by by³o za proste.[ENTER]Wydaje mi siê, ¿e to jakiœ dowcip. Chcesz[ENTER]sprawdziæ, czy mam spaliæ mapê?
+9336	Och! Fantastycznie! Wreszcie wszystkie czêœci...[ENTER]Nawet o tym nie œni³em.[ENTER]A teraz po³¹czê czêœci w jedn¹ ca³oœæ...
+9337	Hmm... dziwne. Mapa pokazuje, ¿e skarb jest[ENTER]ukryty przy ska³ach w pobli¿u staruszka.[ENTER]Jakoœ nie chce mi siê w to wierzyæ.[ENTER]Hmm, to by by³o za proste. Wydaje mi siê, ¿e to[ENTER]jakiœ dowcip. Chcesz sprawdziæ, czy mam spaliæ[ENTER]mapê?
 9339	Sprawdzê.
-9338	Z powodu Mapy Skarbów...
+9338	Z powodu mapy skarbów...
 9340	Spal j¹.
-9341	Jesteœ pewny, ¿e nie potrzebujesz mapy?
-9342	Tak, to bardzo g³upia historyjka! Przykro mi, ¿e[ENTER]Ciê w to wpl¹ta³em i wys³a³em na poszukiwanie[ENTER]czêœci mapy. Spalê wszystko, aby nikt inny nie[ENTER]da³ siê nabraæ. To wszystko. ¯egnaj.
-9343	Dlaczego siê wahasz? Ju¿ zebra³eœ czêœci Mapy,[ENTER]wiêc idŸ i sprawdŸ. Proszê, zabierze ze sob¹[ENTER]Mapê.
-9344	Jak chcesz. To bêdzie wielka niespodzianka, jeœli[ENTER]coœ znajdziesz, ale i tak ¿yczê Ci powodzenia![ENTER]Nie zapomnij Mapy!
+9341	Na pewno nie potrzebujesz tej mapy?
+9342	Tak, to bardzo g³upia historyjka![ENTER]Przykro mi, ¿e ciê w to wpl¹ta³em i wys³a³em na[ENTER]poszukiwanie czêœci mapy. Spalê je, aby nikt inny[ENTER]nie da³ siê nabraæ. W ka¿dym razie dziêkujê.[ENTER]¯egnaj!
+9343	Dlaczego siê wahasz? Uda³o ci siê zdobyæ czêœci[ENTER]mapy, wiêc idŸ i sprawdŸ. Proszê, zabierze ze[ENTER]sob¹ mapê.
+9344	Jak chcesz. To bêdzie dla mnie wielka[ENTER]niespodzianka, jeœli coœ znajdziesz, ale i tak[ENTER]¿yczê ci powodzenia! Proszê, zabierze ze sob¹[ENTER]mapê.
 9345	Mapa zosta³a podzielona na cztery czêœci.[ENTER]Potrzebujemy wszystkie czêœci, by j¹ z³o¿yæ w[ENTER]ca³oœæ.
 9346	Spróbuj ponownie.
 9347	Poddajesz siê? Och, wiêc tak musi byæ. ¯egnaj.
-9348	Wiedzia³em, ¿e siê nie poddasz.[ENTER]Wierzê w Ciebie! 
-9350	Ska³a przy Staruszku
-9349	Witaj! Znalaz³em dziwne informacje o tym, ¿e[ENTER]gdzieœ w naszej wiosce mog¹ byæ ukryte Mapy[ENTER]Skarbów. Czy znasz bogów chroni¹cych miasto? Bóg[ENTER]Pies, Bóg Tygrys, Bóg NiedŸwiedŸ i Bóg Œwinia.
-9351	Poszukiwanie Skarbu...
-9352	Hmm, pod kamieniem blisko Staruszka...[ENTER]Nie mam pojêcia. Powinienem najpierw zapytaæ[ENTER]Staruszka. Dlaczego to jest tak daleko? Cholera!
+9348	Wiedzia³em, ¿e siê nie poddasz. Ufam[ENTER]ci! 
+9350	Ska³a przy staruszku
+9349	Witaj! odkry³em w starych pismach dziwne[ENTER]informacje. Podobno, gdzieœ w tej wiosce ukryte[ENTER]s¹ mapy skarbów. Czy znasz bóstwa zwierz¹t -[ENTER]bóstwo psa, bóstwo tygrysa, bóstwo niedŸwiedzia i[ENTER]bóstwo œwini - chroni¹ce miasto?
+9351	Poszukiwanie skarbu
+9352	Hmm, pod ska³¹ przy staruszku...[ENTER]Nie mam pojêcia. Muszê najpierw zapytaæ[ENTER]staruszka. Dlaczego to jest tak daleko? Cholera!
 9353	Staruszek:
-9354	Czego szukasz? Skarbu? Mo¿esz d³ugo szukaæ! Poka¿[ENTER]mapê... Hm, to musi byæ tam. Powodzenia,[ENTER]hahaha...
-9355	To musi byæ to miejsce. Cholera, ziemia w tym[ENTER]miejscu jest wyj¹tkowo twarda. Hmm...[ENTER][ENTER]Hey, widzê jak¹œ Skrzynkê!
-9356	Skarb naprawdê istnieje!
-9357	Powrót do Soon
-9358	Kopa³eœ w miejscu oznaczonym na Mapie Bogów[ENTER]Zwierz¹t i rzeczywiœcie znalaz³eœ Szkatu³ê! Udaj[ENTER]siê do Soon i opowiedz mu o tym nieoczekiwanym[ENTER]sukcesie.
-9359	Znalaz³em Skarb!
-9361	Och! To Ci niespodzianka! Poka¿... Niesamowite.[ENTER]Dok³adnie tak by³a opisywana Szkatu³ka w starych[ENTER]ksiêgach. Teraz muszê jeszcze dowiedzieæ siê, jak[ENTER]j¹ otworzyæ. Ale to ju¿ nie Twoje zmartwienie.[ENTER]Dziêki! Proszê, weŸ to na znak mojej wdziêcznoœci.
-9360	Cztery boskie stworzenia podzieli³y Mapê na[ENTER]cztery czêœci i teraz ich strzeg¹. To naprawdê[ENTER]stara historia, wiêc nie jestem pewien czy to[ENTER]prawda... Co ty na to, ¿eby poszukaæ jakiegoœ[ENTER]dowodu? Proszê. Nie wytrzymam tej niepewnoœci...[ENTER]Pomó¿ mi!
-9362	Otrzyma³eœ 1.400.000 Punktów Doœwiadczenia.
-9363	Otrzyma³eœ 25.000 Yang.
-9364	Otrzyma³eœ Upiorn¹ Maskê+1.
-9365	Otrzyma³eœ Zamkowy He³m+1.
-9366	Otrzyma³eœ Stalow¹ Maskê+1.
-9367	Otrzyma³eœ Œwietlist¹ Czapkê+1.
+9354	Czego szukasz? Skarbu? Mo¿esz d³ugo szukaæ! Poka¿[ENTER]mapê...[ENTER]Hm, to musi byæ tam. Powodzenia, hahaha...
+9355	To musi byæ to miejsce. I raz... i dwa...[ENTER]Cholera, ziemia w tym miejscu jest wyj¹tkowo[ENTER]twarda. Hmm...[ENTER][ENTER]Hej, widzê jak¹œ skrzynkê!
+9356	Skarb Naprawdê Istnieje!
+9357	Powrót do Soona
+9358	Kopa³eœ w miejscu oznaczonym na mapie bóstw[ENTER]zwierz¹t i rzeczywiœcie uda³o ci siê znaleŸæ[ENTER]szkatu³kê! Udaj siê do Soona i opowiedz mu o tym[ENTER]nieoczekiwanym sukcesie.
+9359	Znalaz³em skarb!
+9361	Och! To ci niespodzianka! Poka¿...[ENTER]Niesamowite. Dok³adnie tak by³a opisywana[ENTER]szkatu³ka w starych ksiêgach. Teraz muszê jeszcze[ENTER]dowiedzieæ siê, jak j¹ otworzyæ.[ENTER]Ale to ju¿ nie twoje zmartwienie. Dziêki! Proszê,[ENTER]weŸ to na znak mojej wdziêcznoœci.
+9360	Cztery boskie potwory podzieli³y mapê na cztery[ENTER]czêœci i teraz ich strzeg¹. Nie wiem, czy to[ENTER]prawda. SprawdŸ, czy to siê zgadza. Nie wytrzymam[ENTER]tej niepewnoœci... B³agam ciê, pomó¿ mi!
+9362	Otrzymujesz 1 400 000 punktów doœwiadczenia.
+9363	Otrzymujesz 25 000 Yang.
+9364	Otrzymujesz upiorn¹ maskê+1.
+9365	Otrzymujesz zamkowy he³m+1.
+9366	Otrzymujesz stalow¹ maskê+1.
+9367	Otrzymujesz œwietlist¹ czapkê+1.
 9368	No i gdzie on jest? Stroisz sobie ze mnie ¿arty?[ENTER]Jeszcze go nie znalaz³eœ, prawda?
-9369	Mapa skarbów mola ksi¹¿kowego
+9369	Mapa Skarbów Mola Ksi¹¿kowego
 9370	Mapa skarbów mola ksi¹¿kowego
 9372	Soon powiedzia³, ¿e ma dla ciebie wa¿ne[ENTER]informacje.
-9371	Niezainteresowany starymi Mapami Skarbów? Jesteœ[ENTER]jakiœ dziwny... Nadal bêdê szuka³ wskazówek w[ENTER]ksiêgach. Wróæ gdy zmienisz zdanie.
+9371	Nie jesteœ zainteresowany starymi mapami skarbów?[ENTER]Dziwny jesteœ... Nadal bêdê szuka³ wskazówek w[ENTER]ksiêgach. Wróæ gdy zmienisz zdanie.
 9373	IdŸ do niego, by dowiedzieæ siê czegoœ wiêcej.
-9374	Nie lubisz takich wyzwañ? Jak ja teraz zdobêdê[ENTER]czêœci tej tajemniczej Mapy?[ENTER][ENTER]Dobrze wiêc... do widzenia.
+9374	Nie lubisz takich wyzwañ? Jak ja mam teraz zdobyæ[ENTER]czêœci tej tajemniczej mapy?[ENTER]Jak chcesz. ¯egnaj.
 9375	Jesteœ prawdziwym przyjacielem. Ufam, ¿e j¹[ENTER]znajdziesz.
-9376	Mapa Skarbów.
-9377	IdŸ do Mola Ksi¹¿kowego.
+9376	Mapa Skarbów Mola Ksi¹¿kowego
+9377	IdŸ do mola ksi¹¿kowego.
 9379	Kapitan nie mo¿e poradziæ sobie z Gangiem[ENTER]Czarnego Wiatru.[ENTER]Zabij ich genera³ów: Jak-To, To-Su oraz Gu-Ryung.[ENTER]Mo¿e wtedy dadz¹ spokój.
 9378	I co z Gangiem Czarnego Wiatru?
 9380	Genera³owie nie ¿yj¹!
@@ -11247,245 +11362,245 @@
 9403	Zabij Genera³ów Gangu Czarnego Wiatru
 9405	Udaj siê do Stajennego
 9404	Yonah
-9406	Uzbiera³eœ 10 balotów siana. Zanieœ je[ENTER]Stajennemu, aby móg³ nakarmiæ konie.
-9407	Siano dla stajni
-9408	W stajniach brakuje pokarmu. Zdob¹dŸ 10 balotów[ENTER]siana i zanieœ je Stajennemu, zanim konie[ENTER]pozdychaj¹ z g³odu![ENTER]Siano mo¿esz zdobyæ podczas polowania.
-9409	Potrzebujesz Siana?
-9410	Przysy³a Ciê zapewne Yonah?[ENTER]Du¿o o Tobie s³ysza³em.[ENTER]Ach, nasze konie cierpi¹ z powodu niedo¿ywienia.[ENTER]Musimy zadbaæ, aby prze¿y³y. Pomó¿ mi i zdob¹dŸ[ENTER]Siano dla koni!
-9411	Obietnica to obietnica. Poza tym chcia³bym w[ENTER]przysz³oœci spróbowaæ jazdy konno. Koniecznie[ENTER]muszê znaleŸæ Siano!
-9412	Bardzo mi przykro. Staram siê, ale po prostu[ENTER]nigdzie nie ma Siana.
-9413	Poczekam i mam nadzieje, ¿e Ci siê uda.[ENTER]Nie jest fajnie zwalaæ na Ciebie moj¹ pracê.[ENTER]Ale, czy móg³byœ spróbowaæ jeszcze raz?[ENTER][ENTER]Znam pewn¹ osobê w innym Królestwie. Jest bardzo[ENTER]silny. Jak mi pomo¿esz, poproszê go aby pomóg³[ENTER]tobie.
+9406	Uda³o ci siê zebraæ 10 balotów siana.[ENTER]Dostarcz je Stajennemu, aby móg³ nakarmiæ konie.
+9407	Siano do stajni
+9408	W stajniach brakuje pokarmu.[ENTER]Zdob¹dŸ 10 balotów siana i zanieœ je Stajennemu,[ENTER]zanim konie pozdychaj¹ z g³odu![ENTER]Siano mo¿esz zdobyæ podczas polowania.
+9409	Potrzebujesz siana?
+9410	Przysy³a ciê zapewne Yonah?[ENTER]Du¿o o tobie s³ysza³em.[ENTER]Ach, nasze konie cierpi¹ z powodu niedo¿ywienia.[ENTER]Musimy zadbaæ o to, aby prze¿y³y. Pomó¿ mi i[ENTER]zdob¹dŸ siano dla koni!
+9411	Obietnicê trzeba dotrzymaæ.[ENTER]Poza tym chcia³bym w przysz³oœci spróbowaæ[ENTER]pojeŸdziæ konno. Koniecznie muszê znaleŸæ siano!
+9412	Przykro mi. Szukam równie¿, ale po prostu nigdzie[ENTER]nie ma siana.
+9413	Wiem, ¿e to nie jest mi³e z mojej strony, zwalaæ[ENTER]na ciebie mojej pracy. Ale mia³em nadziejê, ¿e ci[ENTER]siê to uda.[ENTER]Ale, czy móg³byœ spróbowaæ jeszcze raz? Znam[ENTER]pewn¹ osobê w innym królestwie. To wysoko[ENTER]postawiona osoba. Jak mi pomo¿esz, poproszê go,[ENTER]aby pomóg³ tobie.
 9414	Kontynuuj poszukiwania
-9416	Oczywiœcie, pomogê Ci. Nie mam tyle si³y.
-9415	Konie maj¹ k³opoty.
-9417	Nie mam tyle energii. Chcia³bym pomóc, ale nie[ENTER]mogê. Nie jestem doœæ silny.
-9418	Mam Siano dla koni.
-9419	Zdoby³eœ Siano? Och, dziêkujê.[ENTER]Brakowa³o pokarmu dla koni i powiedzia³em o tym[ENTER]Yonah. Jest on moim dobrym przyjacielem. Mia³em[ENTER]nadziejê, ¿e poprosi kogoœ o pomoc. Nie myœla³em[ENTER]jednak, ¿e pomoc ta nadejdzie tak prêdko. Spójrz[ENTER]tylko z jakim apetytem konie jedz¹!
-9420	Otrzyma³eœ 1.800.000 Punktów Doœwiadczenia.
+9416	Oczywiœcie, pomogê ci. Zobaczymy, co mogê dla[ENTER]ciebie zrobiæ.
+9415	Stajnie maj¹ k³opoty
+9417	Nie mam tyle energii.[ENTER]Chcê ci pomóc, ale nie mogê. Nie jestem doœæ[ENTER]silny.
+9418	Mam siano dla koni.
+9419	Uda³o ci siê zdobyæ siano? Och, dziêkujê.[ENTER]Brakowa³o pokarmu dla koni i powiedzia³em o tym[ENTER]Yonah. Jest on moim dobrym przyjacielem. Mia³em[ENTER]nadziejê, ¿e znajdzie on kogoœ i poprosi o pomoc.[ENTER]Nie myœla³em jednak, ¿e pomoc ta szybko[ENTER]nadejdzie. Spójrz tylko z jakim apetytem konie[ENTER]jedz¹!
+9420	Otrzymujesz 1 800 000 punktów doœwiadczenia.
 9421	Wróæ do Yonah
-9422	Wróæ do Yonah!
-9423	Dostarczy³eœ Stajennemu 10 balotów Siana dla[ENTER]g³odnych koni. Poinformuj Yonah o swoim sukcesie.
+9422	Wróæ do Yonah
+9423	Uda³o ci siê dostarczyæ Stajennemu 10 balotów[ENTER]siana dla g³odnych koni. Poinformuj Yonah o swoim[ENTER]sukcesie.
 9424	Konie s¹ nakarmione!
-9425	Witaj ponownie![ENTER]Znalezienie takiej iloœci Siana na pewno nie by³o[ENTER]³atwe. Dziêkujê, ¿e siê nie podda³eœ! Oto drobne[ENTER]wynagrodzenia dla Ciebie.
-9427	Otrzyma³eœ Ksiêgê Misji.
-9426	Hey, mam pytanie! Wiem, ¿e ktoœ inny jest[ENTER]odpowiedzialny za Konie, ale osoba ta ma du¿y[ENTER]problem... Konie s¹ bardzo wyczerpane przez[ENTER]wojnê. Jak wszystkie zwierzêta, one równie¿ musz¹[ENTER]coœ jeœæ...
-9428	Konie maj¹ k³opoty.
-9429	Konie maj¹ k³opoty.
+9425	Witaj![ENTER]Znalezienie takiej iloœci siana na pewno nie by³o[ENTER]³atwe. Dziêkujê, ¿e nie zrezygnowa³eœ![ENTER]Oto ma³y prezent dla ciebie.
+9427	Otrzymujesz ksiêgê misji.
+9426	Hej, mam pytanie do ciebie![ENTER]Wiem, ¿e ktoœ inny jest odpowiedzialny za konie,[ENTER]ale ostatnio mamy spore k³opoty i[ENTER]skorzystalibyœmy chêtnie z twojej pomocy. Podczas[ENTER]wojny konie s¹ nieodzownym towarzyszem ¿o³nierza,[ENTER]ale nawet wroœniêty i silny koñ ma swoje granice[ENTER]wytrzyma³oœci.
+9428	Stajnie Maj¹ K³opoty
+9429	Stajnie maj¹ k³opoty
 9430	Yonah chce ciê prosiæ o przys³ugê.
 9431	IdŸ do niego, aby dowiedzieæ siê szczegó³ów.
-9432	Jest du¿o koni, ale ma³o pokarmu. Du¿o koni[ENTER]umiera. Czy móg³byœ za³atwiæ jakieœ jedzenie dla[ENTER]nich? Tylko ty mo¿esz wype³niæ to zadanie. Zbierz[ENTER]10 porcji jedzenia dla koni i zanieœ je do[ENTER]Stajennego. On bêdzie wiedzia³ o co chodzi, gdy[ENTER]powiesz, ¿e to ja Ciê przys³a³em.
-9433	Wyruszam niezw³ocznie!
-9434	Nie, jest to praca poni¿ej mojej godnoœci.
-9435	Teraz coraz wiêcej ludzi chce jeŸdziæ konno.[ENTER]Jednak nie mo¿na w pe³ni rozwin¹æ hodowli koni z[ENTER]powodu niewystarczaj¹cej iloœci jedzenia.[ENTER]Konie g³oduj¹. Wróæ jeœli zmienisz zdanie.
-9436	Ahh, konie bêd¹ cierpieæ...[ENTER]Musisz siê z tym pogodziæ...
-9437	Wiem, ¿e jesteœ bardzo zajêty i doceniam twoj¹[ENTER]dotychczasow¹ pomoc, ale czy nie mo¿esz zrobiæ[ENTER]wyj¹tku? Konie s¹ teraz bardzo wa¿ne. No i[ENTER]naprawdê potrzebujemy Siana.
-9439	Yonah robi co mo¿e, aby produkowaæ now¹[ENTER]porcelanê, ale niestety stoi w miejscu ze swoimi[ENTER]doœwiadczeniami. Udaj siê do Uriela i zapytaj siê[ENTER]mo¿e on zna siê na Seledynowej Porcelanie.
-9438	Sekret Seledynowej Porcelany.
-9440	Wiesz coœ o Seledynowej Porcelanie?
+9432	Na szczêœcie posiadamy wystarczaj¹cy iloœæ koni,[ENTER]ale ma³o pokarmu. Dlatego umiera du¿o koni.[ENTER]Czy za³atwisz pokarm, by te wykoñczone konie[ENTER]nabra³y znowu si³?[ENTER]Nie znam nikogo, kto móg³by to zrobiæ... Zbierz[ENTER]10 balotów siana dla koni i zanieœ je do[ENTER]Stajennego. On bêdzie wiedzia³ o co chodzi.[ENTER]Powiedz mu, ¿e ja ciê przysy³am.
+9433	Ju¿ idê!
+9434	Nie. To praca poni¿ej mojej godnoœci.
+9435	Teraz coraz wiêcej ludzi chce posiadaæ konie. Ale[ENTER]nikt nie myœli o tym, ¿e coraz mniej jest paszy[ENTER]dla koni. I teraz g³oduj¹ one w stajniach. Wróæ,[ENTER]jeœli zmienisz zdanie.
+9436	Ojej, biedne konie! One g³oduj¹, a ja nic nie[ENTER]mogê na to poradziæ. Co ja mam zrobiæ...
+9437	Wiem, ¿e jesteœ bardzo zajêty i doceniam twoj¹[ENTER]pomoc. W dzisiejszych czasach konie s¹ bardzo[ENTER]wa¿ne.[ENTER]Pilnie potrzebujemy siana.
+9439	Yonah robi co mo¿e, aby produkowaæ now¹[ENTER]porcelanê, ale nie radzi sobie najlepiej ze[ENTER]swoimi eksperymentami. Udaj siê do Uriela i[ENTER]zapytaj siê go, czy zna siê na seledynowej[ENTER]porcelanie.
+9438	Sekret seledynowej porcelany
+9440	Wiesz coœ o seledynowej porcelanie?
 9441	Uriel:
-9442	Seledynowa Porcelana? Znam siê na historii i mam[ENTER]du¿y zasób wiedzy z fizyki, ale nie interesuje[ENTER]mnie sztuka. Nic Ci nie powiem o Seledynowej[ENTER]Porcelanie. Ale mo¿e Soon coœ wie... ja za nim[ENTER]nie przepadam... ale czyta on tak du¿o ró¿nych[ENTER]ksi¹¿ek... mo¿liwe, ¿e bêdzie coœ o niej[ENTER]wiedzia³.
-9443	IdŸ do Soon.
-9444	IdŸ do Soon
-9445	Uriel nie wie nic o Seledynowej Porcelanie, ale[ENTER]Mol Ksi¹¿kowy, Soon, jest bardzo oczytany. Udaj[ENTER]siê do niego i zapytaj siê, czy wie coœ na temat[ENTER]metod produkcji.
+9442	Seledynowa porcelana?[ENTER]Znam siê na historii i przedmiotach œcis³ych.[ENTER]Sztuk¹ siê jednak nie interesujê.[ENTER]Dlatego niestety nic nie mogê ci powiedzieæ o[ENTER]seledynowej porcelanie.[ENTER]Ale mo¿e Soon coœ na ten temat wie? Wprawdzie nie[ENTER]jest zbyt lubiany, ale czyta du¿o ró¿nych[ENTER]ksi¹¿ek.[ENTER]Mo¿liwe, ¿e bêdzie coœ o niej wiedzia³.
+9443	IdŸ do Soona
+9444	IdŸ dalej do Soona
+9445	Niestety Uriel nie wie nic o seledynowej[ENTER]porcelanie.[ENTER]Ale mol ksi¹¿kowy, Soon, jest bardzo oczytany.[ENTER]Udaj siê do niego i zapytaj siê, czy wie coœ na[ENTER]temat metod produkcji.
 9446	Soon:
-9447	Czego chcesz? Nie przeszkadzaj mi podczas[ENTER]czytania! Co? Seledynowa Porcelana? Pewnie, ¿e[ENTER]znam. Jakby nie by³o przeczyta³em tuzin ksi¹¿ek[ENTER]poœwiêconych porcelanie. Czemu pytasz? Nie bez[ENTER]powodu nazywaj¹ mnie Molem Ksi¹¿kowym! Wszystko[ENTER]doskonale rozumiem, co napisane jest w ksiêgach!
-9448	Znam na pamiêæ metody produkcji Seledynowej[ENTER]Porcelany, ale dlaczego mam Ci je wyjaœniæ? Hmm,[ENTER]poczekaj. Mam pomys³! Poprosi³em jednego[ENTER]Domokr¹¿cê z s¹siaduj¹cej wioski o ksi¹¿kê, któr¹[ENTER]potrzebujê, ale nie mam czasu sam j¹ odebraæ.[ENTER]Proszê, przynieœæ mi j¹, a pomogê Ci z porcelan¹.[ENTER]Ruszaj!
-9450	Udaj siê do Domokr¹¿cy.
+9447	Czego chcesz? Nie przeszkadzaj mi podczas[ENTER]czytania![ENTER]Co? Seledynowa porcelana? Pewnie, ¿e znam.[ENTER]Jakby nie by³o przeczyta³em tuzin ksi¹¿ek[ENTER]poœwiêconych porcelanie. Czemu pytasz? Nie bez[ENTER]powodu nazywaj¹ mnie molem ksi¹¿kowym! Wszystko[ENTER]doskonale rozumiem, co napisane jest w ksiêgach!
+9448	Znam na pamiêæ metody produkcji seledynowej[ENTER]porcelany, ale dlaczego mam ci je wyjaœniæ?[ENTER]Hmm, poczekaj. Mam pomys³! Poprosi³em jednego[ENTER]Domokr¹¿cê z s¹siaduj¹cej wioski o ksi¹¿kê, któr¹[ENTER]potrzebujê, ale nie mam czasu sam j¹ odebraæ.[ENTER]Proszê, przynieœæ mi j¹, a pomogê ci z porcelan¹.[ENTER]Ruszaj!
+9450	Do Domokr¹¿cy
 9449	Yonah:
 9451	IdŸ do Domokr¹¿cy
-9452	Mol ksi¹¿kowy Soon wie coœ na temat Seledynowej[ENTER]Porcelany. Ale powie Ci to tylko wtedy, gdy[ENTER]przyniesiesz mu ksi¹¿kê zamówion¹ u Domokr¹¿cy. W[ENTER]drogê!
+9452	Mol ksi¹¿kowy Soon wie coœ na temat seledynowej[ENTER]porcelany. Ale podzieli siê on swoj¹ wiedz¹,[ENTER]tylko za wyœwiadczenie mu przys³ugi.[ENTER]Musisz udaæ siê do Domokr¹¿cy, którego znajdziesz[ENTER]w s¹siedniej wiosce i przynieœ Soonowi ksi¹¿kê,[ENTER]któr¹ zamówi³ u niego.
 9453	Przys³a³ mnie Soon...
-9454	Hej! Przyszed³eœ, aby mi pomóc? Aaa, chcesz[ENTER]ksi¹¿kê dla Soona? Mia³em zamiar udaæ siê wkrótce[ENTER]do wioski, no có¿, on jest zbyt niecierpliwy.[ENTER]Wysy³a innych po swoje rzeczy. Hmm... oto[ENTER]Ksi¹¿ka. Nie wiem, co jest takiego wa¿nego w tym[ENTER]stosie papierów. Przecie¿ o wiele wa¿niejsze jest[ENTER]zarabianie Yang!
-9455	Wróæ do Soon
-9456	Wróæ do Soon
-9457	Odebra³eœ Ksi¹¿kê u Domokr¹¿cy. Udaj siê wiêc do[ENTER]Soona i daj mu j¹, by w koñcu zdradzi³ metody[ENTER]produkcji Porcelany.
-9458	Mam Ksi¹¿kê!
-9459	Yay! Wreszcie mam moj¹ Ksi¹¿kê! Dziêkujê Ci. Nie[ENTER]zosta³o du¿o ksi¹¿ek, które jeszcze nie[ENTER]przeczyta³em...[ENTER]Zapiszê Ci wszystko, co wiem o tej Seledynowej[ENTER]Porcelanie. Trzymaj siê wskazówek, a[ENTER]wyprodukujesz cudown¹ porcelanê. A teraz czas na[ENTER]czytanie nowej ksi¹¿ki. ¯egnaj.
+9454	Hej! Jesteœ, by mi znowu pomóc?[ENTER]Aaa, chcesz ksi¹¿kê dla Soona? Mia³em zamiar udaæ[ENTER]siê wkrótce do wioski, no có¿, on jest zbyt[ENTER]niecierpliwy. Wysy³a innych po swoje rzeczy. Hmm.[ENTER]Oto ona. Nie wiem, co jest dla Soona takiego[ENTER]wa¿nego w tym stosie papierów. Przecie¿ o wiele[ENTER]wa¿niejsze jest zarabianie Yang!
+9455	Powrót do Soona.
+9456	Powrót do Soona
+9457	Uda³o ci siê odebraæ ksi¹¿kê u Domokr¹¿cy. Udaj[ENTER]siê wiêc do Soona i daj mu j¹, by w koñcu[ENTER]zdradzi³ metody produkcji seledynowej porcelany.
+9458	Mam ksi¹¿kê!
+9459	Hurra! Wreszcie mam coœ nowego do czytania![ENTER]Dziêkujê ci.[ENTER]Nie zosta³o du¿o ksi¹¿ek, które jeszcze nie[ENTER]przeczyta³em...[ENTER]Zapisa³em ci wszystko, co wiem o produkcji tej[ENTER]seledynowej porcelany. Rób wed³ug instrukcji, a[ENTER]wyprodukujesz fantastyczn¹ porcelanê.[ENTER]A teraz czas na czytanie nowej ksi¹¿ki.[ENTER]¯egnaj.
 9461	Powrót do Yonah
-9460	Hm... to siê nie nadaje. I to te¿ nie...Och,[ENTER]zobacz! Produkuje nieprzerwanie Porcelanê, ale[ENTER]wiêkszoœæ rzeczy pêka. Wydaje mi siê, ¿e[ENTER]potrzebuje nowej receptury na wyrób Porcelany.
-9462	Dostarcz notatki do Yonah.
-9463	Soon dotrzyma³ obietnicy i zapisa³ Ci recepturê[ENTER]na wyrób Porcelany. Dostarcz j¹ do Yonah.
-9464	Ooch!!! Tu jest wszystko o wyrobie Seledynowej[ENTER]Porcelany! Dziêki tej recepturze przejdê do[ENTER]historii jako mistrz porcelany. Dziêkujê Ci za[ENTER]pomoc. Wkrótce zaprezentujê Ci najlepsz¹[ENTER]ceramikê! Zaufaj mi.[ENTER]Moja Porcelana przetrwa wieki!
-9465	Otrzyma³eœ 2.500.000 Punktów Doœwiadczenia.
-9466	Otrzyma³eœ 35.000 Yang.
-9467	Otrzyma³eœ Jadeitowe Buty+3.
-9468	Sekret seledynowej porcelany
+9460	Hm... to siê nie nadaje. I to te¿ nie...[ENTER]Och, zobacz! Produkujê nieprzerwanie porcelanê,[ENTER]ale wiêkszoœæ rzeczy pêka. Wydaje mi siê, ¿e[ENTER]potrzebujê nowej instrukcji na wyrób porcelany...
+9462	Dostarcz notatki do Yonah
+9463	Soon dotrzyma³ obietnicy i zapisa³ ci instrukcjê[ENTER]wytopu seledynowej porcelany. Dostarcz j¹ do[ENTER]Yonah.
+9464	Ooch!!! Tu jest wszystko o wyrobie seledynowej[ENTER]porcelany. Dziêki tym zapiskom przejdê do[ENTER]historii jako mistrz porcelany. Dziêkujê ci za[ENTER]pomoc. Wkrótce zaprezentujê ci najlepsz¹[ENTER]ceramikê! Zaufaj mi. Moja porcelana przetrwa[ENTER]wieki.
+9465	Otrzymujesz 2 500 000 punktów doœwiadczenia.
+9466	Otrzymujesz 35 000 Yang.
+9467	Otrzymujesz jadeitowe buty+3.
+9468	Sekret Seledynowej Porcelany
 9469	Sekret seledynowej porcelany
 9470	Yonah wygl¹da na zmartwionego.
 9472	IdŸ do niego i dowiedz siê, w jaki sposób mo¿esz[ENTER]mu pomóc.
-9471	Spróbuje nowej metody... Nie jest ³atwo[ENTER]wyprodukowaæ Seledynow¹ Porcelanê. Dlatego tylko[ENTER]niewielu wie, jak to zrobiæ. Potrzebujê jej[ENTER]jednak do mojej sztuki. W tym wypadku... tak,[ENTER]Uriel móg³by mi z tym pomóc. Proszê, pójdŸ do[ENTER]Uriela i zapytaj o to jak robiæ tak¹ Porcelanê.[ENTER]On na pewno bêdzie w stanie pomóc!
-9473	Czy chcesz zrezygnowaæ z zadania?
-9474	Hm, jesteœ zajêty?[ENTER]Pamiêtaj o tym, by mnie ponownie odwiedziæ, jeœli[ENTER]bêdziesz mia³ wiêcej czasu.
-9475	Chcê produkowaæ najlepsz¹ porcelanê...[ENTER]Rozumiem... do zobaczenia!
-9476	Dziêkujê. Uriel na pewno pomo¿e. Na razie!
+9471	Spróbujê nowej metody.[ENTER]Nie jest ³atwo wyprodukowaæ seledynow¹ porcelanê,[ENTER]dlatego tylko niewielu wie, jak to zrobiæ.[ENTER]Potrzebujê jej jednak do mojego dzie³a![ENTER]Dletego...[ENTER]Hmm, ten m¹dry Uriel móg³by to wiedzieæ![ENTER]Proszê, pójdŸ do Uriela i zapytaj o to, jak[ENTER]wyprodukowaæ tak¹ seledynow¹ porcelanê!
+9473	Czy na pewno chcesz zrezygnowaæ na zawsze z tej[ENTER]misji?
+9474	Hm, nie masz czasu?[ENTER]Pamiêtaj o tym, by mnie ponownie odwiedziæ, jeœli[ENTER]bêdziesz mia³ wiêcej czasu.
+9475	Dobrze. ¯egnaj...
+9476	Bardzo dziêkujê. Uriel na pewno nam pomo¿e. Na[ENTER]razie!
 9477	IdŸ do Uriela
-9479	£owcy Yang-Shin ukradziono Ozdobiony £uk,[ENTER]pami¹tkê rodzinn¹.[ENTER]Udaj siê do Sangsun Dong i odzyskaj £uk od[ENTER]z³odziejskich ma³p.
-9478	Skarb £owcy
-9480	Znalaz³eœ Ozdobiony £uk!
-9481	IdŸ do £owcy Yang-Shin
-9482	Znalaz³eœ Ozdobiony £uk £owcy.[ENTER]Zwróæ go Yang-Shin.
-9483	Oto £uk...
-9484	Wow, oto on! Mój £uk, jestem pod wra¿eniem![ENTER]Mój honor zosta³ uratowany.[ENTER]Huh... cierpia³em tak d³ugo z powodu jego zguby.[ENTER]Jestem bardzo wdziêczny za pomoc. Honorem bêdzie[ENTER]wrêczenie Ci tego. Mo¿e to niewiele, ale pochodzi[ENTER]z g³êbi serca, a to jest najwa¿niejsze. Dziêki[ENTER]tobie mogê ¿yæ w spokoju.
-9485	Otrzyma³eœ 1.500.000 Punktów Doœwiadczenia.
-9486	Otrzyma³eœ 35.000 Yang.
-9487	Otrzyma³eœ Pelerynê Mêstwa.
-9488	Znalaz³eœ mój £uk? I gdzie on teraz jest? Czy¿byœ[ENTER]go ju¿ zgubi³?
+9479	£owcy Yang-Shin ukradziono ozdobiony ³uk,[ENTER]pami¹tkê rodzinn¹.[ENTER]Udaj siê do Sangsun Dong i odzyskaj ³uk od[ENTER]z³odziejskich ma³p.
+9478	Skarb ³owcy
+9480	Odnaleziono Ozdobiony £uk
+9481	IdŸ do ³owcy Yang-Shin
+9482	Uda³o ci siê odnaleŸæ ozdobiony ³uk ³owcy.[ENTER]Oddaj go Yang-Shin.
+9483	Oto ³uk!
+9484	Wow, to on! Mój ³uk! Mój honor zosta³ uratowany.[ENTER]Huuuh. D³ugo cierpia³em z powodu jego zguby.[ENTER]Jestem bardzo wdziêczny za pomoc. Honorem bêdzie[ENTER]wrêczenie ci tego.[ENTER]Mo¿e to niewiele, ale od serca. Proszê weŸ.[ENTER]Dziêki tobie mogê ¿yæ w spokoju!
+9485	Otrzymujesz 1 500 000 punktów doœwiadczenia.
+9486	Otrzymujesz 35 000 Yang.
+9487	Otrzymujesz pelerynê mêstwa.
+9488	Znalaz³eœ mój ³uk? I gdzie on teraz jest? Czy¿byœ[ENTER]go ju¿ zgubi³?
 9489	Bêdê szukaæ dalej.
-9491	Niech tak bêdzie.[ENTER]Uwa¿aj na siebie.
-9490	Hey, masz chwilkê? Jak widzisz, jestem £owc¹,[ENTER]moja rodzina poluje od pokoleñ. Wszyscy w mojej[ENTER]rodzinie byli ³owcami, to rodzina z tradycjami.[ENTER]Ale ja pope³ni³em wielki b³¹d, który zhañbi mnie[ENTER]w oczach rodziny...
-9492	Spróbujesz jeszcze raz? Dziêkujê Ci.[ENTER]Z twoimi umiejêtnoœciami na pewno Ci siê uda.
+9491	Dobrze.[ENTER]Uwa¿aj na siebie.
+9490	Hej. Wys³uchaj mnie przez moment.[ENTER]Jak widzisz, jestem ³owc¹. Moja rodzina udaje siê[ENTER]na ³owy ju¿ od pokoleñ. To rodzinna tradycja.[ENTER]Ale ja pope³ni³em wielki b³¹d, który zhañbi mnie[ENTER]w oczach rodziny...
+9492	Spróbujesz jeszcze raz? Dziêkujê ci.[ENTER]Z twoimi umiejêtnoœciami na pewno ci siê uda.
 9493	Skarb £owcy
-9494	Skarb £owcy
+9494	Skarb ³owcy
 9495	Yang-Shin potrzebuje twojej pomocy.
 9496	IdŸ do niego, by dowiedzieæ siê wiêcej.
-9497	Chodzi o Rozrzutnie Ozdobiony £uk, który w³aœnie[ENTER]zosta³ skradziony przez Ma³py. By³em na polowaniu[ENTER]w Lochu Ma³p, odwróci³em siê tylko na chwilkê, a[ENTER]one wykorzysta³y sytuacjê i mi go ukrad³y.
-9498	Nigdy nie zaszed³em g³êboko do Lochu Ma³p i nie[ENTER]wiem jak on wygl¹da. Potrzebujê twojej pomocy.[ENTER]S³ysza³em od kilku osób, ¿e jesteœ bardzo[ENTER]utalentowan¹ osob¹. Dlatego proszê w³aœnie Ciebie[ENTER]o t¹ przys³ugê. Nie mogê iœæ do rodziny bez tego[ENTER]£uku.
+9497	Chodzi o bogato ozdobiony ³uk, który w³aœnie[ENTER]zosta³ skradziony przez ma³py.[ENTER]By³em wtedy na polowaniu w Lochu Ma³p, odwróci³em[ENTER]siê tylko na chwilkê, a one wykorzysta³y sytuacjê[ENTER]i mi go ukrad³y.
+9498	Nigdy nie by³em g³êboko w Lochu Ma³p i nie znam[ENTER]go , wiêc potrzebujê twojej pomocy. S³ysza³em od[ENTER]kilku osób, ¿e jesteœ bardzo utalentowan¹ osob¹.[ENTER]Dlatego proszê w³aœnie ciebie o tê przys³ugê.[ENTER]Nie mogê stan¹æ przed moimi przodkami bez tego[ENTER]³uku.
 9499	Yang-Shin:
-9500	Muszê go szybko odzyskaæ... Proszê, wróæ gdy[ENTER]bêdziesz mia³ czas. Pozdrawiam.
+9500	Muszê go szybko odzyskaæ...[ENTER]Proszê, wróæ gdy bêdziesz mia³ czas.[ENTER]¯egnaj.
 9501	A wiêc...[ENTER]B¹dŸ czujny podczas twoich podró¿y.
-9502	Nietrudno go znaleŸæ, poniewa¿ jest bardzo[ENTER]pysznie ozdobiony. Dobrze Ciê za to wynagrodzê!
-9503	ZnajdŸ Ozdobiony £uk
-9505	Sytuacja Balso
-9504	Przesy³ka dla Zdrajcy Balso.
-9506	Stan zdrowia Zdrajcy Balso pogorszy³ siê. IdŸ do[ENTER]Baek-Go i spytaj siê go, w jaki sposób mo¿na[ENTER]pomóc Balso.
+9502	Nietrudno go znaleŸæ, poniewa¿ jest bardzo[ENTER]kosztownie ozdobiony. Dobrze ciê za to[ENTER]wynagrodzê!
+9503	ZnajdŸ ozdobiony ³uk
+9505	Sytuacja zdrajcy Balso
+9504	Przesy³ka dla zdrajcy Balso
+9506	Stan zdrowia zdrajcy Balso pogorszy³ siê. IdŸ do[ENTER]Baek-Go i spytaj siê go, w jaki sposób mo¿na[ENTER]pomóc Balso.
 9507	IdŸ do Baek-Go
 9508	IdŸ do Baek-Go
 9509	IdŸ do Baek-Go.
 9510	Mam pacjenta...
 9511	Baek-Go:
-9512	Och, to Ty, jak siê masz?[ENTER]Leczysz chorego? A co mu dolega... Hmm...[ENTER]A jakie lekarstwa do tej pory przyjmowa³?[ENTER]Co proszê? Nic dziwnego, ¿e jego stan siê[ENTER]pogorszy³! Te lekarstwa s¹ zupe³nie[ENTER]nieodpowiednie!
-9513	Ma szczêœcie, ¿e jeszcze jest przy ¿yciu![ENTER]Nieodpowiednie leczenie chorego jest bardzo[ENTER]niebezpieczne! Ale wiem, jak mu pomóc. Istnieje[ENTER]pewne zio³o, które oczyszcza organizm z[ENTER]substancji truj¹cych i wspomaga rekonwalescencjê.[ENTER]Zdobycie tego zio³a jest jednak zwi¹zane z du¿ym[ENTER]ryzykiem.
-9514	O ile mi wiadomo zio³o te roœnie jedynie w[ENTER]Sangsun Dong. Œcinane jest zawsze dla Lorda Ma³p,[ENTER]który je bardzo chêtnie je. Bêdziesz go musia³[ENTER]zabiæ, aby uzyskaæ te zio³o.[ENTER]Jeœli mi je przyniesiesz, przygotujê Ci z niego[ENTER]odpowiednie lekarstwo.
+9512	Och, to ty, jak siê masz?[ENTER]Leczysz chorego? Powiedz, a co mu dolega... Hmm...I jakie lekarstwa do tej pory otrzyma³?[ENTER]Co proszê?! Nic dziwnego, ¿e jego stan siê[ENTER]pogorszy³! Te lekarstwa s¹ zupe³nie nieskuteczne!
+9513	Ma szczêœcie, ¿e jeszcze jest przy ¿yciu![ENTER]Nieodpowiednie leczenie chorego jest bardzo[ENTER]niebezpieczne![ENTER]Ale wiem, jak mu pomóc. Istnieje pewne zio³o,[ENTER]które oczyszcza organizm z substancji truj¹cych i[ENTER]wspomaga rekonwalescencjê.[ENTER]Zdobycie tego zio³a jest jednak zwi¹zane z du¿ym[ENTER]ryzykiem.
+9514	O ile mi wiadomo zio³o to roœnie jedynie w[ENTER]Sangsun Dong. Zbierane jest ono zawsze dla Lorda[ENTER]Ma³p, który je bardzo chêtnie je. Bêdziesz go[ENTER]musia³ zabiæ, aby uzyskaæ to zio³o.[ENTER]Jeœli mi je przyniesiesz, przygotujê ci z niego[ENTER]odpowiednie lekarstwo.
 9516	Dobrze, zdobêdê je.
 9515	Co siê tyczy twojego lekarstwa...
 9517	Nie mogê tego zrobiæ.
-9518	Czy chcesz na zawsze zrezygnowaæ z zadania?
+9518	Czy na pewno chcesz zrezygnowaæ na zawsze z tej[ENTER]misji?
 9519	Tak
-9520	Wiêc mo¿e potem, gdy bêdziesz mia³ wiêcej czasu.[ENTER]Du¿o ludzi jest chorych, a tak ma³o szuka dla[ENTER]nich lekarstw.
-9521	Hmm, niestety w³aœnie tak jest. Szkoda, ¿e nikt[ENTER]nie ma na tyle odwagi. Nie wiem jak to ma byæ[ENTER]dalej...
-9522	Och, Dziêkujê. Zadanie nie jest proste, ale[ENTER]wype³niaj¹c je pomo¿esz wielu ludziom!
+9520	Wiêc mo¿e potem, gdy bêdziesz mia³ wiêcej czasu.[ENTER]Du¿o ludzi jest chorych, a tak niewiele z nich[ENTER]szuka lekarstwa.
+9521	Hmm, niestety w³aœnie tak jest. Szkoda, ¿e nikt[ENTER]nie ma na tyle odwagi. Nie wiem jak bêdzie[ENTER]dalej...
+9522	Och, dziêkujê. Zadanie nie jest proste, ale[ENTER]wype³niaj¹c je pomo¿esz wielu ludziom!
 9523	Zio³o Lorda Ma³p
 9524	Wróæ do Baek-Go.
-9525	Znalaz³eœ Zio³o z Trudnych Ma³p
-9527	Odebra³eœ Lordowi Ma³p Zio³o z Trudnych Ma³p.[ENTER]Zanieœ je Baek-Go, aby móg³ przyrz¹dziæ lekarstwo[ENTER]dla Balso.
-9526	Dziêki. Przynios³eœ mi wreszcie to lekarstwo. Ale[ENTER]jest pewien problem... Lekarstwo ju¿ mi nie[ENTER]pomaga. Wszystko chyba posz³o nie tak.[ENTER](kicha) Chyba potrzebujê intensywnej terapii.
-9528	Zdob¹dŸ Zio³o z Sangsung Dong
-9529	Baek-Go potrafi przyrz¹dziæ lekarstwo na chorobê[ENTER]Zdrajcy Balso. Potrzebujê jednak Zio³o z Trudnych[ENTER]Ma³p. Otrzymasz je od Lorda Ma³p w Trudnym Lochu[ENTER]Ma³p.
-9530	Zio³o z Trudnych Ma³p...
-9531	Wydajê siê, ¿e nied³ugo dojdzie do wybuchu[ENTER]epidemii, nie wiemy jednak jaki jest tego powód.[ENTER]Ca³e szczêœcie Towarzystwo akademickie odkry³o[ENTER]sposób leczenia za pomoc¹ ma³piego Ziela. Co[ENTER]takiego? Znalaz³eœ ju¿ te Ziele?
+9525	Uda³o ci siê znaleŸæ zio³o z Trudnego Lochu Ma³p
+9527	Uda³o ci siê odebraæ zio³o Lordowi Ma³p z[ENTER]Trudnego Lochu Ma³p. Zanieœ je Baek-Go, aby móg³[ENTER]przyrz¹dziæ lekarstwo dla Balso.
+9526	Dziêki, ¿e uda³o ci siê wreszcie przynieœæ mi to[ENTER]lekarstwo. Ale jest pewien problem... Dzia³anie[ENTER]lekarstwa ostatnio znacznie zmala³o. Wydaje mi[ENTER]siê, ¿e jest ju¿ przeterminowane.[ENTER]*Eeehgh* - Potrzebujê pilnie opieki lekarskiej.
+9528	Zdob¹dŸ zio³o z Sangsung Dong
+9529	Baek-Go umie przyrz¹dziæ skuteczne lekarstwo na[ENTER]chorobê zdrajcy Balso. Potrzebuje on jednak zio³o[ENTER]z Lochu Trudnych Ma³p. Otrzymasz je od Lorda Ma³p[ENTER]w Trudnym Lochu Ma³p.
+9530	Zio³o z Lochu Trudnych Ma³p...
+9531	Wydajê siê, ¿e nied³ugo dojdzie do wybuchu[ENTER]epidemii, nie wiemy jednak, jaki jest tego powód.[ENTER]Ca³e szczêœcie Towarzystwo Akademickie odkry³o[ENTER]sposób leczenia za pomoc¹ ma³piego zio³a.[ENTER]Co takiego? Uda³o ci siê znaleŸæ ju¿ zio³o?
 9532	Jeszcze nie. Ale nied³ugo!
-9533	Nie zdobêdê Zio³a...
-9534	Naprawdê chcesz siê poddaæ? W porz¹dku, nic[ENTER]wiêcej nie da siê zrobiæ. Eh, co ja teraz mam[ENTER]zrobiæ? To Zio³o mog³oby byæ bardzo pomocne...
+9533	Nie mogê zdobyæ zio³a...
+9534	Czy naprawdê chcesz zrezygnowaæ? Hmm, to[ENTER]wszystko, co mo¿esz zrobiæ.[ENTER]Eh, co ja teraz mam zrobiæ? To zio³o mo¿e byæ[ENTER]istnym b³ogos³awieñstwem...
 9535	Nie dam rady.
 9536	Chcê pomóc!
-9538	Te ma³py s¹ dla mnie za silne. Nie wiem, jak[ENTER]zdobyæ te zio³o. Bardzo mi przykro.
-9537	Wiem, ¿e w s¹siedniej wiosce mieszka doktor. Czy[ENTER]mo¿esz do niego pójœæ i opisaæ jak siê czujê? Mam[ENTER]nadziejê, ¿e powie co robiæ... Jak widzisz, nie[ENTER]mogê siê st¹d ruszyæ w takim stanie. Jestem[ENTER]bardzo wdziêczny za pomoc ostatnim razem, wiêc i[ENTER]tym razem Ciê wynagrodzê.
-9539	Odmawiasz pomocy ludziom cierpi¹cym na tê[ENTER]straszn¹, tajemnicz¹ chorobê? Precz mi z oczu!
-9540	Masz racjê. Ktoœ musi zdobyæ te Zio³o, w[ENTER]przeciwnym razie ci chorzy bêd¹ strasznie[ENTER]cierpieæ. Zajmê siê tym.
+9538	Te ma³py s¹ dla mnie za silne. Nie mam mo¿liwoœci[ENTER]zdobycia zio³a. Przykro mi.
+9537	Wiem, ¿e w s¹siedniej wiosce mieszka doktor. Czy[ENTER]mo¿esz do niego pójœæ i opisaæ mu jak siê czujê,[ENTER]¿eby ci powiedzia³, jak mo¿na mi pomóc? Jak[ENTER]widzisz, nie dam rady w tym stanie opuœciæ[ENTER]miasta.[ENTER]Jestem ci bardzo wdziêczny, ¿e ostatnio mi[ENTER]pomog³eœ. I tym razem ciê wynagrodzê.
+9539	Odmawiasz pomocy ludziom cierpi¹cym na tê[ENTER]straszn¹ i tajemnicz¹ chorobê?[ENTER]Precz mi z oczu!
+9540	Masz racjê. Ktoœ musi zdobyæ to zio³o, w[ENTER]przeciwnym razie chorzy bêd¹ strasznie cierpieæ.[ENTER]Zajmê siê tym.
 9541	Wiêc na co czekasz? W drogê!
-9542	Och, uda³o ci siê zdobyæ ma³pie Zio³o. Wspaniale![ENTER]Mam nadziejê, ¿e dziêki niemu uda nam siê pokonaæ[ENTER]t¹ tajemnicz¹ chorobê! Zaczekaj chwilê, zaraz[ENTER]sporz¹dzê lekarstwo...
+9542	Och, uda³o ci siê zdobyæ ma³pie zio³o. Wspaniale![ENTER]Mam nadziejê, ¿e dziêki niemu uda nam siê pokonaæ[ENTER]tê tajemnicz¹ chorobê! Zaczekaj chwilê, zaraz[ENTER]sporz¹dzê lekarstwo...
 9543	Baek-Go:
-9544	Oto lekarstwo. Udaj siê czym prêdzej do swojego[ENTER]pacjenta i daj mu je. Powinien poczuæ siê lepiej.[ENTER]I przypomnij mu, aby nastêpnym razem zapyta³[ENTER]lekarza, jaki lek jest odpowiedni!
-9545	Zanieœ Lekarstwo do Balso
-9546	Daj Lekarstwo Balso.
+9544	Oto lekarstwo. Udaj siê teraz czym prêdzej do[ENTER]swojego pacjenta i daj mu je. Powinien poczuæ siê[ENTER]wkrótce lepiej.[ENTER]I przypomnij mu, aby nastêpnym razem zapyta³[ENTER]lekarza, jaki lek jest odpowiedni!
+9545	Zanieœ lekarstwo do Balso
+9546	Dajesz lekarstwo zdrajcy Balso.
 9547	Lekarstwo Balso
-9549	Baek-Go przyrz¹dzi³ lekarstwo z Zio³a z Trudnych[ENTER]Ma³p. Potrafi ono uleczyæ wiele ciê¿kich chorób.[ENTER]Zanieœ je Zdrajcy Balso w s¹siedniej wiosce.
-9548	Czy chcesz na zawsze zrezygnowaæ z zadania?
+9549	Baek-Go przyrz¹dzi³ lekarstwo z zio³a z Lochu[ENTER]Trudnych Ma³p. Potrafi ono uleczyæ wiele ciê¿kich[ENTER]chorób. Zanieœ je zdrajcy Balso, którego[ENTER]znajdziesz w s¹siedniej wiosce.
+9548	Czy chcesz na zawsze zrezygnowaæ z tej misji?
 9550	Oto lekarstwo.
-9551	Przynosisz mi nowe lekarstwo? S¹ zatem jakieœ[ENTER]postêpy w medycynie? Wybacz, ¿e stwarzam Ci tyle[ENTER]k³opotu. Powinienem od razu zapytaæ siê lekarza.[ENTER]Ale có¿, teraz ju¿ nie mam wyboru, muszê[ENTER]spróbowaæ tego lekarstwa.
-9552	Dziêkujê Ci stokrotnie, ¿e poratowa³eœ mnie w[ENTER]biedzie. Nie mam zbyt du¿o przyjació³.[ENTER]WeŸ to, nie jest zbyt wiele ale pochodzi od[ENTER]serca. Gdyby kiedykolwiek uda³o mi siê odnieœæ[ENTER]wielki sukces, wiedz, ¿e o Tobie nie zapomnê!
-9553	Otrzyma³eœ 4.000.000 Punktów Doœwiadczenia.
-9554	Otrzyma³eœ 65.000 Yang.
-9555	Przesy³ka dla zdrajcy Balso
+9551	Przynosisz mi nowe lekarstwo? S¹ zatem jakieœ[ENTER]postêpy w medycynie?[ENTER]Wybacz, ¿e stwarzam ci tyle k³opotu. Od razu[ENTER]powinienem poprosiæ lekarza o radê. Ale có¿,[ENTER]teraz ju¿ nie mam wyboru, muszê wzi¹æ to[ENTER]lekarstwa.
+9552	Dziêkujê ci stokrotnie, ¿e poratowa³eœ mnie w[ENTER]biedzie. Nie mam zbyt du¿o przyjació³.[ENTER]WeŸ to, nie jest zbyt wiele, ale pochodzi od[ENTER]serca. Proszê, przyjmij. Gdyby kiedykolwiek uda³o[ENTER]mi siê odnieœæ wielki sukces, wiedz, ¿e o tobie[ENTER]nie zapomnê!
+9553	Otrzymujesz 4 000 000 punktów doœwiadczenia.
+9554	Otrzymujesz 65 000 Yang.
+9555	Przesy³ka dla Zdrajcy Balso
 9556	Przesy³ka dla zdrajcy Balso
-9557	Pogorszy³ siê stan zdrowia Balso. IdŸ do niego.[ENTER]On potrzebuje twojej pomocy.
+9557	Pogorszy³ siê stan zdrowia Balso. IdŸ do niego,[ENTER]gdy¿ pilnie potrzebuje twojej pomocy.
 9558	Gdy bêdziesz wiedzia³ jak mi pomóc, przyjdŸ.
 9559	Zdrajca Balso:
-9560	Chyba bêdê zmuszony ¿yæ w ten sposób do koñca...[ENTER]¯egnaj.
-9561	Dziêkujê... b¹dŸ ostro¿ny.
-9563	Wiedzia³em, ¿e mogê na Ciebie liczyæ! Nie jest to[ENTER]proste zadanie, ale na pewno dasz sobie radê.[ENTER]Powodzenia!
+9560	Czy bêdê zmuszony ¿yæ w ten sposób?[ENTER]Do zobaczenia nastêpnym razem.
+9561	Dziêkujê. Uwa¿aj na siebie.
+9563	Wiedzia³em, ¿e mogê na ciebie liczyæ! Nie jest to[ENTER]proste zadanie, ale na pewno dasz sobie radê.[ENTER]Powodzenia!
 9562	Wsparcie wojenne
-9564	Powróæ do Kapitana
-9565	Masz wszystkie 5000 Grotów Strza³.[ENTER]Zanieœ je Kapitanowi.
-9566	Naszej armii brakuje strza³. Zabij Zara¿onych[ENTER]£uczników na górze Sohan i pozbieraj ich Groty[ENTER]Strza³ dla Kapitana. 5000 sztuk powinno[ENTER]wystarczyæ.
-9567	Co siê tyczy Grotów Strza³...
+9564	Powrót do Kapitana
+9565	Uda³o ci siê zebraæ wszystkie 5000 grotów strza³.[ENTER]Zanieœ je Kapitanowi.
+9566	Nasza armii potrzebuje wiêcej strza³. Zabij[ENTER]Zara¿onych £uczników na Górze Sohan i pozbieraj[ENTER]ich groty strza³ dla Kapitana. 5000 sztuk powinno[ENTER]wystarczyæ.
+9567	Co siê tyczy grotów strza³...
 9568	Zara¿eni £ucznicy cierpi¹ na jak¹œ dziwn¹[ENTER]chorobê, która rozprzestrzeni³a siê po[ENTER]kontynencie. Nawet nasi lekarze nie potrafi¹[ENTER]sobie tego wyt³umaczyæ. Wiêkszoœæ grotów ich[ENTER]strza³ jeszcze nie jest zatruta, ale tych[ENTER]zatrutych jest coraz wiêcej.
 9569	W takim razie bêdê kontynuowaæ.
-9570	Czy chcesz na zawsze zrezygnowaæ z zadania?
-9571	Boisz siê zachorowaæ?[ENTER]Uspokój siê i wróæ do mnie póŸniej.
-9572	Czy na pewno chcesz zrezygnowaæ?[ENTER]Hmm, mo¿e to jest za trudne...[ENTER]Zapytam kogoœ innego. Ok, do zobaczenia.
+9570	Czy na pewno chcesz zrezygnowaæ na zawsze z tej[ENTER]misji?
+9571	Boisz siê zachorowaæ? Uspokój siê i wróæ do mnie[ENTER]póŸniej.
+9572	Czy na pewno chcesz zrezygnowaæ?[ENTER]Hmm, mo¿e to jest za trudne... Zapytam kogoœ[ENTER]innego.[ENTER]Do zobaczenia!
 9574	Aha...[ENTER]Nigdy siê nie poddajesz, co?[ENTER]W takim razie, ruszaj!
-9573	Uwaga, wojownicy! Jak na pewno ju¿ zd¹¿y³eœ[ENTER]zauwa¿yæ, ataki naszych wrogów nasilaj¹ siê. Poza[ENTER]tym otrzymaliœmy bardzo niepokoj¹ce informacje od[ENTER]Yu-Hwan. Krótko mówi¹c: Mamy za ma³o strza³!
-9575	Oto 5000 Grotów Strza³!
-9576	Œwietna robota! Dziêki twojej pomocy mo¿emy siê[ENTER]przygotowywaæ na atak. Wydam od razu rozkaz, ¿eby[ENTER]rozpocz¹æ produkcjê strza³. Bardzo nam pomog³eœ.[ENTER]Mam nadziejê, ¿e w przysz³oœci równie¿ bêdziemy[ENTER]mogli na Ciebie liczyæ.
-9577	Oto twoja nagroda. Nastêpnym razem gdy bêdê mia³[ENTER]wa¿ne rozkazy bêdziesz pierwszym, którego o nich[ENTER]poinformujê. Powodzenia i do rych³ego zobaczenia!
-9578	Otrzyma³eœ 4.500.000 Punktów Doœwiadczenia.
-9579	Otrzyma³eœ 50.000 Yang.
-9580	Otrzyma³eœ 3x D³oñ Krytyka.[ENTER]Otrzyma³eœ 3x D³oñ Przebicia.
-9581	Wsparcie wojenne
+9573	Uwaga, wojowniku! Jak na pewno ju¿ zd¹¿y³eœ[ENTER]zauwa¿yæ, ataki naszych wrogów nasilaj¹ siê.[ENTER]Poza tym otrzymaliœmy bardzo niepokoj¹ce[ENTER]informacje od Yu-Hwan. Krótko mówi¹c: mamy za[ENTER]ma³o strza³!
+9575	Oto 5000 grotów strza³!
+9576	Œwietna robota! Dziêki twojej pomocy mo¿emy siê[ENTER]przygotowywaæ na atak. Wydam od razu rozkaz, ¿eby[ENTER]rozpocz¹æ produkcjê strza³.[ENTER]Bardzo nam pomog³eœ. Mam nadziejê, ¿e w[ENTER]przysz³oœci równie¿ bêdziemy mogli na ciebie[ENTER]liczyæ.
+9577	Oto twoja nagroda. Nastêpnym razem, gdy bêdê mia³[ENTER]wa¿n¹ misjê bêdziesz pierwszym, którego[ENTER]poinformujê o niej. Powodzenia i do rych³ego[ENTER]zobaczenia!
+9578	Otrzymujesz 4 500 000 punktów doœwiadczenia.
+9579	Otrzymujesz 50 000 Yang.
+9580	Otrzymujesz 3x d³oñ krytyka.[ENTER]Otrzymujesz 3x d³oñ przebicia.
+9581	Wsparcie Wojenne
 9582	Wsparcie wojenne
 9583	Doniesiono nam o podejrzanych ruchach oddzia³ów[ENTER]za lini¹ wrogów.
 9585	Kapitan orientuje siê bardziej w szczegó³ach.[ENTER]Udaj siê do niego.
 9584	£ucznicy s¹ nieodzownym elementem strategicznego[ENTER]planowania. Jak tylko nasi wrogowie znajd¹ siê w[ENTER]zasiêgu strza³, nasi ³ucznicy rusz¹ do ataku. W[ENTER]ten sposób od razu zmusimy ich do ucieczki albo[ENTER]przynajmniej przerzedzimy ich szeregi. Jeœli[ENTER]jednak przyjdzie odeprzeæ wiele ataków w krótkim[ENTER]czasie, szybko skoñcz¹ nam siê strza³y.
-9586	Dlatego potrzebujemy Ciebie! Udaj siê do Góry[ENTER]Sohan. Tam musisz pozabijaæ Zara¿onych £uczników[ENTER]i pozbieraæ ich Groty Strza³. Groty te s¹[ENTER]zatrute. Pomo¿e na to niezmiernie podczas[ENTER]zra¿enia z wrogiem. Potrzebne nam 5000 sztuk. Co[ENTER]Ty na to?
+9586	Dlatego potrzebujemy ciebie! Udaj siê do Góry[ENTER]Sohan.[ENTER]Tam musisz pozabijaæ Zara¿onych £uczników i[ENTER]pozbieraæ ich groty strza³. Groty te s¹ zatrute.[ENTER]Pomo¿e nam to pokonaæ naszych wrogów.[ENTER]Potrzebne nam 5000 sztuk. Co ty na to?
 9587	Akceptujê.
 9588	To dla mnie za trudne.
-9589	Czy chcesz na zawsze zrezygnowaæ z zadania?
-9590	Czy¿by Góra Sohan by³a dla Ciebie za daleko?[ENTER]Przemyœl to. To zadanie najwy¿szej rangi!
-9591	Hum, obawiasz siê Zara¿onych £uczników?[ENTER]Chyba przeceni³em twoje mo¿liwoœci.[ENTER]Teraz nie ma ju¿ nadziei...
+9589	Czy na pewno chcesz zrezygnowaæ na zawsze z tej[ENTER]misji?
+9590	Czy¿by Góra Sohan by³a dla ciebie za daleko?[ENTER]Przemyœl to. To misja najwy¿szej rangi!
+9591	Hm, obawiasz siê Zara¿onych £uczników?[ENTER]Chyba przeceni³em twoje mo¿liwoœci.[ENTER]Teraz nie ma ju¿ nadziei...
 9592	Co czytasz?
-9594	Zdoby³eœ wszystkie 100 sztuk Oczu Paj¹ków[ENTER]potrzebnych do nowej receptury Octavio.[ENTER]Pospiesz siê i zanieœ je do niego.
-9593	Specja³ z Oczu Paj¹ków
-9595	Zdob¹dŸ Oczy Paj¹ków
-9596	Octavio chce wypróbowaæ nowy przepis o nazwie[ENTER]'Specja³ z Oczu Paj¹ków'. Aby móg³ przyst¹piæ do[ENTER]przygotowywania potrawy, potrzebuje 100 Oczu[ENTER]Paj¹ków, które mo¿na zdobyæ od paj¹ków na Pustyni[ENTER]Yongbi.
+9594	Uda³o ci siê zdobyæ wszystkie 100 sztuk oczu[ENTER]paj¹ków potrzebnych do nowej receptury Octavio.[ENTER]Pospiesz siê i zanieœ je do niego.
+9593	Specja³ z oczu paj¹ków
+9595	Zdob¹dŸ oczy paj¹ków
+9596	Octavio chce wypróbowaæ nowy przepis o nazwie[ENTER]'specja³ z oczu paj¹ków'. Aby móg³ przyst¹piæ do[ENTER]przygotowywania potrawy, potrzebuje 100 oczu[ENTER]paj¹ków, które mo¿na zdobyæ od paj¹ków na Pustyni[ENTER]Yongbi.
 9597	Wróæ do Octavio.
-9598	Mam Oczy Paj¹ków.
+9598	Uda³o mi siê zdobyæ oczy paj¹ków.
 9599	Octavio:
-9600	Poka¿. Tak, dok³adnie sto sztuk, doskonale.[ENTER]Hum, zobaczmy...[ENTER]Mmhhh, gotowe! Chcesz spróbowaæ? Nie bój siê. To[ENTER]Ciê nie zabije.
-9601	Hmm, hmm... có¿ za doœwiadczenie! Bardzo po¿ywne,[ENTER]ale nie za s³odkie... naprawdê niesamowity smak![ENTER]Wiedzia³em, ¿e by³o warto. Samemu nigdy by mi siê[ENTER]nie uda³o. Bardzo dziêkujê za Twoj¹ pomoc!
-9602	Otrzyma³eœ 2.100.000 Punktów Doœwiadczenia.
-9603	O czym ty mówisz? To na pewno nie jest sto sztuk,[ENTER]wiem to nawet bez przeliczania! Zdob¹dŸ dla mnie[ENTER]wiêcej, proszê.
-9605	Naprawdê chcê zrobiæ to danie...[ENTER]Niewa¿ne... dziêki. ¯egnaj.
-9604	Hej, jak siê masz? W³aœnie przegl¹dam ksi¹¿kê[ENTER]kucharsk¹, któr¹ otrzyma³em od Soon. Znalaz³em w[ENTER]niej przepis na danie, które nazywa siê 'Specja³[ENTER]z Oczu Paj¹ków'. Nigdy o czymœ takim nie[ENTER]s³ysza³em, a ty? Najprawdopodobniej jest to[ENTER]wyj¹tkowa potrawa pochodz¹ca z innego kraju.
+9600	Poka¿. Tak, dok³adnie sto sztuk, doskonale.[ENTER]Hum, zobaczmy...[ENTER]Mmhhh, gotowe! Chcesz spróbowaæ? Nie bój siê. To[ENTER]ciê nie zabije.
+9601	Hmm, hmm... có¿ za doœwiadczenie! Bardzo po¿ywne,[ENTER]ale nie za s³odkie... naprawdê niesamowity smak![ENTER]Wiedzia³em, ¿e by³o warto. Samemu nigdy by mi siê[ENTER]nie uda³o. Bardzo dziêkujê za twoj¹ pomoc!
+9602	Otrzymujesz 2 100 000 punktów doœwiadczenia.
+9603	O czym ty mówisz? To na pewno nie jest sto sztuk,[ENTER]wiem to nawet bez przeliczania! Zdob¹dŸ dla mnie[ENTER]wiêcej.
+9605	Koniecznie chcê to przyrz¹dziæ.[ENTER]Niewa¿ne... dziêki. ¯egnaj i uwa¿aj na siebie.
+9604	Hej, jak siê masz? W³aœnie przegl¹dam ksi¹¿kê[ENTER]kucharsk¹, któr¹ otrzyma³em od Soon. Znalaz³em w[ENTER]niej przepis na danie, które nazywa siê 'specja³[ENTER]z oczu paj¹ków'. Nigdy o czymœ takim nie[ENTER]s³ysza³em, a ty? Najprawdopodobniej jest to[ENTER]wyj¹tkowa potrawa pochodz¹ca z innego kraju.
 9606	Dziêkujê za to, ¿e nie zostawiasz mnie w[ENTER]potrzebie. Jesteœ bardzo mi³y!
-9607	Specja³ z oczu paj¹ków
+9607	Specja³ z Oczu Paj¹ków
 9608	Specja³ z oczu paj¹ków
 9609	Octavio sporz¹dza now¹ recepturê.
 9610	Z pewnoœci¹ przyda mu siê twoja pomoc!
-9611	Bardzo chcia³bym spróbowaæ tego dania, ale niby[ENTER]jak sam zdobêdê Oczy Paj¹ka? Naprawdê, ponownie[ENTER]potrzebujê twojej pomocy! Proszê, zdob¹dŸ dla[ENTER]mnie Oczy Paj¹ków. Mo¿na je otrzymaæ od paj¹ków,[ENTER]które ¿yj¹ na Pustyni Yongbi.
-9612	Czy mo¿esz to dla mnie zrobiæ? Bêdê bardzo[ENTER]wdziêczny. Aby przygotowaæ odpowiednio du¿¹[ENTER]porcjê tego dania, potrzebujê sto sztuk oczu.[ENTER]Jestem naprawdê podekscytowany...
+9611	Bardzo chcia³bym spróbowaæ tego dania, ale niby[ENTER]jak sam zdobêdê oczy paj¹ka? Dlatego potrzebujê[ENTER]twojej pomocy! Zdob¹dŸ oczy paj¹ków od paj¹ków,[ENTER]które ¿yj¹ na Pustyni Yongbi.
+9612	Czy mo¿esz to dla mnie zrobiæ? Bêdê bardzo[ENTER]wdziêczny.[ENTER]Do pierwszej próby potrzebujê sto sztuk oczu, by[ENTER]móg³ sporz¹dziæ spor¹ porcjê. Jestem naprawdê[ENTER]podekscytowany...
 9613	Czy na pewno chcesz zrezygnowaæ z tej misji?
-9614	Naprawdê chcê przygotowaæ to danie. Jeœli[ENTER]znajdziesz dla mnie czas, po prostu wróæ.
+9614	Naprawdê chcê wypróbowaæ tê recepturê. Jeœli[ENTER]znajdziesz dla mnie czas, po prostu wróæ.
 9615	Hm, sk¹d wzi¹æ te oczy?[ENTER]Ok... do zobaczenia.
-9616	Dziêki, wiedzia³em, ¿e mogê na Ciebie liczyæ![ENTER]Za to ugotujê Ci wspania³y posi³ek.
-9617	Wróæ do Octavio
-9619	Przykro mi to s³yszeæ. S³yszê tyle g³osów[ENTER]poleg³ych, którzy nie mog¹ zaznaæ spokoju.[ENTER]Naprawdê musimy im pomóc.[ENTER]Poproszê o pomoc kogoœ innego. ¯egnaj.
-9618	Pozwólmy odpocz¹æ poleg³ym...
-9620	Jesteœ taki odwa¿ny. Dziêki twojej pomocy, ju¿[ENTER]nied³ugo odwa¿ni wojownicy zaznaj¹ spokoju.
-9621	Straszne wojny zabijaj¹ m³ode osoby coraz[ENTER]czêœciej. Wojownicy walcz¹ na linii frontu dla[ENTER]siebie, dla swoich rodzin oraz dla królestwa.[ENTER]Jednak po œmierci, nie wszystkim z nich udaje siê[ENTER]osi¹gn¹æ stan nirwany. Czêœæ z nich pozostaje w[ENTER]tym œwiecie.
-9622	S³ysza³em, ¿e Elitarni Ezoteryczni Wodzowie w[ENTER]Œwi¹tyni Ciemnoœci posiadaj¹ Œwi¹tynny Szal i[ENTER]Œwi¹tynn¹ Doktrynê. Proszê, pomó¿ mi i moim[ENTER]towarzyszom uspokoiæ dusze poleg³ych, którzy[ENTER]zginêli w obronie królestwa.
+9616	Dziêkujê. Dziêki, wiedzia³em, ¿e mogê na ciebie[ENTER]liczyæ! Za to ugotujê ci wspania³y posi³ek.
+9617	Wróæ do Octavio.
+9619	Przykro mi to s³yszeæ. S³yszê tyle g³osów[ENTER]poleg³ych, którzy nie mog¹ zaznaæ spokoju.[ENTER]Naprawdê musimy im pomóc. Poproszê o pomoc kogoœ[ENTER]innego. ¯egnaj.
+9618	Za pokój poleg³ym
+9620	Jesteœ taki odwa¿ny. Jestem tego pewien, ¿e[ENTER]dziêki twojej pomocy, ju¿ nied³ugo odwa¿ni[ENTER]wojownicy zaznaj¹ spokoju.
+9621	Na wojnach gin¹ coraz czêœciej m³ode osoby.[ENTER]Wojownicy walcz¹ na linii frontu dla siebie, dla[ENTER]swoich rodzin oraz dla królestwa. Jednak po[ENTER]œmierci, nie wszystkim z nich udaje siê osi¹gn¹æ[ENTER]stan nirwany. Czêœæ z nich pozostaje w tym[ENTER]œwiecie.
+9622	S³ysza³em, ¿e Elitarni Ezoteryczni Wodzowie w[ENTER]Œwi¹tyni Hwang posiadaj¹ œwi¹tynny szal i[ENTER]œwi¹tynn¹ doktrynê.[ENTER]Proszê, pomó¿ mi i moim towarzyszom uspokoiæ[ENTER]dusze poleg³ych, którzy zginêli w obronie[ENTER]królestwa.
 9623	Wróæ do Trenera Mocy Smoka
-9624	Znalaz³eœ Œwi¹tynny Szal i Œwi¹tynn¹ Doktrynê.[ENTER]Zanieœ je do Trenera Mocy Smoka, aby szamani[ENTER]mogli rozpocz¹æ rytua³, którego celem jest[ENTER]uspokojenie poleg³ych.
-9625	Zdob¹dŸ Œwi¹tynny Szal i Œwi¹tynn¹ Doktrynê.
-9626	Szamani potrzebuj¹ Œwi¹tynnego Szala oraz[ENTER]Œwi¹tynnej Doktryny, aby przeprowadziæ ceremoniê[ENTER]maj¹c¹ na celu uspokojenie dusz poleg³ych na[ENTER]wojnie wojowników. Zabij Elitarnego Ezoterycznego[ENTER]Wodza, który znajduje siê w Œwi¹tyni Hwang, aby[ENTER]zdobyæ niezbêdne przedmioty.
-9627	Mam Szal i Doktrynê.
-9628	To by³o niesamowite. Teraz mo¿emy uspokoiæ dusze[ENTER]poleg³ych ¿o³nierzy. Œwietnie siê spisali, a[ENTER]teraz mog¹ zaznaæ spokoju. Pozwól, ¿e dam Ci[ENTER]nagrodê za ten szlachetny czyn.
-9630	Otrzyma³eœ 1.700.000 Punktów Doœwiadczenia.
-9629	Nauczyciel Mocy Smoka:
-9631	Otrzyma³eœ 30.000 Yang.
-9632	Otrzyma³eœ 3 Diamenty.
-9633	To by³o niesamowite. Teraz mo¿emy uspokoiæ dusze[ENTER]poleg³ych ¿o³nierzy. Œwietnie siê spisali. Teraz[ENTER]mog¹ zaznaæ spokoju. Pozwól, ¿e dam Ci nagrodê za[ENTER]ten szlachetny czyn.
-9634	Pozwólmy odpocz¹æ poleg³ym...
-9635	Pozwólmy odpocz¹æ poleg³ym...
+9624	Uda³o ci siê znaleŸæ œwi¹tynny szal i œwi¹tynn¹[ENTER]doktrynê. Zanieœ je do Trenera Mocy Smoka, aby[ENTER]szamani mogli rozpocz¹æ rytua³, którego celem[ENTER]jest uspokojenie poleg³ych.
+9625	Zdob¹dŸ œwi¹tynny szal i œwi¹tynn¹ doktrynê.
+9626	Szamani potrzebuj¹ œwi¹tynnego szala oraz[ENTER]œwi¹tynnej doktryny, aby przeprowadziæ ceremoniê[ENTER]maj¹c¹ na celu uspokojenie dusz poleg³ych na[ENTER]wojnie wojowników.[ENTER]Zabij Elitarnego Ezoterycznego Wodza, który[ENTER]znajduje siê w Œwi¹tyni Hwang, aby zdobyæ[ENTER]niezbêdne przedmioty.
+9627	Mam szal i doktrynê.
+9628	Znakomicie. Teraz mo¿emy uspokoiæ dusze poleg³ych[ENTER]¿o³nierzy. Œwietnie siê spisali, a teraz powinni[ENTER]spoczywaæ w pokoju.[ENTER]Pozwól, ¿e dam ci nagrodê za ten szlachetny czyn.
+9630	Otrzymujesz 1 700 000 punktów doœwiadczenia.
+9629	Trener Mocy Smoka:
+9631	Otrzymujesz 30 000 Yang.
+9632	Otrzymujesz 3 diamenty.
+9633	Znakomicie. Teraz mo¿emy uspokoiæ dusze poleg³ych[ENTER]¿o³nierzy. Œwietnie siê spisali, a teraz powinni[ENTER]spoczywaæ w pokoju.[ENTER]Pozwól, ¿e dam ci nagrodê za ten szlachetny czyn.
+9634	Za Pokój Poleg³ym
+9635	Za pokój poleg³ym
 9636	Niektóre duchy nie mog¹ opuœciæ œwiata[ENTER]doczesnego...
 9637	Odszukaj Trenera Mocy Smoka i dowiedz siê czegoœ[ENTER]wiêcej na ten temat.
-9638	Straszne wojny powiêkszaj¹ liczbê zabitych ludzi.[ENTER]Wojownicy walcz¹ na linii frontu dla siebie, dla[ENTER]swoich rodzin i dla swojego Królestwa.[ENTER]Ale po œmierci, czêœæ z nich nie idzie do nieba,[ENTER]pozostaj¹c na tym œwiecie.
-9639	Podobno podczas wojny byli odporni na œmieræ.[ENTER]Ca³y czas wierz¹, ¿e musz¹ broniæ swojego[ENTER]królestwa. Nasi szamani chc¹ odprawiæ rytua³,[ENTER]który uspokoi ich dusze. Aby tego dokonaæ,[ENTER]potrzebny bêdzie specjalny Œwi¹tynny Szal oraz[ENTER]Œwi¹tynna Doktryna. Trudno je znaleŸæ w[ENTER]dzisiejszych czasach. Czy móg³byœ zdobyæ te[ENTER]przedmioty?
-9640	S³ysza³em, ¿e Elitarni Ezoteryczni Wodzowie w[ENTER]Œwi¹tyni Ciemnoœci posiadaj¹ Œwi¹tynny Szal i[ENTER]Œwi¹tynn¹ Doktrynê. Proszê, pomó¿ mi i moim[ENTER]towarzyszom uspokoiæ dusze poleg³ych, którzy[ENTER]zginêli w obronie królestwa.
-9641	Pomogê Ci.
-9642	Przykro mi, to zbyt straszne...
-9643	Czy na pewno chcesz zrezygnowaæ z tego zadania?
-9644	Pomó¿ nam, uspokoiæ ich dusze, dziêki czemu bêd¹[ENTER]mogli spoczywaæ w pokoju. Bêdê tu na Ciebie[ENTER]czeka³.
+9638	Na wojnach gin¹ coraz czêœciej m³ode osoby.[ENTER]Wojownicy walcz¹ na linii frontu dla siebie, dla[ENTER]swoich rodzin oraz dla królestwa. Jednak po[ENTER]œmierci, nie wszystkim z nich udaje siê osi¹gn¹æ[ENTER]stan nirwany. Czêœæ z nich pozostaje w tym[ENTER]œwiecie.
+9639	Mówi siê, ¿e podczas wojny uodpornili siê na[ENTER]œmieræ. Ca³y czas wierz¹, ¿e musz¹ broniæ swojego[ENTER]królestwa.[ENTER]Nasi szamani chc¹ odprawiæ rytua³, który uspokoi[ENTER]ich dusze. Aby tego dokonaæ, potrzebny bêdzie[ENTER]specjalny œwi¹tynny szal oraz œwi¹tynna doktryna.[ENTER]Trudno je znaleŸæ w dzisiejszych czasach. Czy[ENTER]zdobêdziesz dla nas te przedmioty?
+9640	S³ysza³em, ¿e Elitarni Ezoteryczni Wodzowie w[ENTER]Œwi¹tyni Hwang posiadaj¹ œwi¹tynny szal i[ENTER]œwi¹tynn¹ doktrynê.[ENTER]Proszê, pomó¿ mi i moim towarzyszom uspokoiæ[ENTER]dusze poleg³ych, którzy zginêli w obronie[ENTER]królestwa.
+9641	Pomogê ci.
+9642	Przykro mi, ale siê bardzo bojê.
+9643	Czy na pewno chcesz zrezygnowaæ z tej misji?
+9644	Pomó¿ nam, uspokoiæ ich dusze, by mogli spoczywaæ[ENTER]w pokoju. Bêdê tu na ciebie czeka³.
 9646	Paj¹k z Dzwoneczkiem
 9645	Paj¹k
 9647	Taurean powiedzia³, ¿e zawiesi³ dzwoneczek na[ENTER]paj¹ku. A teraz Yu-Rang chce siê przekonaæ, czy[ENTER]rzeczywiœcie jej przyjaciel jest tak odwa¿ny.[ENTER]OdnajdŸ tego paj¹ka na pustyni.
@@ -11544,74 +11659,74 @@
 9700	Paj¹ki mieszkaj¹ na pustyni.[ENTER]Jesteœ naprawdê silny. Nie mam w¹tpliwoœci co do[ENTER]tego, ¿e ci siê uda. Powodzenia!
 9702	Zdob¹dŸ tajemne informacje
 9701	Problem ze Œwi¹tyni¹ Ciemnoœci
-9703	Masz Œwi¹tynn¹ Doktrynê, Œwi¹tynny Szal i[ENTER]T³umaczenie Ksiêgi Kl¹tw. Zanieœ te przedmioty do[ENTER]Soon.
-9704	Jeœli pomo¿esz Soon, Molowi Ksi¹¿kowemu, bêdzie[ENTER]on móg³ kontynuowaæ badania zwi¹zane ze Œwi¹tyni¹[ENTER]Ciemnoœci. Dalsze badania bêd¹ mo¿liwe dopiero po[ENTER]zdobyciu nastêpuj¹cych przedmiotów: Œwi¹tynna[ENTER]Doktryna, Œwi¹tynny Szal i T³umaczenie Ksiêgi[ENTER]Kl¹tw. Zdob¹dŸ te przedmioty i zabierz je do[ENTER]Soon. Znajdziesz je w Œwi¹tyni Hwang, w Dolinie[ENTER]Seungryong.
-9705	Rzeczy ze Œwi¹tyni Ciemnoœci
-9706	Ach, Znalaz³eœ o co prosi³em! Dziêkujê.[ENTER]Co siê tyczy istot w œwi¹tyni, to jest to prosta[ENTER]sprawa. One s¹ niebezpieczne, co odczu³eœ na[ENTER]w³asnej skórze.[ENTER]Poza tym s³u¿¹ z³ym bogom. Nie znane mi s¹[ENTER]szczegó³y ale podejrzewam, ¿e maj¹ niecne plany.
-9707	Teraz, posiadaj¹c niektóre z ich œwiêtych[ENTER]reliktów, powinienem dowiedzieæ siê wiêcej.[ENTER]Zacznê chyba ze Œwi¹tynn¹ Doktryn¹.[ENTER]Chwila.... hmmm... aha...[ENTER]Dlaczego nadal tu stoisz? Nie masz nic lepszego[ENTER]do roboty?
-9708	Otrzyma³eœ 7.000.000 Punktów Doœwiadczenia.
-9709	Otrzyma³eœ 70.000 Yang.
-9710	Otrzyma³eœ Ksi¹¿kê Lidera.
-9711	Co? Nie masz ich? Œpiesz siê, masz przecie¿ coœ[ENTER]do zrobienia![ENTER]No dalej, szybko!
+9703	Posiadasz teraz œwi¹tynn¹ doktrynê, œwi¹tynny[ENTER]szal i t³umaczenie ksiêgi kl¹tw. Zanieœ te[ENTER]przedmioty do Soon.
+9704	Jeœli pomo¿esz Soonowi, molowi ksi¹¿kowemu,[ENTER]bêdzie on móg³ kontynuowaæ badania zwi¹zane ze[ENTER]Œwi¹tyni¹ Ciemnoœci.[ENTER]To jest dopiero mo¿liwe, gdy bêdzie on posiada³[ENTER]nastêpuj¹ce przedmioty: œwi¹tynna doktryna,[ENTER]œwi¹tynny szal i t³umaczenie ksiêgi kl¹tw.[ENTER]Zdob¹dŸ te przedmioty i zanieœ je do Soona.[ENTER]Znajdziesz je w Œwi¹tyni Hwang, w Dolinie[ENTER]Seungryong.
+9705	Przedmioty ze Œwi¹tyni Ciemnoœci
+9706	Ach, uda³o ci siê je znaleŸæ! Bardzo dziêkujê.[ENTER]Co siê tyczy istot w œwi¹tyni, to jest to prosta[ENTER]sprawa: one s¹ niebezpieczne. Ale odczu³eœ to na[ENTER]w³asnej skórze.[ENTER]Poza tym s³u¿¹ z³ym bogom.[ENTER]Nie znane mi s¹ szczegó³y ale podejrzewam, ¿e[ENTER]maj¹ niecne plany.
+9707	Teraz, posiadaj¹c niektóre z ich œwiêtych[ENTER]reliktów, powinienem dowiedzieæ siê wiêcej.[ENTER]Zacznê chyba od œwi¹tynnej doktryny.[ENTER]Chwila... hmmm... aha...[ENTER]Dlaczego nadal tu stoisz? Nie masz nic lepszego[ENTER]do roboty?
+9708	Otrzymujesz 7 000 000 punktów doœwiadczenia.
+9709	Otrzymujesz 70 000 Yang.
+9710	Otrzymujesz ksi¹¿kê lidera.
+9711	Co? Nie masz ich?[ENTER]Œpiesz siê, masz przecie¿ coœ do zrobienia![ENTER]No dalej, szybko!
 9713	Spróbuj ponownie
-9712	Coœ siê szykujê w Œwi¹tyni Ciemnoœci.[ENTER]Niebezpieczne istoty studiuj¹ tam chyba[ENTER]archaiczn¹ magiê.[ENTER]Te tajemnice Œwi¹tyni Ciemnoœci s¹ trudne do[ENTER]zg³êbienia, nawet dla mnie. Ale jestem pewien, ¿e[ENTER]motywy tych istot nie s¹ szlachetne. Muszê[ENTER]dowiedzieæ siê wiêcej!
-9714	W takim razie bêdê siê musia³ spytaæ[ENTER]dzielniejszego bohatera. Bywaj.
-9715	Dziêkujê![ENTER]Mam nadziejê, ¿e tym razem odniesiesz sukces!
-9716	Tajna œwi¹tynia
-9717	Tajna œwi¹tynia
+9712	Coœ siê szykujê w Œwi¹tyni Ciemnoœci. Wydaje mi[ENTER]siê, ¿e niebezpieczne istoty studiuj¹ tam[ENTER]archaiczn¹ magiê.[ENTER]Te tajemnice Œwi¹tyni Ciemnoœci s¹ trudne do[ENTER]zg³êbienia, nawet dla mnie. Ale jestem pewien, ¿e[ENTER]motywy tych istot nie s¹ szlachetne. Muszê[ENTER]dowiedzieæ siê wiêcej!
+9714	W takim razie bêdê siê musia³ spytaæ[ENTER]dzielniejszego bohatera. ¯egnaj.
+9715	Dziêkujê.[ENTER]Mam nadziejê, ¿e tym razem odniesiesz sukces!
+9716	Tajemnicza Œwi¹tynia
+9717	Tajemnicza Œwi¹tynia
 9718	Soon chce za wszelk¹ cenê rozszyfrowaæ tajemnice[ENTER]Œwi¹tyni Ciemnoœci.
 9719	Z pewnoœci¹ przyda mu siê przy tym twoja pomoc![ENTER]IdŸ do niego i dowiedz siê wiêcej na ten temat.
-9720	Potrzebuje wiêcej informacji w celu wykonania[ENTER]dok³adniejszej analizy. Myœlê, ¿e pomog³yby mi[ENTER]Œwi¹tynna Doktryna, Œwi¹tynny Szal i T³umaczenia[ENTER]Ksiêgi Kl¹tw.[ENTER]Móg³byœ dla mnie zdobyæ te rzeczy? By³bym Ci[ENTER]bardzo wdziêczny. I nie guzdraj siê zbyt d³ugo,[ENTER]potrzebne mi s¹ jak najszybciej!
-9721	Idê.
+9720	Potrzebuje wiêcej informacji w celu wykonania[ENTER]dok³adniejszej analizy.[ENTER]Myœlê, ¿e pomog³yby mi w tym œwi¹tynna doktryna,[ENTER]œwi¹tynny szal i t³umaczenia ksiêgi kl¹tw.[ENTER]Mo¿esz zdobyæ dla mnie te przedmioty? By³bym ci[ENTER]bardzo wdziêczny. I nie guzdraj siê zbyt d³ugo,[ENTER]potrzebne mi s¹ jak najszybciej!
+9721	Natychmiast idê.
 9722	Czy chcesz to zrobiæ?
-9723	Proszê Ciê o pomoc![ENTER]Jeœli chwilowo jesteœ zajêty, wróæ póŸniej, jak[ENTER]bêdziesz mia³ wiêcej czasu. Bêdê na Ciebie[ENTER]czeka³.
-9724	Ja proszê o twoj¹ pomoc, a Ty tak po prostu siê[ENTER]odwracasz?[ENTER]Ach, nie potrzebujê wcale twojej pomocy... precz[ENTER]st¹d!
-9725	Dziêki!
+9723	Proszê ciê o pomoc![ENTER]Jeœli teraz nie masz czasu, to wpadnij póŸniej.[ENTER]Mo¿e znajdziesz póŸniej wiêcej czasu.[ENTER]Bêdê na ciebie czeka³.
+9724	Ja proszê o twoj¹ pomoc, a ty tak po prostu siê[ENTER]odwracasz?[ENTER]Ach, nie potrzebujê wcale twojej pomocy... precz[ENTER]st¹d!
+9725	Dziêkujê!
 9726	Œwi¹tynia Ciemnoœci
-9728	Powodzenia w swoich poszukiwaniach. Tylko gdy[ENTER]bêdê mia³ w³aœciwe materia³y, mogê wytworzyæ[ENTER]odpowiedni¹ porcelanê. Moi klienci siê[ENTER]niecierpliwi¹!
-9727	Sekret Seledynowej Porcelany.
+9728	Powodzenia w swoich poszukiwaniach.[ENTER]Tylko gdy bêdê mia³ w³aœciwe materia³y, mogê[ENTER]wyprodukowaæ odpowiedni¹ porcelanê.[ENTER]Moi klienci siê niecierpliwi¹!
+9727	Sekret seledynowej porcelany.
 9729	Seledynowa Porcelana
-9730	Seledynowa Porcelana
-9731	Znalaz³eœ wszystkie materia³y potrzebne Yonah do[ENTER]stworzenia Seledynowej Porcelany. Zanieœ mu je.
-9732	Yonah mo¿e wytworzyæ Seledynow¹ Porcelanê,[ENTER]potrzebuje on jednak nastêpuj¹cych materia³ów:[ENTER]Pustynny Piasek od Pustynnych Zawadiaków na[ENTER]Pustyni Yongbi, Rudê Kryszta³u z ¯y³y Kryszta³u i[ENTER]Krew Ma³py z Silnych Kamiennych Ma³p lub Silnych[ENTER]Z³otych Ma³p. Zdob¹dŸ wszystkie sk³adniki i[ENTER]dostarcz je do Yonah.
-9733	Sekret Seledynowej Porcelany
-9734	Zebra³em wszystkie materia³y
-9735	Uda³o Ci siê! Tak bardzo Ci dziêkujê![ENTER]Za pomoc¹ specjalnej techniki oraz odpowiednich[ENTER]materia³ów mogê wytworzyæ przepiêkn¹ Seledynow¹[ENTER]Porcelanê. Dochody z jej sprzeda¿y wreszcie[ENTER]nape³ni¹ mi sakiewkê. Proszê, oto twoja nagroda,[ENTER]nale¿y Ci siê. A ja od razu zabieram siê do[ENTER]roboty!
-9736	Otrzyma³eœ 3.000.000 Punktów Doœwiadczenia.
-9737	Otrzyma³eœ 30.000 Yang.
-9739	Sekret seledynowej porcelany
-9738	Witaj poszukiwaczu przygód! Czy to nie Ty[ENTER]przynios³eœ mi ostatnio receptê Soon na[ENTER]wytwarzanie Seledynowej Porcelany? Mam jednak[ENTER]jeszcze jeden problem... mimo i¿ ju¿ znam[ENTER]technikê, nie potrafiê wytworzyæ prawdziwej[ENTER]Seledynowej Porcelany. Prawdopodobnie dlatego, bo[ENTER]próbujê tego dokonaæ za pomoc¹ moich[ENTER]standardowych sk³adników, a nie tych ciê¿kich do[ENTER]zdobycia z recepty.
-9740	Sekret seledynowej porcelany
+9730	Seledynowa porcelana
+9731	Uda³o ci siê znaleŸæ wszystkie materia³y, które[ENTER]Yonah potrzebuje do wyprodukowania seledynowej[ENTER]porcelany.[ENTER]Zanieœ mu je.
+9732	Yonah mo¿e wyprodukowaæ seledynow¹ porcelanê,[ENTER]potrzebuje on jednak nastêpuj¹cych materia³ów:[ENTER]pustynny piasek od Pustynnych Zawadiaków na[ENTER]Pustyni Yongbi, rudê kryszta³u z ¿y³y kryszta³u i[ENTER]krew ma³py z Silnych Kamiennych Ma³p lub Silnych[ENTER]Z³otych Ma³p w Sangsun Dong.[ENTER]Zdob¹dŸ wszystkie trzy sk³adniki i dostarcz je do[ENTER]Yonah.
+9733	Sekret seledynowej porcelany.
+9734	Uda³o mi siê zebraæ materia³y.
+9735	Uda³o ci siê! Dziêkujê ci![ENTER]Za pomoc¹ specjalnej techniki oraz odpowiednich[ENTER]materia³ów mogê wytworzyæ przepiêkn¹ seledynow¹[ENTER]porcelanê. Dochody z jej sprzeda¿y wreszcie[ENTER]nape³ni¹ mi sakiewkê. WeŸ tê nagrodê. Zas³u¿y³eœ[ENTER]sobie na ni¹.[ENTER]A ja od razu zabieram siê do roboty!
+9736	Otrzymujesz 3 000 000 punktów doœwiadczenia.
+9737	Otrzymujesz 30 000 Yang.
+9739	Sekret Seledynowej Porcelany.
+9738	Witaj, poszukiwaczu przygód! Czy to nie ty[ENTER]przynios³eœ mi ostatnio instrukcjê Soona na[ENTER]wytwarzanie seledynowej porcelany? Mam jednak[ENTER]jeszcze jeden problem... mimo i¿ ju¿ znam[ENTER]technikê, nie potrafiê wytworzyæ prawdziwej[ENTER]seledynowej porcelany.[ENTER]Prawdopodobnie dlatego, bo próbujê tego dokonaæ[ENTER]za pomoc¹ moich standardowych sk³adników, a nie[ENTER]tych zapisanych w instrukcji, które tak trudno[ENTER]zdobyæ.
+9740	Sekret seledynowej porcelany.
 9741	Yonah ma trudnoœci z wyprodukowaniem seledynowej[ENTER]porcelany.
 9742	IdŸ do niego, z pewnoœci¹ przyda mus siê twoja[ENTER]pomoc.
-9743	Potrzebujê specjalnego Pustynnego Piasku na[ENTER]glinê, Rudê Kryszta³u i Krwi Ma³py. Jeœli zmiesza[ENTER]siê te sk³adniki i doda siê je do Gliny, stanie[ENTER]siê ona podczas wypalania bardzo twarda. Glazura[ENTER]nabiera wtedy typowy seledynowy odcieñ[ENTER]przypominaj¹cy Jadeit. Kolor ten jest bardzo[ENTER]popularny wœród klientów i muszê jak najprêdzej[ENTER]sprzedaæ wiêcej!
-9744	Pustynny Piasek zdobêdziesz u Pustynnych[ENTER]Zawadiaków, Rudê Kryszta³u znajdziesz w ¯yle[ENTER]Kryszta³u a dla uzyskania Krwi Ma³py musisz zabiæ[ENTER]Ma³py w Sangsung Dong. Zdobêdziesz dla mnie te[ENTER]materia³y? Wiem, ¿e nie bêdzie to ³atwe, ale[ENTER]hojnie Ciebie wynagrodzê.
+9743	Potrzebujê specjalnego drobnoziarnistego[ENTER]pustynnego piasku, rudê kryszta³u i krwi ma³py.[ENTER]Jeœli zmiesza siê te sk³adniki i doda siê je do[ENTER]gliny, stanie siê ona podczas wypalania bardzo[ENTER]twarda. Glazura nabiera wtedy typowy seledynowy[ENTER]odcieñ przypominaj¹cy jadeit. Kolor ten jest[ENTER]bardzo popularny wœród klientów, a ja koniecznie[ENTER]muszê jak najprêdzej wiêcej sprzedawaæ!
+9744	Pustynny piasek zdobêdziesz u Pustynnych[ENTER]Zawadiaków, rudê kryszta³u znajdziesz w ¯yle[ENTER]Kryszta³u, a dla uzyskania krwi ma³py musisz[ENTER]zabiæ Ma³py w Sangsung Dong. Zdobêdziesz dla mnie[ENTER]te materia³y? Wiem, ¿e nie bêdzie to ³atwe, ale[ENTER]hojnie ciê za to wynagrodzê.
 9745	Akceptuj
-9746	Odrzuæ.
-9747	Czy chcesz na zawsze zrezygnowaæ z zadania?
-9748	Jeœli jesteœ teraz zbyt zajêty, wróæ póŸniej.
-9749	Naprawdê chcesz siê poddaæ? Muszê zatem zrobiæ to[ENTER]sam... Naprawdê potrzebujê tej porcelany. Do[ENTER]zobaczenia i powodzenia.
-9752	Ah! To jest to!
-9750	wrogowie na horyzoncie
+9746	Odrzuæ
+9747	Czy chcesz na zawsze zrezygnowaæ z tej misji?
+9748	Jeœli teraz nie masz czasu, wróæ póŸniej.
+9749	Poddajesz siê? Naprawdê?[ENTER]Muszê zatem sam udaæ siê na poszukiwania.[ENTER]Pilnie potrzebujê tej porcelany.[ENTER]Do zobaczenia i powodzenia.
+9752	Ach! To jest to!
+9750	Wrogowie na horyzoncie
 9751	Kapitan
 9753	Nie wiem.
 9754	Poka¿ mi to jeszcze raz.
-9755	Czy chcesz na zawsze zrezygnowaæ z zadania?
+9755	Czy naprawdê chcesz zrezygnowaæ z tej misji?
 9756	Przemyœl to na spokojnie i wróæ póŸniej. Ale[ENTER]nikomu ani s³owa!
-9757	Och, czy to a¿ takie trudne? By³eœ moj¹ ostatni¹[ENTER]nadziej¹... I kto to teraz ma odszyfrowaæ?
+9757	Och! Czy to a¿ takie trudne? By³eœ moj¹ ostatni¹[ENTER]nadziej¹... Kto to teraz odszyfruje?
 9758	W porz¹dku, ale szybko. Jeszcze ktoœ zacznie coœ[ENTER]podejrzewaæ...[ENTER][ENTER]GOWWIERO[ENTER]AN[ENTER]CIHONERYZO
 9759	I co? Co tam jest napisane?
-9760	Tak, masz racjê! Teraz te¿ to widzê. Jestem z[ENTER]Ciebie dumny. Jesteœ jednym z naszych najlepszych[ENTER]¿o³nierzy! Te zdanie jest uzgodnionym has³em.[ENTER]Oznacza to, ¿e Yu-Hwan zdemaskowa³ wrogich[ENTER]szpiegów, którymi musimy siê zaj¹æ. Zaraz wydam[ENTER]odpowiednie rozkazy.
-9761	Otrzyma³eœ 1.300.000 Punktów Doœwiadczenia.
-9762	Czemu zrobi³o siê tak cicho?[ENTER]Czy nie jesteœ w stanie tego odszyfrowaæ?
+9760	Tak, masz racjê! Teraz te¿ to widzê.[ENTER]Jestem z ciebie dumny. Jesteœ jednym z naszych[ENTER]najlepszych ¿o³nierzy! Te zdanie jest uzgodnionym[ENTER]has³em. Oznacza to, ¿e Yu-Hwan zdemaskowa³[ENTER]wrogich szpiegów, którymi musimy siê zaj¹æ. Zaraz[ENTER]wydam odpowiednie rozkazy.
+9761	Otrzymujesz 1 300 000 punktów doœwiadczenia.
+9762	Czemu nic nie mówisz?[ENTER]Czy nie jesteœ w stanie tego odszyfrowaæ?
 9765	Muszê to jeszcze raz przemyœleæ...
 9763	Wrogowie na horyzoncie.
 9764	Co siê tyczy sekretnej wiadomoœci...
 9766	Poddajê siê.
-9767	Och, jest to a¿ takie trudne? By³eœ moj¹ ostatni¹[ENTER]nadziej¹... kto to teraz odszyfruje?
+9767	Och! Czy to a¿ takie trudne? By³eœ moj¹ ostatni¹[ENTER]nadziej¹... Kto to teraz odszyfruje?
 9768	A wiêc, co to oznacza?
-9769	Tak, masz racjê! Teraz te¿ to widzê. Jestem z[ENTER]Ciebie dumny. Jesteœ jednym z naszych najlepszych[ENTER]¿o³nierzy! To zdanie jest uzgodnionym has³em. To[ENTER]znaczy, ¿e Yu-Hwan zdemaskowa³ wrogich szpiegów,[ENTER]którymi musimy siê zaj¹æ. Zaraz wydam odpowiednie[ENTER]rozkazy.
-9770	Otrzyma³eœ 2.300.000 Punktów Doœwiadczenia.
+9769	Tak, masz racjê! Teraz te¿ to widzê.[ENTER]Jestem z ciebie dumny. Jesteœ jednym z naszych[ENTER]najlepszych ¿o³nierzy! Te zdanie jest uzgodnionym[ENTER]has³em. Oznacza to, ¿e Yu-Hwan zdemaskowa³[ENTER]wrogich szpiegów, którymi musimy siê zaj¹æ. Zaraz[ENTER]wydam odpowiednie rozkazy.
+9770	Otrzymujesz 2 300 000 punktów doœwiadczenia.
 9771	Jakoœ sobie poradzisz. Wróæ, gdy poczujesz siê na[ENTER]si³ach!
 9772	Hmm, nic mi to nie mówi. Co on móg³ mieæ na[ENTER]myœli? Coœ siê tutaj nie zgadza. Pomyœl nad tym[ENTER]jeszcze raz.
 9773	Spróbujê ponownie.
@@ -11620,108 +11735,108 @@
 9777	Wrogowie na horyzoncie
 9778	Przyjaciele na horyzoncie
 9779	Wrodzy na horyzontach
-9780	Prawda czyni wroga
+9780	Fa³szywi przyjaciele nie pomog¹
 9781	Nie wiem
-9775	Ach, to ty. Mam informacje od Yu-Hwan.[ENTER]S¹ jak zwykle zaszyfrowane. Nie s¹ ³atwe do[ENTER]odczytania, ale musimy siê pospieszyæ. Ostatnim[ENTER]razem, ca³kiem sprawnie Ci posz³o z[ENTER]rozszyfrowaniem wiadomoœci. Czy pomo¿esz mi[ENTER]ponownie? Proszê, by³bym wdziêczny.
-9782	Tak, masz racjê! Teraz te¿ to widzê. jestem z[ENTER]Ciebie dumny. Jesteœ jednym z naszych najlepszych[ENTER]¿o³nierzy! To zdanie jest uzgodnionym has³em.[ENTER]Znaczy to, ¿e Yu-Hwan zdemaskowa³ wrogich[ENTER]szpiegów, którymi musimy siê zaj¹æ. Zaraz wydam[ENTER]odpowiednie rozkazy.
-9783	Otrzyma³eœ 20.000 Yang.
-9784	Prêdzej czy póŸniej na pewno Ci siê uda. PrzyjdŸ[ENTER]ponownie, gdy poczujesz siê na si³ach!
-9785	Odszyfruj tajne wiadomoœci
+9775	BACZNOŒÆ![ENTER]Ach, to ty. Œwietnie, ¿e jesteœ.[ENTER]Mam informacje od Yu-Hwana.[ENTER]S¹ jak zwykle zaszyfrowane. Nie s¹ ³atwe do[ENTER]odczytania, ale musimy siê pospieszyæ. Ostatnim[ENTER]razem, ca³kiem sprawnie ci posz³o z[ENTER]rozszyfrowaniem wiadomoœci. Czy pomo¿esz mi[ENTER]ponownie? Proszê, by³bym wdziêczny.
+9782	Tak, masz racjê! Teraz te¿ to widzê.[ENTER]Jestem z ciebie dumny. Jesteœ jednym z naszych[ENTER]najlepszych ¿o³nierzy! Te zdanie jest uzgodnionym[ENTER]has³em. Oznacza to, ¿e Yu-Hwan zdemaskowa³[ENTER]wrogich szpiegów, którymi musimy siê zaj¹æ. Zaraz[ENTER]wydam odpowiednie rozkazy.
+9783	Otrzymujesz 20 000 Yang.
+9784	Jakoœ sobie poradzisz. Wróæ, gdy poczujesz siê na[ENTER]si³ach!
+9785	Odszyfruj Tajne Wiadomoœci
 9786	Odszyfruj tajne wiadomoœci
 9787	Kapitan ciê szuka! Otrzyma³ on tajne informacje i[ENTER]potrzebuje teraz twojej pomocy.
 9788	IdŸ do niego, by dowiedzieæ siê czegoœ wiêcej.
-9789	Czy chcesz na zawsze zrezygnowaæ z zadania?
-9790	Ale... ostatnim razem Ci siê uda³o.[ENTER]Czemu siê wahasz? Przemyœl to, proszê.
+9789	Czy naprawdê chcesz zrezygnowaæ z tej misji?
+9790	Ale... ostatnim razem ci siê uda³o.[ENTER]Czemu siê wahasz? Przemyœl to, proszê.
 9791	Rozumiem. Ju¿ nie chcesz z nami pracowaæ, tak?[ENTER]Wielka szkoda. Dzielni wojownicy s¹ rzadkoœci¹.
 9792	Jesteœ moim wybawc¹! Spójrz, to jest tajemna[ENTER]wiadomoœæ. Przyjrzyj siê jej dok³adnie!
-9793	GOWWIERO[ENTER]AN[ENTER]CIHONERYZO[ENTER][ENTER]Czy jesteœ w stanie j¹ odczytaæ?
-9794	Wiêc, jak tam? Jakieœ poszlaki?
-9796	ZnajdŸ Szpiega
-9795	ZnajdŸ Szpiega
-9797	Jeden ze szpiegów Kapitana mieszka pod[ENTER]przykryciem Rybaka w wiosce Pyungmo w Królestwie[ENTER]Jinno. Spróbuj siê z nimi niepostrze¿enie[ENTER]skontaktowaæ. Jak tylko zdobêdziesz potrzebne[ENTER]informacje, przeka¿ je Kapitanowi.
-9798	Jeden ze szpiegów Kapitana mieszka pod[ENTER]przykryciem Rybaka w wiosce Yongan, w Królestwie[ENTER]Shinsoo. Spróbuj siê z nimi niepostrze¿enie[ENTER]skontaktowaæ. Jak tylko zdobêdziesz potrzebne[ENTER]informacje, przeka¿ je Kapitanowi.
-9799	Jeden ze szpiegów Kapitana mieszka pod[ENTER]przykryciem Rybaka w wiosce Joan, w Królestwie[ENTER]Chunjo. Spróbuj siê z nimi niepostrze¿enie[ENTER]skontaktowaæ. Jak tylko zdobêdziesz potrzebne[ENTER]informacje, przeka¿ je Kapitanowi.
-9800	Co ty robisz?
-9801	Ciii, b¹dŸ cicho! Wystraszysz wszystkie ryby. Co[ENTER]tu tak w ogóle robisz? Jesteœ tak g³oœny i[ENTER]niezdarny, ¿e na pewno nie przyszed³eœ tu[ENTER]powêdkowaæ.
-9802	Ach, ju¿ rozumiem. Czeka³em na Ciebie jakiœ czas[ENTER]temu, spóŸni³eœ siê. Nie by³o ³atwo zdobyæ te[ENTER]informacje i nie zostaæ z³apanym. Musisz[ENTER]wiedzieæ, ¿e wróg czyha wszêdzie i tylko czeka,[ENTER]a¿ siê ujawnimy.
-9803	Wiêc, zróbmy to szybko, zanim ktoœ nas zobaczy.[ENTER]Tutaj masz dokumenty. Zanieœ je natychmiast do[ENTER]Kapitana i tylko do niego.
-9804	Chwileczkê! Mam coœ dla Ciebie. Ma³y prezent.[ENTER]Teraz ruszaj. Powodzenia.
-9805	Zaciekawiony otwierasz paczkê, aby zobaczyæ, co[ENTER]podarowa³ Ci szpieg.
-9807	Œwietnie! Pieczona Krasnopiórka! Niew¹tpliwie[ENTER]Szpieg zna siê znakomicie na rybach.
-9806	Spocznij ¿o³nierzu! Poniewa¿ s¹siednie Królestwa[ENTER]s¹ naszymi wrogami, wa¿ne jest, ¿ebyœmy mieli tam[ENTER]przyjació³, którzy bêd¹ potajemnie zbieraæ dla[ENTER]nas informacje. Dziêki temu bêdziemy w stanie[ENTER]przygotowaæ siê do odpierania ataków. Niezwykle[ENTER]wa¿ne jest to, aby nie odkryto tych szpiegów.
-9808	Otrzyma³eœ 3 Pieczone Krasnopiórki.
-9809	Wróæ do Kapitana.
+9793	GOWWIERO[ENTER]AN[ENTER]CIHONERYZO[ENTER][ENTER][ENTER]Czy jesteœ w stanie j¹ odczytaæ?
+9794	Wiêc, jak tam?[ENTER]Uda³o ci siê? 
+9796	ZnajdŸ szpiega
+9795	ZnajdŸ szpiega
+9797	Jeden ze szpiegów Kapitana mieszka przebrany za[ENTER]rybaka w wiosce Pyungmo w Królestwie Jinno.[ENTER]Spróbuj siê z nimi niepostrze¿enie skontaktowaæ i[ENTER]przeka¿ zdobyte od niego informacje Kapitanowi.
+9798	Jeden ze szpiegów Kapitana mieszka przebrany za[ENTER]rybaka w wiosce Yongan, w Królestwie Shinsoo.[ENTER]Spróbuj siê z nimi niepostrze¿enie skontaktowaæ i[ENTER]przeka¿ zdobyte od niego informacje Kapitanowi.
+9799	Jeden ze szpiegów Kapitana mieszka przebrany za[ENTER]rybaka w wiosce Joan, w Królestwie Chunjo.[ENTER]Spróbuj siê z nimi niepostrze¿enie skontaktowaæ i[ENTER]przeka¿ zdobyte od niego informacje Kapitanowi.
+9800	Co ty tutaj robisz?
+9801	Ciii, b¹dŸ cicho! Wystraszysz wszystkie ryby.[ENTER]Czego ty tutaj w ogóle szukasz? Jesteœ tak g³oœny[ENTER]i taki nieporadny. Przecie¿ nie przyszed³eœ tutaj[ENTER]powêdkowaæ.
+9802	Ach, ju¿ rozumiem. Czekam na ciebie ju¿ od[ENTER]d³u¿szego czasu. SpóŸni³eœ siê. Nie by³o ³atwo[ENTER]zdobyæ te informacje bez ujawniania siê. Musisz[ENTER]wiedzieæ, ¿e wróg czyha wszêdzie i tylko czeka na[ENTER]to, ¿e pope³nimy jakiœ b³¹d.
+9803	Wiêc, zróbmy to szybko. Zanim nas ktoœ tutaj[ENTER]zobaczy. Tutaj masz dokumenty. Zanieœ je[ENTER]natychmiast do Kapitana i tylko do niego!
+9804	Chwileczkê! Mam coœ dla ciebie. Ma³y prezent. A[ENTER]teraz ruszaj.
+9805	Zaciekawiony otwierasz paczkê, aby zobaczyæ, co[ENTER]podarowa³ ci szpieg.
+9807	Œwietnie! Pieczona krasnopiórka! Niew¹tpliwie[ENTER]szpieg zna siê znakomicie na rybach.
+9806	Spocznij ¿o³nierzu![ENTER]Poniewa¿ nie mamy przyjaznych stosunków z[ENTER]s¹siaduj¹cymi królestwami, wa¿ne jest, ¿ebyœmy[ENTER]mieli tam przyjació³, którzy bêd¹ potajemnie[ENTER]zbieraæ dla nas informacje. Dziêki temu bêdziemy[ENTER]w stanie przygotowaæ siê do odpierania ataków.[ENTER]Niezwykle wa¿ne jest to, aby nie odkryto naszych[ENTER]szpiegów.
+9808	Otrzymujesz 3 pieczone krasnopiórki.
+9809	Powrót do Kapitana
 9810	Kapitan
-9811	Podró¿ do Pyungmoo, do Królestwa Jinno by³a[ENTER]bardzo niebezpieczna: Otrzyma³eœ raport szpiega[ENTER]przebranego za rybaka. A teraz powróæ szybko do[ENTER]swojego Królestwa i przeka¿ zdobyte informacje[ENTER]Kapitanowi.
-9812	Podró¿ do Yongan, do Królestwa Shinsoo by³a[ENTER]bardzo niebezpieczna: Otrzyma³eœ raport szpiega[ENTER]przebranego za rybaka. A teraz powróæ szybko do[ENTER]swojego Królestwa i przeka¿ zdobyte informacje[ENTER]Kapitanowi.
-9813	Podró¿ do Joan, do Królestwa Chunjo by³a bardzo[ENTER]niebezpieczna: Otrzyma³eœ raport szpiega[ENTER]przebranego za rybaka. A teraz powróæ szybko do[ENTER]swojego Królestwa i przeka¿ zdobyte informacje[ENTER]Kapitanowi.
-9814	Misja wykonana!
-9815	To s¹ te dokumenty? Œwietnie! Dziêkujê.[ENTER]Teraz wiemy o planach naszego wroga i mo¿emy[ENTER]poczyniæ odpowiednie przygotowania.[ENTER]Teraz nie musimy siê ju¿ wiêcej obawiaæ.[ENTER]Wyœwiadczy³eœ Królestwu ogromn¹ przys³ugê.
-9816	Otrzyma³eœ 5.500.000 Punktów Doœwiadczenia.
-9818	Otrzyma³eœ 50.000 Yang.
-9817	Pewnie znasz muzyka o imieniu Yu-Hwan?[ENTER]Jest naszym szpiegiem, pracuje pod przykrywk¹[ENTER]muzyka. Jeden szpieg nie zdzia³a za wiele,[ENTER]dlatego mamy kilku rozproszonych po ca³ym[ENTER]œwiecie. Kilku z nich, to rybacy w pierwszej[ENTER]wiosce.
-9819	ZnajdŸ szpiega
+9811	Niebezpieczna podró¿ do Pyungmoo w Królestwa[ENTER]Jinno zakoñczy³a siê sukcesem: otrzyma³eœ raport[ENTER]od szpiega przebranego za rybaka.[ENTER]A teraz powróæ szybko do swojego królestwa i[ENTER]przeka¿ zdobyte informacje Kapitanowi.
+9812	Niebezpieczna podró¿ do Yongan w Królestwa[ENTER]Shinsoo zakoñczy³a siê sukcesem: otrzyma³eœ[ENTER]raport od szpiega przebranego za rybaka.[ENTER]A teraz powróæ szybko do swojego królestwa i[ENTER]przeka¿ zdobyte informacje Kapitanowi.
+9813	Niebezpieczna podró¿ do Joan w Królestwa Chunjo[ENTER]zakoñczy³a siê sukcesem: otrzyma³eœ raport od[ENTER]szpiega przebranego za rybaka.[ENTER]A teraz powróæ szybko do swojego królestwa i[ENTER]przeka¿ zdobyte informacje Kapitanowi.
+9814	Misja zakoñczona sukcesem!
+9815	To s¹ te dokumenty? Œwietnie! Dziêkujê ci. Teraz[ENTER]znamy plany naszych wrogów i mo¿emy poczyniæ[ENTER]odpowiednie przygotowania, by siê skutecznie[ENTER]broniæ. Wyœwiadczy³eœ swojemu królestwu ogromn¹[ENTER]przys³ugê!
+9816	Otrzymujesz 5 500 000 punktów doœwiadczenia.
+9818	Otrzymujesz 50 000 Yang.
+9817	Pewnie znasz muzyka o imieniu Yu-Hwan?[ENTER]Jest naszym szpiegiem, pracuje przebrany za[ENTER]muzyka. Jeden szpieg nie zdzia³a za wiele.[ENTER]Dlatego mamy kilku rozproszonych po ca³ym[ENTER]œwiecie. Jeden z nich, to rybak w pierwszej[ENTER]wiosce.
+9819	Poszukiwania Szpiega
 9820	ZnajdŸ szpiega
 9821	Kapitan ciê szuka!
 9822	Chcia³by on z tob¹ podyskutowaæ o bezpieczeñstwu[ENTER]królestwa.
-9823	Jako, ¿e nie mogê siê z nimi skontaktowaæ bez[ENTER]zdemaskowania ich, potrzebujê pomocy od bardzo[ENTER]odwa¿nych ¿o³nierzy takich jak Ty. Czy móg³byœ[ENTER]udaæ siê do rybaka i zdobyæ dla mnie informacje,[ENTER]których pilnie potrzebujê, aby móc chroniæ nasze[ENTER]Królestwo?
-9824	Czy chcesz zrezygnowaæ z zadania?
-9825	Chcesz siê najpierw przygotowaæ? Wiêc wpadnij[ENTER]póŸniej. Oczekujê Ciê. Ale proszê, œpiesz siê, to[ENTER]bardzo wa¿ne! Potrzebujê tego raportu!
-9826	Co z Tob¹? Ostatnim razem wykona³eœ œwietn¹[ENTER]robotê dla nas! Nie mogê uwierzyæ, ¿e ot tak[ENTER]zostawiasz królestwo w potrzebie. Ale to Twój[ENTER]wybór, nic nie mo¿emy zrobiæ... Do zobaczenia.
-9827	Œwietnie! Wiedzia³em, ¿e mo¿na na tobie polegaæ.[ENTER]Powodzenia i uwa¿aj na siebie.
-9828	Spotkaj siê ze Szpiegiem
-9830	Co to jest Bingsu
+9823	Jako, ¿e nie mogê siê z nim skontaktowaæ bez[ENTER]zdemaskowania go, potrzebujê pomocy odwa¿nych[ENTER]¿o³nierzy. Tak, mam na myœli ciebie! Udaj siê do[ENTER]tego rybaka i zdob¹dŸ dla mnie informacje,[ENTER]których pilnie potrzebujê. Ma to ogromne[ENTER]znaczenie dla bezpieczeñstwa królestwa!
+9824	Czy na pewno chcesz zrezygnowaæ na zawsze z tej[ENTER]misji?
+9825	Chcesz siê najpierw przygotowaæ? Wiêc wpadnij[ENTER]póŸniej. Oczekujê ciê. Ale proszê, œpiesz siê.[ENTER]Potrzebujê tego raportu!
+9826	Co z tob¹? Ostatnim razem wykona³eœ œwietn¹[ENTER]robotê dla nas! Nie mogê uwierzyæ, ¿e ot tak[ENTER]zostawiasz królestwo w potrzebie. Ale to twój[ENTER]wybór, nic nie mo¿emy zrobiæ... ¯egnaj.
+9827	Wiedzia³em, ¿e mo¿na na tobie polegaæ.[ENTER]Powodzenia! I uwa¿aj na siebie!
+9828	Spotkaj siê ze szpiegiem
+9830	Czym jest Bingsu
 9829	Bingsu?
 9831	Tauerean pok³óci³ siê z Harang, bo nie wierzy[ENTER]jej, ¿e w lecie mo¿na produkowaæ lody. IdŸ do[ENTER]Harang i spytaj siê jej, co wie na temat Bingsu.
 9832	Spytaj Harang
 9833	Spytaj Harang
 9834	Czym jest Bingsu?
-9835	A to Taurean! Nie wie co to jest Bingsu, ale[ENTER]twierdzi, ¿e wie wszystko. Jak ktoœ mo¿e nie znaæ[ENTER]takiego dania? Co za g³uptas. Ty tak¿e nie masz[ENTER]pojêcia czym jest Bingsu? Najlepiej jakbyœ uda³[ENTER]siê do Octavio, który mieszka w nastêpnej wiosce.[ENTER]Jest znanym kucharzem i zna wszystkie dobre[ENTER]przepisy. Zrobi³ pewnego razu dla mnie Bingsu,[ENTER]hmm... On Ci udowodni, ¿e mam racjê!
+9835	Taurean zawsze twierdzi, ¿e wie wszystko.[ENTER]A teraz nie wie nawet, co to Bingsu! Jak ktoœ[ENTER]mo¿e nie znaæ takiego smacznego dania?[ENTER]Ty tak¿e nie masz pojêcia, czym jest Bingsu? To[ENTER]najlepiej bêdzie, gdy udasz siê do Octavio, który[ENTER]mieszka w nastêpnej wiosce. Jest znanym kucharzem[ENTER]i zna wszystkie dobre przepisy.[ENTER]Raz przygotowa³ dla mnie Bingsu...[ENTER]mniam...mniam... On ci udowodni, ¿e mam racjê!
 9836	IdŸ do Octavio
-9837	Taurean chce koniecznie siê dowiedzieæ, czym jest[ENTER]Bingsu. Udaj siê do w³aœciciela restauracji[ENTER]Octavio. On z pewnoœci¹ bêdzie w stanie Ci pomóc.
-9838	Wiesz, czy jest Bingsu?
-9839	Bingsu? Oczywiœcie ¿e wiem, co to jest. Ka¿dy[ENTER]dobry kucharz wie, jak przyrz¹dziæ Bingsu! Na[ENTER]pocz¹tek potrzebny jest na drobno zmielony lód.[ENTER]Do tego dochodzi cukier, cienko pociête ciastko[ENTER]ry¿owe oraz œwie¿e owoce dla ozdoby.
-9841	Dlaczego siê pytasz? Poniewa¿ Taurean k³óci siê z[ENTER]Harang? To nic nowego. Ale Harang ma racjê.[ENTER]Szczególnie w gor¹ce lata Bingsu stanowi bardzo[ENTER]popularne danie.[ENTER]Taurean to dobry ch³opak, nawet jeœli czasami[ENTER]zdaje siê nieco ograniczony. Jeœli za³atwisz mi[ENTER]sk³adniki, mogê przyrz¹dziæ Ci Bingsu.
+9837	Taurean chce koniecznie siê dowiedzieæ, czym jest[ENTER]Bingsu.[ENTER]Udaj siê do w³aœciciela restauracji Octavio. On z[ENTER]pewnoœci¹ bêdzie w stanie ci pomóc.
+9838	Wiesz, czym jest Bingsu?
+9839	Bingsu? Pewnie, ¿e znam. Ka¿dy dobry kucharz wie,[ENTER]jak przyrz¹dziæ Bingsu! Na pocz¹tek potrzebny[ENTER]jest drobno zmielony lód. Do tego dochodzi[ENTER]cukier, ciastko ry¿owe pokrojone na ma³e kawa³ki[ENTER]oraz œwie¿e owoce dla ozdoby.
+9841	Dlaczego siê pytasz? Poniewa¿ Taurean k³óci siê z[ENTER]Harang? To nic nowego. Ale Harang ma racjê.[ENTER]Szczególnie w upalne lato Bingsu stanowi bardzo[ENTER]popularne danie.[ENTER]Taurean to dobry ch³opak, nawet jeœli czasami[ENTER]zdaje siê nieco ograniczony. Jeœli za³atwisz mi[ENTER]sk³adniki, mogê przyrz¹dziæ ci Bingsu.
 9840	Bingsu?
-9842	Chcia³bym sprawiæ Taurean przyjemnoœæ i[ENTER]poczêstowaæ go Bingsu. Jak myœlisz? Móg³byœ mi[ENTER]przynieœæ nieco Lodu z Góry Sohan?
-9843	Czy chcesz na zawsze zrezygnowaæ z misji?
-9844	Nie lubisz lodów? A mo¿e zjad³eœ ich za du¿o? To[ENTER]jest przys³uga dla Taurean, wiêc proszê przemyœl[ENTER]to jeszcze raz.
-9845	Szkoda. Taurean bêdzie bardzo rozczarowany. Na[ENTER]razie.
-9846	Wspaniale. Potrzebujê Kawa³ Lodu z Zaczarowanego[ENTER]Lodu na Górze Sohan. Przynieœ mi 50 sztuk a[ENTER]przyrz¹dzê smaczne Bingsu.
+9842	Chcia³bym sprawiæ Taurean przyjemnoœæ i[ENTER]poczêstowaæ go Bingsu. Jak myœlisz? Przyniesiesz[ENTER]mi nieco lodu z Góry Sohan?
+9843	Czy chcesz na zawsze zrezygnowaæ z tej misji?
+9844	Nie lubisz lodów? A mo¿e zjad³eœ ich za du¿o? To[ENTER]jest dla Taurean, wiêc proszê przemyœl to jeszcze[ENTER]raz.
+9845	Szkoda. Taurean bêdzie bardzo rozczarowany.[ENTER]Na razie.
+9846	Wspaniale. Potrzebujê kawa³ lodu z Zaczarowanego[ENTER]Lodu na Górze Sohan. Przynieœ mi 50 sztuk a[ENTER]przyrz¹dzê smaczne Bingsu.
 9847	IdŸ do Octavio
-9848	%s[ENTER]Mam Kawa³ Lodu na Bingsu dla Taurean.[ENTER]Zanieœ go do Octavio.
-9849	Otrzymano Kawa³ Lodu
-9850	Octavio przyrz¹dzi bingsu dla Taurean, potrzebujê[ENTER]do tego jednak lodu. Zabij Zaczarowany Lód na[ENTER]Górze Sohan i uzbieraj 50 kawa³ów lodu, po czym[ENTER]zanieœ je Octavio.
-9851	Poszukiwania Lodu
-9852	Trzymaj, przynios³em Kawa³ki Lodu.
-9854	Ach, wspaniale! Najtrudniejszy etap przyrz¹dzenia[ENTER]Bingsu mamy wiêc za sob¹. Teraz dodam tylko[ENTER]jeszcze trochê cukru... oraz owoców... i proszê[ENTER]bardzo! Lód dla Taurean. Zanieœ mu go od razu a[ENTER]wkrótce zapomni o swoim gniewie.
+9848	%s[ENTER]Mam kawa³ki lodu na Bingsu dla Taureana.[ENTER]Zanieœ go do Octavio.
+9849	Uda³o ci siê zdobyæ kawa³ki lodu
+9850	Octavio obieca³, ¿e przygotuje Bingsu dla[ENTER]Taureana, potrzebujê jednak do tego lodu. Zabij[ENTER]Zaczarowany Lód na Górze Sohan i zbierz 50[ENTER]kawa³ów lodu. Nastêpnie zanieœ je Octavio.
+9851	Szukaj lodu
+9852	Trzymaj, przynios³em kawa³ki lodu.
+9854	Ach, wspaniale! Najtrudniejszy etap przyrz¹dzenia[ENTER]Bingsu mamy wiêc za sob¹. Teraz dodam tylko[ENTER]jeszcze trochê cukru... i owoców...[ENTER]Proszê bardzo! Lód dla Taurean. Zanieœ mu go od[ENTER]razu, a wkrótce zapomni o swoim gniewie.
 9853	Taurean:
-9855	Bardzo mi przykro, ale jest to za ma³o. Musisz[ENTER]przynieœæ mi wiêcej, w przeciwnym razie bêdzie z[ENTER]tego jedynie malutka porcja!
-9856	Spróbuj ponownie...
-9857	Wiem, ¿e droga daleka a potwory niebezpieczne.[ENTER]Jeœli nie czujesz siê na si³ach, to trudno. Na[ENTER]razie.
-9858	Mo¿esz oczywiœcie spróbowaæ ponownie. Z twoj¹[ENTER]odwag¹ i wytrzyma³oœci¹ na pewno w koñcu[ENTER]osi¹gniesz sukces!
+9855	Bardzo mi przykro, ale to nie wystarczy. Musisz[ENTER]przynieœæ mi wiêcej, w przeciwnym razie bêdzie z[ENTER]tego jedynie malutka porcja!
+9856	Spróbuj ponownie.
+9857	Wiem, ¿e droga daleka, a potwory niebezpieczne.[ENTER]Jeœli nie czujesz siê na si³ach, to trudno. Na[ENTER]razie.
+9858	Mo¿esz oczywiœcie spróbowaæ ponownie. Z twoj¹[ENTER]odwag¹ i wytrzyma³oœci¹ mo¿esz osi¹gn¹æ sukces!
 9859	Bingsu!
-9860	Uda³o siê! Octavio przyrz¹dzi³ Bingsu z Lodu z[ENTER]Góry Sohan. Teraz czym prêdzej do Taurean, zanim[ENTER]Bingsu siê roztopi.
-9861	Tutaj! Bingsu!
-9862	To jest Bingsu? Smakuje naprawdê znakomicie.[ENTER]S³odkie i ch³odne. Jeszcze nigdy nie jad³em[ENTER]czegoœ takiego, dziêkujê! Harang mia³a zatem[ENTER]racjê. Bêdê musia³ j¹ przeprosiæ...
-9863	Otrzyma³eœ 6.000.000 Punktów Doœwiadczenia.
-9865	Otrzyma³eœ 70.000 Yang.
-9864	Dzisiaj pok³óci³em siê z Harang. Móg³bym j¹[ENTER]normalnie...[ENTER]Twierdzi, ¿e istnieje bardzo smaczna potrawa,[ENTER]przyrz¹dzana z na drobno kruszonego Lodu. Nazywa[ENTER]siê Bingsu.
-9866	Otrzyma³eœ Zwój Wojny.
-9867	Bingsu dla mnie, pamiêtasz?
-9868	Ojej, zupe³nie o tym zapomnia³em! Hmm, mam nadal[ENTER]próbowaæ czy mo¿e sobie darowaæ?
-9869	Chcê kontynuowaæ.
-9870	Poddajê siê.
-9871	Nie mogê tego zrobiæ, przykro mi.
+9860	Uda³o siê! Octavio przyrz¹dzi³ Bingsu z lodu z[ENTER]Góry Sohan. Teraz czym prêdzej do Taurean, zanim[ENTER]Bingsu siê roztopi.
+9861	Oto! Bingsu!
+9862	To jest Bingsu? Smaczne. S³odkie i ch³odne.[ENTER]Jeszcze nigdy nie jad³em czegoœ takiego,[ENTER]dziêkujê! Harang mia³a zatem racjê. Bêdê musia³[ENTER]j¹ przeprosiæ...
+9863	Otrzymujesz 6 000 000 punktów doœwiadczenia.
+9865	Otrzymujesz 70 000 Yang.
+9864	Dzisiaj pok³óci³em siê z Harang.[ENTER]Móg³bym j¹ normalnie...[ENTER]Twierdzi, ¿e jest coœ bardzo smacznego,[ENTER]przyrz¹dzane z drobno kruszonego lodu.[ENTER]Nazywa siê Bingsu.
+9866	Otrzymujesz zwój wojny.
+9867	Przynios³eœ mi Bingsu?
+9868	Ojej, zupe³nie o tym zapomnia³em! Hmm, mam nadal[ENTER]próbowaæ? Czy mo¿e sobie darowaæ?
+9869	Spróbujê jeszcze.
+9870	Rezygnujê.
+9871	Nie dam rady.[ENTER]Przykro mi. 
 9872	Bingsu?
 9873	Bingsu?
 9874	Taurean wygl¹da jakby potrzebowa³ twojej pomocy.
 9876	Dlaczego nie idziesz do niego?
-9875	Takie coœ jest zazwyczaj mo¿liwe jedynie podczas[ENTER]zimny, gdy jest bardzo zimno. A ona ca³y czas[ENTER]twierdzi, ¿e to jest mo¿liwe. Móg³byœ siê[ENTER]dowiedzieæ, czy mo¿na przyrz¹dziæ Bingsu tak¿e w[ENTER]lecie? Jeœli takie coœ w ogóle istnieje...
+9875	Coœ takiego mo¿na przyrz¹dziæ tylko w zimie, gdy[ENTER]jest bardzo zimno. Jednak ona ca³y czas twierdzi,[ENTER]¿e to jest mo¿liwe. DowiedŸ siê, czy mo¿na[ENTER]przyrz¹dziæ Bingsu tak¿e w lecie.[ENTER]Jeœli takie coœ w ogóle istnieje...
 9877	To Bingsu jest na pewno pyszne! Jesteœ pewien, ¿e[ENTER]nigdy nie bêdziesz chcia³ mi pomóc w jego[ENTER]przyrz¹dzeniu?
-9878	Jeœli bêdziesz chcia³ to zrobiæ póŸniej, daj mi[ENTER]znaæ.
-9879	Tak bardzo chcia³bym kiedyœ spróbowaæ tego[ENTER]Bingsu... ale masz racjê. Harang pewnie chcia³a[ENTER]tylko siê pochwaliæ, a tak naprawdê nie ma[ENTER]¿adnego Bingsu! Bywaj.
-9880	Dziêkujê, ¿e mi pomagasz. Daj mi znaæ, gdy siê[ENTER]czegoœ dowiesz. Bêdê móg³ wtedy powiedzieæ[ENTER]Harang, co o tym wszystkim myœlê!
+9878	Jeœli chcesz siê tym póŸniej zaj¹æ, daj mi znaæ.
+9879	Tak bardzo chcia³bym kiedyœ spróbowaæ tego[ENTER]Bingsu...[ENTER]Ale masz racjê. Harang pewnie chcia³a tylko siê[ENTER]pochwaliæ, a tak naprawdê nie ma ¿adnego Bingsu![ENTER]Bywaj.
+9880	Dziêkujê, ¿e mi pomagasz. Daj mi znaæ, gdy siê[ENTER]czegoœ dowiesz. W koñcu bêdê móg³ powiedzieæ[ENTER]Harang, co o tym wszystkim myœlê!
 12788	Poka¿, co potrafisz
 12789	Udaj siê do jednego z oznaczonych miejsc w[ENTER]Seoganlandzie i zabij 5 Myr Prymusów.
 12790	Czy mo¿esz mi pomóc? Mam tutaj coœ, co trzeba[ENTER]koniecznie dostarczyæ do Piekielnej Wie¿y Sunga[ENTER]Mahi. Czy mo¿esz to za mnie dostarczyæ do wie¿y?
@@ -11793,6 +11908,62 @@
 12884	Uda³o ci siê zniszczyæ wszystkie Metiny Jin. Zdaj[ENTER]raport o tym Konfucjuszowi w Dongan.
 12885	Wróæ do Konfucjusza i opowiedz mu, co siê dzieje.
 12886	Jego wp³yw mocy zosta³ os³abiony, ale to jeszcze[ENTER]nie wystarczy. Liczy siê jednak ka¿de najmniejsze[ENTER]os³abienie. Mam ma³y prezent dla ciebie, by[ENTER]okazaæ ci moj¹ wdziêcznoœæ.
+12914	Nieznana Kraina
+12915	Chcia³em dowiedzieæ siê czegoœ wiêcej o dziwnej[ENTER]historii i dlatego uda³em siê w podró¿. Podczas[ENTER]mojej wêdrówki dotar³em do nieznanej krainy.[ENTER]Musieliœmy siê tutaj dok³adniej porozgl¹daæ, aby[ENTER]siê dowiedzieæ, czy to miejsce jest Ÿród³em tej[ENTER]dziwnej historii.
+12916	Widzê kogoœ w oddali. PodejdŸmy ostro¿nie, by go[ENTER]nie sp³oszyæ.
+12917	Tam w k¹cie siedzi zdenerwowana osoba. Musimy z[ENTER]ni¹ porozmawiaæ.
+13541	Dodano now¹ misjê.
+12918	Dziwna Osoba
+12919	Udaj siê do dziwnej osoby i porozmawiaj z ni¹.
+12920	O rany!
+12921	Kim jesteœ?! Jak ci siê uda³o tutaj dotrzeæ?
+12922	Hej! Kim jesteœ? Jestem £owc¹ G³ów i przyby³em[ENTER]tutaj z bardzo daleka, by dowiedzieæ siê, sk¹d[ENTER]pojawi³y siê te plotki o tej wiosce. Ty te¿? No[ENTER]có¿, ja muszê tutaj coœ zbadaæ. Jeœli mi[ENTER]pomo¿esz, chêtnie ci opowiem, czego siê do tej[ENTER]pory dowiedzia³em.
+12923	Odrzuæ
+12924	Tak, pomogê ci.
+12925	Co za tchórz...
+12926	S¹dzê, ¿e szykuje siê tutaj coœ wielkiego.[ENTER]Najpierw musimy siê tutaj porozgl¹daæ i pozabijaæ[ENTER]Ska¿onych ¯o³nierzy. Tam jest zbyt[ENTER]niebezpiecznie, spotkajmy siê wiêc póŸniej tutaj.
+12927	Zabij Ska¿onych ¯o³nierzy.[ENTER]Pozostali przeciwnicy: %d
+12928	Nie marnuj czasu! Jeœli ty bêdziesz sta³ tutaj[ENTER]jak ko³ek, ja bêdê milcza³ jak grób.
+12929	Uda³o mi siê zabiæ wszystkich Ska¿onych ¯o³nierzy[ENTER]i teraz muszê wróciæ do £owcy G³ów.
+12930	Dobra robota. Oto twoja nagroda. Poinformujê ciê,[ENTER]jakie bêd¹ nasze dalsze kroki. Wpadnij póŸniej.
+12931	Dziwna Historia
+12932	Muszê zapytaæ siê £owcy G³ów o co chodzi z t¹[ENTER]dziwn¹ histori¹ o Prze³êcz Yilad.
+12933	Teraz ta sprawa trochê bardziej siê[ENTER]wykrystalizowa³a. Dziwna historia? Sk¹d ty o tym[ENTER]wiesz? Tutaj w pobli¿u znajduje siê ukryty o³tarz[ENTER]i tam w³aœnie rozpanoszy³ siê potê¿ny potwór.[ENTER]Widocznie znasz ju¿ tê historiê. No dobrze, to[ENTER]opowiem ci jeszcze coœ.
+12935	Wszyscy zniknêli?
+12936	Nie ca³kiem, wznieœli Œwi¹tyniê Wê¿y i staj¹ siê[ENTER]z dnia na dzieñ coraz silniejsi. Moim celem jest[ENTER]zabicie ich przywódczyni i zgarniêcie nagrody.[ENTER]Ale trudno siê do nich dostaæ, poniewa¿ w pobli¿u[ENTER]o³tarza stoi stra¿nik. Masz ochotê pomóc mi[ENTER]polowaæ na te potwory. Samemu jest naprawdê[ENTER]trudno przebiæ siê przez ich szeregi.
+12937	Teraz nie mam czasu.
+12938	Wiedzia³em, ¿e nie zostawisz mnie w potrzebie.[ENTER]Pomocna d³oñ zawsze siê przyda. No to ruszajmy do[ENTER]o³tarza.
+12939	Aby utorowaæ drogê do o³tarza, muszê zabiæ[ENTER]Ska¿onych Wojowników.[ENTER]Pozosta³a iloœæ potworów: %d
+12940	No i jak wygl¹da? Jakieœ postêpy? Nie wygl¹da[ENTER]naj... Poœpiesz siê, nie mamy zbyt du¿o czasu.
+12941	Uda³o mi siê pokonaæ wszystkich ska¿onych[ENTER]Wojowników i utorowaæ drogê. Muszê wróciæ do[ENTER]£owcy G³ów.
+12942	Wszyscy Ska¿eni Wojownicy zostali pokonani. Wróæ[ENTER]do £owcy G³ów.
+12943	Dobra robota. Teraz widzê nasz¹ œcie¿kê. ChodŸmy[ENTER]szybko do nastêpnego obszaru. Wygl¹da na to, ¿e[ENTER]zbli¿amy siê do ich kryjówki.
+12966	Mogê?
+12967	No dobrze, wiêc wróæ. Mo¿esz w ka¿dej chwili do[ENTER]mnie wróciæ, gdy zmienisz zdanie.
+12944	Ukryty O³tarz
+12945	Wydaje mi siê, ¿e ju¿ mogê rozpoznaæ czêœæ[ENTER]ukrytego o³tarza. A teraz szybko z powrotem do[ENTER]£owcy G³ów.
+12946	Tak, w³aœnie! Po przebiciu siê przez szeregi[ENTER]potworów, uda³o mi siê w koñcu dotrzeæ do[ENTER]o³tarza. Ale ten stra¿nik nie chcia³ mnie[ENTER]wpuœciæ. Kilka razy go b³aga³em, ¿eby mnie[ENTER]wpuœci³, ale nic z tego. Nie da³ siê przekonaæ,[ENTER]wiêc nie mia³em innego wyjœcia i zawróci³em. Ale[ENTER]teraz dziêki tobie mam now¹ szansê. ChodŸ,[ENTER]ruszamy do przodu.
+12947	Niestety, ju¿ nie mogê.
+12948	W porz¹dku.
+12949	Co, ju¿ siê podajesz? Jesteœ znacznie s³abszy ni¿[ENTER]myœla³em.
+12950	Jeœli weŸmiemy siê w garœæ, to damy rady. Pogoñmy[ENTER]kilka potworów, które siê w³ócz¹ po okolicy.
+12951	Zabij Ska¿onych Mnichów, by oczyœciæ z potworów[ENTER]ostatni odcinek drogi.[ENTER]Pozostali przeciwnicy: %d
+12952	Poddajesz siê tak krótko przed met¹? Jeœli[ENTER]chcesz, oddam ci czêœæ mojej nagrody. ZgódŸ siê.
+12953	Wszyscy Ska¿eni Mnisi zostali pokonani. Wróæ do[ENTER]£owcy G³ów.
+12954	W oddali rozpoznajê ju¿ stra¿nika strzeg¹cego[ENTER]Œwi¹tyniê Wê¿y. Wydaje mi siê, ¿e dziêki tobie[ENTER]dotrzemy do wejœcia do o³tarza.
+12955	Infiltracja
+12956	Uda³o mi siê odnaleŸæ o³tarz. Moim zadaniem by³o[ENTER]rozejrzenie siê po okolicy i dowiedzenie siê,[ENTER]gdzie przebywa stra¿nik.
+12957	W koñcu uda³o ci siê odnaleŸæ o³tarz. Muszê ci[ENTER]podziêkowaæ za to, ¿e mi przez ten ca³y czas[ENTER]towarzyszy³eœ. Teraz mo¿emy przekraœæ siê obok[ENTER]stra¿nika, do kryjówki przywódczyni i sprawdziæ[ENTER]na w³asne oczy, co siê tam dzieje. Jednak obawiam[ENTER]siê, ¿e jeœli zostaniemy razem, to nas zobacz¹.[ENTER]Proponujê wiêc, ¿ebyœmy siê roz³¹czyli i ka¿dy[ENTER]dojdzie tam na w³asn¹ rêkê, a po drodze mo¿emy[ENTER]zebraæ jeszcze kilka przydatnych informacji.
+12958	Ja ju¿ mam dosyæ.
+12959	Dobra, ruszajmy!
+12960	Prawie nam siê uda³o! Przemyœl to jeszcze raz.
+12961	Mam nadziejê, ¿e jak siê znowu spotkamy, to[ENTER]bêdziemy jeszcze w jednym kawa³u.
+12962	Przekradnij siê obok stra¿nika o³tarza do[ENTER]Œwi¹tyni Wê¿y i sprawdŸ, co siê dzieje w œrodku.[ENTER]Pokonaj 30 Kappa ¯o³nierzy.[ENTER]Pozosta³a iloœæ potworów: %d
+12963	A ty jeszcze tutaj? A wiêc pójdê pierwszy.
+12964	Œwi¹tynia Wê¿y zosta³a zbadana i pokonano 30[ENTER]Kappa ¯o³nierzy. Wróæ do £owcy G³ów.
+12965	Wiedzia³em, ¿e sobie poradzisz. Zajrza³em krótko[ENTER]do œrodka, ale nie uda³o mi siê odnaleŸæ[ENTER]przywódczyni. Wielka szkoda. Mo¿e nastêpnym[ENTER]razem. W ka¿dym razie uda³o mi siê tutaj dotrzeæ[ENTER]tylko dziêki twojej pomocy i dlatego chcê ciê za[ENTER]to wynagrodziæ. Proszê, weŸ tê nagrodê.
+13054	Pod¹¿aj za migaj¹cym punktem na minimapie.
+13597	Nie uda³o ci siê znaleŸæ Œwi¹tynia Wê¿y?[ENTER]Dotarcie do tego miejsca na pewno nie bêdzie[ENTER]³atwe! Wiêc upewnij siê, ¿e dasz rady stawiæ[ENTER]czo³a Œwi¹tyni Wê¿y.
 12679	Wejœcie do Piekielnej Wie¿y Sunga Mahi
 12680	Czy chcesz wejœæ do Piekielnej Wie¿y Sunga Mahi?
 12681	Tak
@@ -12081,3 +12252,4 @@
 12673	Pokonaj Bossa Œwiata!
 12674	Zadaj Bossowi Œwiata wymagane minimalne obra¿eni[ENTER]w wysokoœci %d lub wy¿sze.
 12675	Codzienna misja ukoñczona: uda³o ci siê zadaæ[ENTER]Bossowi Œwiata wymagane minimalne obra¿enia.
+12934	Przyby³em tutaj, by zdobyæ nagrodê za pokonanie[ENTER]tych potworów. Pierwotnie roi³o siê tutaj od[ENTER]potworów wê¿owych i nazwano to miejsce Prze³êcz¹[ENTER]Yilad. Czy zauwa¿y³eœ tutaj coœ dziwnego?[ENTER]Wszystkie te potwory wê¿owe znik³y.

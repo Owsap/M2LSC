@@ -1,3 +1,6 @@
+13305	Hey! Hast du den Schlüssel um mich zu befreien?
+13306	Bitte lass mich frei. Kann mir denn keiner helfen?
+13307	Hey du! Bitte besorge den Schlüssel!
 2	Ich habe dir bereits alles über die Kräfte[ENTER]erzählt, die wir brauchen, um gegen Sung Mahi zu[ENTER]kämpfen.[ENTER][ENTER]Beeile dich und suche den Hauptmann auf.[ENTER][ENTER]Kehre zurück, wenn du die benötigten Tücher hast.
 1	Ein besonderer Stoff
 3	Eigene Kraft verstärken
@@ -829,6 +832,26 @@
 12585	Ich habe alle Dunkelfarne gefunden.[ENTER]Jetzt schnell zurück zu Chaegirab.
 12591	Hetz mich nicht! Selbst dieser verwelkte[ENTER]Dunkelfarn birgt Erkenntnisse für die[ENTER]Wissenschaft.[ENTER]Komm später wieder und bring mir eine neue[ENTER]Pflanze.[ENTER]Verbleibende Abklingzeit: %s
 12713	Oh, tut mir Leid.[ENTER]Ich habe den letzten Dunkelfarn noch nicht[ENTER]vollständig analysiert.[ENTER]Komm bitte später wieder.[ENTER]Verbleibende Abklingzeit: %s
+13038	Ja
+13039	Nein
+13041	Das ist nur für den Anführer verfügbar.
+13042	Kampf beginnen
+13043	Aufgeben
+13044	Verlassen
+13045	Möchtest du den Dungeon "Schlangentempel"[ENTER]beginnen?
+13046	Schlangentempel
+13047	Möchtest du diesen Ort verlassen? Du kannst[ENTER]zurückkehren, bis der Kampf gestartet hat.
+13048	Die erstellte Schlangentempel-Instanz wird[ENTER]aufgelöst. Willst du aufgeben?
+13056	Alle Gruppenmitglieder müssen sich am gleichen[ENTER]Ort befinden.
+13061	Begib dich zur Bossebene.
+13062	Schlangentempel-Schmied
+13063	Möchtest du dich zur Bossebene begeben?
+13064	Schmied für Handschuh-Aufwertung
+13065	Heh, ich kann ein Paar Handschuhe für dich[ENTER]verbessern. Du brauchst gar keine anderen[ENTER]Materialien! Gib mir einfach die Handschuhe, die[ENTER]ich verbessern soll. Meine Verbesserung hat den[ENTER]selben Effekt wie eine Segensschriftrolle.
+13613	Möchtest du den Dungeon verlassen?
+13614	Du kannst deine Eintritte gerade nicht[ENTER]zurücksetzen.
+13615	Möchtest du deine Eintritte im Schlangentempel[ENTER]zurücksetzen?
+13616	Deine Eintritte im Schlangentempel wurden auf 5[ENTER]zurückgesetzt.
 679	Besiege die Jin-Hee
 678	Rache für den Ringhändler
 680	Die Alte Frau hat dich um Unterstützung gebeten:[ENTER]ihr Freund, der Ringhändler, wurde von den[ENTER]Jin-Hee ermordet, der Elite des Weißen Eid.[ENTER]Räche den Ringhändler, indem du 30 Jin-Hee tötest.
@@ -1358,6 +1381,30 @@
 989	Hier, dein Energiekristall. Doch nur der erste[ENTER]Versuch ist immer erfolgreich. Die Alchemie ist[ENTER]eine unberechenbare Wissenschaft - geringfügige[ENTER]Abweichungen führen zum Scheitern! Es besteht[ENTER]also immer ein kleines Risiko, dass das[ENTER]Experiment misslingen kann.
 990	Leider ist der Versuch fehlgeschlagen. Ich konnte[ENTER]keinen Energiekristall herstellen. Meine Technik[ENTER]ist brillant - aber die Ausführung steckt nun mal[ENTER]voller Risiken. Nicht immer funktioniert alles[ENTER]nach Plan.[ENTER]Beim nächsten Mal haben wir bestimmt Erfolg!
 991	Ich wusste es! Meine Technik ist brillant![ENTER]Hier ist dein Energiekristall.[ENTER]Ein Prachtexemplar! Spürst du die Kraft?
+13540	Möchtest du den Schlangentempel betreten?
+13014	Den Schlangentempel betreten
+13020	Wichtige Vorbereitungen
+13021	Ich sollte die Schlangenstatue finden, um den[ENTER]Schlangentempel zu betreten.
+13022	Du wirst verschiedenes brauchen, um in diesem[ENTER]unterirdischen Dungeon voranzukommen… ein Hut,[ENTER]eine Peitsche oder ein Sandsäckchen in[ENTER]Schatzgröße wären sicher praktisch. Ich kann[ENTER]diese Sachen für dich herstellen.
+13023	Aber wenn du den Tempel betreten willst, musst du[ENTER]mir %d Schlangenschuppen für die Ausrüstung[ENTER]besorgen. Und weil nur der bußfertige Held Erfolg[ENTER]haben kann, wird es dich %d Yang kosten. Kannst[ENTER]du mir beides bringen?
+13024	Die Schlangenstatue benötigt %d[ENTER]Schlangenschuppen. Du kannst sie bei Monstern in[ENTER]der Nähe finden.
+13025	Um den Schlangentempel zu betreten, muss ich die[ENTER]%d Schlangenschuppen besorgen, die die[ENTER]Schlangenstatue benötigt.[ENTER]Verbleibende Anzahl : %d
+13026	Ich benötige noch mehr Schlangenschuppen...
+13027	Du hast Schlangenschuppen erhalten. Gesammelte Gegenstände: %d
+13028	Das sind alle Schlangenschuppen, die die[ENTER]Schlangenstatue braucht. Kehre zu ihr zurück.
+13029	Ich habe alle %d Schlangenschuppen! Ich sollte[ENTER]zur Schlangenstatue zurückkehren.
+13030	Hast du alle Schlangenschuppen? Dann benötige ich[ENTER]noch %d Yang und ich kann dir Zugang zum Tempel[ENTER]verschaffen.
+13031	Beides übergeben
+13032	Abbrechen
+13033	Du hast nicht genug Geld...
+13034	Gut. Alles erledigt! Hier sind deine Sachen, viel[ENTER]Glück. Wenn du weitere Ausrüstung für eine[ENTER]erneute Expedition benötigst, kehre einfach zu[ENTER]mir zurück.
+13035	Erschaffen
+13036	Betreten
+13037	Möchtest du den Schlangentempel betreten? Du hast[ENTER]noch %d verbleibende Eintritte.
+13040	Möchtest du eine Schlangentempel-Instanz[ENTER]erstellen?
+13049	Heute kannst du nicht erneut eintreten.
+13055	Du kannst keine neue Instanz erstellen, solange[ENTER]du noch nicht alle Belohnungen eingesammelt hast.
+13182	Verbleibende Schlangenschuppen
 992	Spielplatzwart
 993	Möchtest du den Spielplatz jetzt verlassen?
 994	Möchtest du auf den Spielplatz?
@@ -1626,6 +1673,17 @@
 10167	Senke mithilfe der Animasphären die dunkle[ENTER]Energie im Zodiak-Tempel, ehe sie zu stark wird.[ENTER]Du verbrauchst automatisch Animasphären, sobald[ENTER]du den Tempel betrittst. Achtung: Die Quest lässt[ENTER]sich nicht absolvieren, wenn du das Signum der[ENTER]Wächter aktiviert hast.
 10168	Geschafft. Gehe zurück zu Mönch Milbon, um dein[ENTER]Geschenk abzuholen.
 10169	Danke, fürs Erste ist der Tempel sicher. Hier ist[ENTER]dein Geschenk. Die Energie wird jedoch wieder[ENTER]steigen. Kehre nach 24 Stunden zurück, um sie[ENTER]erneut mithilfe der Animasphären zu senken.[ENTER]Natürlich erhältst du dafür eine weitere[ENTER]Belohnung.
+13586	Den mysteriösen Dungeon betreten
+13587	Mysteriöser Altar
+13588	Hey! Ich weiß, ich bin in einen Stein verwandelt.[ENTER]Daran ist Sung Mahis Fluch schuld! Aber ich bin[ENTER]ein Schamane und ich kann dir etwas über einen[ENTER]sehr interessanten Ort erzählen...[ENTER]Wenn du ein mysteriöses Ticket hast, kann ich[ENTER]dich in den mysteriösen Dungeon bringen.[ENTER]Möchtest du es versuchen?
+13589	Ja
+13590	Nein
+13591	Oh! Ich kann dich nicht ohne ein mysteriöses[ENTER]Ticket hineinlassen.
+13598	Du kannst jetzt nicht eintreten.
+13609	Ausgang
+13610	Möchtest du den Dungeon verlassen?
+13611	Ja
+13612	Nein
 1209	Ablehnen
 1208	Warum weinst du?
 1210	Natürlich helfe ich dir. Die Aufgabe ist nicht[ENTER]allzu schwer zu bewerkstelligen und ich kann gut[ENTER]verstehen, dass du das Andenken zurückhaben[ENTER]willst. Bis bald!
@@ -7628,6 +7686,15 @@
 12707	Du hast %d Elixiere der Sonne (K) erhalten.
 12708	Gehe zur Feier des Tages zum Rüstungshändler.
 12709	Du hast %d Ritualsteine erhalten.
+12971	Ein verstecktes Tal
+12972	Es gibt Gerüchte, wonach ein neues Tal gefunden[ENTER]wurde. Begib dich zu Konfuzius.
+12973	Wir haben uns eine Weile nicht gesehen. Wo warst[ENTER]du so die Tage? Der geheime Ort, der dir zuvor so[ENTER]Kopfzerbrechen bereitet hat, wurde gefunden.
+12974	Ich hörte, dass der Weg dorthin gewunden und[ENTER]tückisch ist. Ich möchte dich bitten, dorthin zu[ENTER]gehen und mehr über dieses versteckte Tal in[ENTER]Erfahrung zu bringen. Sobald du ankommst, wirst[ENTER]du einen Wächter treffen, den ich vor einer Weile[ENTER]dorthin geschickt habe.
+12975	Ein neues Gebiet wurde freigeschaltet. Begib dich[ENTER]zum Schlangenwächter.
+12976	Hey, warum stehst du denn hier herum? Wenn du[ENTER]dich in die Donganebene begibst, kannst du von[ENTER]dort aus in das neue Gebiet gelangen.
+12977	Begib dich in das neue Gebiet, um dich mit dem[ENTER]Schlangenwächter zu treffen.
+12978	Wer bist du denn? Hah, hat Konfuzius dich[ENTER]geschickt? Das kann nicht dein Ernst sein… Warum[ENTER]hat er so einen Grünschnabel wie dich in so ein[ENTER]hartes Land wie dieses gesandt?
+12979	Konfuzius sagte, ich soll dir dies geben, wenn du[ENTER]herkommst. Komm später nochmal vorbei, du hast[ENTER]noch Aufräge zu erledigen.
 6353	Ein neues Leben
 6354	Du wachst auf und fühlst dich eigenartig pelzig.[ENTER]Was ist geschehen? Was bist du?! Suche nach[ENTER]Myonghorang dem Weisen. Er wird es dir erklären.
 6355	Willkommen Lykaner!
@@ -7965,11 +8032,11 @@
 6606	Gesamtpunkte
 6607	Höchste Rundenpunkte
 6608	Die 10 Spieler mit den höchsten Gesamtpunkten[ENTER]erhalten zusätzliche Gewinne.
-6610	1. Platz: %d-mal %s
+6610	1. Platz: %s %d-mal
 6609	Schließen
-6611	2. Platz: %d-mal %s
-6612	3. Platz: %d-mal %s
-6613	4. - 10. Platz: %d-mal %s
+6611	2. Platz: %s %d-mal
+6612	3. Platz: %s %d-mal
+6613	4. - 10. Platz: %s %d-mal
 6614	1. Platz : %s, %d
 6615	2. Platz : %s, %d
 6616	3. Platz : %s, %d
@@ -9459,7 +9526,7 @@
 12779	Was ist los?
 12780	Handelsverwalterin
 12781	Wegen den Monsterangriffen können wir hier keinen[ENTER]Laden eröffnen.
-12782	Begib dich zum Markt
+12782	Begib dich zum Bazar
 12783	Es gibt einen Ort, an den wir uns für eine Weile[ENTER]zurückziehen können.[ENTER]Du kannst dort deinen Laden benutzen.[ENTER]Möchtest du dich dorthin begeben?
 12784	Bestätigen
 12785	Abbrechen
@@ -9808,6 +9875,12 @@
 12080	Abbrechen
 12081	Deine Werte wurden zurückgesetzt.
 12082	Du hast keine Werte, die zurückgesetzt werden[ENTER]können.
+13057	Du hast den Schlangentempel erfolgreich abgeschlossen und kannst deine Belohnungen abholen. Sprich mit der Schlangenstatue.
+13058	Belohnungen erhalten
+13059	Schlangenstatue
+13060	Du hast all diese bösen Schlangen bezwungen. Du[ENTER]verdienst diese Truhe.
+13606	Du hast %d x Schlangenschatz erhalten.
+13607	Du hast %d x Schlangenstaub erhalten.
 8044	Dein Level ist zu niedrig!
 8045	Du kannst nicht reiten, während du verwandelt[ENTER]bist!
 8046	Du reitest bereits! Wenn du das Reittier wechseln[ENTER]möchtest, musst du zuerst absteigen.
@@ -9951,6 +10024,48 @@
 11499	Nein, ich bleibe hier.
 11500	Der Blaue Drache (ZR) ist zurückgekehrt!
 11679	Alle Kämpfer werden in drei Minuten aus der[ENTER]Grotte der Verbannung (ZR) teleportiert.
+12980	Was ist der Schlangentempel?
+12981	Um den versteckten Tempel zu finden, sollte ich[ENTER]mit dem Schlangenwächter sprechen.
+12982	Hey Grünschnabel. Ich weiß noch nicht, wie findig[ENTER]du bist. Wenn du dem Talpfad hinter mir folgst,[ENTER]kommst du zu einem riesigen Tempel. Schon mal vom[ENTER]Schlangentempel gehört?
+12983	Du wirst einem ganzen Haufen gefährlicher Monster[ENTER]über den Weg laufen. Ich wette es dauert keine[ENTER]Minute, bis du abhaust. Aber wenn du den nötigen[ENTER]Mut hast, kannst du dort Schätze finden.
+12984	Wie komme ich hinein?
+12985	Hahaha! Gar nicht, außer ich lasse dich hinein.[ENTER]Ich werde deinen Mut prüfen.
+12986	Deine Augen funkeln förmlich vor Tatendrang! Da[ENTER]kannst du sicher ein paar Monster in der Umgebung[ENTER]für mich erledigen! Es wird langsam etwas[ENTER]zermürbend, dieses Gebiet unter Kontrolle zu[ENTER]halten.
+12987	Jage Monster in der Nähe, um die Prüfung des[ENTER]Schlangenwächters zu bestehen.
+12988	Der Schlangenwächter möchte, dass du %d Monster[ENTER]am Yilad-Pass jagst.[ENTER]Verbleibende Monster: %d
+12989	Hey, du hast dich noch garnicht um diese Monster[ENTER]gekümmert... Gibst du etwa auf?
+12990	Ich habe alle Monster für den Schlangenwächter[ENTER]getötet. Ich sollte zu ihm zurückkehren.
+12991	Ich habe alle Monster für den Schlangenwächter[ENTER]getötet. Ich sollte zu ihm zurückkehren.
+12992	Oh. Du scheinst tatsächlich mutiger zu sein, als[ENTER]ich dachte. Als ich dir aus der Ferne beim[ENTER]Kämpfen zugesehen habe, hat mich das an meine[ENTER]Jugend zurückerinnert.
+12993	Naja, wie auch immer. Hier ist die Belohnung für[ENTER]deine bestandene Prüfung.
+13180	Verbleibende Monster
+13603	Du hast %d Monster getötet. Verbleibende Anzahl: %d
+12994	Schlangentempel?!
+12995	Ein neues Gebiet wurde entdeckt. Ich sollte mich[ENTER]zum Schlangenwächter begeben, der über diesen Ort[ENTER]wacht.
+12996	Hey Grünschnabel. Sieht ganz so aus, als wolltest[ENTER]du in das Tal da hineingehen...
+12997	Wenn du in das Tal möchtest, will ich, dass du[ENTER]mir davor einen Gefallen tust! Die Monster in der[ENTER]Umgebung machen momentan viel Ärger. Und da[ENTER]könnte ich deine Hilfe wirklich gut gebrauchen.
+12998	Ich möchte, dass du diese Monster erlegst und mir[ENTER]etwas Eisenspäne besorgst. Kannst du das für mich[ENTER]tun? Soweit ich weiß, lässt sich mit dem[ENTER]Eisenspänen auch ganz gut Geld verdienen.
+12999	Ja.
+13000	Nein.
+13001	Tja, ich fürchte, dann kannst du auch nicht ins[ENTER]Tal!
+13002	Besorge %d Eisenspäne, die der Schlangenwächter[ENTER]unbedingt haben möchte. Du kannst sie bei[ENTER]Monstern in der Nähe finden.
+13003	Was, du hast sie schon alle so schnell beisammen?[ENTER]Hey! Ich glaube, du hast dich verzählt. Ich sagte[ENTER]%d!
+13004	Der Schlangenwächter verlangt %d Eisenspäne,[ENTER]damit er mich das Tal passieren lässt. Ich sollte[ENTER]Monster in der Nähe des Yilad-Pass jagen, um[ENTER]Eisenspäne zu erhalten.[ENTER]Verbleibende Eisenspäne: %d
+13005	Du hast Eisenspäne erhalten. Gesammelte Menge: %d
+13006	Ich habe alle Eisenspäne, die der[ENTER]Schlangenwächter wollte. Ich sollte zu ihm[ENTER]zurückkehren.
+13007	Ich habe alle Eisenspäne, die der[ENTER]Schlangenwächter wollte. Ich sollte zu ihm[ENTER]zurückkehren.
+13008	Oh, ich wusste du bist wie geschaffen für diese[ENTER]Aufgabe! Das ist die richtige Anzahl!
+13009	Nun, dann werde ich dir jetzt helfen, das Tal zu[ENTER]passieren. Sobald du die andere Seite erreicht[ENTER]hast, wirst du einen großen Tempel sehen. Falls[ENTER]du später dort hinein möchtest, komm noch einmal[ENTER]zu mir.
+13010	Du kannst vom Schlangenwächter Zugang zum[ENTER]Schlangentempel erhalten.
+13011	Ah, da bist du ja wieder. Willst du eintreten?
+13012	Dann bring mir bitte die Eisenspäne, die du[ENTER]letztes Mal für mich gesammelt hast und ich gebe[ENTER]dir ein Ticket. Diesmal brauchen wir %d[ENTER]Eisenspäne.
+13013	Schlangentempel?! (Wiederholung)
+13015	Möchtest du den Schlangentempel betreten?
+13016	Bestätigen
+13017	Abbrechen
+13018	Sprich mit dem Schlangenwächter, um den[ENTER]Schlangentempel zu betreten.
+13019	Dieses Tal ist sehr gefährlich. Also sei[ENTER]vorsichtig.
+13181	Verbleibende Eisenspäne
 8167	Nemeres Warte
 8168	Tretet ein in Nemeres Warte. Die maximale[ENTER]Aufenthaltsdauer beträgt eine Stunde. Nach[ENTER]Beendigung oder Abbruch des Abenteuers müsst ihr[ENTER]vier Stunden warten, bevor ihr erneut Einlass[ENTER]erhaltet.
 8169	Besiegt alle Feinde!
@@ -11793,6 +11908,62 @@
 12884	Du hast alle Metins des Jin zerstört. Berichte[ENTER]Konfuzius in der Donganebene davon.
 12885	Kehre zu Konfuzius zurück und berichte ihm, was[ENTER]vor sich geht.
 12886	Sein Einfluss wurde geschwächt, aber das wird[ENTER]immernoch nicht ausreichen. Aber jedes Bisschen[ENTER]zählt. Ich habe ein kleines Geschenk für dich, um[ENTER]dir meine Dankbarkeit zu zeigen.
+12914	Ein unbekanntes Land
+12915	Als ich umherzog um mehr über dieses eigenartige[ENTER]Gerücht in Erfahrung zu bringen, gelangte ich[ENTER]schließlich in ein unbekanntes Land. Wir sollten[ENTER]uns hier genauer umschauen, um in Erfahrung zu[ENTER]bringen, ob dieser Ort der Ursprung der Gerüchte[ENTER]ist.
+12916	Ich sehe dort jemanden in der Ferne. Wir sollten[ENTER]uns vorsichtig nähern.
+12917	Da sitzt eine nervöse Person im Eck. Wir sollten[ENTER]mit ihm reden.
+13541	Eine neue Quest wurde hinzugefügt.
+12918	Eine merkwürdige Person
+12919	Geh zu der merkwürdigen Person und sprich mit ihr.
+12920	Meine Güte!
+12921	Wer bist du?! Wie hast du hierher gefunden?
+12922	Hey! Wer bist du? Ich bin ein Kopfgeldjäger und[ENTER]habe den ganzen weiten Weg hierher auf mich[ENTER]genommen um das Gerücht zu diesem Dorf[ENTER]zurückzuverfolgen. Du auch? Nun, ich muss hier[ENTER]etwas untersuchen. Wenn du mir hilfst, erzähle[ENTER]ich dir gerne, was ich bisher herausgefunden[ENTER]habe.
+12923	Ablehnen
+12924	Ich werde dir helfen.
+12925	Was für ein Feigling...
+12926	Ich glaube hier ist eine große Sache im Gange.[ENTER]Wir sollten uns zuerst etwas umschauen und[ENTER]verdorbene Soldaten töten. Da es dort zu[ENTER]gefährlich ist, treffen wir uns danach hier[ENTER]wieder.
+12927	Töte verdorbene Soldaten.[ENTER]Verbleibende Gegner: %d
+12928	Verschwende keine Zeit! Ich erzähle dir gar[ENTER]nichts, wenn du hier einfach herumstehst.
+12929	Ich habe alle verdorbenen Soldaten getötet und[ENTER]sollte zum Kopfgeldjäger zurückkehren.
+12930	Gut gemacht. Hier ist deine Belohnung. Ich werde[ENTER]in Erfahrung bringen, wie wir weiter vorgehen[ENTER]sollten. Also komm später wieder.
+12931	Ein merkwürdiges Gerücht
+12932	Ich sollte den Kopfgeldjäger nach dem Gerücht[ENTER]über den Yilad-Pass fragen.
+12933	Jetzt sieht die Sache schon etwas klarer aus. Das[ENTER]Gerücht?! Woher weißt du denn davon? Es gibt[ENTER]einen versteckten Altar hier in der Nähe und ein[ENTER]sehr starkes Monster treibt dort sein Unwesen.[ENTER]Scheinbar kennst du dieses Gerücht schon. Na[ENTER]schön, dann lass mich dir noch etwas erzählen.
+12935	Sie sind alle weg?
+12936	Nicht ganz, sie haben den Schlangentempel[ENTER]errichtet und werden dort noch stärker. Mein Ziel[ENTER]ist es, ihre Anführerin zu töten und das Kopfgeld[ENTER]zu kassieren. Aber man kommt schwer an sie heran,[ENTER]weil es einen Wächter in der Nähe des Altars[ENTER]gibt. Wenn du möchtest, könntest du mir helfen,[ENTER]diese Monster zu verfolgen? Alleine ist es[ENTER]wirklich schwer, durch ihre Reihen[ENTER]durchzubrechen.
+12937	Gerade nicht.
+12938	Ich wusste du würdest mich nicht im Stich lassen.[ENTER]Eine helfende Hand ist immer gut. Dann wollen wir[ENTER]uns mal auf den Weg zum Altar machen.
+12939	Ich sollte verdorbene Krieger töten, um den Weg[ENTER]freizumachen.[ENTER]Verbleibende Monster: %d
+12940	Na, wie sieht es aus? Schon irgendwelche[ENTER]Fortschritte? Es scheint nicht so... Bitte beeile[ENTER]dich, wir haben nicht viel Zeit.
+12941	Ich habe alle verdorbenen Krieger gejagt und den[ENTER]Weg freigemacht. Ich sollte zum Kopfgeldjäger[ENTER]zurückkehren.
+12942	Alle verdorbenen Krieger wurden getötet. Kehre[ENTER]zum Kopfgeldjäger zurück.
+12943	Gut gemacht. Jetzt sehe ich unseren Pfad. Lass[ENTER]uns schnell zum nächsten Gebiet weitergehen. Es[ENTER]scheint, als würden wir uns ihrem Unterschlupf[ENTER]nähern.
+12966	Darf ich?
+12967	Na gut, dann geh eben zurück. Du kannst aber[ENTER]jederzeit wieder zu mir kommen, wenn du deine[ENTER]Meinung änderst.
+12944	Ein versteckter Altar
+12945	Ich glaube, ich kann schon etwas von dem[ENTER]versteckten Altar erkennen. Schnell zurück zum[ENTER]Kopfgeldjäger.
+12946	Ja, genau! Nachdem ich mich durch all die Monster[ENTER]geschlagen hatte, habe ich den Altar erreicht.[ENTER]Aber der Wächter wollte mich nicht einlassen. Ich[ENTER]habe ihn mehrfach angefleht, aber es hat nicht[ENTER]funktioniert und ich hatte keine andere Wahl, als[ENTER]umzudrehen. Aber jetzt habe ich dank dir eine[ENTER]neue Chance! Lass uns zusammen weiter vordringen.
+12947	Ich kann nicht mehr.
+12948	In Ordnung.
+12949	Was, du gibst schon auf? Du bist viel schwächer[ENTER]als ich dachte.
+12950	Wenn wir uns zusammenreißen, können wir es[ENTER]schaffen. Lass uns einige Monster in der Nähe aus[ENTER]dem Weg räumen.
+12951	Töte verdorbene Mönche um das letzte Stück Weg[ENTER]freizumachen.[ENTER]Verbleibende Gegner: %d
+12952	Du gibst so kurz vor dem Ziel auf? Ich kann dir[ENTER]einen Anteil von meinem Kopfgeld abgeben. Komm[ENTER]schon.
+12953	Alle verdorbenen Mönche wurden getötet. Kehre zum[ENTER]Kopfgeldjäger zurück.
+12954	Ich kann in der Ferne schon den Wächter erkennen,[ENTER]der den Schlangentempel bewacht. Ich glaube dank[ENTER]dir werden wir es schaffen, den Eingang des[ENTER]Altars zu erreichen.
+12955	Infiltration
+12956	Ich habe den Altar gefunden. Ich sollte mich dort[ENTER]umsehen und herausfinden, wo der Wächter ist.
+12957	Du hast endlich den Altar gefunden. Danke, dass[ENTER]du das bis hier mit mir durchgezogen hast. Jetzt[ENTER]können wir uns an dem Wächter vorbei[ENTER]hineinschleichen; dorthin, wo die Anführerin sich[ENTER]versteckt hält und herausfinden, was dort vor[ENTER]sich geht. Allerdings befürchte ich, dass sie uns[ENTER]sehen könnten, wenn wir zusammen bleiben. Also[ENTER]schlage ich vor, wir machen uns getrennt auf den[ENTER]Weg und versuchen, unterwegs noch ein paar[ENTER]nützliche Informationen zu sammeln.
+12958	Mir hat das gereicht.
+12959	Auf geht's!
+12960	Wir haben es fast geschafft. Bitte überlege es[ENTER]dir noch einmal.
+12961	Ich hoffe, wir sind noch an einem Stück, wenn wir[ENTER]uns wiedersehen.
+12962	Schleiche dich am Altarwächter vorbei in den[ENTER]Schlangentempel und finde heraus, was im Inneren[ENTER]vor sich geht. Jage 30 Kappa-Soldaten.[ENTER]Verbleibende Monster: %d
+12963	Du bist noch nicht aufgebrochen? Dann gehe ich[ENTER]wohl mal voraus.
+12964	Der Schlangentempel wurde ausgekundschaftet und[ENTER]30 Kappa-Soldaten gejagt. Kehre zum Kopfgeldjäger[ENTER]zurück.
+12965	Ich wusste, du würdest es schaffen! Ich habe[ENTER]schon kurz hineingeschaut, aber leider konnte ich[ENTER]die Anführerin nicht finden. Naja, es ist wie es[ENTER]ist. Vielleicht beim nächsten Mal. Ich habe es[ENTER]jedenfalls nur dank dir überhaupt hierher[ENTER]geschafft und ich möchte dich für deine Hilfe[ENTER]belohnen. Hier bitte, nimm dies.
+13054	Folge dem blinkenden Punkt auf deiner Minikarte.
+13597	Du hast den Schlangentempel noch nicht gefunden?[ENTER]Dieser Ort wird nicht leicht zu erreichen sein.[ENTER]Also sieh zu, dass du fähig genug bist, um dich[ENTER]dem Schlangentempel zu stellen.
 12679	Eingangshalle zu Sung Mahis Höllenturm
 12680	Möchtest du Sung Mahis Höllenturm betreten?
 12681	Ja
@@ -12081,3 +12252,4 @@
 12673	Besiege den Weltboss!
 12674	Füge einem Weltboss den erforderlichen[ENTER]Mindestschaden von %d oder mehr zu.
 12675	Tägliche Quest abgeschlossen: Du hast einem[ENTER]Weltboss den erforderlichen Mindestschaden[ENTER]zugefügt.
+12934	Ich bin hierher gekommen, um mir das Kopfgeld für[ENTER]dieses Monster zu verdienen. Ursprünglich war[ENTER]dieser Ort voller Schlangenmonster und er wurde[ENTER]Yilad-Pass genannt. Aber ist dir etwas[ENTER]Merkwürdiges aufgefallen? Alle diese[ENTER]Schlangenmonster sind verschwunden.

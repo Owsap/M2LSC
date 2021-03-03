@@ -692,6 +692,8 @@
 1693	Wszystkie posterunki na obszarze %s zosta³y zniszczone, a obszar uwolni³ siê spod kontroli Sunga Mahi.
 1694	Seoganland
 1695	Namgan
+1696	Ulepszenie powiod³o siê!
+1697	Ulepszenie nie powiod³o siê!
 1698	Dziêki b³ogos³awieñstwu odpornoœci jesteœ uwolniony spod kontroli Sunga Mahi.
 1699	Twoje b³ogos³awieñstwo odpornoœci wygas³o. Teraz znajdujesz siê ponownie pod wp³ywem kl¹twy Sunga Mahi.
 17	[Gildia] Nie masz prawa u¿ywaæ umiejêtnoœci gildii.
@@ -718,8 +720,38 @@
 1718	[Osobisty Sklepik Premium] Sprzedano %s. Odbierz swoje pieni¹dze.
 1719	[Osobisty Sklepik Premium] Sklepik mo¿esz ponownie otworzyæ dopiero po %d.
 172	[Gaya] Posiadasz ju¿ maksymaln¹ iloœæ Gaya.
+1720	Nie mo¿esz tego robiæ podczas tworzenia instancji.
+1721	Nie mo¿esz ju¿ siê o¿ywiæ. Zostaniesz teleportowany z instancji.
+1722	Otrzyma³eœ ju¿ swoj¹ nagrodê. Jeœli ponownie chcesz spróbowaæ, wróæ póŸniej. Pozosta³y czas: %d h %d m
+1723	Mo¿esz o¿ywiæ siê jeszcze %dx
+1724	Teraz mo¿esz wejœæ do Œwi¹tyni Wê¿y. U¿yj do tego Statui Wê¿y.
+1725	Zniszczony Metin nie reaguje. Znowu pojawi³y siê wszystkie Metiny.
+1726	Zniszczony Metin nie reaguje. Znowu pojawi³y siê wszystkie Metiny.
+1727	Iloœæ zniszczonych Metinów: %d. Zniszcz jeszcze %d szt.
+1728	Czas min¹³. Zostaniesz teleportowany z instancji.
+1729	Dostêpne tylko przez %d min.
 173	[Gaya] Szlifowanie powiod³o siê.
+1730	Nie mo¿esz przed³u¿yæ licznika czasu instancji.
+1731	Do licznika czasu instancji dodano 1 min.
+1732	Uda³o ci siê pokonaæ wszystkie potwory. Zostaniesz przeniesiony na poziom %d. Pozosta³o jeszcze %d sek.
+1733	Uda³o ci siê zniszczyæ wszystkie Metiny. Zostaniesz przeniesiony na poziom %d. Pozosta³o jeszcze %d sek.
+1734	Od³amek zosta³ dodany do g³owy wê¿a. Nie zadzia³a³.
+1735	Zosta³y odblokowane wszystkie kolumny wê¿y. Poziom %d za %d sek.
+1736	Pojawi³ siê wyj¹tkowy Kowal Œwi¹tyni Wê¿y!
+1737	Pojawi³ siê Kowal Œwi¹tyni Wê¿y!
+1738	Uda³o ci siê pokonaæ wszystkie potwory i mo¿esz teraz udaæ siê do poziomu bossa.
+1739	Uda³o ci siê ukoñczyæ Œwi¹tyniê Wê¿y. Zostaniesz teleportowany z instancji za %d sek.
 174	[Gaya] Szlifowanie nie powiod³o siê.
+1740	Zniszcz kamienie Metin we w³aœciwej kolejnoœci.
+1741	Zabij wszystkie potwory.
+1742	Odbierz potworom klucz i otwórz celê wiêzienn¹.
+1743	Doda³eœ od³amek do g³owy wê¿a.
+1744	Zabij bossa.
+1745	Otwarto!
+1746	Musisz najpierw odblokowaæ inne kolumny.
+1747	Wiêzienie zosta³a otwarte. Kowal uœmiecha siê do ciebie.
+1748	Tym kluczem nie uda³o ci siê otworzyæ wiêzienia i uwolniæ Kowala.
+1749	Od³amek ten nie pasuje do g³owy wê¿a.
 175	[Gaya] Lista przedmiotów zosta³a zmieniona.
 1752	Musisz wype³niæ co najmniej 1 kulê PD na poziomie 120, by móc osi¹gn¹æ poziom czempiona.
 1753	Musisz ukoñczyæ instancjê "Obrona statku".
@@ -730,15 +762,21 @@
 1758	[Osobisty Sklepik Premium] Nie mo¿esz tego zrobiæ, podczas gdy zarz¹dzasz przedmiotami.
 176	Wykrywacz eventów znikn¹³.
 1760	[Bonus Reliktu] Niemo¿liwe z otwartym oknem reliktu duszy.
+1761	%s cz³onków grupy opuœci³o walkê.
+1762	Pozosta³o ci jeszcze %d min.
 1763	[Osobisty Sklepik Premium] Nie mo¿esz siê tutaj pojedynkowaæ.
 1764	[Osobisty Sklepik Premium] Pieni¹dze do odbioru nie bêd¹ aktualizowane, podczas gdy zarz¹dzasz przedmiotami.
+1765	Pojawi³ siê boss koñcowy Œwi¹tyni Wê¿y.
 1766	[Osobisty Sklepik Premium] Tutaj otwarto ju¿ sklepik. ZnajdŸ inne miejsce, gdzie mo¿esz otworzyæ sklepik.
+1767	Nie mo¿esz tego ulepszyæ po przywo³aniu zwierzaka, którego mo¿na rozwijaæ.
 177	[Gaya] Masz za ma³o Gaya.
 178	[Gaya] Nie mo¿esz kupiæ tego przedmiotu.
 179	[Gaya] Twój ekwipunek jest pe³ny.
 18	[Gildia] Znajdujesz siê w trybie obserwatora, poniewa¿ osi¹gn¹³eœ swój limit o¿ywieñ.
 180	[Gaya] Masz za ma³o 'Reset Sklepu Gaya'.
+1802	Dostêpne po rozpoczêciu walki.
 181	[Gaya] Musisz najpierw otworzyæ Sklep Gaya.
+1812	Nie mo¿esz tego zrobiæ podczas handlu.
 182	[Gaya] Nie mo¿esz dodaæ wiêcej slotów do Sklepu Gaya.
 183	[Gaya] Masz za ma³o %s. Potrzebujesz %d wiêcej, by otworzyæ kolejne sloty.
 184	[Gaya] Sklep Gaya jest aktualnie niedostêpny.

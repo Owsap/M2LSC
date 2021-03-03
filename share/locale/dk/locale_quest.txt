@@ -1,3 +1,6 @@
+13305	Hej! Har du nøglen til at befri mig?
+13306	Befri mig venligst. Er der ingen der kan hjælpe?
+13307	Hej, du! Få venligst fat i nøglen!
 2	Jeg har allerede fortalt dig om de kræfter vi[ENTER]behøver for at konfrontere Sung Mahi.[ENTER][ENTER]Skynd dig og find kaptajnen.[ENTER][ENTER]Kom tilbage når du har det nødvendige tøj.
 1	Et specielt klædestykke
 3	Forøg din kraft
@@ -829,6 +832,26 @@
 12585	Jeg fandt alle Skygge Bregnerne.[ENTER]Vend nu hurtigt tilbage til Chaegirab.
 12591	Skynd mig ikke! Selv denne visne Skygge Bregne[ENTER]har indsigter til videnskaben.[ENTER]Kom tilbage igen senere, og bring mig en ny[ENTER]plante.[ENTER]Resterende nedkøling: %s
 12713	Åh, undskyld.[ENTER]Jeg er stadig ikke færdig med at analysere den[ENTER]endelige Skygge Bregne.[ENTER]Kom tilbage senere.[ENTER]Resterende nedkøling: %s
+13038	Ja
+13039	Nej
+13041	Dette er kun tilgængeligt for lederen.
+13042	Start Kampen
+13043	Opgiv
+13044	Forlad
+13045	Ønsker du at starte Slange Tempel fangehullet?
+13046	Slange Tempel
+13047	Ønsker du at forlade dette sted? Du kan vende[ENTER]tilbage indtil kampen er startet.
+13048	Den oprettede Slange Tempel instans lukker.[ENTER]Ønsker du at opgive?
+13056	Alle gruppe medlemmerne skal være i det samme[ENTER]område.
+13061	Gå til boss level.
+13062	Slange Templets Smed
+13063	Ønsker du at gå til boss level?
+13064	Handske Opgrader Smed
+13065	Hej, jeg kan forbedre et par handsker for dig. Du[ENTER]har ikke brug for nogen andre materialer! Bare[ENTER]giv mig de handsker, som du vil have mig til at[ENTER]forbedre. Min forbedring har den samme effekt som[ENTER]en Velsignelses Dokument.
+13613	Ønsker du at forlade fangehullet?
+13614	Du kan ikke nulstille dine indgange lige nu.
+13615	Ønsker du at nulstille dine indgange til Slange[ENTER]Templet?
+13616	Dine indgange til Slange Templet er blevet[ENTER]nulstillet til 5.
 679	Vind over Jin-Hees.
 678	Ring-købmandens hævn
 680	Den gamle Dame har bedt om Deres støtte: hendes[ENTER]veninde var Guldsmed blev myrdet af Jin-Hee, Hvid[ENTER]Eid-specialister. Hævne den døde Guldsmed ved at[ENTER]dræbe 30 Jin-Hee.
@@ -1358,6 +1381,30 @@
 989	Her, din Energi Krystal. Men den er kun første[ENTER]forsøg der altid er succesfuldt. Alkemi er en[ENTER]uforudsigelig videnskab - en lille fejl leder til[ENTER]fiasko! Der er altid en lille chance for at et[ENTER]eksperiment fejler.
 990	Desværre, det forsøg fejlede. Jeg kunne ikke[ENTER]producere en Energi krystal. Min teknologi er[ENTER]genial - men processen er fuld af risicis.[ENTER]Tingene fungere ikke altid ifølge planen. Jeg er[ENTER]sikker på at næste gang vil blive succesfuld.
 991	Jeg viste det! Min teknologi er genial![ENTER]Her er din Energi Krystal. Det er helt sikkert et[ENTER]fint eksemplar! Kan du mærke energien?
+13540	Ønsker du at betræde Slange Templet?
+13014	Betræd Slange Templet
+13020	Vigtige Forberedelser
+13021	Jeg burde finde Slange Statuen for at betræde[ENTER]Slange Templet.
+13022	Du får brug for en lang række af ting, for at[ENTER]komme videre igennem denne undergrunds[ENTER]fangehul... en hat, en pisk eller en lille[ENTER]sandsæk på størrelse af en skat, ville helt[ENTER]sikkert være brugbart. Jeg kan skabe disse[ENTER]genstande til dig.
+13023	Men hvis du ønsker at komme ind i templet, bliver[ENTER]du nød til at bringe mig %d Slange Skalaer til[ENTER]udstyret. Og da kun den helt som er villig til at[ENTER]give den hans bedste som er sejren værd, vil det[ENTER]koste dig %d Yang. Kan du bringe mig begge dele?
+13024	Slange Statuen kræver %d Slange Skalaer. Du kan[ENTER]finde dem på monstrene i nærheden.
+13025	For at komme ind i Slange Templet, skal jeg få[ENTER]fat i de %d Slange Skalaer som Slange Statuen[ENTER]kræver.[ENTER]Antal tilbage: %d
+13026	Jeg skal bruge flere Slange Skalaer...
+13027	Du har modtaget Slange Skalaerne. Indsamlede genstande: %d
+13028	Det er alle Slange Skalaerne, som Slange Statuen[ENTER]har brug for. Vend tilbage til den.
+13029	Jeg har alle %d Slange Skalaer! Jeg burde vende[ENTER]tilbage til Slange Statuen.
+13030	Har du fået alle Slange Skalaerne? Så skal jeg[ENTER]bare bruge %d Yang, og jeg vil være i stand til[ENTER]at give dig adgang til templet.
+13031	Overræk Begge Dele
+13032	Annuller
+13033	Du har ikke nok penge...
+13034	Godt. Helt færdig! Her er dine genstande, held og[ENTER]lykke. Når du har brug for noget mere udstyr til[ENTER]endnu en ekspedition, skal du bare komme tilbage[ENTER]til mig.
+13035	Opret
+13036	Træd ind
+13037	Ønsker du at betræde Slange Templet? Du har %d[ENTER]indgange tilbage.
+13040	Kunne du tænke dig at oprette en Slange Tempel[ENTER]instans?
+13049	Du kan ikke komme ind igen i dag.
+13055	Du kan ikke oprette endnu en instans, indtil du[ENTER]har indsamlet alle belønningerne.
+13182	Resterende Slange Skalaer
 992	Legeplads opsynsmand
 993	Ønsker du at forlade legepladsen?
 994	Ønsker du at træde ind på legepladsen?
@@ -1626,6 +1673,17 @@
 10167	Brug Animaspherer for at reducere det mørke[ENTER]energi fra Zodiac Templet før det bliver alt for[ENTER]kræftfuldt. Du vil automatisk forbruge[ENTER]Animasphere når du kommer ind i templet. Bemærk:[ENTER]Missionen kan ikke gennemføres hvis du har[ENTER]aktiveret Vogterens Mærke.
 10168	Jeg gjorde det! Vend tilbage til Munk Milbon og[ENTER]få din gave.
 10169	Mange tak. Templet er sikret igen indtil videre.[ENTER]Her er din gave. Energi niveauet vil dog rejse[ENTER]sig igen. Kom tilbage om 24 timer og reducere[ENTER]energi niveauet med Animasphere endnu engang. Jeg[ENTER]vil belønne dig igen for at gøre det,[ENTER]selvfølgelig.
+13586	Træd ind i det Mystiske Fangehul
+13587	Mystisk Alter
+13588	Hej! Jeg ved at jeg er blevet forvandlet til[ENTER]sten. Sung Mahis Forbandelse er skyld i det! Men[ENTER]jeg er en shaman, og jeg kan fortælle dig om et[ENTER]meget interessant sted...[ENTER]Hvis du har en Mystisk Billet, kan jeg tage dig[ENTER]hen til det Mystiske Fangehul.[ENTER]Ønsker du at prøve?
+13589	Ja
+13590	Nej
+13591	Oh! Jeg er bange for, at jeg ikke kan lade dig[ENTER]passere uden en Mystisk Billet.
+13598	Du kan ikke træde ind nu.
+13609	Afslut
+13610	Ønsker du at forlade fangehullet?
+13611	Ja
+13612	Nej
 1209	Afvis
 1208	Hvorfor græder du?
 1210	Selvfølgelig vil jeg hjælpe dig. Missionen er[ENTER]ikke svær at gennemføre og jeg kan forstå at du[ENTER]vil have din souvenir tilbage. Ses snart igen!
@@ -7628,6 +7686,15 @@
 12707	Du har modtaget %d Sol Eliksirer (L).
 12708	Gå til Rustnings Handelsmanden for at fejre dagen.
 12709	Du har modtaget %d Ritual Sten.
+12971	En Skjult Dal
+12972	Der er rygter om at en ny dal er blevet fundet.[ENTER]Gå til Kong-fu-tse.
+12973	Jeg har ikke set dig i et stykke tid. Hvor har du[ENTER]været i alt den tid? Det hemmelige sted der gav[ENTER]dig sådan en hovedpine før, er blevet fundet.
+12974	Jeg har hørt, at vejen derhen er snoet og[ENTER]forræderisk. Jeg kunne godt tænke mig at du tog[ENTER]derhen, for at finde ud af mere om denne skjulte[ENTER]dal. Så snart du ankommer, vil du møde en vagt[ENTER]som jeg sendte derhen for længe siden.
+12975	Et nyt område er blevet låst op. Tag hen til[ENTER]Slange Vagten.
+12976	Hey, hvad laver du ved at stå her? Hvis du tager[ENTER]hen til Dong Gwang Almindelig, kan du komme hen[ENTER]til det nye område derfra.
+12977	Gå til det nye område, og hav et møde med Slange[ENTER]Vagten.
+12978	Hvem er du så? Ha, har Kong-fu-tse sendt dig? Du[ENTER]kan ikke være seriøs... Hvorfor har han sendt en[ENTER]nybegynder ligesom dig, til et land der er så[ENTER]hårdt som dette?
+12979	Kong-fu-tse sagde at jeg skulle give dig det her,[ENTER]da du ankom. Kom tilbage igen senere. Du har[ENTER]stadig opgaver at klare.
 6353	Et nyt liv
 6354	Du vågner, og finder dig selv usædvanlig pelset.[ENTER]Hvad skete der? Hvor er du?! Led efter[ENTER]Myonghorang den vise. Han vil kunne forklare.
 6355	Velkommen Lycan!
@@ -7965,11 +8032,11 @@
 6606	Samlet score
 6607	Højeste spil score
 6608	De 10 spillere med den højeste gennemsnitlig[ENTER]score vil modtage yderligere præmier.
-6610	1. Plads: %sx %d
+6610	1. Plads:  %s %d x
 6609	Luk
-6611	2. Plads: %sx %d
-6612	3. Plads: %sx %d
-6613	4-10. Plads: %sx %d
+6611	2. Plads: %s %d x
+6612	3. Plads: %s %d x
+6613	4-10. Plads: %s %d x
 6614	1. plads: %s, %d
 6615	2. plads: %s, %d
 6616	3. plads: %s, %d
@@ -9808,6 +9875,12 @@
 12080	Annuller
 12081	Dine stats blev nulstillet.
 12082	Du har ikke nogen stats som kan blive nulstillet.
+13057	Du har gennemført Slange Templet, og kan indsamle dine belønninger. Snak med Slange Statuen.
+13058	Belønninger Hentet
+13059	Slange Statue
+13060	Du har besejret alle de onde slanger. Du har[ENTER]optjent denne kiste.
+13606	Du har modtaget %dx Slange Skat.
+13607	Du har modtaget %dx Slange Støv.
 8044	Dit level er for lavt!
 8045	Du kan ikke ride mens du er forvandlet!
 8046	Du rider allerede! Hvis du vil skifte din ganger,[ENTER]så skal du stige af den først.
@@ -9951,6 +10024,48 @@
 11499	Nej, jeg bliver her.
 11500	Den Blå Drage (TS) er kommet tilbage!
 11679	Alle krigere vil blive teleporteret fra[ENTER]Forbandelsens Grotte (TS) om tre minutter.
+12980	Hvad er Slange Templet?
+12981	Jeg burde snakke med Slange Vagten for at finde[ENTER]det skjulte tempel.
+12982	Hej, nybegynder. Jeg ved ikke hvor ressourcefuld[ENTER]du er endnu. Hvis du følger dal stien bag mig,[ENTER]kommer du hen til et stort tempel. Har du[ENTER]nogensinde hørt om Slange Templet?
+12983	Du kommer forbi en hel masse farlige monstre. Jeg[ENTER]vædder med at der ikke vil gå et minut, før du[ENTER]bolter dig. Men hvis du er modig nok, kan du[ENTER]finde skatte der.
+12984	Hvordan kommer jeg indenfor?
+12985	Hahaha! Det kan du ikke - ikke medmindre, at jeg[ENTER]lader dig indenfor. Jeg vil teste dit mod.
+12986	Dine øjne skinner positivt med en tørst for[ENTER]action! Jeg er sikker på, at du vil være i stand[ENTER]til at tage fat i nogen monstre omkring her for[ENTER]mig! At holde dette område under kontrol,[ENTER]begynder at blive lidt udmattende.
+12987	Jagt monstrene i området for at bestå Slange[ENTER]Vagtens test.
+12988	Slange Vagten vil gerne have at du jager %d[ENTER]monstre på Yilad Dalen.[ENTER]Resterende monstre: %d
+12989	Hey, du har stadig ikke taget fat på de[ENTER]monstre... Giver du op eller sådan noget?
+12990	Jeg har dræbt alle mostrene for Slange Vagten.[ENTER]Jeg burde vende tilbage til ham.
+12991	Jeg har dræbt alle mostrene for Slange Vagten.[ENTER]Jeg burde vende tilbage til ham.
+12992	Oh. Det ser ud til, at du er tapre end jeg først[ENTER]troede. At se dig kæmpe fra distancen, mindede[ENTER]mig om min ungdom.
+12993	Tja, uanset hvad. Dette er din belønning for at[ENTER]bestå testen.
+13180	Resterende Monstre
+13603	Du har dræbt %d monstre. Resterende antal: %d
+12994	Slange Tempel?!
+12995	Et nyt område er blevet opdaget. Jeg burde tag[ENTER]hen til Slange Vagten, som overvåger dette[ENTER]område.
+12996	Hej, nybegynder. Det ser ud til, at du gerne[ENTER]ville komme ind til dalen...
+12997	Hvis du gerne vil komme ind til dalen, så vil jeg[ENTER]gerne have at du gør mig en tjeneste først![ENTER]Monstrene her omkring, giver os en masse[ENTER]problemer i øjeblikket. Og jeg kunne virkelig[ENTER]godt bruge din hjælp.
+12998	Jeg vil gerne have at du skiller dig af med de[ENTER]monstre, og bringer mig nogen Jern Spåner. Kunne[ENTER]du gøre det for mig? Så vidt jeg ved, er Jern[ENTER]Spåner også en god måde at tjene penge på.
+12999	Ja.
+13000	Nej.
+13001	Tja, jeg er bange for at du ikke vil have[ENTER]tilladelse til at komme ind til dalen så!
+13002	Anskaf %d Jern Spåner som Slange Vagten så gerne[ENTER]vil have. Du kan finde dem på monstrene i[ENTER]nærheden.
+13003	Hvad, du har fået dem allesammen så hurtigt? Hej![ENTER]Jeg tror du har talt forkert. Jeg sagde %d!
+13004	Slange Vagten kræver %d Jern Spåner for at lade[ENTER]dig komme ind til dalen. Jeg burde jage monstrene[ENTER]nær Yilad Dalen for at få fat i Jern Spåner.[ENTER]Resterende Jern Spåner: %d
+13005	Du har modtaget Jern Spåner. Indsamlet: %d
+13006	Jeg har alle Jern Spånerne som Slange Vagten[ENTER]ville have. Jeg burde vende tilbage til ham.
+13007	Jeg har alle Jern Spånerne som Slange Vagten[ENTER]ville have. Jeg burde vende tilbage til ham.
+13008	Oh, jeg vidste du var den rette til denne opgave![ENTER]Det er det rigtige nummer!
+13009	Okay, nu vil jeg hjælpe dig med at krydse dalen.[ENTER]Når du når over på den anden side, vil du se et[ENTER]stort tempel. Hvis du gerne vil gå derind senere,[ENTER]så kom og se mig igen.
+13010	Du kan få adgang til Slange Templet fra Slange[ENTER]Vagten.
+13011	Ah, der er du igen. Ønsker du at komme ind?
+13012	Så bring mig de Jern Spåner som du samlede til[ENTER]mig sidste gang, og jeg vil give dig en billet.[ENTER]Denne gang har vi brug for %d Jern Spåner.
+13013	Slange Tempel?! (Gentagelse)
+13015	Ønsker du at betræde Slange Templet?
+13016	Bekræft
+13017	Annuller
+13018	Snak med Slange Vagten for at komme ind til[ENTER]Slange Templet.
+13019	Denne dal ser meget farlig ud. Så vær forsigtig.
+13181	Resterende Jern Spåner
 8167	Nemeres vagttårn
 8168	Gå ind i Nemeres vagttårn. Tidsbegrænsningen i[ENTER]grotten er en time. Efter afslutning eller[ENTER]afbrydelse af eventyret, er du nødt til at vente[ENTER]op til fire timer, før du kan få adgang igen.
 8169	Besejre alle fjender!
@@ -11793,6 +11908,62 @@
 12884	Du har ødelagt alle Jins Metins. Meddel[ENTER]Kong-fu-tse omkring det på Dong Gwang Almindelig.
 12885	Vend tilbage til Kong-fu-tse, og meddel ham om[ENTER]hvad der sker.
 12886	Dens påvirkning er blevet svækket, men det vil[ENTER]stadig ikke være nok. Men hvert lille bid tæller.[ENTER]Jeg har en lille gave til dig for at sige tak.
+12914	Et Ukendt Land
+12915	Da jeg bevægede mig rundt, og prøvede at finde ud[ENTER]af mere omkring dette mærkelige rygte, ankom jeg[ENTER]endelig til et ukendt land. Vi burde undersøge[ENTER]dette sted nærmere for at finde ud af, om det er[ENTER]kilden til rygterne.
+12916	Jeg kan se nogen der i distancen. Vi burde komme[ENTER]hen til dem med forsigtighed.
+12917	Der er en nervøs person der sidder i hjørnet. Vi[ENTER]burde tale med ham.
+13541	En ny mission er blevet tilføjet.
+12918	En Nysgerrig Person
+12919	Gå hen til den nysgerrige person, og snak med dem.
+12920	Du godeste!
+12921	Hvem er du?! Hvordan lykkedes det dig, at finde[ENTER]vej herover?
+12922	Hej! Hvem er du? Jeg er en Dusør Jæger, og kom[ENTER]hele vejen hertil for at følge rygterne til denne[ENTER]landsby. Også dig? Tja, jeg skal undersøge noget[ENTER]her. Hvis du hjælper mig, vil jeg med glæde[ENTER]fortælle dig hvad jeg har fundet indtil videre.
+12923	Afvis
+12924	Jeg vil hjælpe dig.
+12925	Sikke en kujon...
+12926	Jeg tror der foregår noget stort her. Først,[ENTER]burde vi kigge os omkring og dræbe nogen[ENTER]Inficerede Soldater. Det er for farligt der, så[ENTER]lad os mødes her igen senere.
+12927	Dræb Inficerede Soldater.[ENTER]Resterende modstandere: %d
+12928	Spild ikke noget tid! Jeg vil ikke fortælle dig[ENTER]noget, hvis du bare står her.
+12929	Jeg har dræbt alle de Inficerede Soldater, og[ENTER]burde vende tilbage til Dusør Jægeren.
+12930	Godt klaret. Her er din belønning. Jeg vil[ENTER]fortælle dig, hvordan vi kommer til at fortsætte.[ENTER]Så kom tilbage igen senere.
+12931	Et Mærkeligt Rygte
+12932	Jeg burde spørge Dusør Jægeren omkring rygtet om[ENTER]Yilad Dalen.
+12933	Tingene ser lidt klarer ud nu. Rygtet?! Hvordan[ENTER]ved du om det? Der er et skjult alter i nærheden[ENTER]her, og en meget mægtig monster skaber kaos her.[ENTER]Det ser ud til at du allerede kender til dette[ENTER]rygte. Meget vel så, lad mig fortælle dig noget[ENTER]andet så.
+12935	Er de allesammen væk?
+12936	Ikke helt. De har bygget Slange Templet, hvor de[ENTER]bliver stærkere. Mit mål er at dræbe deres leder[ENTER]og indsamle dusøren. Men det er så svært at komme[ENTER]hen til hende, da der er en vagt ved alteret. Du[ENTER]kunne hjælpe mig med at jage de monstre, hvis du[ENTER]vil? Det er meget svært at slå igennem deres rang[ENTER]alene.
+12937	Ikke lige nu.
+12938	Jeg vidste at du ikke ville skuffe mig. En[ENTER]hjælpende hånd er altid godt. Så lad os komme hen[ENTER]til alteret.
+12939	Jeg burde dræbe Inficerede Krigere for at frigøre[ENTER]vejen.[ENTER]Resterende monstre: %d
+12940	Så, hvordan går det? Har du lavet nogen[ENTER]fremskridt? Det ser ikke sådan ud... Skynd dig[ENTER]venligst, vi har ikke meget tid.
+12941	Jeg har jaget alle de Inficerede Krigere og[ENTER]frigjort en vej. Jeg burde vende tilbage til[ENTER]Dusør Jægeren.
+12942	Alle de Inficerede Krigere er blevet dræbt. Vend[ENTER]tilbage til Dusør Jægeren.
+12943	Godt klaret. Nu kan jeg se vores vej. Lad os gå[ENTER]hen til det næste område hurtigt. Det ser ud til,[ENTER]at vi nærmer os deres tilflugtssted.
+12966	Må jeg?
+12967	Okay, jeg vil gå tilbage så. Hvis du skifter[ENTER]mening, kan du komme tilbage hvornår end du har[ENTER]lyst til det.
+12944	Et Skjult Alter
+12945	Jeg tror allerede at jeg kan se noget af det[ENTER]skjulte alter. Tag hurtigt tilbage til Dusør[ENTER]Jægeren.
+12946	Ja, det er rigtigt! Efter at have kæmpet mig[ENTER]igennem alle monstrene, er jeg nået til alteret.[ENTER]Men vagten vil ikke lade mig ind. Jeg bønfaldt[ENTER]ham flere gange, men det virkede ikke, og jeg[ENTER]havde ikke noget andet valg end at tage tilbage.[ENTER]Men nu, takket være dig, har jeg en anden chance![ENTER]Lad os presse på sammen.
+12947	Jeg kan ikke fortsætte.
+12948	Okay.
+12949	Hvad, giver du snart op? Du er meget svagere end[ENTER]jeg troede.
+12950	Hvis vi tager det seriøst, så kan vi gøre det.[ENTER]Lad os skaffe os af med nogen monstre her[ENTER]omkring.
+12951	Dræb Inficerede Munke for at frigøre resten af[ENTER]vejen.[ENTER]Resterende modstandere: %d
+12952	Du giver op så tæt på vores mål? Jeg kan give dig[ENTER]en del af min dusør. Kom nu.
+12953	Alle de Inficerede Munke er blevet dræbt. Vend[ENTER]tilbage til Dusør Jægeren.
+12954	Jeg kan allerede se vagten i distancen, som ser[ENTER]over Slange Templet. Jeg tror vi vil nå hen til[ENTER]indgangen af alteret, takket være dig.
+12955	Udholdenhed
+12956	Jeg har fundet Alteret. Jeg burde tjekke den ud,[ENTER]og finde ud af hvor vagten er.
+12957	Du har endelig fundet Alteret. Tak for at være[ENTER]med mig så længe. Nu kan vi snige os forbi vagten[ENTER]til hvor lederen skjuler sig, og finde ud af hvad[ENTER]der sker der. Dog, frygter jeg at de kan opdage[ENTER]os hvis vi er sammen. Så, mit forslag er at vi[ENTER]splitter os op, og prøver at få fat i noget mere[ENTER]brugbart information mens vi går.
+12958	Jeg har fået nok.
+12959	Lad os gå!
+12960	Vi er der næsten. Genovervej det venligst.
+12961	Jeg håber at vi stadig vil være i et stykke,[ENTER]næste gang vi ser hinanden.
+12962	Snig dig forbi alter vagten, ind i templet, og[ENTER]find ud af hvad der foregår indeni. Jag 30 Kappa[ENTER]Soldater[ENTER]Resterende monstre: %d
+12963	Du har stadig ikke forladt? Så går jeg fremad,[ENTER]tror jeg.
+12964	Slange Templet er blevet undersøgt, og 30 Kappa[ENTER]Soldater er blevet jaget. Vend tilbage til Dusør[ENTER]Jægeren.
+12965	Jeg vidste at du ville gøre det! Jeg har også[ENTER]haft et hurtigt kig indenfor, men jeg er bange[ENTER]for at jeg ikke kunne finde lederen. Ah tja, det[ENTER]er hvad det er. Måske næste gang. Dog, er jeg kun[ENTER]kommet herhen takket være dig, og jeg vil gerne[ENTER]belønne dig for din hjælp. Her, tag venligst[ENTER]dette...
+13054	Følg den blinkende prik på dit minikort.
+13597	Har du ikke fundet Slange Templet endnu?[ENTER]Det sted vil ikke være nemt at nå. Så sikre dig[ENTER]at du har nok færdigheder til at stå over for[ENTER]Slange Templet.
 12679	Sung Mahi Tårnets Forhal
 12680	Ønsker du at komme ind til Sung Mahi Tårnet?
 12681	Ja
@@ -12081,3 +12252,4 @@
 12673	Besejr Verdens Bossen!
 12674	Påfør den mindste mængde skade på %d på en[ENTER]verdens boss eller mere.
 12675	Daglig mission gennemført - du har påført den[ENTER]mindste mængde skade på en verdens boss.
+12934	Jeg kom her, for at optjene dusøren for denne[ENTER]monster. Oprindeligt, var dette sted fyldt med[ENTER]Slange Monstre, og blev kaldt Yilad Dalen. Men[ENTER]lag du mærke til noget underligt? Alle de Slange[ENTER]Monstre er forsvundet.

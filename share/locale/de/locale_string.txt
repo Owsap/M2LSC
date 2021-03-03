@@ -692,6 +692,8 @@
 1693	Alle Außenposten in Gebiet %s wurden zerstört und das Gebiet befindet sich nicht mehr unter Sung Mahis Kontrolle.
 1694	Ödland von Seogan
 1695	Namgankluft
+1696	Die Verbesserung war erfolgreich!
+1697	Leider ist die Verbesserung fehlgeschlagen!
 1698	Dank dem Immunitätssegen bist du von Sung Mahis Einfluss befreit.
 1699	Dein Immunitätssegen ist abgelaufen und du befindest dich wieder unter Sung Mahis Einfluss und Fluch.
 17	[Gilde] Du hast keine Rechte zum Nutzen der Gildenfertigkeiten.
@@ -710,35 +712,71 @@
 1710	Du kannst dies nach Erreichen eines Championlevels erlernen.
 1711	[Persönlicher Premiumladen] Du kannst das nicht öffnen, da du noch Geld abzuholen hast.
 1712	[Persönlicher Premiumladen] Du kannst das nicht öffnen, da du noch Gegenstände abzuholen hast.
-1713	[Persönlicher Premiumladen] Du hast deinen persönlichen Laden bereits geöffnet.
+1713	[Persönlicher Premiumladen] Du hast deinen Persönlichen Laden bereits geöffnet.
 1714	[Persönlicher Premiumladen] Der Laden wird gerade vorbereitet.
 1715	[Persönlicher Premiumladen] Du hast nicht genügend Platz in deinem Inventar.
-1716	[Persönlicher Premiumladen] Du kannst Gegenstände in deinem persönlichen Laden abholen.
-1717	[Persönlicher Premiumladen] Du kannst Geld in deinem persönlichen Laden abholen.
+1716	[Persönlicher Premiumladen] Du kannst Gegenstände in deinem Persönlichen Laden abholen.
+1717	[Persönlicher Premiumladen] Du kannst Geld in deinem Persönlichen Laden abholen.
 1718	[Persönlicher Premiumladen] %s wurde verkauft. Bitte hole dein Geld ab.
 1719	[Persönlicher Premiumladen] Du kannst den Laden für %d Sekunden nicht erneut eröffnen, nachdem du ihn geschlossen hast.
 172	[Gaya] Du besitzt bereits die maximale Anzahl an Gaya.
+1720	Das kannst du nicht tun während der Dungeon erstellt wird.
+1721	Du kannst dich nicht mehr wiederbeleben. Du wirst aus dem Dungeon transportiert.
+1722	Du hast deine Belohnung bereits erhalten. Wenn du es erneut versuchen möchtest, komm später wieder zurück. Verbleibende Zeit: %d h %d m
+1723	Du kannst dich noch %d mal wiederbeleben.
+1724	Du kannst jetzt den Schlangentempel betreten. Benutze dazu die Schlangenstatue.
+1725	Der zerstörte Metin reagiert nicht. Alle Metins sind wieder aufgetaucht.
+1726	Der zerstörte Metin reagiert nicht. Alle Metins sind wieder aufgetaucht.
+1727	Du hast %d Metins zerstört. Zerstöre noch %d Metins.
+1728	Die Zeit ist abgelaufen. Du wirst aus dem Dungeon transportiert.
+1729	Das ist nun für %d Minuten verfügbar.
 173	[Gaya] Das Schleifen war erfolgreich.
+1730	Du kannst den Dungeon-Timer nicht weiter verlängern.
+1731	Der Dungeon-Timer wird um 1 Minute verlängert.
+1732	Du hast alle Monster erlegt. Du wirst zur %d Ebene transportiert. Bis dahin verbleiben noch %d Sekunden.
+1733	Du hast alle Metins zerstört. Du wirst zur Ebene %d transportiert. Bis dahin verbleiben noch %d Sekunden.
+1734	Das Stück wurde an den Schlangenkopf angefügt. Aber nichts passiert.
+1735	Alle Schlangensäulen wurden freigeschaltet. %d Ebene in %d Sekunden.
+1736	Der besondere Schlangentempel-Schmied taucht auf!
+1737	Der Schlangentempel-Schmied taucht auf!
+1738	Du hast alle Monster erlegt und kannst dich jetzt zur Bossebene begeben.
+1739	Du hast den Schlangentempel erfolgreich abgeschlossen. Du wirst in %d Sekunden aus dem Dungeon transportiert.
 174	[Gaya] Das Schleifen ist fehlgeschlagen.
+1740	Zerstöre die Metinsteine in der richtigen Reihenfolge.
+1741	Töte alle Monster.
+1742	Nimm den Monstern den Schlüssel ab und schließe die Zelle auf.
+1743	Du hast dem Schlangenkopf ein Stück hinzugefügt.
+1744	Töte den Boss.
+1745	Erfolgreich geöffnet!
+1746	Du musst zunächst die andere Säule freischalten.
+1747	Das Gefängnis wurde aufgeschlossen. Der Schmied lächelt dich an.
+1748	Dieser Schlüssel konnte nicht das Gefängnis öffnen und den Schmied befreien.
+1749	Dieses Stück passt nicht an den Schlangenkopf.
 175	[Gaya] Die Itemliste wurde erneuert.
 1752	Du musst mindestens 1 Exp Kugel auf Level 120 ausfüllen, um Champion-Level erreichen zu können.
 1753	Du musst den Dungeon "Schiffsverteidigung" abschließen.
 1754	Du hast bereits Champion-Level erreicht.
-1755	[Persönlicher Premiumladen] Du kannst keine Gegenstände verwenden, während du deinen persönlichen Laden eröffnest.
+1755	[Persönlicher Premiumladen] Du kannst keine Gegenstände verwenden, während du deinen Persönlichen Laden eröffnest.
 1756	[Persönlicher Premiumladen] Du kannst das nicht benutzen während du Gegenstände verwaltest.
-1757	[Persönlicher Premiumladen] Du kannst den persönlichen Premiumladen nicht verwenden, während du andere Fenster geöffnet hast.
+1757	[Persönlicher Premiumladen] Du kannst den Persönlichen Premiumladen nicht verwenden, während du andere Fenster geöffnet hast.
 1758	[Persönlicher Premiumladen] Du kannst das nicht tun, während du Gegenstände verwaltest.
 176	Der Event-Detektor ist verschwunden.
 1760	[Reliktbonus] Mit geöffnetem Seelenrelikt-Fenster ist dies nicht möglich.
+1761	%s Gruppenmitglieder haben den Kampf verlassen.
+1762	Du hast noch %d Minuten.
 1763	[Persönlicher Premiumladen] Du kannst dich hier nicht duellieren.
 1764	[Persönlicher Premiumladen] Abholbares Geld wird nicht aktualisiert während du Gegenstände verwaltest.
+1765	Der Endboss des Schlangentempels ist erschienen!
 1766	[Persönlicher Premiumladen] Hier wurde bereits ein Laden eröffnet. Bitte finde einen anderen Platz, an dem du deinen Laden eröffnen kannst.
+1767	Du kannst das nicht verbessern, während du ein levelbares Pet beschworen hast.
 177	[Gaya] Du besitzt nicht genügend Gaya.
 178	[Gaya] Du kannst diesen Gegenstand nicht kaufen.
 179	[Gaya] Dein Inventar ist voll.
 18	[Gilde] Du befindest dich jetzt im Zuschauer-Modus, da du das Wiederbelebungslimit erreicht hast.
 180	[Gaya] Du besitzt kein 'Gayahandel zurücksetzen'.
+1802	Das steht zur Verfügung sobald der Kampf begonnen hat.
 181	[Gaya] Du musst zuerst den Gayahandel öffnen.
+1812	Das kannst du nicht während dem Handel tun.
 182	[Gaya] Du kannst keinen weiteren Platz im Gayahandel öffnen.
 183	[Gaya] Du hast nicht genug %s. Du brauchst %d mehr, um weiteren Platz zu öffnen.
 184	[Gaya] Der Gayahandel ist gerade nicht verfügbar.

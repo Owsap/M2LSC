@@ -2,7 +2,7 @@
 1	2	Czy w Krainie Gigantów mo¿na zdobyæ Kulê Polimorfii?
 1	3	Czy z Przekl. Nieb. Alfa Wilka mo¿na wydropiæ Futro Wilka?
 1	4	Czy z potwora Yeti mo¿na wydropiæ Futro Yeti?
-1	5	Czy Matowy Lód mo¿na zdobyæ jedynie przy Górze Sohan?
+1	5	Czy lodowe kulki mo¿na zdobyæ jedynie przy Górze Sohan?
 1	6	Czy £zê Bogini mo¿na znaleŸæ wy³¹cznie w skrzyniach?
 1	7	Czy Kamieñ Duszy Przysp. na poziomie 3 zwiêksza szybkoœæ ruchu o 30?
 1	8	Czy Per³y zazwyczaj przydzielaj¹ bonus INT?
@@ -91,7 +91,7 @@
 1	91	Czy jednostronny rozwód wymaga op³aty w wysokoœci 1kk Yang?
 1	92	Czy ¯urawi Wachlarz dropi z wilków?
 1	93	Czy aby wzi¹æ œlub, trzeba mieæ sukniê œlubn¹?
-1	94	Czy bonus 'Silny przeciwko Diab³om' dzia³a w walce z Podziemnymi Yeti?
+1	94	Czy bonus 'Si³a w walce z diab³ami' dzia³a w walce z Podziemnymi Yeti?
 1	95	Czy Dziewiêæ Ogonów posiada poziom 73?
 1	96	Czy Bakra to wioska w królestwie Jinno?
 1	97	Czy Taurean znajduje siê w pierwszej wiosce?

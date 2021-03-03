@@ -692,6 +692,8 @@
 1693	Alle forposterne i %s er blevet ødelagt, og området er ikke længere under Sung Mahis kontrol.
 1694	Seo Gwang Ødemarker
 1695	Nam Gwang Afgrunden
+1696	Forbedringen var succesfuld.
+1697	Forbedringen er desværre mislykkedes.
 1698	Takket være immunitets velsignelsen, er du ikke påvirket af Sung Mahis Tilstedeværelse.
 1699	Din immunitet er udløbet, og du er igen påvirket af Sung Mahis Tilstedeværelse og Forbandelse.
 17	[Orden] Du har ikke tilladelser til at bruge ordens færdigheder.
@@ -718,8 +720,38 @@
 1718	[Personlig Premiums Butik] %s er blevet solgt. Indsaml venligst dine penge.
 1719	[Personlig Premiums Butik] Du kan ikke genåbne din butik i %d sekunder efter den er blevet lukket.
 172	[Gaya] Du har allerede det maksimale antal Gaya.
+1720	Du kan ikke gøre dette, mens fangehullet bliver skabt.
+1721	Du kan ikke genoplive dig selv mere. Du vil blive transporteret ud af fangehullet.
+1722	Du har allerede modtaget din belønning. Hvis du gerne vil prøve igen, så kom tilbage igen senere. Resterende tid: %d t %d m
+1723	Du kan genoplive dig selv yderligere %d gange.
+1724	Du kan nu komme ind til Slange Templet. Brug Slange Statuen til at gøre det.
+1725	Den ødelagte Metin reagerer ikke. Alle Metins er kommet frem igen.
+1726	Den ødelagte Metin reagerer ikke. Alle Metins er kommet frem igen.
+1727	Du har ødelagt %d Metins. Ødelæg %d Metins mere.
+1728	Tiden er gået. Du vil blive transporteret ud af fangehullet.
+1729	Det er nu tilgængeligt i %d minutter.
 173	[Gaya] Skæring fuldført.
+1730	Du kan ikke forlænge fangehuls timeren endnu yderligere.
+1731	Fangehuls timeren er forlænget med 1 minut.
+1732	Du har dræbt alle mostrene. Du vil blive transporteret til level %d. Der er %d sekunder tilbage indtil da.
+1733	Du har ødelagt alle Metins. Du vil blive transporteret til level %d. Der er %d sekunder tilbage indtil da.
+1734	Stykket er blevet tilføjet til Slange Hovedet. Men der sker ingenting.
+1735	Alle Slange Søjlerne er blevet låst op. %d levels om %d sekunder.
+1736	Den specielle Slange Templets Smed kommer frem!
+1737	Slange Templets Smed kommer frem!
+1738	Du har dræbt alle mostrene og kan nu komme videre til boss level.
+1739	Du har gennemført Slange Templet. Du vil blive transporteret ud af fangehullet om %d sekunder.
 174	[Gaya] Skæring mislykkedes.
+1740	Ødelæg Metin-Stenene i den rigtige rækkefølge.
+1741	Dræb alle monstrene.
+1742	Tag nøglen fra monstrene og lås op for cellen.
+1743	Du har tilføjet et stykke til Slange Hovedet.
+1744	Dræb bossen.
+1745	Åbnet med succes!
+1746	Du bliver nød til at låse op for den anden søjle først.
+1747	Fængslet er blevet låst op. Smeden smiler til dig.
+1748	Denne nøgle åbnede ikke for fængslet, og reddede smeden.
+1749	Dette stykke passer ikke til Slange Hovedet.
 175	[Gaya] Genstands listen er blevet opdateret.
 1752	Du skal fylde mindst 1 EXP Marmor op ved level 120 for at nå op til Champion Level.
 1753	Du skal gennemføre 'Skibs Forsvar' fangehullet.
@@ -730,15 +762,21 @@
 1758	[Personlig Premiums Butik] Du kan ikke gøre det mens du håndtere genstande.
 176	Begivenheds-detektor er forsvundet.
 1760	[Levn Bonus] Dette er ikke muligt mens Sjæl Levns vinduet er åbent.
+1761	%s gruppe medlemmer har forladt kampen.
+1762	Du har %d minutter tilbage.
 1763	[Personlig Premiums Butik] Du kan ikke duellere her.
 1764	[Personlig Premiums Butik] Samlede penge vil ikke blive opdateret mens du håndtere genstande.
+1765	Slange Templets endelige boss er kommet frem.
 1766	[Personlig Premiums Butik] En butik er allerede blevet åbnet her. Find venligst en anden lokation til at åbne din butik.
+1767	Du kan ikke forbedre det, mens en udviklede kæledyr er blevet tilkaldt.
 177	[Gaya] Du har ikke nok Gaya.
 178	[Gaya] Du kan ikke købe denne genstand.
 179	[Gaya] Dit inventar er fyldt.
 18	[Orden] Du er nu i tilskuer tilstand fordi du har nået genoplivnings grænsen.
 180	[Gaya] Du har ikke en Opdater Gaya Marked genstand.
+1802	Dette vil være tilgængeligt når kampen er begyndt.
 181	[Gaya] Du skal åbne Gaya Marked først.
+1812	Du kan ikke gøre det under handlen.
 182	[Gaya] Du kan ikke låse op for flere felter i Gaya Markedet.
 183	[Gaya] Du har ikke nok %s. Du har brug for %d mere for at låse op for en felt yderligere.
 184	[Gaya] Gaya Markedet er utilgængeligt i øjeblikket.

@@ -692,6 +692,8 @@
 1693	All of the outposts in %s have been destroyed and the area is no longer under Sung Mahi's control.
 1694	Seo Gwang Wastelands
 1695	Nam Gwang Chasm
+1696	The improvement was successful!
+1697	The improvement has unfortunately failed.
 1698	Thanks to the immunity blessing, you are not influenced by Sung Mahi's Presence.
 1699	Your immunity has expired and you are again influenced by Sung Mahi's Presence and Curse.
 17	[Guild] You do not have permission to use guild skills.
@@ -718,8 +720,38 @@
 1718	[Personal Premium Shop] %s has been sold. Please collect your money.
 1719	[Personal Premium Shop] You cannot reopen your shop for %d seconds after closing it.
 172	[Gaya] You already have the maximum amount of Gaya.
+1720	You cannot do that while the dungeon is being created.
+1721	You cannot revive yourself any more. You will be transported out of the dungeon.
+1722	You have already received your reward. If you want to try again, come back again later. Time remaining: %d h %d m
+1723	You can revive yourself another %d times.
+1724	You can now enter the Serpent Temple. Use the Serpent Statue to do so.
+1725	The destroyed Metin isn't reacting. All the Metins have appeared again.
+1726	The destroyed Metin isn't reacting. All the Metins have appeared again.
+1727	You have destroyed %d Metins. Destroy %d more Metins.
+1728	Time's up. You will be transported out of the dungeon.
+1729	This is now available for %d minutes.
 173	[Gaya] Cutting successful.
+1730	You cannot extend the dungeon timer any further.
+1731	The dungeon timer is extended by 1 minute.
+1732	You have killed all the monsters. You will be transported to level %d. %d seconds remaining until then.
+1733	You have destroyed all of the Metins. You will be transported to level %d. %d seconds remaining until then.
+1734	The piece has been added to the Serpent Head. But nothing is happening.
+1735	All the Serpent Pillars have been unlocked. %d levels in %d seconds.
+1736	The special Serpent Temple Smith appears!
+1737	The Serpent Temple Smith appears!
+1738	You have killed all the monsters and can now proceed to the boss level.
+1739	You have completed the Serpent Temple. You will be transported out of the dungeon in %d seconds.
 174	[Gaya] Cutting failed.
+1740	Destroy the Metin Stones in the correct order.
+1741	Kill all the monsters.
+1742	Take the key from the monsters and unlock the cell.
+1743	You have added a piece to the Serpent Head.
+1744	Kill the boss.
+1745	Successfully opened!
+1746	You have to unlock the other pillar first.
+1747	The prison has been unlocked. The blacksmith smiles at you.
+1748	This key didn't open the prison and save the blacksmith.
+1749	This piece doesn't fit the Serpent Head.
 175	[Gaya] The item list has been refreshed.
 1752	You must fill up at least 1 EXP Marble at level 120 to reach Champion Level.
 1753	You must complete the 'Ship Defence' dungeon.
@@ -730,15 +762,21 @@
 1758	[Personal Premium Shop] You cannot do that while managing items.
 176	The Event Detector has vanished.
 1760	[Relic Bonus] This is not possible while the Soul Relic window is open.
+1761	%s groups members have left the battle.
+1762	You have %d minutes left.
 1763	[Personal Premium Shop] You cannot duel here.
 1764	[Personal Premium Shop] Collectable money will not be updated while you manage items.
+1765	The final boss of the Serpent Temple has appeared.
 1766	[Personal Premium Shop] A shop has already been opened here. Please find another location to open your shop.
+1767	You cannot improve that while an evolvable pet has been summoned.
 177	[Gaya] You don't have enough Gaya.
 178	[Gaya] You cannot purchase this item.
 179	[Gaya] Your inventory is full.
 18	[Guild] You are now in observer mode because you have reached the respawn limit.
 180	[Gaya] You don't have a Refresh Gaya Market item.
+1802	This will be available once the battle has begun.
 181	[Gaya] You must open the Gaya Market first.
+1812	You cannot do that during trading.
 182	[Gaya] You cannot unlock any more slots on the Gaya Market.
 183	[Gaya] You don't have enough %s. You need %d more to unlock an additional slot.
 184	[Gaya] The Gaya Market is currently unavailable.

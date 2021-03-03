@@ -693,6 +693,8 @@ l'Alchimia delle Pietre del drago.
 1693	Tutti gli avamposti nella zona %s sono stati distrutti e la zona non si trova più sotto la maledizione di Sung Mahi.
 1694	Lande Seogan
 1695	Abisso Namgan
+1696	Il miglioramento è andato a buon fine!
+1697	Il miglioramento non è andato a buon fine!
 1698	La Benedizione Immunità ti libera dall'influsso di Sung Mahi.
 1699	La Benedizione Immunità è scaduta e tu ti trovi di nuovo sotto l'influsso della maledizione di Sung Mahi.
 17	[Gilda] Non possiedi i diritti di utilizzo delle Abilità della gilda.
@@ -719,8 +721,38 @@ l'Alchimia delle Pietre del drago.
 1718	[Negozio Premium Privato] Oggetto venduto: %s. Ritira i tuoi soldi.
 1719	[Negozio Premium Privato] Una volta chiuso, il negozio può essere riaperto solo dopo %d secondi.
 172	[Gaya] Possiedi già il quantitativo massimo di Gaya.
+1720	Non puoi eseguire questa azione mentre è in corso la creazione del dungeon.
+1721	Non puoi più far resuscitare il tuo personaggio. Il teletrasporto ti condurrà fuori dal dungeon.
+1722	Hai già ricevuto la ricompensa. Se vuoi riprovare, torna più tardi. Tempo rimanente: %d h %d m
+1723	Puoi far resuscitare il tuo personaggio ancora %d volta/e.
+1724	Ora puoi accedere al Templum Serpens. Per farlo, devi usare la Statua Serpens.
+1725	La Metin distrutta non reagisce. Sono riapparse tutte le Metin!
+1726	La Metin distrutta non reagisce. Sono riapparse tutte le Metin!
+1727	Hai distrutto %d Metin. Distruggi ancora %d Metin.
+1728	Il tempo è scaduto. Il teletrasporto ti condurrà fuori dal dungeon.
+1729	Rimarrà disponibile per %d min.
 173	[Gaya] La levigatura è andata a buon fine.
+1730	Non puoi più aumentare il timer del dungeon.
+1731	Il timer del dungeon aumenta di 1 minuto.
+1732	Hai eliminato tutti i mostri. Il teletrasporto ti porterà al livello %d. Rimangono ancora %d sec.
+1733	Hai distrutto tutte le Metin. Il teletrasporto ti porterà al livello %d. Rimangono ancora %d sec.
+1734	Il pezzo è stato aggiunto alla Testa Serpens. Non è successo nulla.
+1735	Tutte le Colonne Serpens sono state sbloccate. %d liv. in %d secondi.
+1736	È comparso il Fabbro speciale del Templum Serpens!
+1737	È comparso il Fabbro del Templum Serpens!
+1738	Hai eliminato tutti i mostri. Ora puoi raggiungere il livello del boss.
+1739	Templum Serpens completato con successo! Il teletrasporto ti condurrà fuori dal dungeon tra %d sec.
 174	[Gaya] La levigatura non è andata a buon fine.
+1740	Distruggi le Rocce Metin nella giusta sequenza.
+1741	Sconfiggi tutti i mostri.
+1742	Sottrai la chiave ai mostri e apri la cella.
+1743	Hai aggiunto un pezzo alla Testa Serpens
+1744	Uccidi il boss.
+1745	Hai aperto la cella!
+1746	Prima devi sbloccare l'altra colonna.
+1747	Hai aperto la Prigione. Il Fabbro ti sorride.
+1748	Questa non era la chiave giusta per aprire la Prigione e liberare il Fabbro.
+1749	Questo pezzo non va bene per la Testa Serpens.
 175	[Gaya] La lista degli item è stata aggiornata.
 1752	Per raggiungere il livello Campione bisogna riempire almeno una sfera EXP al livello 120.
 1753	Devi completare il dungeon "Difesa nave".
@@ -731,15 +763,21 @@ l'Alchimia delle Pietre del drago.
 1758	[Negozio Premium Privato] Non si può compiere questa azione mentre si stanno gestendo gli oggetti.
 176	Il cerca eventi è scomparso.
 1760	[Bonus Reliquia] Non è possibile mentre la finestra della Reliquia dell'anima è aperta.
+1761	%s giocatori del gruppo hanno abbandonato il combattimento.
+1762	Hai ancora %d min.
 1763	[Negozio Premium Privato] Qui non si può partecipare a un duello.
 1764	[Negozio Premium Privato] Mentre si stanno gestendo gli oggetti, la quantità di soldi che si possono ritirare non viene aggiornata.
+1765	È comparso il boss finale del Templum Serpens!
 1766	[Negozio Premium Privato] Qui c'è già un negozio. Dovrai aprire il tuo negozio altrove.
+1767	Non è possibile migliorare questo oggetto quando è stato evocato un pet evolbibile.
 177	[Gaya] Non hai abbastanza Gaya.
 178	[Gaya] Non puoi vendere questo oggetto.
 179	[Gaya] Il tuo inventario è pieno.
 18	[Gilda] Hai raggiunto il limite di rinascite e quindi sei ora nella modalità spettatore.
 180	[Gaya] Non possiedi alcun "Resetta Negozio di Gaya".
+1802	Sarà disponibile non appena il combattimento sarà iniziato.
 181	[Gaya] Devi prima aprire il Negozio di Gaya.
+1812	Non si può compiere questa azione mentre si sta commerciando.
 182	[Gaya] Non puoi aprire altri spazi nel Negozio di Gaya.
 183	[Gaya] Non hai abbastanza %s. Per aprire un altro spazio ti manca ancora la seguente quantità: %d.
 184	[Gaya] Il Negozio di Gaya non è al momento disponibile.

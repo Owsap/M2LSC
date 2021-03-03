@@ -1,3 +1,6 @@
+13305	Hey! Beni kurtaracak anahtarýn var mý?
+13306	Lütfen beni serbest býrak. Yardým edecek kimse yok mu?
+13307	Hey, sen! Lütfen anahtarý getir!
 2	Sung Mahi'ye karþý savaþmak için ihtiyaç[ENTER]duyduðumuz güçleri sana anlatmýþtým.[ENTER][ENTER]Acele et ve Yüzbaþý'yý bul.[ENTER][ENTER]Gerekli kumaþlarý bulunca geri dön.
 1	Özel bir kumaþ
 3	Kendi gücünü artýr
@@ -829,6 +832,26 @@
 12585	Tüm eðrelti otlarýný buldum.[ENTER]Þimdi hemen Chaegirab'a geri dön.
 12591	Acele etme! Bu solmuþ eðrelti otu dahi bilime[ENTER]dair bilgiler içerir.[ENTER]Daha sonra tekrar gel ve bana yeni bir bitki[ENTER]getir.[ENTER]Kalan soðuma süresi: %s
 12713	Ah, üzgünüm.[ENTER]Son eðrelti otunu henüz tam analiz edemedim.[ENTER]Daha sonra tekrar gel.[ENTER]Kalan soðuma süresi: %s
+13038	Evet
+13039	Hayýr
+13041	Bu sadece lider için mevcut.
+13042	Savaþý baþlat
+13043	Vazgeç
+13044	Çýk
+13045	"Yýlan Tapýnaðý" zindanýna baþlamak istiyor musun?
+13046	Yýlan Tapýnaðý
+13047	Bu bölgeden çýkmak istiyor musun? Savaþ baþlayana[ENTER]kadar geri dönebilirsin.
+13048	Oluþturulan Yýlan Tapýnaðý örneði feshedilecek.[ENTER]Vazgeçmek istiyor musun?
+13056	Tüm grup üyeleri ayný bölgede olmalýdýr.
+13061	Patron katýna git.
+13062	Yýlan Tapýnaðý demircisi
+13063	Patron katýna gitmek istiyor musun?
+13064	Eldiven geliþtirme demircisi
+13065	Hey, senin için bir çift eldiven[ENTER]geliþtirebilirim. Baþka malzemeye ihtiyacýn yok![ENTER]Bana sadece geliþtirmem için eldivenleri ver.[ENTER]Geliþtirmem, kutsama parþömeni ile ayný etkiye[ENTER]sahip.
+13613	Zindandan çýkmak istiyor musun?
+13614	Þu anda giriþlerini sýfýrlayamazsýn.
+13615	Yýlan Tapýnaðý giriþlerini geriye almak ister[ENTER]misin?
+13616	Yýlan Tapýnaðý giriþlerin 5'e geri alýndý.
 679	Jin-Hee'leri yen
 678	Gümüþçünün intikamýný al!
 680	Yaþlý Kadýn yardýmýný istiyor: arkadaþý olan[ENTER]gümüþçü Beyaz Yeminlilerden bir Jin-Hee[ENTER]tarafýndan öldürüldü. 30 tane Jin-Hee öldürerek[ENTER]Gümüþçü'nün intikamýný al.
@@ -1358,6 +1381,30 @@
 989	Ýþte enerji kristalin. Sadece ilk giriþimde[ENTER]baþarýlý olunur hep. Simya, saðý solu belli[ENTER]olmayan bir bilim. Ufak tefek farklýlýklar[ENTER]baþarýsýzlýða neden olabilir! Yani deneylerde[ENTER]genelde küçük de olsa baþarýsýzlýða uðrama riski[ENTER]bulunur.
 990	Giriþim ne yazýk ki baþarýsýzdý. Enerji kristali[ENTER]üretemedim. Tekniðim mükemmel ama icrasý[ENTER]risklerle dolu iþte. Her þey planladýðýn gibi[ENTER]olmuyor. Bir dahaki sefer kesin baþarýlý oluruz!
 991	Biliyordum! Benim tekniðimin üstüne yoktur![ENTER]Ýþte enerji kristalin.[ENTER]Tam bir þah eser! Gücü hissediyor musun?
+13540	Yýlan Tapýnaðý'na girmek istiyor musun?
+13014	Yýlan Tapýnaðý'na gir
+13020	Önemli hazýrlýklar
+13021	Yýlan Tapýnaðý'na girmek için yýlan heykelini[ENTER]bulmalýyým.
+13022	Bu yeraltý zindanýnda ilerlemek için birkaç[ENTER]farklý eþyaya ihtiyacýn olacak... bir þapka,[ENTER]kýrbaç ya da hazine büyüklüðünde bir kum torbasý[ENTER]kullanýþlý olacaktýr. Bunlarý senin için[ENTER]üretebilirim.
+13023	Ama tapýnaða girmek istiyorsan, ekipman için %d[ENTER]yýlan pulu bulmalýsýn. Ve ancak fedakar bir[ENTER]kahraman baþarýlý olabileceði için bu sana %d[ENTER]Yang'a mal olur. Bana ikisini de getirebilir[ENTER]misin?
+13024	Yýlan heykeli için %d yýlan pulu gerekli. Bunlarý[ENTER]canavarlarýn yakýnýnda bulabilirsin.
+13025	Yýlan tapýnaða girmek için yýlan heykeli için[ENTER]gerekli olan %d yýlan pulunu bulmalýyým.[ENTER]Kalan miktar : %d
+13026	Daha fazla yýlan puluna ihtiyacým var...
+13027	Yýlan pullarý aldýn. Toplanan nesneler: %d
+13028	Yýlan heykeli için gerekli olan tüm yýlan pullarý[ENTER]bunlar. Ona geri dön.
+13029	Tüm %d yýlan pulunu da topladým! Yýlan heykeline[ENTER]geri dönmeliyim.
+13030	Tüm yýlan pullarýný topladýn mý? O halde %d Yang[ENTER]karþýlýðýnda tapýnaða girmeni saðlayabilirim.
+13031	Ýkisini de ver.
+13032	Ýptal et
+13033	Yeterli paran yok...
+13034	Pekala. Hepsi halloldu! Ýþte eþyalarýn. Bol þans![ENTER]Daha fazla ekipmana ihtiyacýn olursa, bana geri[ENTER]dön.
+13035	Oluþtur
+13036	Gir
+13037	Yýlan Tapýnaðý'na girmek istiyor musun? %d[ENTER]giriþin kaldý.
+13040	Bir Yýlan Tapýnaðý örneði oluþturmak istiyor[ENTER]musun?
+13049	Bugün tekrar giremezsin.
+13055	Tüm ödülleri toplayamadan yeni bir örnek[ENTER]oluþturamazsýn.
+13182	Kalan yýlan pullarý
 992	Oyun Parký nöbetçisi
 993	Oyun Parký'ndan þimdi çýkmak istiyor musun?
 994	Oyun parkýna gitmek istiyor musun?
@@ -1626,6 +1673,17 @@
 10167	Zodyak Tapýnaðý'ndaki karanlýk enerjiyi çok[ENTER]güçlenmeden önce düþürmek için Animasfer'i[ENTER]kullan. Tapýnaða girer girmez otomatik olarak[ENTER]Animasfer tüketirsin. Dikkat: Bekçi Ýmzasý[ENTER]etkinse, görev tamamlanamaz.
 10168	Baþardýn. Hediyeni almak için Keþiþ Milbo'na geri[ENTER]dön.
 10169	Teþekkürler. Tapýnak þimdilik güvende. Ýþte[ENTER]hediyen. Ancak enerjisi tekrar artacak. Animasfer[ENTER]yardýmýyla tekrar düþürmek için 24 saat sonra[ENTER]geri dön. Elbette bunun için de bir hediye[ENTER]alacaksýn.
+13586	Gizemli zindana gir
+13587	Gizemli Sunak
+13588	Hey! Biliyorum, taþa dönüþtüm. Bu, Sung Mahi[ENTER]lanetinin suçu! Ama ben bir Þamaným ve sana çok[ENTER]ilginç bir yerden bahsedebilirim...[ENTER]Gizemli bir biletin varsa seni gizemli zindana[ENTER]götürebilirim.[ENTER]Denemek ister misin?
+13589	Evet
+13590	Hayýr
+13591	Ah! Gizemli bilet olmadan içeri girmene izin[ENTER]veremem.
+13598	Þimdi giremezsin.
+13609	Çýkýþ
+13610	Zindandan çýkmak istiyor musun?
+13611	Evet
+13612	Hayýr
 1209	Reddet
 1208	Neden aðlýyorsun?
 1210	Tabiki sana yardým edeceðim. Bu görev zora[ENTER]benzemiyor, hem o hatýrayý geri almak istediðini[ENTER]çok iyi anlýyorum. Görüþmek üzere!
@@ -7628,6 +7686,15 @@
 12707	%d Güneþ özütü (K) kazandýn.
 12708	Bu günü kutlamak için Zýrh Satýcýsýn git.
 12709	%d Ritüel taþý kazandýn.
+12971	Gizli bir vadi
+12972	Yeni bir vadi bulunduðuna dair söylentiler var.[ENTER]Konfüçyus'a git.
+12973	Bir süredir görüþmedik. Nerelerdeydin? Bu zamana[ENTER]kadar kafaný karýþtýran gizli yer bulundu.
+12974	Oraya giden yolun dolambaçlý ve tehlikeli[ENTER]olduðunu duydum. Senden oraya gitmeni ve bu gizli[ENTER]vadi hakkýnda daha fazla bilgi edinmeni rica[ENTER]ediyorum. Vardýðýnda, bir süre önce oraya[ENTER]gönderdiðim bir bekçiyle tanýþacaksýn.
+12975	Yeni bir bölgenin kilidi açýldý. Yýlan bekçisine[ENTER]git
+12976	Hey, ne duruyorsun burada? Dongan ovasýna[ENTER]gidersen, oradan yeni bölgeye geçebilirsin.
+12977	Yýlan bekçisiyle tanýþmak için yeni bölgeye git.
+12978	Sen de kimsin? Hah, seni Konfüçyus mu gönderdi?[ENTER]Ciddi olamazsýn… Neden senin gibi bir çaylaðý[ENTER]böyle zorlu bir ülkeye yolladý ki?
+12979	Konfüçyüs, buraya geldiðinde sana bunu vermemi[ENTER]söyledi. Daha sonra tekrar gel, hala tamamlaman[ENTER]gereken görevler var.
 6353	Yeni bir hayat
 6354	Uyandýðýnda kendini postlu gibi hissediyorsun.[ENTER]Neler oldu? Sana ne oldu?! Bilge Myonghorang'ý[ENTER]ara. O sana ne olduðunu anlatacak.
 6355	Hoþgeldin Lycan!
@@ -7965,11 +8032,11 @@
 6606	Toplam Puan
 6607	En Yüksek Tur Puaný
 6608	En yüksek toplam puana sahip 10 oyuncu ekstra[ENTER]ödüller kazanýr.
-6610	1'incilik: %s kez %d
+6610	1. sýra:%s %d kez
 6609	Kapat
-6611	2'ncilik: %s kez %d
-6612	3'üncülük: %s kez %d
-6613	4 - 10'unculuk: %s kez %d
+6611	2. sýra: %s %d kez
+6612	3. sýra: %s %d kez
+6613	4. - 10. sýralar: %s %d kez
 6614	1.: %s, %d
 6615	2.: %s, %d
 6616	3.: %s, %d
@@ -9808,6 +9875,12 @@
 12080	Ýptal et
 12081	Deðerlerin sýfýrlandý.
 12082	Sýfýrlanacak deðerin yok.
+13057	Yýlan Tapýnaðý'ný baþarýyla tamamladýn. Ödüllerini talep edebilirsin. Yýlan heykeliyle konuþ.
+13058	Ödül alýndý
+13059	Yýlan heykeli
+13060	Tüm bu kötü yýlanlarý yendin. Bu sandýðý hak[ENTER]ettin.
+13606	%d x yýlan hazinesi kazandýn.
+13607	%d x yýlan tozu kazandýn.
 8044	Seviyen çok düþük!
 8045	Dönüþüm esnasýnda binicilik yapamazsýn.
 8046	Þu anda biniyorsun zaten! Hayvanýný deðiþtirmek[ENTER]için, önce binmiþ olduðundan inmen lazým.
@@ -9951,6 +10024,48 @@
 11499	Hayýr, ben burda kalacaðým.
 11500	Mavi Ejderha (ZÇ) geri döndü!
 11679	Bütün savaþçýlar üç dakika içinde Sürgün[ENTER]Maðarasý'ndan (ZÇ) dýþarý ýþýnlanacak.
+12980	Yýlan Tapýnaðý nerede?
+12981	Gizli tapýnaðý bulmak için yýlan bekçisiyle[ENTER]konuþmalýyým.
+12982	Hey, çaylak! Henüz ne kadar becerikli olduðunu[ENTER]bilmiyorum. Arkamdaki vadi yolunu takip edersen,[ENTER]kocaman bir tapýnaða ulaþýrsýn. Yýlan Tapýnaðý'ný[ENTER]duydun mu?
+12983	Çok sayýda tehlikeli canavarla karþýlaþacaksýn.[ENTER]Bahse girerim ki, anýnda kaçarsýn. Ama cesaretin[ENTER]varsa, orada hazine bulabilirsin.
+12984	Ýçine nasýl girebilirim?
+12985	Hahaha! Seni içeri almadýðým sürece, hiçbir[ENTER]þekilde. Cesaretini test edeceðim.
+12986	Gözlerin eylem aþkýyla parlýyor! Benim için[ENTER]bölgedeki birkaç canavarý öldürebilirsin! Bu[ENTER]bölgeyi kontrol altýnda tutmak git gide yorucu[ENTER]oluyor.
+12987	Yýlan bekçisinin sýnavýný geçmek için yakýndaki[ENTER]canavarlarý avla.
+12988	Yýlan bekçisi, Yilad Geçidi'nde %d canavar[ENTER]avlamaný istiyor.[ENTER]Kalan canavarlar: %d
+12989	Hey, canavarlarla ilgilenmedin... Pes mi[ENTER]ediyorsun?
+12990	Yýlan bekçisi için tüm canavarlarý öldürdüm. Ona[ENTER]geri dönmeliyim.
+12991	Yýlan bekçisi için tüm canavarlarý öldürdüm. Ona[ENTER]geri dönmeliyim.
+12992	Ah. Sandýðýmdan daha cesur görünüyorsun. Uzaktan[ENTER]seni savaþýrken izlemek bana gençliðimi[ENTER]hatýrlattý.
+12993	Her neyse. Ýþte sýnav ödülün.
+13180	Kalan canavarlar
+13603	%d Canavar öldürdün. Kalan sayý: %d
+12994	Yýlan Tapýnaðý mý?!
+12995	Yeni bir bölge keþfedildi. Burayý gözetleyen[ENTER]yýlan bekçisine gitmeliyim.
+12996	Hey, çaylak! O vadiye girmek istiyor gibisin...
+12997	Vadiye girmek istiyorsan, önce bana bir iyilik[ENTER]yapmalýsýn! Bölgedeki canavarlar þu anda çok[ENTER]fazla soruna neden oluyor. Burada gerçekten[ENTER]yardýmýna ihtiyacým olabilir.
+12998	Bu canavarlarý öldürmeni ve bana biraz demir[ENTER]talaþý getirmeni istiyorum. Bunu benim için yapar[ENTER]mýsýn? Bildiðim kadarýyla demir talaþlarý ile iyi[ENTER]de para kazanýlabilir.
+12999	Evet.
+13000	Hayýr.
+13001	Bu durumda vadiye giremezsin!
+13002	Yýlan bekçisinin mutlaka istediði %d demir[ENTER]talaþýný bul. Bunlarý canavarlarýn yakýnýnda[ENTER]bulabilirsin.
+13003	Ne, hepsini topladýn mý? Hey! Sanýrým yanlýþ[ENTER]saydýn. %d dedim!
+13004	Yýlan bekçisi, vadiden geçebilmem için %d demir[ENTER]talaþý istiyor. Demir talaþý almak için Yilad[ENTER]Geçidi'nin yakýnlarýnda canavarlarý avlamalýyým.[ENTER]Kalan demir talaþý: %d
+13005	Demir talaþý kazandýn. Toplanan miktar: %d
+13006	Yýlan bekçisinin istediði tüm demir talaþlarýný[ENTER]topladým. Ona geri dönmeliyim.
+13007	Yýlan bekçisinin istediði tüm demir talaþlarýný[ENTER]topladým. Ona geri dönmeliyim.
+13008	Ah, bu görev için yaratýldýðýný biliyordum! Ýþte[ENTER]bu doðru miktar!
+13009	O zaman vadiyi geçmene yardým edeceðim. Diðer[ENTER]tarafa geçtiðinde büyük bir tapýnak göreceksin.[ENTER]Oraya daha sonra gitmek istersen, tekrar bana[ENTER]gel.
+13010	Yýlan Tapýnaðý'na yýlan bekçisi üzerinden[ENTER]eriþebilirsin.
+13011	Ah, yine mi sen? Girmek istiyor musun?
+13012	Bana en son benim için topladýðýn demir[ENTER]talaþlarýný getir, ben de sana bir bilet vereyim.[ENTER]Bu sefer %d demir talaþýna ihtiyacýmýz var.
+13013	Yýlan Tapýnaðý mý?! (Tekrar)
+13015	Yýlan Tapýnaðý'na girmek istiyor musun?
+13016	Onayla
+13017	Ýptal et
+13018	Yýlan Tapýnaðý'na girmek için yýlan bekçisi ile[ENTER]konuþ.
+13019	Bu vadi çok tehlikeli. Bu yüzden dikkatli ol.
+13181	Kalan demir talaþý
 8167	Nemere Gözlemevi
 8168	Nemere Gözlemevi'ne girebilirsiniz. En fazla bir[ENTER]saat kalabilirsiniz. Maceranýz yarýda kesilir[ENTER]veya iptal edilirse, tekrar girebilmek için dört[ENTER]saat beklemeniz gerekir.
 8169	Bütün düþmanlarý maðlup edin!
@@ -11793,6 +11908,62 @@
 12884	Tüm Jin Metinlerini yok ettin. Dongan Ovasý'nda[ENTER]Konfüçyus'a rapor ver.
 12885	Konfüçyüs'e dön ve ona neler olduðunu anlat.
 12886	Etkisi zayýfladý, ancak bu yine de yeterli[ENTER]olmayacak. Ama en ufak bir adým bile önemlidir.[ENTER]Sana minnettarlýðýmý gösteren küçük bir hediyem[ENTER]var.
+12914	Bilinmeyen bir ülke
+12915	Bu tuhaf söylenti hakkýnda daha fazla bilgi[ENTER]edinmek için gezdiðimde, kendimi bilinmeyen bir[ENTER]ülkede buldum. Bu bölgenin söylentilerin kaynaðý[ENTER]olup olmadýðýný öðrenmek için buraya daha[ENTER]yakýndan bakmalýyýz.
+12916	Uzakta birini görüyorum. Dikkatli yaklaþmalýyýz.
+12917	Köþede gergin biri oturuyor. Onunla konuþmalýyýz.
+13541	Yeni bir görev eklendi.
+12918	Garip kiþi
+12919	Garip kiþiye git ve onunla konuþ.
+12920	Ah!
+12921	Sen de kimsin?! Buraya nasýl geldin?
+12922	Hey! Sen de kimsin? Ben bir kelle avcýsýyým ve bu[ENTER]kadar yolu bu köye kadar uzanan söylentilerin[ENTER]izini sürmek için geldim. Ya sen? Burada bir þeyi[ENTER]araþtýrmam gerekiyor. Bana yardým edersen, sana[ENTER]þimdiye kadar öðrendiklerimi anlatýrým.
+12923	Reddet
+12924	Sana yardým edeceðim.
+12925	Ödlek...
+12926	Sanýrým burada büyük bir þey oluyor. Önce etrafa[ENTER]bakýp, bozulmuþ askerleri öldürmeliyiz. Orasý çok[ENTER]tehlikeli olduðu için daha sonra burada tekrar[ENTER]buluþacaðýz.
+12927	Bozulmuþ askerleri öldür.[ENTER]Kalan rakipler: %d
+12928	Oyalanma! Burada öylece durursan sana hiçbir þey[ENTER]anlatmam.
+12929	Tüm bozulmuþ askerleri öldürdüm ve kelle avcýsýna[ENTER]geri dönmeliyim.
+12930	Ýyi iþ çýkardýn. Ýþte ödülün. Nasýl ilerlememiz[ENTER]gerektiðini öðreneceðim. Daha sonra tekrar gel.
+12931	Garip bir söylenti
+12932	Kelle avcýsýna Yýlad Geçidi hakkýndaki söylentiyi[ENTER]sormalýyým.
+12933	Þimdi iþler biraz daha net görünüyor. Söylenti[ENTER]mi?! Bunu nerden biliyorsun? Civarda gizli bir[ENTER]sunak var ve orada çok güçlü bir canavar[ENTER]dolaþýyor. Anlaþýlan, söylentiden haberin var.[ENTER]Pekala, sana baþka bir þey daha anlatayým.
+12935	Hepsi gitti mi?
+12936	Sayýlmaz, Yýlan Tapýnaðý'ný inþa ettiler ve orada[ENTER]güçleniyorlar. Amacým liderlerini öldürmek ve[ENTER]ödülü almak. Ancak, sunaðýn yakýnýnda bir bekçi[ENTER]olduðu için onlara ulaþmak zor. Bu canavarlarý[ENTER]takip etmeme yardým eder misin? Onlarý tek baþýna[ENTER]aþmak gerçekten zor.
+12937	Þu anda olmaz.
+12938	Beni hayal kýrýklýðýna uðratmayacaðýný[ENTER]biliyordum. Bir yardým eli her zaman iyidir. O[ENTER]halde sunaða doðru yol alalým.
+12939	Yolu temizlemek için bozulmuþ savaþçýlarý[ENTER]öldürmeliyim.[ENTER]Kalan canavarlar: %d
+12940	Nasýl gidiyor? Ýlerleme var mý? Öyke[ENTER]görünmüyor... Lütfen acele et, fazla vaktimiz[ENTER]yok.
+12941	Bütün bozulmuþ savaþçýlarý avladým ve yolu açtým.[ENTER]Kelle avcýsýna geri dönmeliyim.
+12942	Tüm bozulmuþ savaþçýlar öldürüldü. Kelle avcýsýna[ENTER]geri dön.
+12943	Ýyi iþ çýkardýn. Þimdi yolumuzu görüyorum. Hemen[ENTER]bir sonraki bölgeye geçelim. Görünüþe göre[ENTER]barýnaklarýna yaklaþýyoruz.
+12966	Ýzninle.
+12967	Tamam, o zaman geri dön. Ama fikrini[ENTER]deðiþtirirsen her zaman bana geri dönebilirsin.
+12944	Gizli bir sunak
+12945	Galiba gizli sunaðýn bir kýsmýný görebiliyorum.[ENTER]Hemen kelle avcýsýna geri dön.
+12946	Evet! Tüm canavarlarý aþtýktan sonra sunaða[ENTER]ulaþtým. Ama bekçi içeri girmeme izin vermedi.[ENTER]Ona defalarca yalvardým, ama iþe yaramadý ve geri[ENTER]dönmekten baþka seçeneðim yoktu. Ama þimdi senin[ENTER]sayende bir þansým daha var! Birlikte[ENTER]ilerleyelim.
+12947	Gücüm kalmadý.
+12948	Peki.
+12949	Hemen pes mi ediyorsun? Düþündüðümden çok daha[ENTER]güçsüzmüþsün.
+12950	Kendimizi toparlarsak, baþarabiliriz. Çevredeki[ENTER]birkaç canavarý temizleyelim.
+12951	Yolun son kýsmýný temizlemek için bozulmuþ[ENTER]rahipleri öldür.[ENTER]Kalan rakipler: %d
+12952	Hedefe bu kadar yaklaþmýþken pes mi ediyorsun?[ENTER]Sana ödülümden bir pay verebilirim. Haydi ama.
+12953	Tüm bozulmuþ rahipler öldürüldü. Kelle avcýsýna[ENTER]geri dön.
+12954	Uzakta Yýlan Tapýnaðý'ný koruyan bekçileri[ENTER]görebiliyorum. Sayende sunaðýn giriþine[ENTER]ulaþabileceðimize inanýyorum.
+12955	Sýzma
+12956	Sunaðý buldum. Etrafa bakmalý ve bekçinin nerede[ENTER]olduðunu öðrenmeliyim.
+12957	Nihayet sunaðý buldun. Benimle buraya kadar[ENTER]ilerlediðin için teþekkür ederim. Þimdi bekçiyi[ENTER]aþabiliriz; liderin saklandýðý yere gidelim ve[ENTER]orada neler olup bittiðini öðrenelim. Ancak, bir[ENTER]arada kalýrsak bizi görebilirler. Bu yüzden, ayrý[ENTER]ayrý yola çýkmamýzý ve yol boyunca iþe yarar[ENTER]bilgiler toplamayý öneriyorum.
+12958	Bu bana yetti.
+12959	Haydi bakalým!
+12960	Neredeyse baþardýk. Lütfen tekrar düþün.
+12961	Umarým tek parça halinde tekrar karþýlaþýrýz.
+12962	Sunak bekçisinin yanýndan Yýlan Tapýnaðý'na[ENTER]gizlice geç ve içeride neler olduðunu öðren. 30[ENTER]Kappa askerini avla.[ENTER]Kalan canavarlar: %d
+12963	Henüz yola çýkmadýn mý? O zaman önden çýkayým.
+12964	Yýlan Tapýnaðý araþtýrýldý ve 30 Kappa askeri[ENTER]avlandý. Kelle avcýsýna geri dön.
+12965	Baþaracaðýný biliyordum! Ýçeri hýzlýca baktým ama[ENTER]maalesef lideri bulamadým. Her neyse. Biraz daha[ENTER]uðraþman lazým. Buraya kadar sadece senin sayende[ENTER]geldim ve yardýmýn için seni ödüllendirmek[ENTER]istiyorum. Lütffen bunu al.
+13054	Mini haritandaki yanýp sönen noktayý takip et.
+13597	Yýlan Tapýnaðý'ný henüz bulamadýn mý?[ENTER]Oraya ulaþmak kolay olmayacak. Yýlan Tapýnaðý ile[ENTER]baþ edebileceðinden emin ol.
 12679	Sung Mahi'nin Cehennem Kulesinin Giriþ Salonu
 12680	Sung Mahi'nin cehenneme kulesine girmek istiyor[ENTER]musun?
 12681	Evet
@@ -12081,3 +12252,4 @@
 12673	Dünya patronunu yen!
 12674	Bir dünya patronuna gerekli olan %d veya daha[ENTER]fazla minimum hasar ver.
 12675	Günlük görev tamamlandý: Bir dünya patronuna[ENTER]gerekli minimum hasarý verdin.
+12934	Buraya bu canavarýn baþýna konulan ödülü[ENTER]kazanmaya geldim. Geçmiþte burasý yýlan[ENTER]canavarlarýyla doluydu ve adý Yilad Geçidi idi.[ENTER]Ama tuhaf bir þey fark ettin mi? Tüm yýlan[ENTER]canavarlarý ortadan kayboldu.

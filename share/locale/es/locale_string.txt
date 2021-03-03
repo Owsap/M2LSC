@@ -692,6 +692,8 @@
 1693	En el área %s se han destruido todos los puestos de avanzada; la zona ya no se encuentra bajo el control de Sung Mahi.
 1694	Yermo Seogan
 1695	Abismo Namgan
+1696	¡La mejora ha salido bien!
+1697	¡Vaya! La mejora no ha salido bien.
 1698	Gracias a la bendición de inmunidad, deja de afectarte la influencia de Sung Mahi.
 1699	La bendición de inmunidad se ha terminado y vuelves a estar bajo la influencia de la maldición de Sung Mahi.
 17	[Gremio] No tienes derechos para utilizar las habilidades del gremio.
@@ -718,8 +720,38 @@
 1718	[Tienda prémium personal] Se ha vendido: %s. Recoge el dinero.
 1719	[Tienda prémium personal] Si acabas de cerrar la tienda, no podrás volver a abrirla durante %d segundos.
 172	[Gaya] Ya tienes la cantidad máxima de Gaya.
+1720	No puedes hacer eso mientras se está generando la mazmorra.
+1721	Ya no puedes revivir más. Se te teletransportará fuera de la mazmorra.
+1722	Ya has obtenido tu recompensa. Si quieres volver a intentarlo, regresa más tarde. Tiempo restante: %d h %d min
+1723	Aún puedes revivir %d veces.
+1724	Ya puedes acceder al Templo Serpentino. Para ello, usa la Estatua de serpiente.
+1725	El Metin destruido no reacciona. Han vuelto a aparecer todos los Metins.
+1726	El Metin destruido no reacciona. Han vuelto a aparecer todos los Metins.
+1727	Has destruido %d Metins. Destruye otros %d Metins.
+1728	Se ha acabado el tiempo. Se te teletransportará fuera de la mazmorra.
+1729	Solo está disponible durante %d minutos.
 173	[Gaya] Se ha pulido con éxito.
+1730	No puedes añadir más tiempo al cronómetro de la mazmorra.
+1731	Añadido 1 minuto al cronómetro de la mazmorra.
+1732	Has acabado con todos los monstruos. Se te teletransportará al nivel %d. Quedan %d segundos.
+1733	Has destruido todos los Metins. Se te teletransportará al nivel %d. Quedan %d segundos.
+1734	El fragmento está colocado en la cabeza de serpiente, pero no ocurre nada.
+1735	Todos las Columnas Serpentinas están desbloqueadas. Nivel %d en %d segundos.
+1736	¡Ha aparecido el herrero especial del Templo Serpentino!
+1737	¡Ha aparecido el herrero del Templo Serpentino!
+1738	Has acabado con todos los monstruos, así que ya puedes dirigirte al nivel del jefe.
+1739	¡Has superado el desafío del Templo Serpentino! Se te teletransportará fuera de la mazmorra en %d segundos.
 174	[Gaya] El proceso de pulido ha fallado.
+1740	Destruye las Piedras Metin en el orden correcto.
+1741	Acaba con todos los monstruos.
+1742	Quítales la llave a los monstruos y abre la celda.
+1743	Has colocado el fragmento en la cabeza de serpiente.
+1744	Derrota al jefe.
+1745	¡Ha abierto!
+1746	Ahora tienes que desbloquear la otra columna.
+1747	Se ha abierto el calabozo. El herrero te sonríe.
+1748	La llave no abre el calabozo, así que no has podido liberar al herrero.
+1749	Este fragmento no encaja en la cabeza de serpiente.
 175	[Gaya] Se ha actualizado la lista de objetos.
 1752	Si quieres subir al nivel de campeón, tienes que llenar al menos 1 esfera de EXP en nivel 120.
 1753	Tienes que superar la mazmorra "Defensa de la nave".
@@ -730,15 +762,21 @@
 1758	[Tienda prémium personal] No podrás hacer esto mientras estés administrando objetos.
 176	El detector de eventos ha desaparecido.
 1760	[Bonificación de reliquia] Esto no es posible con la ventana de Reliquias alma abierta.
+1761	Han abandonado el combate %s miembros del grupo.
+1762	Todavía te quedan %d minutos.
 1763	[Tienda prémium personal] Aquí no puedes batirte en duelo.
 1764	[Tienda prémium personal] El dinero que recoger no se actualizará mientras estés administrando objetos.
+1765	¡Ha aparecido el jefe final del Templo Serpentino!
 1766	[Tienda prémium personal] Aquí ya hay una tienda abierta. Por favor, busca otro lugar para abrir tu tienda.
+1767	No puedes realizar la mejora mientras tengas invocada una mascota capaz de subir de nivel.
 177	[Gaya] No tienes suficiente Gaya.
 178	[Gaya] No puedes comprar este objeto.
 179	[Gaya] El inventario está lleno.
 18	[Gremio] Ahora estás en modo "observador" porque has superado el límite de resurrecciones.
 180	[Gaya] No tienes ningún "Restaurar Mercado Gaya".
+1802	Estará a tu disposición en cuanto comience el combate.
 181	[Gaya] Primero tienes que abrir el Mercado de Gaya.
+1812	No puedes hacer eso mientras estés comerciando.
 182	[Gaya] No puedes abrir más espacios en el Mercado de Gaya.
 183	[Gaya] No tienes suficiente %s. Necesitas %d más para abrir otro espacio.
 184	[Gaya] El Mercado de Gaya no está disponible en este momento.

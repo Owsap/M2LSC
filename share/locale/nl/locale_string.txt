@@ -692,6 +692,8 @@
 1693	Alle voorposten in %s zijn vernietigd en het gebied staat niet langer onder Sung Mahi's invloed.
 1694	Seo Gwang Woestenijen
 1695	Nam Gwang Ravijn
+1696	De verbetering was succesvol!
+1697	De verbetering is helaas mislukt.
 1698	Dankzij de immuniteitszegening wordt jij niet beïnvloedt door Sung Mahi's Aanwezigheid.
 1699	Jouw immuniteit is verlopen en je wordt opnieuw beïnvloedt door Sung Mahi's Aanwezigheid en Vloek.
 17	[Gilde] Je bent niet gemachtigd om Gilde Vaardigheden te gebruiken.
@@ -718,8 +720,38 @@
 1718	[Persoonlijke Premium Shop] %s is verkocht. Haal alsjeblieft je geld op.
 1719	[Persoonlijke Premium Shop] Je kunt je shop niet opnieuw openen binnen %d seconden nadat je deze gesloten hebt.
 172	[Gaya] Je hebt het maximale aantal Gems al.
+1720	Je kunt dat niet doen wanneer een kerker gecreëerd wordt.
+1721	Je kunt jezelf niet meer tot leven wekken. Je zal uit de kerker getransporteerd worden.
+1722	Je hebt je beloning al ontvangen. Als je het opnieuw wilt proberen, moet je later terugkomen. Resterende tijd: %d u %d m
+1723	Je kunt jezelf nog %d keer opnieuw tot leven wekken.
+1724	Je kunt de Serpententempel nu binnentreden. Gebruik het Serpentenstandbeeld om dit te doen.
+1725	De vernietigde Metin reageert niet. Alle Metins zijn opnieuw verschenen.
+1726	De vernietigde Metin reageert niet. Alle Metins zijn opnieuw verschenen.
+1727	Je hebt %d Metins vernietigd. Vernietig nog %d meer Metins.
+1728	De tijd is om. Je zal uit de kerker getransporteerd worden.
+1729	Dit is nu beschikbaar gedurende %d minuten.
 173	[Gaya] Slijpen gelukt.
+1730	Je kunt de kerkertimer niet verder verlengen.
+1731	De kerkertimer is met één minuut verlengd.
+1732	Je hebt alle monsters gedood. Je wordt naar niveau %d getransporteerd. Nog %d seconden resterend.
+1733	Je hebt alle Metins vernietigd. Je wordt naar niveau %d getransporteerd. Nog %d seconden resterend.
+1734	Het stuk is toegevoegd aan het Serpentenhoofd. Maar er gebeurt helemaal niets.
+1735	Alle Serpentenpilaren zijn ontgrendeld. %d niveaus in %d seconden.
+1736	De speciale Serpententempel Smid verschijnt!
+1737	De Serpententempel Smid verschijnt!
+1738	Je hebt alle monsters gedood en kunt nu doorgaan naar het niveau van de baas.
+1739	Je hebt de Serpententempel afgerond. Je zal over %d seconden uit de kerker getransporteerd worden.
 174	[Gaya] Slijpen mislukt.
+1740	Vernietig de Metin Stenen in de juiste volgorde.
+1741	Dood alle monsters.
+1742	Pak de sleutel af van de monsters en ontgrendel de cel.
+1743	Je hebt een stuk toegevoegd aan het Serpentenhoofd.
+1744	Dood de baas.
+1745	Met succes open weten te krijgen!
+1746	Je moet eerst de andere pilaar ontgrendelen.
+1747	De gevangenis is ontgrendeld. De smid lacht naar je.
+1748	Deze sleutel kon de gevangenis niet open krijgen en de smid redden.
+1749	Dit stuk past niet in het Serpentenhoofd.
 175	[Gaya] De itemlijst is ververst.
 1752	Je moet minimaal één ERV Bol vullen op level 120 om het Kampioenslevel te bereiken.
 1753	Je moet de kerker 'Schip Verdediging' voltooid hebben.
@@ -730,15 +762,21 @@
 1758	[Persoonlijke Premium Shop] Je kunt dat niet doen wanneer je items aan het beheren bent.
 176	De Gebeurtenis Detector is verdwenen.
 1760	[Relikwie Bonus] Dit is niet mogelijk wanneer het Ziel Relikwie-scherm geopend is.
+1761	%s groepsleden hebben het gevecht verlaten.
+1762	Je hebt nog %d minuten over.
 1763	[Persoonlijke Premium Shop] Je kunt hier niet dueleren.
 1764	[Persoonlijke Premium Shop] Te innen geld wordt niet bijgewerkt wanneer je items aan het beheren bent.
+1765	De eindbaas van de Serpententempel is verschenen.
 1766	[Persoonlijke Premium Shop] Er is hier al een shop geopend. Zoek alsjeblieft een andere locatie om jouw shop te openen.
+1767	Je kunt dat niet verbeteren wanneer je een evolueerbaar huisdier opgeroepen hebt.
 177	[Gaya] Je hebt niet genoeg Gaya.
 178	[Gaya] Je kunt dit item niet kopen.
 179	[Gaya] Je Inventaris is vol.
 18	[Gilde] Je bent nu in waarnemingsmodus omdat je de respawn-limiet bereikt hebt.
 180	[Gaya] Je hebt geen Ververs Gaya Markt-item.
+1802	Dit zal beschikbaar worden wanneer het gevecht begonnen is.
 181	[Gaya] Je moet de Gaya Markt eerst openen.
+1812	Je kunt dat niet doen tijdens het handelen.
 182	[Gaya] Je kunt geen plaatsen meer ontgrendelen op de Gaya Markt.
 183	[Gaya] Je hebt niet genoeg %s. Je hebt %d meer nodig om een extra plaats te ontgrendelen.
 184	[Gaya] De Gaya Markt is momenteel niet beschikbaar.

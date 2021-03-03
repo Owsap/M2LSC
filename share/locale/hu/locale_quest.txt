@@ -1,3 +1,6 @@
+13305	Helló! Nálad van a kulcs, amivel kiszabadíthatsz?
+13306	Kérlek, szabadíts ki! Senki sem segít nekem?
+13307	Hé, te! Kérlek, szerezd meg a kulcsot!
 2	Már mindent elmondtam neked az erõkrõl, melyekre[ENTER]szükségünk van, hogy szembeszálljunk Sung[ENTER]Mahi-val.[ENTER][ENTER]Most siess és keresd meg a Kapitányt![ENTER][ENTER]Térj vissza, ha megvan a szükséges kelme!
 1	Egy különleges kelme
 3	Erõd növelése
@@ -829,6 +832,26 @@
 12585	Megtaláltam az összes Árnypáfrányt.[ENTER]Most irány vissza gyorsan Chaegirabhoz!
 12591	Ne siettess! Még ez a sérült Árnypáfrány is[ENTER]értékes a tudomány számára.[ENTER]Gyere vissza késõbb, és hozz nekem egy új növényt!Hátralevõ várakozási idõ: %s
 12713	Ó, nagyon sajnálom![ENTER]Még nem végeztem az utolsó Árnypáfrány[ENTER]vizsgálatával.[ENTER]Gyere vissza késõbb![ENTER]Hátralevõ várakozási idõ: %s
+13038	Igen
+13039	Nem
+13041	Ez csak a vezetõnek elérhetõ.
+13042	Harc indítása
+13043	Feladás
+13044	Kilépés
+13045	Szeretnéd elindítani a Szerpent templom kazamatát?
+13046	Szerpent templom
+13047	Szeretnél kilépni errõl a helyrõl? Vissza tudsz[ENTER]lépni, amíg a harc el nem kezdõdik.
+13048	A létrehozott Szerpent templom kazamata bezárul.[ENTER]Szeretnéd feladni?
+13056	Minden csoporttagnak ugyanazon a területen kell[ENTER]lennie.
+13061	Irány a fõszörny szintje.
+13062	Szerpent templom kovács
+13063	Szeretnél a fõszörny szintjére menni?
+13064	Kesztyû fejlesztõ kovács
+13065	Helló! Fejleszthetem neked egy kesztyûdet. Nincs[ENTER]szükséged semmilyen más anyagra! Csak add ide a[ENTER]kesztyût, amit fejleszteni szeretnél. A[ENTER]fejlesztési módszerem ugyanúgy mûködik, mint egy[ENTER]Áldás tekercsé.
+13613	Szeretnél kilépni a kazamatából?
+13614	Most nem tudod visszaállítani a belépéseid számát.
+13615	Szeretnéd visszaállítani a belépéseid számát a[ENTER]Szerpent templomba?
+13616	A belépéseid száma a Szerpent templomba[ENTER]visszaállításra került 5-re.
 679	Gyõzd le Jin-Hee-t
 678	Bosszú a Gyûrûkereskedõért
 680	Az Öregasszony a segítséged kérte: a barátját, a[ENTER]Gyûrûkereskedõt megölte a Jin-Hee, a Fehér eskü[ENTER]specialista. Gyõzz le 30 Jin-Hee-t a[ENTER]Gyûrûkereskedõ halálának megbosszulásaként!
@@ -1358,6 +1381,30 @@
 989	Itt az Energia-kristályod. De ez csak az elsõ[ENTER]sikeres próbálkozás volt. Az alkímia egy[ENTER]kiszámíthatatlan tudomány - már egy apró hiba is[ENTER]sikertelenséghez vezet. Mindig van egy kis esély[ENTER]arra, hogy a kísérlet meghiúsulhat.
 990	Sajnos a kísérlet nem sikerült. Nem tudtam[ENTER]Energia-kristályt elõállítani. A technológiám[ENTER]ragyogó - de a folyamat teli van kockázattal.[ENTER]A dolgok nem mindig mûködnek a tervek szerint.[ENTER]Biztos vagyok benne, hogy a következõ alkalommal[ENTER]sikeres leszek!
 991	Tudtam! Kiváló a technológiám![ENTER]Itt az Energia-kristályod. Kétségtelenül egy szép[ENTER]példány! Érzed az erejét?
+13540	Szeretnél belépni a Szerpent templomba?
+13014	Belépés a Szerpent templomba
+13020	Fontos elõkészületek
+13021	Meg kell találnom a Szerpent szobrot, hogy[ENTER]beléphessek a Szerpent templomba.
+13022	Számos dologra szükséged lesz, hogy boldogulj[ENTER]ebben a föld alatti kazamatában... biztosan jól[ENTER]fog jönni egy sapka, egy ostor vagy egy kis zsák[ENTER]homok, amire kicserélhetsz egy kincset. Én el[ENTER]tudom készíteni neked ezeket a dolgokat.
+13023	De ha szeretnél belépni a templomba, hoznod kell[ENTER]nekem %d Szerpent pikkelyt a felszerelésért[ENTER]cserébe. És mivel csak azok a hõsök méltók a[ENTER]gyõzelemre, akik mindent meg is tesznek érte, ez[ENTER]%d Yangba fog kerülni neked. El tudod hozni nekem[ENTER]ezeket?
+13024	A Szerpent szobor %d Szerpent pikkelyt kér.[ENTER]Ezeket megtalálod a közelben levõ szörnyeknél.
+13025	A Szerpent templomba való belépéshez szereznem[ENTER]kell %d Szerpent pikkelyt a Szerpent szobornak.[ENTER]Hátralevõ mennyiség: %d
+13026	Több Szerpent pikkelyre van szükségem...
+13027	Szerpent pikkelyt kaptál. Összegyûjtött tárgyak: %d
+13028	Pont ennyi Szerpent pikkely kell a Szerpent[ENTER]szobornak. Vidd el neki.
+13029	Összegyûjtöttem %d Szerpent pikkelyt! Ennyire[ENTER]volt szükségem. Vissza kell mennem a Szerpent[ENTER]szoborhoz.
+13030	Megszerezted az összes Szerpent pikkelyt? Akkor[ENTER]már csak %d Yangra van szükségem, hogy[ENTER]beengedjelek a templomba.
+13031	Odaadom mindkettõt
+13032	Mégse
+13033	Nincs nálad elég pénz...
+13034	Remek. Minden kész! Itt van minden, amire[ENTER]szükséged van, sok sikert! Ha bármikor szükséged[ENTER]lenne még felszerelésre egy újabb expedícióhoz,[ENTER]csak gyere vissza hozzám.
+13035	Létrehoz
+13036	Belépés
+13037	Szeretnél belépni a Szerpent templomba? Még %d[ENTER]alkalommal léphetsz be.
+13040	Szeretnél elindítani egy Szerpent templom[ENTER]kihívást?
+13049	Ma már többször nem léphetsz be.
+13055	Nem tudsz újabb kihívást indítani, amíg nem[ENTER]gyûjtötted be az összes jutalmat.
+13182	Hátralevõ Szerpent pikkely
 992	Játéktér felügyelõ
 993	Szeretnéd elhagyni a Játékteret?
 994	Szeretnél belépni a Játéktérre?
@@ -1626,6 +1673,17 @@
 10167	Használj Anima-gömböket, hogy csökkentsd a[ENTER]Zodiákus templomból áradó sötét energia szintjét,[ENTER]mielõtt túl veszélyessé válik. Az Anima-gömböket[ENTER]automatikusan felhasználod, amikor belépsz a[ENTER]templomba. Megjegyzés: Ez a küldetés nem[ENTER]teljesíthetõ, ha aktiváltad Az õrzõ jelét.
 10168	Kész! Térj vissza Milbon szerzeteshez, és gyûjtsd[ENTER]be a jutalmad!
 10169	Köszönöm. A templom egyelõre újra biztonságban[ENTER]van. Itt van az ajándékod. Ugyanakkor az energia[ENTER]szint újra növekedni fog. Gyere vissza 24 óra[ENTER]múlva, és csökkentsd ismét az energia szintet[ENTER]Anima-gömbökkel. Ha így teszel, természetesen[ENTER]újra megjutalmazlak.
+13586	Belépés a Titokzatos kazamatába
+13587	Titokzatos oltár
+13588	Helló! Tudom, hogy kõvé változtam... De ez Sung[ENTER]Mahi átka miatt van! Egy sámán vagyok, és[ENTER]mesélhetek egy nagyon érdekes helyrõl...[ENTER]Ha van nálad Titokzatos belépõ, elvihetlek a[ENTER]Titokzatos kazamatába.[ENTER]Szeretnéd megpróbálni?
+13589	Igen
+13590	Nem
+13591	Ó! Attól tartok, nem engedhetlek be Titokzatos[ENTER]belépõ nélkül.
+13598	Most nem tudsz belépni.
+13609	Kilépés
+13610	Szeretnél kilépni a kazamatából?
+13611	Igen
+13612	Nem
 1209	Elutasít
 1208	Miért sírsz?
 1210	Persze, hogy segítek neked. A küldetés nem túl[ENTER]nehéz és megértem, hogy vissza akarod kapni az[ENTER]emlékeztetõdet. Hamarosan látjuk egymást!
@@ -7628,6 +7686,15 @@
 12707	Kaptál %d Nap elixírt (kicsi).
 12708	Menj el a Fegyverzet-kereskedõhöz, hogy[ENTER]megünnepeljétek a napot!
 12709	Kaptál %d Rituális követ.
+12971	Egy eldugott völgy
+12972	Azt pletykálják, egy újabb völgyet fedeztek fel.[ENTER]Menj Konfuciuszhoz.
+12973	Régóta nem láttalak. Hol voltál ilyen sokáig?[ENTER]Megtalálták azt a helyet, ami olyan sok fejfájást[ENTER]okozott neked korábban.
+12974	Úgy tudom, az oda vezetõ út kanyargós és[ENTER]veszélyes. Arra szeretnélek kérni, hogy menj oda,[ENTER]és deríts ki többet errõl az eldugott völgyrõl.[ENTER]Ha megérkezel, ott fogsz találni egy õrt, akit[ENTER]nemrég küldtem oda.
+12975	Egy új terület érhetõ el. Menj a Szerpent õrhöz.
+12976	Hé, te meg mit álldogálsz itt? Ha elmész a Dong[ENTER]Gwang síkságra, onnan eljuthatsz az új területre.
+12977	Menj az új területre, és találkozz a Szerpent[ENTER]õrrel.
+12978	Te meg ki vagy? Áh, Konfuciusz küldött? Ez csak[ENTER]valami vicc lehet... Miért küldött egy újoncot[ENTER]egy ilyen veszélyes helyre?
+12979	Konfuciusz azt mondta, adjam ezt neked, ha[ENTER]ideértél. Gyere vissza késõbb. Van még[ENTER]elintéznivalód.
 6353	Egy élet újjászületése
 6354	Felébredtél és szokatlanul szõrösnek találod[ENTER]magad. Mi történt? Hol vagy?! Keresd meg a Bölcs[ENTER]Myonghorang-t, õ majd elmagyarázza.
 6355	Üdv néked, Vérfarkas!
@@ -7965,11 +8032,11 @@
 6606	Teljes pontszám
 6607	Legmagasabb játék pontszám
 6608	A 10 legmagasabb összesített pontszámú játékos[ENTER]további nyereményeket kap.
-6610	1. helyezett: %sx %d
+6610	1. helyezett: %s %d x
 6609	Bezár
-6611	2. helyezett: %sx%d
-6612	3. helyezett: %sx%d
-6613	4-10. helyezett:%sx %d
+6611	2. helyezett: %s %d x
+6612	3. helyezett: %s %d x
+6613	4-10. helyezett: %s %d x
 6614	1. helyezett: %s, %d
 6615	2. helyezett: %s, %d
 6616	3. helyezett: %s, %d
@@ -9808,6 +9875,12 @@
 12080	Mégse
 12081	A státuszpontjaid visszaállításra kerültek.
 12082	Nincs visszaállítható státuszpontod.
+13057	Teljesítetted a Szerpent templomot, és begyûjtheted a jutalmad. Beszélj a Szerpent szoborral.
+13058	Jutalmak begyûjtve
+13059	Szerpent szobor
+13060	Legyõzted az összes gonosz kígyót. Megérdemled[ENTER]ezt a ládát.
+13606	Kaptál %dx Szerpent kincset.
+13607	Kaptál %dx Szerpent port.
 8044	A szinted túl alacsony!
 8045	Nem lovagolhatsz amíg át vagy változva!
 8046	Már lovagolsz! Ha hátast akarsz változtatni,[ENTER]elõbb le kell szállnod errõl a hátasról.
@@ -9951,6 +10024,48 @@
 11499	Ne, itt maradok.
 11500	A Kék sárkány (IH) visszatért!
 11679	Három percen belül minden harcos ki lesz[ENTER]teleportálva a Számûzött barlangjából (IH).
+12980	Mi az a Szerpent templom?
+12981	Beszélnem kellene a Szerpent õrrel, hogy[ENTER]megtaláljam az eldugott templomot.
+12982	Szia, újonc! Még nem tudom, mennyire bizonyulsz[ENTER]hasznosnak. Ha követed a völgy útját mögöttem,[ENTER]egy nagy templomhoz fogsz érni. Hallottál már a[ENTER]Szerpent templomról?
+12983	Számtalan veszélyes szörnnyel fogsz találkozni.[ENTER]Fogadok, hogy egy percet sem fogsz bírni. De ha[ENTER]elég bátor vagy, kincset találhatsz ott.
+12984	Hogyan jutok be?
+12985	Hahaha! Nem tudsz - csak ha én beengedlek.[ENTER]Próbára teszem a bátorságod.
+12986	Látom, a szemeid csillognak az izgatottságtól![ENTER]Biztos vagyok benne, hogy el tudnál intézni pár[ENTER]szörnyet a környéken. Kezd egy kicsit megterhelõ[ENTER]lenni irányítás alatt tartani ezt a területet.
+12987	Vadássz szörnyekre a területen, hogy kiálld a[ENTER]Szerpent õr próbáját.
+12988	A Szerpent õr azt akarja, hogy megölj %d szörnyet[ENTER]a Yilad hágón.[ENTER]Hátralevõ szörnyek: %d
+12989	Hé, még nem intézted el azokat a szörnyeket...[ENTER]Talán feladod?
+12990	Megöltem az összes szörnyet a Szerpent õrnek.[ENTER]Vissza kellene mennem hozzá.
+12991	Megöltem az összes szörnyet a Szerpent õrnek.[ENTER]Vissza kellene mennem hozzá.
+12992	Nahát! Úgy tûnik, bátrabb vagy, mint elsõre[ENTER]gondoltam. A távolból figyelve a fiatal önmagamra[ENTER]emlékeztettél.
+12993	Na mindegy. Itt a jutalmad, amiért kiálltad a[ENTER]próbát.
+13180	Hátralevõ szörnyek
+13603	%d szörnyet öltél meg. Hátralevõ mennyiség: %d
+12994	Szerpent templom?!
+12995	Egy új területet fedeztek fel. El kellene mennem[ENTER]a Szerpent õrhöz, aki õrzi azt a területet.
+12996	Szia, újonc! Úgy látom, szeretnél eljutni a[ENTER]völgybe...
+12997	Ha szeretnél elmenni a völgybe, elõbb tégy nekem[ENTER]egy szívességet! A szörnyek itt a környéken elég[ENTER]sok gondot okoznak jelenleg. Nagyon jól jönne a[ENTER]segítséged.
+12998	Szeretném, ha leszámolnál ezekkel a szörnyekkel,[ENTER]és hoznál nekem némi Vasreszeléket. Megtennéd ezt[ENTER]nekem? Ha jól tudom, a Vasreszelékkel jól lehet[ENTER]pénzt keresni is.
+12999	Igen.
+13000	Nem.
+13001	Attól tartok, ebben az esetben nem léphetsz be a[ENTER]völgybe!
+13002	Szerezz %d Vasreszeléket, amit nagyon vár a[ENTER]Szerpent õr. Ezeket megtalálod a közelben levõ[ENTER]szörnyeknél.
+13003	Máris megszerezted ilyen gyorsan az összeset?[ENTER]Helló! Szerintem elszámoltad. Én azt mondtam, %d[ENTER]darab kell!
+13004	A Szerpent õr %d Vasreszeléket kér cserébe azért,[ENTER]hogy beengedjen a völgybe. Szörnyekre kellene[ENTER]vadásznom a Yilad hágó környékén, hogy[ENTER]Vasreszeléket szerezzek.[ENTER]Hátralevõ Vasreszelék: %d
+13005	Vasreszeléket kaptál. Begyûjtve: %d
+13006	Megszereztem az összes Vasreszeléket, amit a[ENTER]Szerpent õr akart. Vissza kellene mennem hozzá.
+13007	Megszereztem az összes Vasreszeléket, amit a[ENTER]Szerpent õr akart. Vissza kellene mennem hozzá.
+13008	Tudtam én, hogy menni fog neked ez a feladat![ENTER]Megvan mind!
+13009	Rendben, segítek átkelni a völgyön. Ha átérsz a[ENTER]túloldalra, egy nagy templomot fogsz látni. Ha[ENTER]szeretnél késõbb bemenni oda, gyere vissza hozzám[ENTER]ismét.
+13010	A Szerpent templomba a Szerpent õr segítségével[ENTER]juthatsz be.
+13011	Ah, hát újra itt vagy. Szeretnél belépni?
+13012	Akkor hozz nekem Vasreszeléket, amit legutóbb is[ENTER]gyûjtöttél, és adok egy belépõt. Ezúttal %d[ENTER]Vasreszelékre van szükségünk.
+13013	Szerpent templom?! (ismételt)
+13015	Szeretnél belépni a Szerpent templomba?
+13016	Megerõsít
+13017	Mégse
+13018	Beszélj a Szerpent õrrel a Szerpent templomba[ENTER]való belépéshez.
+13019	Ez a völgy nagyon veszélyesnek tûnik. Légy óvatos!
+13181	Hátralevõ Vasreszelék
 8167	Nemere õrtornya
 8168	Belépés Nemere õrtornyába. A kazamata idõkorlátja[ENTER]egy óra. Ha végeztél, vagy megszakadt a kaland,[ENTER]négy órát kell várnod, mielõtt újra be tudsz[ENTER]lépni.
 8169	Gyõzz le minden ellenfelet!
@@ -11793,6 +11908,62 @@
 12884	Megsemmisítetted az összes Jin Metinjét. Jelentsd[ENTER]Konfuciusznak a Dong Gwang síkságon!
 12885	Menj vissza Konfuciuszhoz, és mondd el neki, mi[ENTER]történik!
 12886	A befolyása gyengült, de ez még nem lesz[ENTER]elegendõ. De minden kis lépés számít. Köszönetem[ENTER]jeléül egy kis ajándékot adok neked.
+12914	Egy ismeretlen föld
+12915	Ahogy barangoltam, hogy többet megtudjak a fura[ENTER]pletykákról, végül egy ismeretlen földre[ENTER]érkeztem. Közelebbrõl meg kellene vizsgálnunk ezt[ENTER]a helyet, hogy kiderítsük, errõl szólnak-e a[ENTER]pletykák.
+12916	Látok valakit a távolban. Óvatosan kellene[ENTER]megközelítenünk.
+12917	Egy ideges ember ül a sarokban. Beszélnünk[ENTER]kellene vele.
+13541	Egy új küldetés érhetõ el.
+12918	Egy kíváncsi ember
+12919	Menj a kíváncsi emberhez, és beszélj vele.
+12920	Ó, te jó ég!
+12921	Ki vagy te? Egyáltalán hogy találtál ide?
+12922	Helló! Ki vagy te? Én egy fejvadász vagyok, és[ENTER]azért jöttem, hogy a végére járjak a faluval[ENTER]kapcsolatos pletykának. Te is? Nos, ki kellene[ENTER]vizsgálnom itt valamit. Ha segítesz nekem,[ENTER]örömmel elmondom, mit derítettem ki eddig.
+12923	Visszautasítás
+12924	Segítek neked.
+12925	Micsoda gyáva alak!
+12926	Úgy gondolom, valami nagy dolog történik itt.[ENTER]Elõször körül kellene néznünk, és megölni néhány[ENTER]Lelketlen katonát. Túl veszélyes ott, szóval[ENTER]találkozzunk itt késõbb.
+12927	Ölj Lelketlen katonákat.[ENTER]Hátralevõ ellenfelek: %d
+12928	Ne vesztegesd az idõt! Nem árulok el semmit, ha[ENTER]csak itt álldogálsz.
+12929	Megöltem az összes Lelketlen katonát, vissza[ENTER]kellene térnem a Fejvadászhoz.
+12930	Jó munkát végeztél. Itt a jutalmad. El fogom[ENTER]mondani, hogyan haladjunk tovább. Gyere vissza[ENTER]késõbb.
+12931	Egy különös pletyka
+12932	Meg kellene kérdeznem a Fejvadászt a Yilad[ENTER]hágóról szóló pletykáról.
+12933	Most már egy kicsit tisztábban látom a dolgokat.[ENTER]A pletyka?! Honnan tudsz errõl? Egy eldugott[ENTER]oltár van a közelben, és egy nagyon erõs szörny[ENTER]garázdálkodik ott. Úgy tûnik, már ismered a[ENTER]pletykát. Rendben, akkor hadd osszak meg veled[ENTER]valami mást.
+12935	Mindenki eltûnt?
+12936	Nem egészen. Megépítették a Szerpent templomot,[ENTER]ahol egyre erõsebbé válnak. Az a célom, hogy[ENTER]megöljem a vezetõjüket, és begyûjtsem a vérdíjat.[ENTER]De nagyon nehéz közel kerülni hozzá, mert az[ENTER]oltár mellett egy õr van. Ha van kedved,[ENTER]segítenél nekem megölni azokat a szörnyeket?[ENTER]Nagyon nehéz egyedül áttörni a vonalaikon.
+12937	Most nem.
+12938	Tudtam, hogy nem fogsz cserbenhagyni. Egy segítõ[ENTER]kéz mindig jól jön. Tisztítsuk meg az utat az[ENTER]oltárhoz!
+12939	Lelketlen harcosokat kellene ölnöm az út[ENTER]megtisztításához.[ENTER]Hátralevõ szörnyek: %d
+12940	Hogy megy? Van már bármi eredmény? Nem úgy[ENTER]tûnik... Kérlek, siess, nincs túl sok idõnk.
+12941	Megöltem az összes Lelketlen harcost, és[ENTER]megtisztítottam az utat. Vissza kell mennem a[ENTER]Fejvadászhoz.
+12942	Megölted az összes Lelketlen harcost. Menj vissza[ENTER]a Fejvadászhoz.
+12943	Jó munkát végeztél. Most már látom az utat.[ENTER]Menjünk gyorsan a következõ területre. Úgy tûnik,[ENTER]közel kerültünk a táborukhoz.
+12966	Segíthetek?
+12967	Rendben, akkor én visszamegyek. Ha meggondolod[ENTER]magad, bármikor visszajöhetsz.
+12944	Egy eldugott oltár
+12945	Azt hiszem, már látom az eldugott oltárt. Térj[ENTER]vissza gyorsan a Fejvadászhoz.
+12946	Igen, így van! Miután legyõztem az utamba kerülõ[ENTER]szörnyeket, elértem az oltárt. De az õr nem[ENTER]engedett be. Hiába kérleltem többször, nem[ENTER]használt, és vissza kellett fordulnom. De most[ENTER]köszönhetõen neked, van még egy esélyem! Együtt[ENTER]kell próbálkoznunk.
+12947	Nem megyek.
+12948	Rendben.
+12949	Hogy? Ilyen hamar feladod? Sokkal gyengébb vagy,[ENTER]mint gondoltam.
+12950	Ha összefogunk, akkor meg tudjuk csinálni.[ENTER]Takarítsunk el az útból néhány szörnyet a[ENTER]környéken.
+12951	Ölj Lelketlen szerzeteseket, hogy megtisztítsd az[ENTER]út hátralevõ részét.[ENTER]Hátralevõ ellenfelek: %d
+12952	Ilyen közel a célhoz feladod? Odaadnám neked a[ENTER]vérdíj egy részét. Ugyan már...
+12953	Megölted az összes Lelketlen szerzetest. Menj[ENTER]vissza a Fejvadászhoz.
+12954	Már látom távolról az õrt, aki a Szerpent[ENTER]templomot õrzi. Szerintem el fogunk jutni az[ENTER]oltár bejáratához, hála neked.
+12955	Összefogás
+12956	Megtaláltam az oltárt. Meg kellene vizsgálnom, és[ENTER]kideríteni, hol van az õr.
+12957	Végre megtaláltad az oltárt. Köszönöm, hogy ilyen[ENTER]sokáig kitartottál mellettem. Most besurranhatunk[ENTER]az õr mellett oda, ahol a vezetõ rejtõzik, és[ENTER]megtudhatjuk, mi folyik ott. De attól tartok,[ENTER]kiszúrhatnak minket, ha együtt megyünk. Emiatt[ENTER]azt javaslom, hogy váljunk szét, és útközben[ENTER]gyûjtsünk több információt.
+12958	Nekem ennyi elég volt.
+12959	Gyerünk!
+12960	Már majdnem sikerült. Kérlek, gondold át!
+12961	Remélem, mindketten egy darabban leszünk, amikor[ENTER]legközelebb találkozunk.
+12962	Surranj be a templomba az oltár õre mellett, és[ENTER]tudd meg, mi történik odabent. Vadássz le 30[ENTER]Kappa katonát[ENTER]Hátralevõ szörnyek: %d
+12963	Még nem indultál el? Gondolom akkor én megyek[ENTER]elõre.
+12964	Felderítetted a Szerpent templomot, és[ENTER]levadásztál 30 Kappa katonát. Menj vissza a[ENTER]Fejvadászhoz.
+12965	Tudtam, hogy megcsinálod! Én is körülnéztem[ENTER]gyorsan, de attól tartok, nem találtam meg a[ENTER]vezetõt. Hát, ez van... Talán majd legközelebb.[ENTER]De csak a segítségednek köszönhetõen jutottam[ENTER]ideáig, ezért szeretnélek megjutalmazni cserébe.[ENTER]Tessék, kérlek fogadd el ezt...
+13054	Kövesd a minitérképen a villogó pontot.
+13597	Még nem találtad meg a Szerpent templomot?[ENTER]Nem lesz könnyû odajutni arra a helyre. Szóval[ENTER]készülj fel alaposan, mielõtt szembenézel a[ENTER]Szerpent templom kihívásaival.
 12679	Sung Mahi tornyának elõcsarnoka
 12680	Szeretnél belépni Sung Mahi tornyába?
 12681	Igen
@@ -12081,3 +12252,4 @@
 12673	Gyõzd le a Megafõszörnyet!
 12674	Vigyél be legalább %d sebzést egy megafõszörnynek. 
 12675	Napi küldetés teljesítve - bevitted a szükséges[ENTER]mértékû sebzést egy megafõszörnynek.
+12934	Azért jöttem, hogy megszerezzem a vérdíjat ezért[ENTER]a szörnyért. Eredetileg ez a hely tele volt[ENTER]Szerpent szörnyekkel, és Yilad hágónak hívták. De[ENTER]nem vettél észre valami szokatlant? Az összes[ENTER]Szerpent szörnyeteg eltûnt.

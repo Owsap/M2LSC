@@ -653,7 +653,7 @@
 1653	Sung Mahi T. %d. szint
 1654	Zsákmány Sung Mahi tornya teljesítéséért
 1655	A harc %d másodpercen belül indul.
-1656	A %d. szinten vagy.
+1656	A(z) %d. szinten vagy.
 1657	Ölj meg egy szörnypárost, melyek nem tartoznak össze!
 1658	Rossz szörnyet támadtál meg. Öld meg az összes szörnyet!
 1659	Öld meg az összes szörnyet a megadott idõn belül!
@@ -692,6 +692,8 @@
 1693	A %s területén minden elõõrs el lett pusztítva, így a terület nincs többé Sung Mahi irányítása alatt.
 1694	Seo Gwang pusztaság
 1695	Nam Gwang szakadék
+1696	A fejlesztés sikeres volt.
+1697	A fejlesztés sajnos nem sikerült.
 1698	Az immunitás-áldásnak köszönhetõen nincs rád hatással Sung Mahi aurája.
 1699	Az immunitásod véget ért, és ismét hatással van rád Sung Mahi aurája és átka.
 17	[Céh] Nincs jogosultságod a céh-készségek használatára.
@@ -718,8 +720,38 @@
 1718	[Prémium magánbolt] %s eladásra került. Kérjük, gyûjtsd be a pénzed.
 1719	[Prémium magánbolt] Nem tudod újranyitni a boltodat a bezárása után %d másodpercig.
 172	[Gaya] Nem lehet nálad több Gaya.
+1720	Ezt nem tudod megtenni a kazamata létrehozása közben.
+1721	Többször már nem tudsz újraéledni. Ki leszel teleportálva a kazamatából.
+1722	Már megkaptad a jutalmad. Ha újra szeretnéd próbálni, gyere vissza késõbb. Hátralevõ idõ: %d ó %d p
+1723	Még %d alkalommal tudsz feléledni.
+1724	Most beléphetsz a Szerpent templomba. Ehhez használd a Szerpent szobrot.
+1725	Ennek a Metinnek az elpusztítása nem segített. Az összes Metin újra megjelent.
+1726	Ennek a Metinnek az elpusztítása nem segített. Az összes Metin újra megjelent.
+1727	Megsemmisítettél %d Metint. Még %d Metint kell elpusztítanod.
+1728	Lejárt az idõ. Ki leszel teleportálva a kazamatából.
+1729	Ez most %d percig elérhetõ.
 173	[Gaya] A finomítás sikeres volt.
+1730	Nem növelheted tovább az idõt a kazamata visszaszámlálóján.
+1731	A kazamata visszaszámlálójához 1 perc lett hozzáadva.
+1732	Megölted az összes szörnyet. A(z) %d. szintre leszel teleportálva. Addig még %d másodperc van hátra.
+1733	Elpusztítottad az összes Metint. A(z) %d. szintre leszel teleportálva. Addig még %d másodperc van hátra.
+1734	A darabkát beraktad a Szerpent fejbe. De semmi sem történik.
+1735	Az összes Szerpent oszlopot kinyitottad. Tovább a(z) %d. szintre %d másodperc múlva.
+1736	Megjelent a különleges Szerpent templom kovács!
+1737	Megjelent a Szerpent templom kovács!
+1738	Megölted az összes szörnyet, és most továbbmehetsz a fõszörny szintjére.
+1739	Teljesítetted a Szerpent templomot. Ki leszel teleportálva a kazamatából %d másodperc múlva.
 174	[Gaya] A finomítás sikertelen volt.
+1740	Pusztítsd el a Metinköveket a helyes sorrendben.
+1741	Öld meg az összes szörnyet.
+1742	Szerezd meg a kulcsot a szörnyektõl, és nyisd ki a cellát.
+1743	Beleraktál egy darabkát a Szerpent fejbe.
+1744	Öld meg a fõszörnyet.
+1745	Sikeresen kinyitottad!
+1746	Elõbb egy másik oszlopot kell kinyitnod.
+1747	Kinyitottad a cellát. A kovács mosolyog rád.
+1748	Ez a kulcs nem nyitotta ki a cellát, így nem szabadult ki a kovács.
+1749	Ez a darabka nem illik a Szerpent fejbe.
 175	[Gaya] A tárgy lista frissítve lett.
 1752	A Bajnokszint eléréséhez legalább 1 EXP gömböt fel kell töltened a 120-as szinten.
 1753	Teljesítened kell a Hajó megvédése kihívást.
@@ -730,15 +762,21 @@
 1758	[Prémium magánbolt] Ezt nem tudod megtenni, míg a tárgyakat rendezed.
 176	Eltûnt az esemény érzékelõ.
 1760	[Ereklyebónusz] Ezt nem tudod megtenni, míg a Lélekereklye ablak nyitva van.
+1761	A %s nevû csoport tag kilépett a harcból.
+1762	%d perced van még hátra.
 1763	[Prémium magánbolt] Itt nem párbajozhatsz.
 1764	[Prémium magánbolt] A begyûjthetõ pénz nem frissül, amíg a tárgyakat rendezed.
+1765	A Szerpent templom utolsó fõszörnye megjelent.
 1766	[Prémium magánbolt] Itt már nyitottak egy boltot. Kérünk, keress egy másik helyet a boltod megnyitásához.
+1767	Nem fejlesztheted ezt, amíg egy nevelhetõ házikedvenced meg van idézve.
 177	[Gaya] Nincs nálad elég Gaya.
 178	[Gaya] Nem tudod megvásárolni ezt a tárgyat.
 179	[Gaya] A leltárad megtelt.
 18	[Céh] Most megfigyelõ módban vagy, mivel elérted az újraéledési korlátot.
 180	[Gaya] Nincs nálad Gaya piac frissítõ.
+1802	Ez akkor lesz elérhetõ, ha a harc elkezdõdött.
 181	[Gaya] Elõbb nyisd meg a Gaya piacot.
+1812	Ezt nem tudod megtenni kereskedés közben.
 182	[Gaya] Nem oldható föl több hely a Gaya piacon.
 183	[Gaya] Nincs nálad elég %s. %d darabra van szükséged egy újabb hely feloldásához.
 184	[Gaya] A Gaya piac jelenleg nem elérhetõ.

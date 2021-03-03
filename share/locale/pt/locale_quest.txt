@@ -1,3 +1,6 @@
+13305	Hei! Tens a chave para me libertar?
+13306	Libertem-me, por favor. Será que ninguém me ajuda?
+13307	Hei, tu! Por favor, encontra a chave!
 2	Já te disse tudo sobre os poderes que iremos[ENTER]precisar para confrontarmos Sung Mahi.[ENTER][ENTER]Despacha-te a ir ter com o Capitão.[ENTER][ENTER]Volta quando tiveres o tecido necessário.
 1	Um tecido especial
 3	Aumenta o teu poder
@@ -829,6 +832,26 @@
 12585	Encontrei todos os Fetos das Sombras.[ENTER]Agora é melhor ir ter com o Chaegirab, rápido.
 12591	Não me apresses! Até mesmo este Feto das Sombras[ENTER]seco contém informações científicas importantes.[ENTER]Volta mais tarde e traz-me uma planta nova.[ENTER]Tempo de espera restante: %s
 12713	Lamento.[ENTER]Ainda não terminei a análise do último Feto das[ENTER]Sombras.[ENTER]Volta mais tarde.[ENTER]Tempo de espera restante: %s
+13038	Sim
+13039	Não
+13041	Isto só está disponível para o líder.
+13042	Iniciar Batalha
+13043	Desistir
+13044	Sair
+13045	Queres começar a masmorra Templo da Serpente?
+13046	Templo da Serpente
+13047	Queres sair daqui? Podes voltar até a batalha ser[ENTER]iniciada.
+13048	A instância criada do Templo da Serpente está a[ENTER]fechar. Queres desistir?
+13056	Todos os membros do grupo têm de estar na mesma[ENTER]área.
+13061	Vai até ao nível do boss.
+13062	Ferreiro do Templo da Serpente
+13063	Queres ir para o nível do boss?
+13064	Ferreiro de Melhoramento de Luvas
+13065	Olá! Posso melhorar um dos teus pares de luvas.[ENTER]Não precisas de quaisquer outros materiais! Só[ENTER]tens de me entregar as luvas que queres que eu[ENTER]melhore. O meu melhoramento tem o mesmo efeito[ENTER]que um Pergaminho da Bênção.
+13613	Queres mesmo abandonar a masmorra?
+13614	Não podes reinicializar as tuas entradas neste[ENTER]momento,
+13615	Queres reinicializar as tuas entradas no Templo[ENTER]da Serpente?
+13616	As tuas entradas no Templo da Serpente foram[ENTER]reinicializadas para 5.
 679	Derrota as Jin-Hees
 678	Vingar o Vendedor de Anéis
 680	A Idosa pediu a tua ajuda: o seu amigo, o[ENTER]Vendedor de Anéis, foi assassinado pelas Jin-Hee,[ENTER]as guerreiras de elite do Clã Jura de Cristal.[ENTER]Vinga a morte do Vendedor de Anéis matando 30[ENTER]Jin-Hee.
@@ -1358,6 +1381,30 @@
 989	Aqui tens o teu Cristal de Energia. Mas apenas a[ENTER]primeira tentativa é sempre bem-sucedida. A[ENTER]Alquimia é uma ciência imprevisível - mesmo os[ENTER]mais pequenos erros podem estragar tudo! Existe[ENTER]sempre uma pequena hipótese de que esta[ENTER]tecnologia falhe.
 990	Infelizmente falhei. Não consegui produzir um[ENTER]Cristal de Energia. A minha tecnologia é[ENTER]fantástica - mas o processo está repleto de[ENTER]riscos. As coisas nem sempre correm de acordo com[ENTER]o plano. Tenho a certeza que serei bem-sucedido[ENTER]da próxima vez!
 991	Eu sabia! A minha tecnologia é fantástica! Aqui[ENTER]tens o teu Cristal de Energia. É um espécime[ENTER]brilhante! Consegues sentir o seu poder?
+13540	Queres entrar no Templo da Serpente?
+13014	Entrar no Templo da Serpente
+13020	Preparativos Importantes
+13021	Preciso de encontrar a Estátua da Serpente para[ENTER]entrar no Templo da Serpente.
+13022	Precisarás de várias coisas para explorar esta[ENTER]masmorra subterrânea... Seria bom teres um[ENTER]chapéu, um chicote ou um pequeno saco de areia[ENTER]aproxidamente do tamanho de um tesouro. Posso[ENTER]criar esses itens para ti.
+13023	No entanto, se quiseres entrar no Templo, terás[ENTER]de trazer-me %d Escamas de Serpente para os[ENTER]equipamentos. E como só um herói capaz de dar o[ENTER]seu melhor merece a vitória, custar-te-á %d Yang.[ENTER]Consegues arranjar-me ambas as coisas?
+13024	A Estátua da Serpente precisa de %d Escamas de[ENTER]Serpente. Podes obtê-las dos monstros que se[ENTER]encontram por perto.
+13025	Para entrar no Templo da Serpente preciso de[ENTER]obter as %d Escamas de Serpente exigidas pela[ENTER]Estátua da Serpente.[ENTER]Quantidade em falta: %d
+13026	Preciso de mais Escamas de Serpente...
+13027	Recebeste Escamas de Serpente. Itens recolhidos: %d
+13028	Já tens todas as Escamas de Serpente que a[ENTER]Estátua da Serpente precisa. Regressa à Estátua.
+13029	Tenho as %d Escamas de Serpente! Devia voltar à[ENTER]Estátua da Serpente.
+13030	Conseguiste obter todas as Escamas de Serpente?[ENTER]Então, só preciso de %d Yang para poder[ENTER]conceder-te acesso ao Templo.
+13031	Entregar Ambos
+13032	Cancelar
+13033	Não tens dinheiro suficiente...
+13034	Bom. Tudo pronto! Aqui estão os teus itens. Boa[ENTER]sorte! Sempre que precisares de mais equipamento[ENTER]para outra expedição, só tens de vir ter comigo.
+13035	Criar
+13036	Entrar
+13037	Queres entrar no Templo da Serpente? Restam-te %d[ENTER]entradas.
+13040	Queres criar uma instância do Templo da Serpente?
+13049	Não podes voltar a entrar hoje.
+13055	Não podes criar outra instância até teres[ENTER]recolhido todas as recompensas.
+13182	Escamas de Serpente em falta
 992	Supervisor do Terreno de Jogo
 993	Gostarias de abandonar o Terreno de Jogo?
 994	Gostarias de entrar no Terreno de Jogo?
@@ -1626,6 +1673,17 @@
 10167	Usa Animasferas para reduzires a energia negra[ENTER]que emana do Templo do Zodíaco antes que ela se[ENTER]torne demasiado forte. Irás consumir Animasferas[ENTER]automaticamente quando entrares no Templo. Nota:[ENTER]a missão não pode ser completada se tiveres[ENTER]activado a Marca do Guardião.
 10168	Está feito! Regressa ao Monge Milbon e obtém o[ENTER]teu presente.
 10169	Obrigado. O Templo voltou a estar seguro por[ENTER]agora. Aqui tens o teu presente. No entanto o[ENTER]nível de energia voltará a subir. Volta daqui a[ENTER]24 horas e reduz o nível da energia com[ENTER]Animasferas novamente. Voltarei a recompensar-te,[ENTER]é claro.
+13586	Entra na Masmorra Misteriosa
+13587	Altar Misterioso
+13588	Hei! Sei que me transformaram em pedra. A culpa é[ENTER]da Maldição de Sung Mahi! Mas sou um Xamã e posso[ENTER]falar-te de um lugar muito interessante...[ENTER]Se tiveres um Bilhete Misterioso, posso levar-te[ENTER]até à Masmorra Misteriosa.[ENTER]Queres tentar?
+13589	Sim
+13590	Não
+13591	Oh! Lamento, mas não podes entrar sem um Bilhete[ENTER]Misterioso.
+13598	Não podes entrar neste momento.
+13609	Saída
+13610	Queres mesmo abandonar a masmorra?
+13611	Sim
+13612	Não
 1209	Recusar
 1208	Porque choras?
 1210	É claro que te ajudo. A missão não é muito[ENTER]difícil de fazer e eu compreendo que queiras a[ENTER]lembrança de volta. Até breve!
@@ -7628,6 +7686,15 @@
 12707	Recebeste %d Elixires do Sol (P).
 12708	Vai ter com o Vendedor de Armaduras para celebrar.
 12709	Recebeste %d Pedras do Ritual.
+12971	Um Vale Escondido
+12972	Há rumores de que foi descoberto um novo vale.[ENTER]Vai ter com o Confucius.
+12973	Há algum tempo que não te vejo. Por onde andaste[ENTER]ultimamente? O local secreto que te deu uma[ENTER]grande dor de cabeça foi encontrado.
+12974	Ouvi dizer que o caminho para lá é sinuoso e[ENTER]perigoso. Quero pedir-te que vás até lá e[ENTER]descubras mais informações sobre este vale[ENTER]escondido. Assim que chegares, encontrarás um[ENTER]guardião que destaquei para lá há algum tempo[ENTER]atrás.
+12975	Foi desbloqueada uma nova área. Vai ter com o[ENTER]Guardião da Serpente.
+12976	Hei! O que estás aqui a fazer parado? Se fores[ENTER]até à Planície de Dong Gwang, conseguirás chegar[ENTER]à nova área.
+12977	Vai para a nova área e encontra-te com o Guardião[ENTER]da Serpente.
+12978	E quem és tu, então? Ha! O Confucius enviou-te?[ENTER]Só podes estar a brincar... Porque é que ele[ENTER]enviaria um novato como tu para um local tão duro[ENTER]como este?
+12979	O Confucius disse-me para te entregar isto quando[ENTER]chegasses. Volta mais tarde. Ainda tens tarefas[ENTER]por completar.
 6353	Uma Vida Renasceu
 6354	Acordas e sentes-te invulgarmente peludo. O que[ENTER]aconteceu? Onde estás?! Procura Myonghorang o[ENTER]Sábio. Ele poderá explicar-te.
 6355	Bem-vindo Lycan!
@@ -7965,11 +8032,11 @@
 6606	Pontuação Total
 6607	Pontuação Mais Alta
 6608	Os 10 jogadores com a pontuação total mais alta[ENTER]geral irão receber prémios adicionais.
-6610	1º Lugar: %sx %d
+6610	1º Lugar: %s %d x
 6609	Fechar
-6611	2º Lugar: %sx %d
-6612	3º Lugar: %sx %d
-6613	4º-10º Lugares: %sx %d
+6611	2º Lugar: %s %d x
+6612	3º Lugar: %s %d x
+6613	4º-10º Lugares: %s %d x
 6614	1º Lugar: %s, %d
 6615	2º Lugar: %s, %d
 6616	3º Lugar: %s, %d
@@ -9808,6 +9875,12 @@
 12080	Cancelar
 12081	As tuas estatísticas foram reinicializadas.
 12082	Não tens estatísticas que possam ser[ENTER]reinicializadas.
+13057	Completaste o Templo da Serpente e podes recolher as tuas recompensas. Fala com a Estátua da Serpente.
+13058	Recompensas Recolhidas
+13059	Estátua da Serpente
+13060	Derrotaste todas aquelas serpentes maléficas.[ENTER]Mereces este cofre.
+13606	Recebeste %dx Tesouro da Serpente.
+13607	Recebeste %dx Poeira da Serpente.
 8044	O teu nível é demasiado baixo!
 8045	Não podes montar enquanto estás transformado!
 8046	Já estás a montar! Se quiseres alterar a tua[ENTER]montada tens de te desmontar primeiro.
@@ -9951,6 +10024,48 @@
 11499	Não, vou ficar aqui.
 11500	O Dragão Beran-Setaou (FT) regressou!
 11679	Todos os guerreiros serão transportados para fora[ENTER]da Gruta das Almas (FT) dentro de três minutos.
+12980	O que é o Templo da Serpente?
+12981	Devia falar com o Guardião da Serpente para[ENTER]encontrar o templo escondido.
+12982	Olá, novato. Ainda não consigo perceber quão[ENTER]engenhoso és. Se seguires o caminho do vale atrás[ENTER]de mim, chegarás a um templo enorme. Já ouviste[ENTER]falar no Templo da Serpente?
+12983	Curzar-te-ás com muitos monstros perigosos.[ENTER]Aposto que não aguentarás um minuto inteiro antes[ENTER]de dares meia volta e fugires. No entanto, se[ENTER]fores suficientemente corajoso, encontrarás[ENTER]tesouros por lá.
+12984	Como é que posso entrar?
+12985	Hahaha! Não podes! A não ser que eu o permita.[ENTER]Testarei a tua coragem.
+12986	Os teus olhos reluzem, sedentos de ação! Tenho a[ENTER]certeza de que conseguirás tratar de alguns[ENTER]monstros que aqui andam por mim! Manter esta zona[ENTER]sob controlo está a começar a ser um desafio.
+12987	Caça monstros nas redondezas para passares no[ENTER]teste do Guardião da Serpente.
+12988	O Guardião da Serpente quer que caces %d monstros[ENTER]no Passo de Yilad.[ENTER]Monstros em falta: %d
+12989	Hei! Ainda não trataste dos monstros... Estás a[ENTER]pensar em desistir ou algo assim?
+12990	Matei todos os monstros para o Guardião da[ENTER]Serpente. É melhor ir ter com ele.
+12991	Matei todos os monstros para o Guardião da[ENTER]Serpente. É melhor ir ter com ele.
+12992	Oh. Pareces ser mais corajoso do que inicialmente[ENTER]pensei. Ver-te combater daqui fez-me lembrar a[ENTER]minha juventude.
+12993	Bom, seja como for. Esta é a tua recompensa por[ENTER]passares no teste.
+13180	Monstros em falta
+13603	Mataste %d monstros. Quantidade restante: %d
+12994	Templo da Serpente?!
+12995	Uma nova área foi descoberta. Devia ir ter com o[ENTER]Guardião da Serpente, que vigia esta área.
+12996	Olá, novato. Pareceu-me que querias entrar no[ENTER]vale...
+12997	Se quiseres chegar ao vale, terás de me fazer um[ENTER]favor primeiro! Os monstros aqui nas redondezas[ENTER]andam a causar imensos problemas. A tua ajuda[ENTER]dava-me muito jeito.
+12998	Quero que derrotes esses monstros e me tragas[ENTER]algumas Limalhas de Ferro. Podes fazer isso por[ENTER]mim? Ao que me parece, as Limalhas de Ferro[ENTER]também são uma boa forma de ganhar dinheiro.
+12999	Sim.
+13000	Não.
+13001	Bem, lamento, mas acho que assim não terás[ENTER]permissão para entrar no vale!
+13002	Obtém as %d Limalhas de Ferro que o Guardião da[ENTER]Serpente tanto quer. Podes obtê-las dos monstros[ENTER]que se encontram por perto.
+13003	O quê? Como é que conseguiste obtê-las tão[ENTER]rápido? Hei! Acho que contaste mal. Eu disse %d!
+13004	O Guardião da Serpente quer %d Limalhas de Ferro[ENTER]para te poder deixar entrar no vale. Devia caçar[ENTER]monstros perto do Passo de Yilad para obter[ENTER]Limalhas de Ferro.[ENTER]Limalhas de Ferro em falta: %d
+13005	Recebeste Limalhas de Ferro. Recolhidas: %d
+13006	Tenho todas as Limalhas de Ferro para o Guardião[ENTER]da Serpente. É melhor ir ter com ele.
+13007	Tenho todas as Limalhas de Ferro para o Guardião[ENTER]da Serpente. É melhor ir ter com ele.
+13008	Ah! Sabia que eras a pessoa indicada para esta[ENTER]tarefa! Essa é a quantidade certa!
+13009	Okay, agora irei ajudar-te a atravessar o vale.[ENTER]Assim que chegares ao outro lado, verás um templo[ENTER]grande. Se quiseres entrar lá mais tarde, vem ter[ENTER]comigo novamente.
+13010	Podes obter acesso ao Templo da Serpente junto do[ENTER]Guardião da Serpente.
+13011	Ah, aqui estás tu de novo. Queres entrar?
+13012	Então traz-me as Limalhas de Ferro que recolheste[ENTER]para mim da última vez e oferecer-te-ei um[ENTER]bilhete. Desta vez precisamos de %d Limalhas de[ENTER]Ferro.
+13013	Templo da Serpente?! (Repetição)
+13015	Queres entrar no Templo da Serpente?
+13016	Confirmar
+13017	Cancelar
+13018	Fala com o Guardião da Serpente para entrares no[ENTER]Templo da Serpente.
+13019	Este vale parece muito perigoso. Por isso tem[ENTER]cuidado.
+13181	Limalhas de Ferro em falta
 8167	Torre de Vigia de Nemere
 8168	Entra na Torre de Vigia de Nemere. O tempo limite[ENTER]nesta masmorra é de 1 hora. Depois de terminares[ENTER]ou interromperes a tua aventura terás de esperar[ENTER]4 horas antes de poderes voltar a entrar.
 8169	Derrota todos os inimigos!
@@ -11793,6 +11908,62 @@
 12884	Destruíste todas as Metins do Jin. Relata tudo ao[ENTER]Confucius, na Planície de Dong Gwang.
 12885	Regressa ao Confucius e informa-o sobre o que[ENTER]está a acontecer.
 12886	Enfraquecemos a sua presença, no entanto continua[ENTER]a não ser suficiente. Mas qualquer coisa ajuda.[ENTER]Tenho um pequeno presente para ti como[ENTER]agradecimento.
+12914	Uma Terra Desconhecida
+12915	Enquanto andava por aí a tentar descobrir mais[ENTER]sobre este rumor estranho, finalmente cheguei a[ENTER]uma terra desconhecida. Devíamos conhecer melhor[ENTER]este lugar para saber se é a origem do rumor.
+12916	Consigo ver alguém ao longe. Devíamos[ENTER]aproximar-nos com cuidado.
+12917	Uma pessoa nervosa está sentada no canto.[ENTER]Devíamos falar com ele.
+13541	Foi adicionada uma nova missão.
+12918	Alguém Curioso
+12919	Vai ter com a pessoa curiosa e fala com ela.
+12920	Meu Deus!
+12921	Quem és tu?! Como é que conseguiste chegar aqui?
+12922	Hei! Quem és tu? Sou um Caçador de Prémios e vim[ENTER]até esta vila em perseguição de um rumor. Tu[ENTER]também? Bem, tenho que investigar algo por aqui.[ENTER]Se me ajudares, terei todo o gosto em contar-te[ENTER]sobre o que já consegui descobrir até agora.
+12923	Recusar
+12924	Irei ajudar-te.
+12925	Que cobarde...
+12926	Acho que há qualquer coisa importante a acontecer[ENTER]aqui. Primeiro, devíamos explorar a zona e matar[ENTER]alguns Soldados Corrompidos. É um local perigoso,[ENTER]portanto é melhor voltarmos para aqui depois.
+12927	Mata Soldados Corrompidos.[ENTER]Adversários em falta: %d
+12928	Não percas tempo! Não vou contar-te nada se só[ENTER]ficares aqui especado.
+12929	Matei todos os Soldados Corrompidos. Devia voltar[ENTER]ao Caçador de Prémios.
+12930	Muito bem. Aqui tens a tua recompensa. Vou[ENTER]dizer-te como iremos proceder. Volta mais tarde.
+12931	Um Rumor Estranho
+12932	Devia falar com o Caçador de Prémios e[ENTER]perguntar-lhe acerca do rumor sobre o Passo de[ENTER]Yilad.
+12933	As coisas estão a ficar mais claras. O rumor?! O[ENTER]que é que sabes sobre isso? Há um altar escondido[ENTER]aqui perto onde um monstro extremamente poderoso[ENTER]anda a causar o caos. Parece que já ouviste falar[ENTER]neste rumor. Muito bem então, deixa-me falar-te[ENTER]sobre algo diferente.
+12935	Trataste deles todos?
+12936	Nem por isso. Eles construíram o Templo da[ENTER]Serpente e estão a fortalecer-se. O meu objetivo[ENTER]é matar a sua líder e recolher o prémio. Mas é[ENTER]tão difícil chegar até ela, uma vez que há um[ENTER]guardião perto do altar. Poderias ajudar-me a[ENTER]caçar os monstros, por favor? É muito difícil[ENTER]quebrar as suas fileiras sozinho.
+12937	Agora não.
+12938	Sabia que não me dececionarias. Ajuda é sempre[ENTER]bem-vinda. Então vamos lá até ao altar.
+12939	Devia matar Guerreiros Corrompidos para abrir[ENTER]caminho.[ENTER]Monstros em falta: %d
+12940	Como vão as coisas? Já fizeste progressos? Não me[ENTER]parece... Apressa-te! Não temos muito tempo.
+12941	Cacei os Guerreiros Corrompidos e abri caminho.[ENTER]Devia voltar ao Caçador de Prémios.
+12942	Todos os Guerreiros Corrompidos estão mortos.[ENTER]Regressa ao Caçador de Prémios.
+12943	Muito bem. Consigo ver o nosso caminho. Vamos[ENTER]rapidamente até à próxima área. Acho que estamos[ENTER]a aproximar-nos do seu refúgio.
+12966	Posso?
+12967	Muito bem, voltarei para trás então. Se mudares[ENTER]de ideias, podes voltar sempre que quiseres.
+12944	Um Altar Escondido
+12945	Acho que consigo ver um pedaço do altar[ENTER]escondido. É melhor regressar rapidamente ao[ENTER]Caçador de Prémios.
+12946	Sim, é isso mesmo! Depois de combater todos os[ENTER]monstros, cheguei ao altar. Mas o guardião não me[ENTER]deixou entrar. Implorei-lhe imensas vezes, mas[ENTER]não serviu de nada e não tive outra escolha que[ENTER]não voltar atrás. Mas agora, graças a ti, tenho[ENTER]outra oportunidade! Vamos avançar em conjunto.
+12947	Não consigo continuar.
+12948	Tudo bem.
+12949	Já queres desistir? Não és tão forte quanto[ENTER]pensava.
+12950	Se nos prepararmos, conseguiremos fazê-lo. Vamos[ENTER]livrar-nos de alguns monstros aqui pelas[ENTER]redondezas.
+12951	Mata Monges Corrompidos para abrires o resto do[ENTER]caminho.[ENTER]Adversários em falta: %d
+12952	Vais desistir tão perto do nosso objetivo? Posso[ENTER]dar-te uma parte do meu prémio. Anda lá.
+12953	Todos os Monges Corrompidos estão mortos.[ENTER]Regressa ao Caçador de Prémios.
+12954	Já consigo ver o guardião ao longe, a proteger o[ENTER]Templo da Serpente. Acho que conseguiremos chegar[ENTER]à entrada do altar, graças a ti.
+12955	Infiltração
+12956	Encontrei o Altar. Devia dar uma vista de olhos e[ENTER]descobrir onde está o guardião.
+12957	Finalmente encontraste o Altar. Obrigado por[ENTER]ficares comigo até agora. Agora podemos[ENTER]esgueirar-nos pelo guardião para chegarmos ao[ENTER]local onde a líder está escondida e descobrirmos[ENTER]o que se passa. No entanto, acho que seremos[ENTER]descobertos se continuarmos juntos. Portanto,[ENTER]sugiro que nos separemos e tentemos descobrir[ENTER]mais informações úteis pelo caminho.
+12958	Já chega.
+12959	Vamos lá!
+12960	Estamos quase lá. Reconsidera, por favor.
+12961	Espero bem que ainda estejamos inteiros quando[ENTER]voltarmos a encontrar-nos.
+12962	Esgueira-te pelo guardião, entra no templo e[ENTER]descobre o que se passa no interior. Caça 30[ENTER]Kappa Soldados.[ENTER]Monstros em falta: %d
+12963	Ainda aqui estás? Vou continuar sem ti, então.
+12964	O Templo da Serpente foi explorado e 30 Kappa[ENTER]Soldados foram mortos. Regressa ao Caçador de[ENTER]Prémios.
+12965	Sabia que o ias conseguir. Também dei uma vista[ENTER]de olhos rápida no interior, mas não consegui[ENTER]encontrar a líder. Bom, não há nada a fazer.[ENTER]Talvez para a próxima. Seja como for, só cheguei[ENTER]até aqui graças a ti, portanto quero[ENTER]recompensar-te pela tua ajuda. Toma, aceita[ENTER]isto...
+13054	Segue o ponto a piscar no teu mini-mapa.
+13597	Ainda não encontraste o Templo da Serpente?[ENTER]Não vai ser fácil chegar lá. Certifica-te de que[ENTER]tens todas as capacidades necessárias para[ENTER]enfrentar o Templo da Serpente.
 12679	Hall de Entrada da Torre de Sung Mahi
 12680	Queres entrar na Torre de Sung Mahi?
 12681	Sim
@@ -12081,3 +12252,4 @@
 12673	Derrota o Boss do Mundo!
 12674	Inflige a quantidade mínima de %d de dano, ou[ENTER]mais, a um boss do mundo.
 12675	Missão diária completada: infligiste a quantidade[ENTER]mínima de dano a um boss do mundo.
+12934	Vi aqui para obter o prémio por caçar este[ENTER]monstro. Originalmente, este lugar estava cheio[ENTER]de monstros Serpente e chamava-se Passo de Yilad.[ENTER]Mas notaste algo estranho? Todos os monstros[ENTER]Serpente desapareceram.

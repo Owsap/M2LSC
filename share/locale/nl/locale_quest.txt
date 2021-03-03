@@ -1,3 +1,6 @@
+13305	Hey! Heb jij de sleutel om me te bevijden?
+13306	Bevrijd me alsjeblieft. Kan iemand me helpen?
+13307	Hey, jij daar! Haal de sleutel alsjeblieft!
 2	Ik heb je al verteld over de krachten die we[ENTER]nodig hebben om Sung Mahi te confronteren.[ENTER][ENTER]Haast je en zoek de Kapitein.[ENTER][ENTER]Keer terug wanneer je het benodigde doek hebt.
 1	Een bijzonder doek
 3	Verhoog je kracht
@@ -829,6 +832,26 @@
 12585	Ik heb alle Schaduwvarens gevonden.[ENTER]Keer snel terug naar Chaegirab.
 12591	Jaag me niet zo op! Zelfs deze verwelkte[ENTER]Schaduwvaren bevat waardevolle inzichten voor de[ENTER]wetenschap.[ENTER]Kom later maar terug en breng me een nieuwe plant.Resterende afkoelperiode: %s
 12713	Oh, sorry.[ENTER]Ik ben nog niet klaar met het onderzoeken van de[ENTER]laatste Schaduwvaren.[ENTER]Kom later terug.[ENTER]Resterende afkoelperiode: %s
+13038	Ja
+13039	Nee
+13041	Dit is alleen beschikbaar voor de leider.
+13042	Gevecht starten
+13043	Opgeven
+13044	Verlaten
+13045	Wil je de kerker Serpententempel starten?
+13046	Serpententempel
+13047	Wil je deze plek verlaten? Je kunt terugkeren[ENTER]totdat het gevecht begonnen is.
+13048	De gecreëerde Serpententempel-instantie is aan[ENTER]het sluiten. Wil je opgeven?
+13056	Alle groepsleden moeten in hetzelfde gebied zijn.
+13061	Ga naar het niveau van de eindbaas.
+13062	Serpententempel Smid
+13063	Wil je naar het niveau van de eindbaas gaan?
+13064	Handschoenverbeteringssmid
+13065	Hey, ik kan je handschoenen voor je verbeteren.[ENTER]Je hebt geen andere materialen nodig! Geef me[ENTER]gewoon de handschoenen waarvan je wil dat ik ze[ENTER]voor je verbeter. Mijn verbetering heeft[ENTER]hetzelfde effect als een Zegenings Geschrift.
+13613	Wil je de kerker verlaten?
+13614	Je kunt je toegangen nu meteen resetten.
+13615	Wil je jouw toegangen tot de Serpententempel[ENTER]resetten?
+13616	Jouw toegangen tot de Serpententempel zijn[ENTER]gereset tot vijf.
 679	Versla de Jin-Hee
 678	Wraak voor een Juwelier.
 680	Het oude dametje heeft gevraagd of je haar kan[ENTER]helpen: Een vriend, de Ringhandelaar, is vermoord[ENTER]door de Jin-Hee, de elite van de Witte Eed. Wraak[ENTER]de dood van de juwelier door 30 Jin-Hee te[ENTER]verslaan.
@@ -1358,6 +1381,30 @@
 989	Hier, je Energie Kristal. Maar het is alleen de[ENTER]eerste poging die altijd succesvol is. Alchemie[ENTER]is een onvoorspelbare wetenschap - kleine fouten[ENTER]leiden tot mislukking! Er is altijd een kleine[ENTER]kans dat het experiment kan mislukken.
 990	Helaas is de poging mislukt. Ik kon geen Energie[ENTER]Kristal maken. Mijn techniek is briljant - maar[ENTER]het proces zit vol met risico's.[ENTER]Dingen gaan niet altijd volgens plan. Ik weet[ENTER]zeker dat we de volgende keer succesvol zullen[ENTER]zijn!
 991	Ik wist het! Mijn technologie is briljant![ENTER]Hier is je Energie Kristal. Het is zeker een mooi[ENTER]exemplaar. Kun je zijn kracht voelen?
+13540	Wil je de Serpententempel binnengaan?
+13014	De Serpententempel betreden
+13020	Belangrijke Voorbereidingen
+13021	Ik moet het Serpentenstandbeeld weten te vinden[ENTER]om de Serpententempel binnen te kunnen gaan.
+13022	Om je een weg door deze ondergrondse kerker te[ENTER]kunnen banen heb je een aantal dingen nodig...[ENTER]een hoed, een zweep of een kleine zandzak van[ENTER]ongeveer de grootte van een schat zouden zeker[ENTER]van pas kunnen komen. Ik kan deze items voor jou[ENTER]maken.
+13023	Maar als je de tempel binnen wilt gaan, moet je[ENTER]me %d Serpentenschubben brengen voor de[ENTER]uitrusting. En omdat alleen een held die bereid[ENTER]is alles te geven waardig genoeg is voor de[ENTER]overwinning, gaat het je %d Yang kosten. Kun je[ENTER]beiden voor me meebrengen?
+13024	Het Serpentenstandbeeld vereist %d[ENTER]Serpentenschubben. Je kunt ze vinden op monsters[ENTER]hier vlakbij.
+13025	Om de Serpententempel binnen te kunnen gaan, moet[ENTER]ik de %d Serpentenschubben halen die het[ENTER]Serpentenstandbeeld vereist.[ENTER]Aantal resterend: %d
+13026	Ik heb meer Serpentenschubben nodig...
+13027	Je hebt Serpentenschubben ontvangen. Verzamelde items: %d
+13028	Dit zijn alle Serpentenschubben die het[ENTER]Serpentenstandbeeld nodig heeft. Keer er naar[ENTER]terug.
+13029	Ik heb alle %d de Serpentenschubben! Ik zou eens[ENTER]terug moeten keren naar het Serpentenstandbeeld.
+13030	Heb je alle Serpentenschubben? Dan heb ik alleen[ENTER]nog %d Yang nodig en dan zal ik je toegang tot de[ENTER]tempel kunnen geven.
+13031	Alles inleveren
+13032	Annuleren
+13033	Je hebt niet genoeg geld...
+13034	Goed. Alles klaar! Hier zijn je spullen, veel[ENTER]succes. Kom simpelweg bij mij terug als je meer[ENTER]uitrusting voor een volgende expeditie nodig[ENTER]hebt.
+13035	Creëren
+13036	Betreden
+13037	Wil je de Serpententempel binnengaan? Je hebt nog[ENTER]%d pogingen om binnen te gaan resterend.
+13040	Wil je een Serpententempel-instantie creëeren?
+13049	Je kunt vandaag niet meer naar binnen.
+13055	Je kunt geen nieuwe instantie creëeren totdat je[ENTER]alle beloningen hebt opgehaald.
+13182	Serpentenschubben Resterend
 992	Speelplaats Opzichter
 993	Wil je de Speelplaats verlaten?
 994	Wil je de Speelplaats betreden?
@@ -1626,6 +1673,17 @@
 10167	Gebuik Animaspheres om de duistere energie[ENTER]afkomstig uit de Zodiac Tempel te verminderen[ENTER]voordat deze te krachtig wordt. Je verbruikt[ENTER]automatisch Animaspheres als je de tempel[ENTER]binnengaat. Let op: de quest kan niet voltooid[ENTER]worden als je het Merk van de Wachter geactiveerd[ENTER]hebt.
 10168	Gelukt! Ga terug naar Monnik Milbon en neem je[ENTER]geschenk in ontvangst.
 10169	Dank je. De tempel is voorlopig weer veilig. Hier[ENTER]is jouw cadeau. Het energieniveau zal echter weer[ENTER]stijgen. Kom over 24 uur terug en breng het[ENTER]energieniveau weer opnieuw naar beneden met[ENTER]Animaspheres. Ik zal je hier natuurlijk opnieuw[ENTER]voor belonen.
+13586	Ga de Mysterieuze Kerker binnen.
+13587	Mysterieus Altaar
+13588	Hey! Ik weet dat ik in steen veranderd ben. Daar[ENTER]kunnen we Sung Mahi's Vloek voor bedanken! Maar[ENTER]ik ben een sjamaan en kan je iets vertellen over[ENTER]een wel heel interessante plaats...[ENTER]Als je een Mysterieus Ticket bezit, kan ik je[ENTER]naar de Mysterieuze Kerker brengen.[ENTER]Wil je het proberen?
+13589	Ja
+13590	Nee
+13591	Oh! Ik ben bang dat ik je binnen kan laten zonder[ENTER]Mysterieus Ticket.
+13598	Je kunt nu niet binnengaan.
+13609	Verlaten
+13610	Wil je de kerker verlaten?
+13611	Ja
+13612	Nee
 1209	Afslaan
 1208	Waarom huil je?
 1210	Natuurlijk help ik je. De missie is niet te[ENTER]moeilijk om uit te voeren, en ik kan begrijpen[ENTER]dat je het aandenken terug wil. Ik zie je gauw!
@@ -7628,6 +7686,15 @@
 12707	Je hebt %d Zon Elixers (K) ontvangen.
 12708	Ga naar de Pantser Winkeleigenaar om de dag te[ENTER]vieren.
 12709	Je hebt %d Rituelen Stenen ontvangen.
+12971	Een Verborgen Vallei
+12972	Er gaan geruchten dat er een nieuwe vallei[ENTER]gevonden is. Ga naar Confucius.
+12973	Ik heb jou al een hele tijd niet meer gezien.[ENTER]Waar heb je al die tijd gezeten? De geheime plek[ENTER]die je eerder zoveel hoofdpijn heeft bezorgd is[ENTER]intussen gevonden.
+12974	Wel heb ik gehoord dat de weg daarnaartoe vol[ENTER]kronkels zit en erg verraderlijk is. Ik wil je[ENTER]graag vragen om er heen te gaan en meer te weten[ENTER]te komen over deze verbogen vallei. Zodra je daar[ENTER]aankomt tref je een wachter die ik daar een[ENTER]poosje eerder heen heb gestuurd.
+12975	Een nieuw gebied is ontgrendeld. Ga naar de[ENTER]Serpent Wachter.
+12976	Hey, waarom sta je hier nog steeds? Als je naar[ENTER]de Dong Gwang Vlakte gaat kun je vanaf daar naar[ENTER]het nieuwe gebied.
+12977	Ga naar het nieuwe gebied en ontmoet de Serpent[ENTER]Wachter.
+12978	Wie ben jij dan? Hah, heeft Confucius je[ENTER]gestuurd? Dat meen je niet... Waarom heeft hij[ENTER]een beginner zoals jij gestuurd naar een land zo[ENTER]wreed als dit?
+12979	Confucius vroeg me je dit te geven bij je[ENTER]aankomst. Kom later terug. Je hebt nog taken af[ENTER]te ronden.
 6353	Een Nieuw Leven
 6354	Je ontwaakt en voelt jezelf abnormaal pluizig.[ENTER]Wat is er gebeurd? Waar ben je?! Zoek naar[ENTER]Myonghorang de Wijze. Hij kan het je uitleggen.
 6355	Welkom Lycaan!
@@ -7965,11 +8032,11 @@
 6606	Totale Score
 6607	Hoogste Spelscore
 6608	De 10 spelers met de hoogste totaalscore[ENTER]ontvangen extra prijzen.
-6610	1ste Plaats: %sx %d
+6610	1ste Plaats: %s %d x
 6609	Sluiten
-6611	2de Plaats: %sx %d
-6612	3de Plaats: %sx %d
-6613	4de-10de Plaats: %sx %d
+6611	2de Plaats: %s %d x
+6612	3de Plaats: %s %d x
+6613	4de-10de Plaats: %s %d x
 6614	1ste Plaats: %s, %d
 6615	2de Plaats: %s, %d
 6616	3de Plaats: %s, %d
@@ -9808,6 +9875,12 @@
 12080	Annuleren
 12081	Jouw statistieken zijn gereset.
 12082	Je hebt geen statistieken die gereset kunnen[ENTER]worden.
+13057	Je hebt de Serpententempel afgerond en kunt je beloningen gaan ophalen. Praat met het Serpentenstandbeeld.
+13058	Beloningen opgeëist
+13059	Serpentenstandbeeld
+13060	Je hebt al die kwaadaardige slangen verslagen.[ENTER]Deze kist heb je verdiend.
+13606	Je hebt %dx Serpentenschatten ontvangen.
+13607	Je hebt %dx Serpentenstof ontvangen.
 8044	Je level is te laag!
 8045	Je kunt niet rijden wanneer je getransformeerd[ENTER]bent!
 8046	Je bent al aan het rijden! Als je je rijdier wilt[ENTER]veranderen, moet je eerst afstijgen.
@@ -9951,6 +10024,48 @@
 11499	Nee, ik blijf hier.
 11500	De Blauwe Draak (TS) is teruggekeerd!
 11679	Alle strijders worden uit de Grot der Verbanning[ENTER](TS) geteleporteerd over drie minuten.
+12980	Wat is de Serpententempel?
+12981	Ik zou eens moeten gaan praten met de Serpent[ENTER]Wachter om de verborgen tempel te kunnen vinden.
+12982	Hey, beginnertje. Ik weet nog altijd niet hoe[ENTER]vindingrijk je eigenlijk bent. Als je het dalpad[ENTER]recht achter me volgt, kom je een gigantische[ENTER]tempel tegen. Heb je weleens gehoord van de[ENTER]Serpententempel?
+12983	Je zal een stevig aantal levensgevaarlijke[ENTER]monsters tegen het lijf lopen. Ik durf te wedden[ENTER]dat het nog geen minuut zal duren voordat je de[ENTER]benen neemt. Maar als je dapper genoeg bent, vind[ENTER]je daar vast en zeker schatten.
+12984	Hoe kom ik er binnen?
+12985	Hahaha! Dat kan niet – tenzij ik je binnen laat.[ENTER]Ik zal je moed testen.
+12986	Je ogen glinsteren positief met een stevige dorst[ENTER]naar actie! Ik weet zeker dat je hier vast wel[ENTER]een paar monsters uit de weg kan ruimen voor me![ENTER]Dit gebied onder controle houden begint wel een[ENTER]beetje af te matten.
+12987	Jaag op monsters in het gebied om de beproeving[ENTER]van de Serpent Wachter te doorstaan.
+12988	De Serpent Wachter wil dat je op %d monsters[ENTER]jaagt op de Yilad Pas.[ENTER]Resterende monsters: %d
+12989	Hey, je hebt die monsters nog niet uit de weg[ENTER]geruimd... Geef je het op of zo?
+12990	Ik heb alle monsters gedood voor de Serpent[ENTER]Wachter. Ik zou naar hem terug moeten gaan.
+12991	Ik heb alle monsters gedood voor de Serpent[ENTER]Wachter. Ik zou naar hem terug moeten gaan.
+12992	Oh. Het lijkt dat je dapperder bent dan ik[ENTER]aanvankelijk dacht. Toen ik vanaf een afstandje[ENTER]zag hoe je vocht, moest ik terugdenken aan mijn[ENTER]jeugd.
+12993	Ach, goed dan. Dit is jouw beloning voor het[ENTER]doorstaan van de test.
+13180	Monsters resterend
+13603	Je hebt %d monsters gedood. Resterend aantal: %d
+12994	Serpententempel?!
+12995	Er is een nieuw gebied ontdekt. Ik zou naar de[ENTER]Serpent Wachter moeten gaan die dit gebied[ENTER]bewaakt.
+12996	Ha, beginner! Het lijkt erop dat je de vallei[ENTER]binnen wilde gaan...
+12997	Als je de vallei in wilt, wil ik dat je eerst[ENTER]iets voor me doet! De monsters hier bezorgen me[ENTER]momenteel een heleboel ellende. En ik kan je hulp[ENTER]dus wel heel goed gebruiken.
+12998	Ik wil dat je afrekent met deze monsters en dat[ENTER]je me wat IJzervijlsel brengt. Kun je dat voor me[ENTER]doen? Zover ik weet is IJzervijlsel een goede[ENTER]manier om geld te verdienen.
+12999	Ja.
+13000	Nee.
+13001	Nou, ik ben bang dat je dan de vallei niet in mag!
+13002	Bemachtig %d IJzervijlsel dat de Serpent Wachter[ENTER]zo graag wil hebben. Je kunt het vinden op[ENTER]monsters in de buurt.
+13003	Wat, je hebt het al zo vlug weten te bemachtigen?[ENTER]Hey! Ik denk dat je verkeerd geteld hebt. Ik zei[ENTER]%d!
+13004	De Serpent Wachter vraagt %d IJzervijlsel om je[ENTER]de vallei binnen te laten gaan. Ik zou op[ENTER]monsters moeten jagen in de buurt van de Yilad[ENTER]Pas om IJzervijlsel te verkrijgen.[ENTER]IJzervijlsel Overgebleven: %d
+13005	Je hebt IJzervijlsel ontvangen. Verzameld: %d
+13006	Ik heb al het IJzervijlsel dat de Serpent Wachter[ENTER]wilde hebben. Ik zou naar hem terug moeten gaan.
+13007	Ik heb al het IJzervijlsel dat de Serpent Wachter[ENTER]wilde hebben. Ik zou naar hem terug moeten gaan.
+13008	Oh, ik wist wel dat je de juiste persoon voor[ENTER]deze taak was. Dat is de juiste hoeveelheid!
+13009	Okay, nu help ik je de vallei over te steken.[ENTER]Zodra je aan de andere kant bent, zie je een[ENTER]grote tempel. Als je daar later naar binnen wilt,[ENTER]zoek me dan weer op.
+13010	Je kunt toegang krijgen tot de Serpententempel[ENTER]via de Serpent Wachter.
+13011	Ah, daar ben je weer. Wil je naar binnen?
+13012	Breng me dan het IJzervijlsel dat je de vorige[ENTER]keer voor me hebt verzameld en ik geef je een[ENTER]ticket. Dit keer hebben we %d IJzervijlsel nodig.
+13013	Serpententempel?! (Herhaling)
+13015	Wil je de Serpententempel binnengaan?
+13016	Bevestigen
+13017	Annuleren
+13018	Praat met de Serpent Wachter om de[ENTER]Serpententempel binnen te gaan.
+13019	Deze vallei ziet er erg gevaarlijk uit. Dus wees[ENTER]voorzichtig.
+13181	IJzervijlsel resterend:
 8167	Nemeres Uitkijktoren
 8168	Betreed Nemeres Uitkijktoren. Het tijdslimit in[ENTER]deze kerker is 1 uur. Na het voltooien of[ENTER]onderbreken van het avontuur moet je 4 uur[ENTER]wachten voor je het opnieuw kan betreden.
 8169	Versla alle vijanden!
@@ -11793,6 +11908,62 @@
 12884	Je hebt alle Metins van de Jin vernietigd.[ENTER]Rapporteer aan Confucius over de huidige situatie[ENTER]op de Dong Gwang Vlakte.
 12885	Keer terug naar Confucius en vertel hem wat er[ENTER]allemaal gebeurt.
 12886	Zijn invloed is stevig verzwakt, maar het zal nog[ENTER]steeds niet genoeg zijn. Maar alle beetjes[ENTER]helpen. Ik heb een klein presentje voor je om[ENTER]mijn dankbaarheid te tonen.
+12914	Een Onbekend Land
+12915	Toen ik aan het ronddwalen was, op zoek naar meer[ENTER]aanwijzingen over dit vreemde gerucht, kwam ik[ENTER]uiteindelijk uit in een onbekend land. We moesten[ENTER]deze plek eens van dichtbij gaan bekijken om te[ENTER]zien of het de bron van dit gerucht is.
+12916	Ik zie daar iemand in de verte. We moeten deze[ENTER]persoon voorzichtig benaderen.
+12917	Er zit een nerveus persoon in de hoek. We moesten[ENTER]eens gaan praten met hem.
+13541	Er is een nieuwe quest toegevoegd.
+12918	Een Merkwaardig Persoon
+12919	Ga naar de merkwaardige persoon in de hoek en[ENTER]praat met hem.
+12920	Mijn hemel!
+12921	Wie ben jij nou weer?! Hoe heb je je weg hierheen[ENTER]weten te vinden?
+12922	Hey! Wie ben jij? Ik ben een premiejager en ben[ENTER]helemaal hierheen afgereisd om het gerucht naar[ENTER]dit dorp te herleiden. Jij ook? Nou, ik moet hier[ENTER]iets onderzoeken. Als je me helpt, vertel ik je[ENTER]met plezier wat ik tot nu toe te weten ben[ENTER]gekomen.
+12923	Afwijzen
+12924	Ik zal je helpen.
+12925	Wat een lafaard...
+12926	Ik denk dat er hier iets groots gaande is. Eerst[ENTER]moeten we eens rondkijken en wat Besmette[ENTER]Soldaten doden. Het is daar te gevaarlijk, dus[ENTER]laten we hier later opnieuw afspreken.
+12927	Dood Besmette Soldaten.[ENTER]Resterende tegenstanders: %d
+12928	Verspil geen tijd! Ik ga je echt niets vertellen[ENTER]als je daar maar een beetje blijft staan.
+12929	Ik heb alle Besmette Soldaten gedood en zou terug[ENTER]moeten gaan naar de Premiejager.
+12930	Goed gedaan. Hier is je beloning. Ik zal je[ENTER]vertellen hoe we vanaf hier verdergaan. Dus kom[ENTER]later maar terug.
+12931	Een Vreemd Gerucht
+12932	Ik zou de Premiejager moeten vragen naar het[ENTER]gerucht over de Yilad Pas.
+12933	Het lijkt nu allemaal een stuk duidelijker. Het[ENTER]gerucht?! Hoe weet je daarvan? Er ligt hier in de[ENTER]buurt een verscholen altaar en een zeer sterk[ENTER]monster richt daar veel schade aan. Het lijkt[ENTER]erop dat je al bekend bent met dit gerucht. Nou[ENTER]goed dan, laat me je wat anders vertellen.
+12935	Zijn ze allemaal weg?
+12936	Niet helemaal. Ze hebben de Serpententempel[ENTER]gebouwd waar ze alsmaar sterker worden. Mijn doel[ENTER]is om hun leider te doden en de premie op te[ENTER]strijken. Maar het is zo ongelooflijk moeilijk om[ENTER]bij haar in de buurt te komen omdat er wachter[ENTER]bij het altaar is. Je kunt me helpen om deze[ENTER]monsters op te jagen, als je wil? Het is moeilijk[ENTER]om in mijn eentje door hun gelederen heen te[ENTER]breken.
+12937	Nu niet.
+12938	Ik wist dat je me niet zou laten zitten. Een[ENTER]helpende hand is nooit weg. Laten we op pad gaan[ENTER]naar het altaar.
+12939	Ik zou Besmette Krijgers op de weg daarheen[ENTER]moeten doden.[ENTER]Resterende monsters: %d
+12940	Dus, hoe gaat het ermee? Nog wat vooruitgang[ENTER]geboekt? Lijkt er niet op... Haast je[ENTER]alsjeblieft, we hebben niet veel tijd.
+12941	Ik heb alle Besmette Krijgers opgejaagd en een[ENTER]pad vrij gemaakt. Ik moest eens teruggaan naar de[ENTER]Premiejager.
+12942	Alle Besmette Krijgers zijn gedood. Keer terug[ENTER]naar de Premiejager.
+12943	Goed gedaan. Nu kan ik ons pad zien. Laten we[ENTER]snel doorgaan naar het volgende gebied. Het ziet[ENTER]ernaaruit dat we hun toevluchtsoord naderen.
+12966	Mag ik?
+12967	Okay, ik ga terug. Als je van gedachten verandert[ENTER]kun je terugkomen wanneer je wil.
+12944	Een Verscholen Altaar
+12945	Ik denk dat ik al iets van de contouren van het[ENTER]verborgen altaar kan zien. Keer snel terug naar[ENTER]de Premiejager.
+12946	Ja, dat klopt. Nadat ik me een weg had gevochten[ENTER]door alle monsters, heb ik het altaar bereikt.[ENTER]Maar de wachter wilde me niet naar binnen laten.[ENTER]Ik heb hem meerdere keren geprobeerd te[ENTER]overtuigen, maar het werkte niet en ik had geen[ENTER]andere keus dan terug te gaan. Maar nu, dankzij[ENTER]jou, heb ik een nieuwe kans! Laten we er samen[ENTER]voor gaan.
+12947	Ik kan niet door blijven gaan.
+12948	Oké dan.
+12949	Wat, geef je het al zo snel op? Je bent veel[ENTER]zwakker dan ik dacht.
+12950	Als we onze schouders er onder zetten, kunnen we[ENTER]het samen aan. Laten we wat monsters uit de weg[ENTER]ruimen hier.
+12951	Dood Besmette Monniken om de rest uit de weg te[ENTER]ruimen.[ENTER]Resterende tegenstanders: %d
+12952	Geef je het zo dicht bij ons doel op? Ik kan je[ENTER]wat van mijn premie geven. Kom op.
+12953	Alle Besmette Monniken zijn gedood. Keer terug[ENTER]naar de Premiejager.
+12954	Ik zie de wachter al in de verte, toezichthoudend[ENTER]op de Serpententempel. Ik denk dat we de ingang[ENTER]van het altaar kunnen bereiken, dankzij jou.
+12955	Infiltratie
+12956	Ik heb het altaar gevonden. Ik zou het moeten[ENTER]gaan bekijken en erachter komen waar de wachter[ENTER]is.
+12957	Je hebt het altaar eindelijk gevonden. Bedankt[ENTER]dat je tot hier aan mijn zijde bent gebleven. Nu[ENTER]kunnen we de wachter voorbij sluipen naar waar de[ENTER]leider zich verbergt, en erachter komen wat er[ENTER]daar allemaal gebeurt. Ik ben er echter bang voor[ENTER]dat ze ons zien als we samen blijven. Dus, ik wil[ENTER]voorstellen om ons op te splitsen en dat we beide[ENTER]proberen om onderweg nuttige informatie te[ENTER]vergaren.
+12958	Ik heb er genoeg van.
+12959	Laten we gaan!
+12960	We hebben het bijna gehaald. Wil je het[ENTER]alsjeblieft heroverwegen?
+12961	Ik hoop dat we allebei nog ons hoofd hebben als[ENTER]we elkaar de volgende keer tegenkomen.
+12962	Sluip de altaarwachter voorbij, ga de tempel[ENTER]binnen en kom te weten wat er binnen afspeelt.[ENTER]Jaag op 30 Kappa Soldaten[ENTER]Resterende monsters: %d
+12963	Je bent nog niet vertrokken? Dan ga ik maar vast,[ENTER]denk ik.
+12964	De Serpententempel is verkend en 30 Kappa[ENTER]Soldaten zijn gedood. Keer terug naar de[ENTER]Premiejager.
+12965	Ik wist dat je het zou doen. Ik heb ook een vlug[ENTER]kijkje kunnen nemen van binnen, maar de leider[ENTER]heb ik nergens gezien. Ach nou ja, het is wat het[ENTER]is. Misschien de volgende keer. Trouwens, het is[ENTER]me alleen gelukt om tot hier te komen dankzij jou[ENTER]en ik wil je bedanken voor je hulp. Hier, neem[ENTER]dit alsjeblieft.
+13054	Volg de knipperende stip op de minimap.
+13597	Je hebt de Serpententempel nog niet gevonden?[ENTER]Die plek zal niet makkelijk zijn om te bereiken.[ENTER]Zorg ervoor dat je vaardig genoeg bent om de[ENTER]Serpententempel te kunnen trotseren.
 12679	Sung Mahi's Helletoren Entreehal
 12680	Wil je Sung Mahi's Helletoren binnentreden?
 12681	Ja
@@ -12081,3 +12252,4 @@
 12673	Versla de Wereldbaas!
 12674	Breng de minimale hoeveelheid schade van %d of[ENTER]meer toe aan een wereldbaas.
 12675	Dagelijkse quest voltooid - je hebt de minimale[ENTER]hoeveelheid schade toegebracht aan een[ENTER]wereldbaas.
+12934	Ik ben hierheen gekomen voor de premie voor dit[ENTER]monster. Oorspronkelijk zat deze plek vol met[ENTER]serpentmonsters en werd het Yilad Pas genoemd.[ENTER]Maar, is je misschien iets vreemds opgevallen? Al[ENTER]die serpentmonsters zijn verdwenen.

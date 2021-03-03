@@ -692,6 +692,8 @@
 1693	Tous les postes avancés de la zone %s ont été détruits et la zone n'est plus sous le contrôle de Sung Mahi.
 1694	Désert Seogan
 1695	Abîme Namgan
+1696	L'amélioration a réussi !
+1697	L'amélioration a échoué !
 1698	Grâce à la bénédiction d'immunité, vous n'êtes plus affecté par l'influence de Sung Mahi.
 1699	Votre bénédiction d'immunité est terminée et vous vous trouvez de nouveau sous l'influence de Sung Mahi et subissez la malédiction.
 17	[Guilde] Vous n'avez pas le droit d'utiliser les compétences de guilde.
@@ -718,8 +720,38 @@
 1718	[Magasin premium privé] %s a été vendu. Récupérez votre argent.
 1719	[Magasin premium privé] Vous ne pouvez plus rouvrir votre magasin pendant %d secondes après l'avoir fermé.
 172	[Gaya] Vous avez déjà le nombre maximal de Gayas.
+1720	Vous ne pouvez pas faire cela pendant que le donjon est en cours de création.
+1721	Vous ne pouvez plus ressusciter. Vous serez transporté hors du donjon.
+1722	Vous avez déjà reçu votre récompense. Revenez plus tard si vous souhaitez essayer à nouveau. Temps restant : %d h %d m
+1723	Vous pouvez ressusciter encore %d fois.
+1724	Vous ne pouvez pas entrer dans le Temple du serpent. Pour ce faire, utilisez la statue de serpent.
+1725	La pierre Metin détruite ne réagit pas. Toutes les pierres Metins sont réapparues.
+1726	La pierre Metin détruite ne réagit pas. Toutes les pierres Metins sont réapparues.
+1727	Vous avez détruit %d pierres Metins. Détruisez encore %d pierres Metins !
+1728	Le temps est écoulé. Vous serez transporté hors du donjon.
+1729	Disponible pendant %d minutes.
 173	[Gaya] Votre pierre a été taillée.
+1730	Vous ne pouvez plus rallonger le minuteur de donjon.
+1731	Le chronomètre de donjon gagne 1 minute.
+1732	Vous avez vaincu tous les monstres ! Vous allez être téléporté au niveau %d. Il vous reste encore %d secondes.
+1733	Vous avez détruit toutes les pierres Metins. Vous allez être téléporté au niveau %d. Il vous reste encore %d secondes.
+1734	La pièce a été ajoutée à la tête du serpent. Mais rien ne se passe.
+1735	Tous les piliers serpent sont déverrouillées. %d niveaux en %d secondes.
+1736	Le forgeron spécial du Temple du serpent apparaît !
+1737	Le forgeron du Temple du serpent apparaît !
+1738	Vous avez vaincu tous les monstres et vous pouvez vous rendre au niveau du boss.
+1739	Vous avez terminé le Temple du serpent avec succès. Vous serez transporté hors du donjon dans %d secondes.
 174	[Gaya] Votre pierre n'a pas été taillée.
+1740	Détruisez les pierres Metins dans le bon ordre.
+1741	Éliminez tous les monstres !
+1742	Prenez la clé aux monstres et fermez toutes les cellules.
+1743	Vous avez ajouté une pièce à la tête de serpent.
+1744	Éliminez le boss.
+1745	Ouverture réussie !
+1746	Vous devez d'abord déverrouiller l'autre pilier.
+1747	La prison a été déverrouillée. Le forgeron vous sourit.
+1748	Cette clé ne vous a pas permis d'ouvrir la prison et de libérer le forgeron.
+1749	Cette pièce n'est pas adaptée à la tête du serpent.
 175	[Gaya] La liste des objets a été actualisée.
 1752	Vous devez compléter au minimum 1 orbe d'EXP au niveau 120 pour atteindre le niveau de champion.
 1753	Vous devez terminer le donjon Défense du navire.
@@ -730,15 +762,21 @@
 1758	[Magasin premium privé] Vous ne pouvez pas faire ceci pendant que vous gérez des objets.
 176	Le détecteur d'évènement a disparu.
 1760	[Bonus de relique] c'est impossible lorsque la fenêtre de relique d'âme est ouverte.
+1761	%s membres du groupe ont quitté le combat.
+1762	Il reste encore %d minutes.
 1763	[Magasin premium privé] Vous ne pouvez pas vous battre en duel ici.
 1764	[Magasin premium privé] L'argent récupérable n'est pas actualisé pendant que vous gérez des objets.
+1765	Le boss final du Temple du serpent est apparu.
 1766	[Magasin premium privé] Un magasin a déjà été ouvert. Trouvez un autre endroit pour ouvrir votre magasin.
+1767	Vous ne pouvez l'améliorer pendant que vous avez invoqué un familier évolutif.
 177	[Gaya] Vous n'avez pas assez de Gayas.
 178	[Gaya] Vous ne pouvez pas acheter cet objet.
 179	[Gaya] Votre inventaire est plein.
 18	[Guilde] Vous êtes en mode spectateur, car vous avez atteint votre limite de résurrection.
 180	[Gaya] Vous n'avez pas de : réinit. bourse aux Gayas.
+1802	Cela est disponible dès que le combat a commencé.
 181	[Gaya] Vous devez d'abord ouvrir la bourse aux Gayas.
+1812	Vous ne pouvez pas effectuer cela pendant le commerce.
 182	[Gaya] Vous ne pouvez pas ouvrir d'emplacement supplémentaire dans la bourse aux Gayas.
 183	[Gaya] Vous n'avez pas suffisamment de %s. Vous devez en avoir %d de plus pour ouvrir un emplacement supplémentaire.
 184	[Gaya] La bourse aux Gayas n'est pas disponible pour le moment.

@@ -1,3 +1,6 @@
+13305	Hei! Ai adus cheia sã mã eliberezi?
+13306	Te rog sã mã elib,erezi. Mã poate ajuta cineva?
+13307	Hei, tu! Te rog, obþine cheia!
 2	Ti-am spus deja despre puterile pe care le are[ENTER]Sung Mahi.[ENTER][ENTER]Grabeste-te si cauta-l pe Capitan.[ENTER][ENTER]Intoarce-te cand ai materialul necesar.
 1	Un material special
 3	Mãreºte-þi puterea
@@ -829,6 +832,26 @@
 12585	Am gãsit tot Vatirul Împletit.[ENTER]Acum, înapoi la Chaegirab, repede!
 12591	Nu mã grãbi! Chiar ºi acest Vatir Împletit ofilit[ENTER]oferã informaþii pentru ºtiinþã.[ENTER]Vino mai târziu ºi adu-mi o plantã nouã.[ENTER]Timp calmare rãmas: %s
 12713	Oh, îmi pare rãu.[ENTER]Încã nu am terminat de analizat primul Vatir[ENTER]Împletit[ENTER]Revino mai târziu.[ENTER]Timp calmare rãmas: %s
+13038	Da
+13039	Nu
+13041	Acest lucru este disponibil doar pentru lider.
+13042	Start Bãtãlie
+13043	Renunþã
+13044	Pãrãseºte
+13045	Vrei sã începi Temniþa Templul ªarpelui?
+13046	Templul ªarpelui
+13047	Doreºti sã pleci din acest loc? Poþi reveni pânã[ENTER]când începe bãtãlia.
+13048	Instanþa creatã Templul ªarpelui se închide. Vrei[ENTER]sã renunþi?
+13056	Toþi membrii grupului trebuie sã se afle în[ENTER]aceeaºi zonã.
+13061	Mergi la nivelul ºefului.
+13062	Fierar Templul ªarpelui
+13063	Vrei sã mergi la nivelul ºefului?
+13064	Fierar Îmbunãtãþire Mãnuºi
+13065	Hei, pot îmbunãtãþi o pereche de mãnuºi pentru[ENTER]tine. Nu ai nevoie de alte materiale! Dã-mi doar[ENTER]mãnuºile pe care vrei sã le îmbunãtãþesc.[ENTER]Îmbunãtãþirea mea are acelaºi efect ca un[ENTER]Pergament Binecuvântat.
+13613	Vrei sã pãrãseºti temniþa?
+13614	Nu poþi reseta intrãrile chiar acum.
+13615	Doreºti sã resetezi intrãrile în Templul ªarpelui?
+13616	Intrãrile în Templul ªarpelui au fost resetate la[ENTER]5.
 679	Înfrânge-l pe Jin-Hee.
 678	Rãzbunare pentru negustorul de inele
 680	Femeia Batrana are nevoie de ajutorul tau:[ENTER]prietenul ei, Vanzatorul de Inele a fost ucis de[ENTER]Jin-Hee, banda Juramantului Alb. Razbuna moartea[ENTER]acestuia omorand 30 de Jin-Hee.
@@ -1358,6 +1381,30 @@
 989	Poftim, Cristalul de Energie. Intotdeauna prima[ENTER]incercare reuseste pe deplin. Alchimia este o[ENTER]stiinta imprevizibila - greselile minore pot duce[ENTER]la dezastre! Intotdeauna exista o mica sansa ca[ENTER]experimentul sa dea gres.
 990	Din pacate incercarea a esuat. Nu am putut[ENTER]produce Cristalul de Energie. Tehnologia mea este[ENTER]stralucitoare - insa procesul este plin de[ENTER]riscuri. Lucrurile nu merg intotdeauna conform[ENTER]planului. Data viitoare sunt sigur ca voi reusi!
 991	Stiam eu! Tehnologia mea e uimitoare! Poftim[ENTER]Cristalul de Energie. Este cu siguranta un obiect[ENTER]de valoare! Ii simti puterea?
+13540	Doreºti sã intri în Templul ªarpelui?
+13014	Intrã în Templul ªarpelui
+13020	Pregãtiri Importante
+13021	Ar trebui sã gãsesc Statuia ªarpelui pentru a[ENTER]intra în Templul ªarpelui.
+13022	Vei avea nevoie de o varietate de lucruri pentru[ENTER]a progresa prin aceastã temniþã subteranã... o[ENTER]pãlãrie, un bici sau un mic sac de nisip de[ENTER]dimensiunea unei comori ar fi cu siguranþã util.[ENTER]Pot crea aceste obiecte pentru tine.
+13023	Dar dacã vrei sã intri în templu, va trebui sã-mi[ENTER]aduci %d Solzi de ªarpe pentru echipament. ªi[ENTER]întrucât numai un erou care este dispus sã-ºi dea[ENTER]totul este demn de victorie, te va costa %d Yang.[ENTER]Le poþi aduce pe amândouã?
+13024	Statuia ªarpelui necesitã %d Solzi de ªarpe. Îi[ENTER]poþi gãsi la monºtrii din apropiere.
+13025	Pentru a intra în Templul ªarpelui, trebuie sã[ENTER]obþin %dSolzi de ªarpe necesari pentru Statuia[ENTER]ªarpelui.[ENTER]Numãr rãmas: %d
+13026	Am nevoie de mai mulþi Solzi de ªarpe...
+13027	Ai primit Solzi de ªarpe. Obiecte colectate: %d
+13028	Ãºtia sunt toþi Solzii de ªarpe pentru Statuia[ENTER]ªarpelui. Întoarce-te.
+13029	Am toþi cei %d Solzi de ªarpe! Ar trebui sã mã[ENTER]întorc la Statuia ªarpelui.
+13030	Ai toþi Solzii de ªarpe? Atunci voi avea nevoie[ENTER]doar de %d Yang ºi îþi voi putea acorda acces la[ENTER]templu.
+13031	Predã-le pe ambele
+13032	Anuleazã
+13033	Nu ai destui bani...
+13034	Perfect. Totul este gata! Poftim obiectele tale,[ENTER]noroc. De câte ori vei avea nevoie de echipamente[ENTER]pentru o altã expediþie, pur ºi simplu revino la[ENTER]mine.
+13035	Creeazã
+13036	Intrã
+13037	Doreºti sã intri în Templul ªarpelui? Mai ai %d[ENTER]intrãri rãmase.
+13040	Doreºti sã creezi o instanþã în Templul ªarpelui?
+13049	Nu poþi intra din nou astãzi.
+13055	Nu poþi crea o altã instanþã pânã când nu ai[ENTER]colectat toate recompensele.
+13182	Solzi de ªarpe Rãmaºi
 992	Gardian Taramul Jocurilor
 993	Doresti sa parasesti Taramul Jocurilor?
 994	Doresti sa pasesti in Taramul Jocurilor?
@@ -1626,6 +1673,17 @@
 10167	Foloseºte Animasferele pentru a reduce energia[ENTER]întunecatã care provine din Templul Zodiac[ENTER]înainte sã devinã prea puternicã. Vei consuma[ENTER]automat Animasferele când vei intra în templu.[ENTER]Notã: Misiunea nu poate fi efectuatã dacã ai[ENTER]activat Marca Gardienilor.
 10168	Gata! Întoarce-te la Cãlugãrul Milbon ºi[ENTER]colecteazã recompensa.
 10169	Mulþumesc. Templul este sigur din nou pentru o[ENTER]perioadã de timp. Poftim recompensa. Totuºi,[ENTER]nivelul de energie va creºte din nou. Întoarce-te[ENTER]în 24 de ore pentru a reduce din nou nivelul de[ENTER]energie cu Animasfere. Te voi rãsplãti din nou[ENTER]pentru asta, bineînþeles.
+13586	Intrã în Temniþa Misterioasã
+13587	Altar Misterios
+13588	Hey! ªtiu cã am fost transformat în piatrã.[ENTER]Blestemul lui Sung Mahi este de vinã pentru asta![ENTER]Dar eu sunt ºaman ºi îþi pot spune despre un loc[ENTER]foarte interesant...[ENTER]Dacã ai un Tichet Misterios, te pot duce la[ENTER]Temniþa Misterioasã.[ENTER]Vrei sã încerci?
+13589	Da
+13590	Nu
+13591	Oh! Mi-e teamã cã nu te pot lãsa sã treci fãrã un[ENTER]Tichet Misterios.
+13598	Nu poþi intra acum.
+13609	Ieºire
+13610	Vrei sã pãrãseºti temniþa?
+13611	Da
+13612	Nu
 1209	Refuzã
 1208	De ce plângi?
 1210	Desigur cã te ajut. Misiunea nu e prea dificil de[ENTER]realizat ºi pot întelege cã vrei amintirea[ENTER]înapoi. Ne vedem în curând!
@@ -7628,6 +7686,15 @@
 12707	Ai primit %d Elixirul Soarelui (S)
 12708	Mergi la Negustorul de Armuri pentru a sãrbãtori[ENTER]ziua.
 12709	Ai primit %d Pietre Fermecate.
+12971	O Vale Ascunsã
+12972	Existã zvonuri cã s-a gãsit o nouã vale. Mergi la[ENTER]Confucius.
+12973	Nu te-am mai vãzut de ceva vreme. Unde ai fost în[ENTER]tot acest timp? A fost gãsit locul secret care[ENTER]þi-a dat o astfel de durere de cap înainte.
+12974	Am auzit cã locul acela este ºerpuit ºi perfid.[ENTER]Aº vrea sã te rog sã mergi acolo ºi sã afli mai[ENTER]multe despre aceastã vale ascunsã. De îndatã ce[ENTER]vei ajunge, vei întâlni un gardian pe care l-am[ENTER]trimis acolo cu ceva timp în urmã.
+12975	O nouã zonã a fost deblocatã. Mergi la Gardianul[ENTER]ªarpe.
+12976	Ce faci aici? Dacã mergi în Aria Dong Gwang, poþi[ENTER]ajunge în zona nouã de acolo.
+12977	Mergi în noua zonã ºi întâlneºte-te cu Gardianul[ENTER]ªarpe.
+12978	Cine eºti? Hah, te-a trimis Confucius? Nu poþi fi[ENTER]serios... De ce a trimis un începãtor ca tine[ENTER]într-un þinut atât de periculos ca aceasta?
+12979	Confucius mi-a spus sã îþi dau asta când ajungi.[ENTER]Vino mai târziu la mine. Mai ai sarcini de fãcut.
 6353	Viaþã Renãscutã
 6354	Te trezesti si simti o furie groaznica. Ce se[ENTER]intampla? Unde esti?! Cauta-l pe Inteleptul[ENTER]Myonghorang. Iti va putea explica.
 6355	Bun venit Lycan!
@@ -7965,11 +8032,11 @@
 6606	Scor Total
 6607	Scoruri Mari
 6608	Primii zece jucãtori cu cel mai mare scor total[ENTER]vor primi premii adiþionale.
-6610	Locul 1: %sx %d
+6610	Locul 1: %s %d x
 6609	Închis
-6611	Locul 2: %sx %d
-6612	Locul 3: %sx %d
-6613	Locul 4-10:%sx %d
+6611	Locul 2: %s %d x
+6612	Locul 3: %s %d x
+6613	Locul 4-10: %s %d x
 6614	Locul 1: %s, %d
 6615	Locul 2: %s, %d
 6616	Locul 3: %s, %d
@@ -9808,6 +9875,12 @@
 12080	Anuleazã
 12081	Statusul tãu a fost resetat.
 12082	Nu ai statusuri care pot fi resetate.
+13057	Ai finalizat Templul ªarpelui ºi îþi poþi colecta recompensele. Vorbeºte cu Statuia ªarpelui.
+13058	Recompensã Colectatã
+13059	Statuia ªarpelui
+13060	Ai învins toþi aceºti ºerpi rãi. Ai câºtigat[ENTER]acest cufãr.
+13606	Ai primit %dx Comoarã ªarpe.
+13607	Ai primit %dx Praf de ªarpe.
 8044	Levelul tãu este prea mic!
 8045	Nu poþi cãlãri cît timp eºti transformat.
 8046	Deja cãlãreºti! Dacã vrei sã schimbi montura,[ENTER]prima datã trebuie sã descaleci.
@@ -9951,6 +10024,48 @@
 11499	Nu, voi sta aici.
 11500	Dragonul Albastru (TR) s-a întors!
 11679	În trei minute toþi rãzboinicii vor fi[ENTER]teleportaþi din Grota Exilului (TR) în trei[ENTER]minute.
+12980	Ce este Templul ªarpelui?
+12981	Ar trebui sã vorbesc cu Gardianul ªarpe pentru a[ENTER]gãsi templul ascuns.
+12982	Hei, începãtorule. Încã nu ºtiu cât de inventiv[ENTER]eºti. Dacã urmezi calea vãii din spatele meu, vei[ENTER]ajunge la un templu imens. Ai auzit vreodatã de[ENTER]Templul ªarpelui?
+12983	Vei întâlni o mulþime de monºtri periculoºi. Pun[ENTER]pariu cã nu va trece un minut înainte sã te[ENTER]cedezi. Dar dacã eºti suficient de curajos, vei[ENTER]gãsi o comoarã acolo.
+12984	Cum ajung înãuntru?
+12985	Hahaha! Nu poþi - nu pânã nu te las eu înãuntru.[ENTER]Îþi voi testa curajul.
+12986	Ochii tãi sclipesc pozitiv însetaþi de acþiune![ENTER]Sunt sigur cã vei putea avea grijã de câþiva[ENTER]monºtri de aici pentru mine! Sã þinem aceastã[ENTER]zonã sub control începe sã devinã puþin[ENTER]istovitor.
+12987	Vâneazã monºtrii din zonã pentru a trece testul[ENTER]Gardianului ªarpe.
+12988	Gardianul ªarpe vrea sã vânezi %d monºtri în[ENTER]Trecãtoarea Yilad.[ENTER]Monºtri rãmaºi: %d
+12989	Hei, încã nu ai avut grijã de acei monºtri ...[ENTER]Renunþi sau cum?
+12990	Am ucis toþi monºtrii pentru Gardianul ªarpe. Ar[ENTER]trebui sã mã întorc la el.
+12991	Am ucis toþi monºtrii pentru Gardianul ªarpe. Ar[ENTER]trebui sã mã întorc la el.
+12992	Oh! Se pare cã eºti mai curajos decât am crezut[ENTER]prima oarã. Vãzându-te luptând de la distanþã[ENTER]mi-am amintit de tinereþea mea.
+12993	Bine, nu conteazã. Aceasta este recompensa ta[ENTER]pentru cã ai trecut testul.
+13180	Monºtrii Rãmaºi
+13603	Ai ucis %d monºtri. Numãrul rãmas: %d
+12994	Templul ªarpelui?!
+12995	O nouã zonã a fost descoperitã. Ar trebui sã mã[ENTER]îndrept spre Gardianul ªarpe care vegheazã asupra[ENTER]acestei zone.
+12996	Hei, începãtorule. Se pare cã ai vrut sã intri în[ENTER]vale...
+12997	Dacã vrei sã mergi în vale, vreau sã îmi faci mai[ENTER]întâi o favoare! Monºtrii de aici provoacã o[ENTER]mulþime de probleme în acest moment. ªi chiar am[ENTER]nevoie de ajutorul tãu.
+12998	Vreau sã scapi de aceºti monºtri ºi sã-mi aduci[ENTER]niºte Piliturã de Fier. Poþi face rost de[ENTER]materiale pentru mine? Din câte ºtiu, Pilitura de[ENTER]Fier este, de asemenea, o modalitate bunã de a[ENTER]câºtiga bani.
+12999	Da.
+13000	Nu.
+13001	Ei bine, mã tem cã nu vei fi lãsat sã intri în[ENTER]vale atunci!
+13002	Obþine %d Pilitrã de Fier, Gardianul ªarpe este[ENTER]atât de dornic sã aibã. Îi poþi gãsi la monºtrii[ENTER]din apropiere.
+13003	Ce, le ai pe toate atât de repede? Hey! Cred cã[ENTER]ai numãrat greºit. Am spus %d!
+13004	Gardianul ªarpe îþi cere %d Piliturã de Fier[ENTER]pentru a te lãsa sã intri în vale. Ar trebui sã[ENTER]vânez monºtri lângã Trecãtoarea Yilad pentru a[ENTER]obþine Piliturã de Fier.[ENTER]Piliturã de Fier rãmasã: %d
+13005	Ai primit Piliturã de Fier. Colectat: %d
+13006	Am toatã Pilitura de Fier pe care o vrea[ENTER]Gardianul ªarpe. Ar trebui sã mã întorc la el.
+13007	Am toatã Pilitura de Fier pe care o vrea[ENTER]Gardianul ªarpe. Ar trebui sã mã întorc la el.
+13008	Oh, ºtiam cã tu eºti cel potrivit pentru aceastã[ENTER]sarcinã! Acesta este numãrul potrivit!
+13009	Bine, acum te voi ajuta sã traversezi valea.[ENTER]Odatã ce ajungi în cealaltã parte, vei vedea un[ENTER]templu mare. Dacã vrei sã intri acolo mai târziu,[ENTER]vino sã mã vezi din nou.
+13010	Puteþi avea acces la Templul ªarpelui de la[ENTER]Gardianul ªarpe.
+13011	Ah, ai revenit. Doreºti sã intri?
+13012	Atunci adu-mi Piliturã de Fier de care ai adunat[ENTER]pentru mine ultima datã ºi îþi dau un bilet. De[ENTER]data asta am nevoie %d Piliturã de Fier.
+13013	Templul ªarpelui?! (Repetiþie)
+13015	Doreºti sã intri în Templul ªarpelui?
+13016	Confirmã
+13017	Anuleazã
+13018	Vorbeºte cu Gardianul ªarpe pentru a intra în[ENTER]Templul ªarpelui.
+13019	Aceastã vale pare foarte periculoasã. Fii deci[ENTER]atent!
+13181	Piliturã de Fier Rãmasã
 8167	Turnul lui Nemere
 8168	Intra in Turnul lui Nemere. Limita de timp in[ENTER]turn este de o ora. La terminarea timpului sau la[ENTER]intreruperea aventurii vei fi nevoit sa astepti[ENTER]patru ore pana la o noua intrare.
 8169	Invinge toti inamicii!
@@ -11793,6 +11908,62 @@
 12884	Ai distrus toate Metinele Jin. Raporteazã-i lui[ENTER]Confucius din Aria Dong Gwang.
 12885	Întoarce-te la Confucius ºi raporteazã-i despre[ENTER]ce se întâmplã.
 12886	Influenþa sa a fost slãbitã, dar tot nu va fi[ENTER]suficient. Dar fiecare lucru conteazã. Am un mic[ENTER]dar pentru tine drept mulþumire.
+12914	Un Þinut Necunoscut
+12915	În timp ce rãtãceam, încercând sã aflu mai multe[ENTER]despre acest zvon ciudat, am ajuns în sfârºit[ENTER]într-un þinut necunoscut. Ar trebui sã aruncãm o[ENTER]privire mai atentã asupra acestui loc pentru a[ENTER]afla dacã acesta este sursa zvonului.
+12916	Vãd pe cineva acolo în depãrtare. Ar trebui sã îl[ENTER]abordãm cu prudenþã.
+12917	Existã o persoanã nervoasã aºezatã în colþ. Ar[ENTER]trebui sã vorbim cu el.
+13541	O nouã misiune a fost adãugatã.
+12918	O Persoanã Ciudatã
+12919	Mergi la persoana ciudatã ºi vorbeºte-i
+12920	Doamne!
+12921	Cine eºti?! Cum ai reuºit sã ajungi pânã aici?
+12922	Hey! Cine eºti? Sun un Vânãtor de Recompense ºi[ENTER]am venit pânã aici pentru a urmãri zvonul din[ENTER]acest sat. ªi tu de asemenea? Ei bine, trebuie sã[ENTER]investighez ceva aici. Dacã mã ajuþi, îþi voi[ENTER]spune cu plãcere ce am aflat pânã acum.
+12923	Refuzã
+12924	Te ajut.
+12925	Ce laº...
+12926	Cred cã se întâmplã ceva periculos aici. În[ENTER]primul rând, ar trebui sã aruncãm o privire în[ENTER]jur ºi sã omorâm câþiva Soldaþi Corupþi. E prea[ENTER]periculos acolo, aºa cã hai sã ne întâlnim aici[ENTER]mai târziu.
+12927	Omoarã Soldaþi Corupþi[ENTER]Oponenþi rãmaºi: %d
+12928	Nu pierde timpul! Nu-þi voi spune nimic dacã stai[ENTER]aici.
+12929	Am omorât toþi Soldaþii Corupþi ºi ar trebui sã[ENTER]mã întorc la Vânãtorul de Recompense.
+12930	Bravo. Poftim recompensa. Îþi voi spune cum vom[ENTER]proceda. Aºa cã revino mai târziu.
+12931	Un Zvon Ciudat
+12932	Ar trebui sã-l întreb pe Vânãtorul de Recompense[ENTER]despre zvonul din Trecãtoarea Yilad.
+12933	Lucrurile aratã un pic mai clar acum. Zvonul?! De[ENTER]unde ºtii despre asta? Existã un altar ascuns în[ENTER]apropiere ºi un monstru foarte puternic face[ENTER]ravagii acolo. Se pare cã ºtii deja despre acest[ENTER]zvon. Foarte bine, atunci o sã îþi spun altceva.
+12935	S-au dus toþi?
+12936	Nu chiar. Au construit Templul ªarpelui unde[ENTER]devin din ce în ce mai puternici. Scopul meu este[ENTER]sã-l omor pe liderul lor ºi sã obþin recompensa.[ENTER]Dar este atât de dificil sã ajungi la ea, existã[ENTER]un gardian lângã altar. Ai putea sã mã ajuþi sã[ENTER]vânez acei monºtri, dacã vrei? Este cu adevãrat[ENTER]dificil sã le rupi singur rândurile.
+12937	Acum, chiar acum.
+12938	ªtiam cã nu mã vei dezamãgi. O mânã de ajutor[ENTER]este întotdeauna bunã. Atunci hai sã ne îndreptãm[ENTER]spre altar.
+12939	Ar trebui sã îi omor pe Rãzboinicii Corupþi[ENTER]pentru a curãþa drumul.[ENTER]Monºtri rãmaºi: %d
+12940	Deci, cum merge? Aþi fãcut deja progrese? Nu[ENTER]pare... Te rog grabeste- te, nu avem prea mult[ENTER]timp.
+12941	Am vânat toþi Rãzboinicii Corupþi ºi am deschis[ENTER]un drum. Ar trebui sã mã întorc la Vânãtorul de[ENTER]Recompense.
+12942	Toþi Rãzboinicii Corupþi au fost uciºi. Revino la[ENTER]Vânãtorul de recompense.
+12943	Bravo. Acum vãd calea noastrã. Sã trecem rapid la[ENTER]urmãtoarea zonã. Se pare cã ne apropiem de[ENTER]refugiul lor.
+12966	Pot?
+12967	Bine, mã voi întoarce atunci. Dacã te[ENTER]rãzgândeºti, poþi reveni oricând doreºti.
+12944	Un Altar Ascuns
+12945	Cred cã pot sã disting deja o parte din altarul[ENTER]ascuns. Întoarce-te repede la Vânãtorul de[ENTER]Recompense.
+12946	Da, aºa e! Dupã ce m-am luptat cu toþi monºtrii,[ENTER]am ajuns la altar. Dar gardianul nu m-a lãsat sã[ENTER]intru. Am vorbit cu el de mai multe ori, dar nu a[ENTER]funcþionat ºi nu am avut de ales decât sã mã[ENTER]întorc. Dar acum, datoritã þie, am o altã ºansã![ENTER]Sã continuãm împreunã.
+12947	Nu pot continua.
+12948	Foarte bine.
+12949	Ce, renunþi atât de curând? Eºti mult mai slab[ENTER]decât am crezut.
+12950	Dacã ne chinuim, o putem face. Sã curãþãm niºte[ENTER]monºtri de pe aici.
+12951	Omoarã-i pe Cãlugãrii Corupþi pentru a curãþa[ENTER]restul drumului.[ENTER]Oponenþi rãmaºi: %d
+12952	Renunþi atât de aproape de þinta noastrã? Îþi pot[ENTER]oferi o parte din recompensa mea. Haide.
+12953	Toþi Cãlugãrii Corupþi au fost uciºi. Revino la[ENTER]Vânãtorul de recompense.
+12954	Îl disting deja pe gardian în depãrtare, veghind[ENTER]asupra Templului ªarpelui. Cred cã vom ajunge la[ENTER]intrarea în altar, datoritã þie.
+12955	Introducerea
+12956	Am gãsit Altarul. Ar trebui sã verific ºi sã aflu[ENTER]unde este gardianul.
+12957	Ai gãsit în sfârºit Altarul. Îþi mulþumesc cã ai[ENTER]rãmas cu mine. Acum putem sã ne strecurãm pe[ENTER]lângã gardian pânã unde se ascunde liderul ºi sã[ENTER]aflãm ce se întâmplã acolo. Cu toate acestea, mã[ENTER]tem cã ne-ar putea vedea dacã rãmânem împreunã.[ENTER]Deci, sugestia mea este sã ne despãrþim ºi sã[ENTER]încercãm sã adunãm informaþii mai utile pe mãsurã[ENTER]ce mergem.
+12958	M-am sãturat.
+12959	Aºadar, la treabã!
+12960	Aproape am reuºit. Mai gândeºte-te.
+12961	Sper ca amândoi sã fim întregi data viitoare când[ENTER]ne vedem.
+12962	Strecoarã-te pe lângã gardianul altarului, intrã[ENTER]în templu ºi aflã ce se întâmplã în interior.[ENTER]Vâneazã 30 Soldaþi Kappa[ENTER]Monºtri rãmaºi: %d
+12963	Încã nu ai plecat? Presupun cã voi continua.
+12964	Templul ªarpelui a fost cercetat ºi 30 de Soldaþi[ENTER]Kappa au fost vânaþi. Revino la Vânãtorul de[ENTER]recompense.
+12965	ªtiam cã o vei face! De asemenea, am aruncat o[ENTER]privire rapidã înãuntru, dar mã tem cã nu l-aº[ENTER]putea gãsi pe lider. Ei bine, este ceea ce este.[ENTER]Poate data viitoare. Oricum, am ajuns aici doar[ENTER]datoritã þie ºi vreau sã te rãsplãtesc pentru[ENTER]ajutorul tãu. Te rog acceptã asta...
+13054	Urmãreºte punctul intermitent de pe harta micã.
+13597	Nu ai gãsit încã Templul ªarpelui?[ENTER]Acel loc nu va fi uºor de atins. Deci, asigurã-te[ENTER]cã eºti suficient de priceput pentru a înfrunta[ENTER]Templul ªarpelui.
 12679	Intrare Turn Sung Mahi
 12680	Vrei sã intri în Turnul Sung Mahi?
 12681	Da
@@ -12081,3 +12252,4 @@
 12673	Învinge ªeful Lumii!
 12674	Provoacã o valoare minimã de daune de %d unui ºef[ENTER]al lumii sau mai multor ºefi.
 12675	Misiunea zilnicã a fost îndeplinitã - ai provocat[ENTER]o valoare minimã de daunela ºeful lumii.
+12934	Am venit aici sã câºtig recompensa pentru acest[ENTER]monstru. Iniþial, acest loc era plin de Monºtri[ENTER]ªarpe ºi se numea Trecãtoarea Yilad. Dar ai[ENTER]observat ceva ciudat? Toþi acei Monºtri ªarpe au[ENTER]dispãrut.
