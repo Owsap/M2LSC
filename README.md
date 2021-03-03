@@ -21,4 +21,4 @@ ro | Romania
 ru | Russia
 tr | Turkey
 
-Strings from official version 20.6.2.
+Strings from official version 21.0.8.
